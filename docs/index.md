@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-03**|**TinySV: Speaker Verification in TinyML with On-device Learning**|Massimo Pavan et.al.|[2406.01655](http://arxiv.org/abs/2406.01655)|null|
 |**2024-05-30**|**Multi-watt 1 GHz single-cycle frequency combs**|Yanyan Zhang et.al.|[2405.20169](http://arxiv.org/abs/2405.20169)|null|
 |**2024-05-23**|**End-to-End User-Defined Keyword Spotting using Shifted Delta Coefficients**|Kesavaraj V et.al.|[2405.14489](http://arxiv.org/abs/2405.14489)|null|
 |**2024-05-19**|**Towards Contactless Elevators with TinyML using CNN-based Person Detection and Keyword Spotting**|Anway S. Pimpalkar et.al.|[2405.13051](http://arxiv.org/abs/2405.13051)|null|
