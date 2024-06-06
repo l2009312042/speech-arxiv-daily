@@ -14,7 +14,17 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-04**|**Deterministic Reversible Data Augmentation for Neural Machine Translation**|Jiashu Yao et.al.|[2406.02517](http://arxiv.org/abs/2406.02517)|**[link](https://github.com/BITHLP/DRDA)**|
+|**2024-06-04**|**Bipartite entanglement of noisy stabilizer states through the lens of stabilizer codes**|Kenneth Goodenough et.al.|[2406.02427](http://arxiv.org/abs/2406.02427)|null|
+|**2024-06-04**|**Learning dynamical models from stochastic trajectories**|Pierre Ronceray et.al.|[2406.02363](http://arxiv.org/abs/2406.02363)|null|
+|**2024-06-04**|**M3DM-NR: RGB-3D Noisy-Resistant Industrial Anomaly Detection via Multimodal Denoising**|Chengjie Wang et.al.|[2406.02263](http://arxiv.org/abs/2406.02263)|null|
+|**2024-06-04**|**Query-Enhanced Adaptive Semantic Path Reasoning for Inductive Knowledge Graph Completion**|Kai Sun et.al.|[2406.02205](http://arxiv.org/abs/2406.02205)|null|
+|**2024-06-04**|**Machine learning framework for predicting the entangling capability of parameterized quantum circuits**|Shikun Zhang et.al.|[2406.01997](http://arxiv.org/abs/2406.01997)|null|
+|**2024-06-04**|**Variational quantum state preparation for quantum-enhanced metrology in noisy systems**|Juan C. Zuñiga Castro et.al.|[2406.01859](http://arxiv.org/abs/2406.01859)|null|
+|**2024-06-03**|**Interbeat Interval Filtering**|Ilker Bayram et.al.|[2406.01846](http://arxiv.org/abs/2406.01846)|null|
+|**2024-06-03**|**It Takes Two: A Peer-Prediction Solution for Blockchain Verifier's Dilemma**|Zishuo Zhao et.al.|[2406.01794](http://arxiv.org/abs/2406.01794)|null|
 |**2024-06-03**|**TinySV: Speaker Verification in TinyML with On-device Learning**|Massimo Pavan et.al.|[2406.01655](http://arxiv.org/abs/2406.01655)|null|
+|**2024-06-03**|**Generalized phase estimation in noisy quantum gates**|Giovanni Ragazzi et.al.|[2406.01590](http://arxiv.org/abs/2406.01590)|null|
 |**2024-05-30**|**Multi-watt 1 GHz single-cycle frequency combs**|Yanyan Zhang et.al.|[2405.20169](http://arxiv.org/abs/2405.20169)|null|
 |**2024-05-23**|**End-to-End User-Defined Keyword Spotting using Shifted Delta Coefficients**|Kesavaraj V et.al.|[2405.14489](http://arxiv.org/abs/2405.14489)|null|
 |**2024-05-19**|**Towards Contactless Elevators with TinyML using CNN-based Person Detection and Keyword Spotting**|Anway S. Pimpalkar et.al.|[2405.13051](http://arxiv.org/abs/2405.13051)|null|
