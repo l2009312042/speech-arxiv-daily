@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-05**|**Interactive Text-to-Image Retrieval with Large Language Models: A Plug-and-Play Approach**|Saehyung Lee et.al.|[2406.03411](http://arxiv.org/abs/2406.03411)|**[link](https://github.com/saehyung-lee/plugir)**|
+|**2024-06-05**|**Noisy Data Visualization using Functional Data Analysis**|Haozhe Chen et.al.|[2406.03396](http://arxiv.org/abs/2406.03396)|null|
+|**2024-06-05**|**Cooperative learning of Pl@ntNet's Artificial Intelligence algorithm: how does it work and how can we improve it?**|Tanguy Lefort et.al.|[2406.03356](http://arxiv.org/abs/2406.03356)|null|
+|**2024-06-05**|**Once more Diarization: Improving meeting transcription systems through segment-level speaker reassignment**|Christoph Boeddeker et.al.|[2406.03155](http://arxiv.org/abs/2406.03155)|null|
+|**2024-06-05**|**Particle Filter Optimization: A Bayesian Approach for Global Stochastic Optimization**|Mostafa Eslami et.al.|[2406.03089](http://arxiv.org/abs/2406.03089)|null|
+|**2024-06-05**|**Follow-Your-Pose v2: Multiple-Condition Guided Character Image Animation for Stable Pose Control**|Jingyun Xue et.al.|[2406.03035](http://arxiv.org/abs/2406.03035)|null|
+|**2024-06-04**|**Auditing Privacy Mechanisms via Label Inference Attacks**|Róbert István Busa-Fekete et.al.|[2406.02797](http://arxiv.org/abs/2406.02797)|null|
+|**2024-06-04**|**Diffusion-Refined VQA Annotations for Semi-Supervised Gaze Following**|Qiaomu Miao et.al.|[2406.02774](http://arxiv.org/abs/2406.02774)|null|
+|**2024-06-04**|**DPDR: Gradient Decomposition and Reconstruction for Differentially Private Deep Learning**|Yixuan Liu et.al.|[2406.02744](http://arxiv.org/abs/2406.02744)|null|
+|**2024-06-04**|**Textless Acoustic Model with Self-Supervised Distillation for Noise-Robust Expressive Speech-to-Speech Translation**|Min-Jae Hwang et.al.|[2406.02733](http://arxiv.org/abs/2406.02733)|null|
 |**2024-06-04**|**Deterministic Reversible Data Augmentation for Neural Machine Translation**|Jiashu Yao et.al.|[2406.02517](http://arxiv.org/abs/2406.02517)|**[link](https://github.com/BITHLP/DRDA)**|
 |**2024-06-04**|**Bipartite entanglement of noisy stabilizer states through the lens of stabilizer codes**|Kenneth Goodenough et.al.|[2406.02427](http://arxiv.org/abs/2406.02427)|null|
 |**2024-06-04**|**Learning dynamical models from stochastic trajectories**|Pierre Ronceray et.al.|[2406.02363](http://arxiv.org/abs/2406.02363)|null|
