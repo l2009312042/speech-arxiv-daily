@@ -23,5 +23,5 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
     "KWS":
-        filters: ["Keyword Spotting","open vocabulary","noisy robust","noisy"]
+        filters: ["Keyword Spotting","user-defined keyword","noisy robust","noisy"]
    
