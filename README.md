@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-07**|**Cosmological parameters from the joint analysis of Density Split and Second Order Statistics: an Emulator based on the Halo Occupation Distribution**|Pierre A. Burger et.al.|[2406.05098](http://arxiv.org/abs/2406.05098)|null|
+|**2024-06-07**|**Quantum hardware demonstrations of relativistic calculations of molecular electric dipole moments: from light to heavy systems using Variational Quantum Eigensolver**|Palak Chawla et.al.|[2406.04992](http://arxiv.org/abs/2406.04992)|null|
+|**2024-06-07**|**Unraveling-induced entanglement phase transition in diffusive trajectories of continuously monitored noninteracting fermionic systems**|Moritz Eissler et.al.|[2406.04869](http://arxiv.org/abs/2406.04869)|null|
+|**2024-06-07**|**Quantum channel correction outperforming direct transmission**|Sergei Slussarenko et.al.|[2406.04661](http://arxiv.org/abs/2406.04661)|null|
+|**2024-06-07**|**Denoising-Aware Contrastive Learning for Noisy Time Series**|Shuang Zhou et.al.|[2406.04627](http://arxiv.org/abs/2406.04627)|**[link](https://github.com/betterzhou/DECL)**|
+|**2024-06-06**|**Flexible Multichannel Speech Enhancement for Noise-Robust Frontend**|Ante Jukić et.al.|[2406.04552](http://arxiv.org/abs/2406.04552)|null|
+|**2024-06-06**|**Rare Class Prediction Model for Smart Industry in Semiconductor Manufacturing**|Abdelrahman Farrag et.al.|[2406.04533](http://arxiv.org/abs/2406.04533)|null|
+|**2024-06-06**|**CORU: Comprehensive Post-OCR Parsing and Receipt Understanding Dataset**|Abdelrahman Abdallah et.al.|[2406.04493](http://arxiv.org/abs/2406.04493)|**[link](https://github.com/update-for-integrated-business-ai/coru)**|
+|**2024-06-06**|**Bayesian Methods to Improve The Accuracy of Differentially Private Measurements of Constrained Parameters**|Ryan Janicki et.al.|[2406.04448](http://arxiv.org/abs/2406.04448)|null|
+|**2024-06-06**|**Entropy bounds for Glass networks**|Benjamin W. Wild et.al.|[2406.04435](http://arxiv.org/abs/2406.04435)|null|
 |**2024-06-07**|**DIRECT-3D: Learning Direct Text-to-3D Generation on Massive Noisy 3D Data**|Qihao Liu et.al.|[2406.04322](http://arxiv.org/abs/2406.04322)|**[link](https://github.com/qihao067/direct3d)**|
 |**2024-06-06**|**Step-aware Preference Optimization: Aligning Preference with Denoising Performance at Each Step**|Zhanhao Liang et.al.|[2406.04314](http://arxiv.org/abs/2406.04314)|null|
 |**2024-06-06**|**High-precision and low-depth eigenstate property estimation: theory and resource estimation**|Jinzhao Sun et.al.|[2406.04307](http://arxiv.org/abs/2406.04307)|null|
