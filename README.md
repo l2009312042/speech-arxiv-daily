@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-10**|**Boosting Robustness in Preference-Based Reinforcement Learning with Dynamic Sparsity**|Calarina Muslimani et.al.|[2406.06495](http://arxiv.org/abs/2406.06495)|null|
+|**2024-06-10**|**Foundation Inference Models for Markov Jump Processes**|David Berghaus et.al.|[2406.06419](http://arxiv.org/abs/2406.06419)|null|
+|**2024-06-10**|**Fisher's Mirage: Noise Tightening of Cosmological Constraints in Simulation-Based Inference**|Christopher Wilson et.al.|[2406.06067](http://arxiv.org/abs/2406.06067)|null|
+|**2024-06-10**|**Synthesizing Efficient Data with Diffusion Models for Person Re-Identification Pre-Training**|Ke Niu et.al.|[2406.06045](http://arxiv.org/abs/2406.06045)|**[link](https://github.com/keniu042/diffusion-reid)**|
+|**2024-06-09**|**TTM-RE: Memory-Augmented Document-Level Relation Extraction**|Chufan Gao et.al.|[2406.05906](http://arxiv.org/abs/2406.05906)|**[link](https://github.com/chufangao/ttm-re)**|
+|**2024-06-09**|**Event prediction and causality inference despite incomplete information**|Harrison Lam et.al.|[2406.05893](http://arxiv.org/abs/2406.05893)|null|
+|**2024-06-09**|**Source -Free Domain Adaptation for Speaker Verification in Data-Scarce Languages and Noisy Channels**|Shlomo Salo Elia et.al.|[2406.05863](http://arxiv.org/abs/2406.05863)|null|
+|**2024-06-09**|**Multi-Stain Multi-Level Convolutional Network for Multi-Tissue Breast Cancer Image Segmentation**|Akash Modi et.al.|[2406.05828](http://arxiv.org/abs/2406.05828)|null|
+|**2024-06-09**|**A DeNoising FPN With Transformer R-CNN for Tiny Object Detection**|Hou-I Liu et.al.|[2406.05755](http://arxiv.org/abs/2406.05755)|**[link](https://github.com/hoiliu-0801/dntr)**|
+|**2024-06-09**|**ALGO: Object-Grounded Visual Commonsense Reasoning for Open-World Egocentric Action Recognition**|Sanjoy Kundu et.al.|[2406.05722](http://arxiv.org/abs/2406.05722)|null|
 |**2024-06-07**|**Cosmological parameters from the joint analysis of Density Split and Second Order Statistics: an Emulator based on the Halo Occupation Distribution**|Pierre A. Burger et.al.|[2406.05098](http://arxiv.org/abs/2406.05098)|null|
 |**2024-06-07**|**Quantum hardware demonstrations of relativistic calculations of molecular electric dipole moments: from light to heavy systems using Variational Quantum Eigensolver**|Palak Chawla et.al.|[2406.04992](http://arxiv.org/abs/2406.04992)|null|
 |**2024-06-07**|**Unraveling-induced entanglement phase transition in diffusive trajectories of continuously monitored noninteracting fermionic systems**|Moritz Eissler et.al.|[2406.04869](http://arxiv.org/abs/2406.04869)|null|
