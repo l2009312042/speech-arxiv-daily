@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-11**|**Image Textualization: An Automatic Framework for Creating Accurate and Detailed Image Descriptions**|Renjie Pi et.al.|[2406.07502](http://arxiv.org/abs/2406.07502)|**[link](https://github.com/sterzhang/image-textualization)**|
+|**2024-06-11**|**Noise-robust Speech Separation with Fast Generative Correction**|Helin Wang et.al.|[2406.07461](http://arxiv.org/abs/2406.07461)|null|
+|**2024-06-11**|**Beware of Aliases -- Signal Preservation is Crucial for Robust Image Restoration**|Shashank Agnihotri et.al.|[2406.07435](http://arxiv.org/abs/2406.07435)|null|
+|**2024-06-11**|**Rethinking the impact of noisy labels in graph classification: A utility and privacy perspective**|De Li et.al.|[2406.07314](http://arxiv.org/abs/2406.07314)|null|
+|**2024-06-11**|**MM-KWS: Multi-modal Prompts for Multilingual User-defined Keyword Spotting**|Zhiqi Ai et.al.|[2406.07310](http://arxiv.org/abs/2406.07310)|null|
+|**2024-06-11**|**Noise-Robust Voice Conversion by Conditional Denoising Training Using Latent Variables of Recording Quality and Environment**|Takuto Igarashi et.al.|[2406.07280](http://arxiv.org/abs/2406.07280)|null|
+|**2024-06-11**|**RAD: A Comprehensive Dataset for Benchmarking the Robustness of Image Anomaly Detection**|Yuqi Cheng et.al.|[2406.07176](http://arxiv.org/abs/2406.07176)|null|
+|**2024-06-11**|**A portrait of the rotation of Ultra-Cool Dwarfs revealed by TESS**|D. O. Fontinele et.al.|[2406.07154](http://arxiv.org/abs/2406.07154)|null|
+|**2024-06-11**|**EEG classification for visual brain decoding with spatio-temporal and transformer based paradigms**|Akanksha Sharma et.al.|[2406.07153](http://arxiv.org/abs/2406.07153)|null|
+|**2024-06-11**|**Progressive Query Expansion for Retrieval Over Cost-constrained Data Sources**|Muhammad Shihab Rashid et.al.|[2406.07136](http://arxiv.org/abs/2406.07136)|null|
 |**2024-06-10**|**Boosting Robustness in Preference-Based Reinforcement Learning with Dynamic Sparsity**|Calarina Muslimani et.al.|[2406.06495](http://arxiv.org/abs/2406.06495)|null|
 |**2024-06-10**|**Foundation Inference Models for Markov Jump Processes**|David Berghaus et.al.|[2406.06419](http://arxiv.org/abs/2406.06419)|null|
 |**2024-06-10**|**Fisher's Mirage: Noise Tightening of Cosmological Constraints in Simulation-Based Inference**|Christopher Wilson et.al.|[2406.06067](http://arxiv.org/abs/2406.06067)|null|
