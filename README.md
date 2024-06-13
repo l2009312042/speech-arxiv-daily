@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-12**|**What If We Recaption Billions of Web Images with LLaMA-3?**|Xianhang Li et.al.|[2406.08478](http://arxiv.org/abs/2406.08478)|null|
+|**2024-06-12**|**RILe: Reinforced Imitation Learning**|Mert Albaba et.al.|[2406.08472](http://arxiv.org/abs/2406.08472)|null|
+|**2024-06-12**|**Heterogeneous Beliefs Model of Stock Market Predictability**|Jiho Park et.al.|[2406.08448](http://arxiv.org/abs/2406.08448)|null|
+|**2024-06-12**|**Improving Noise Robustness through Abstractions and its Impact on Machine Learning**|Alfredo Ibias et.al.|[2406.08428](http://arxiv.org/abs/2406.08428)|null|
+|**2024-06-12**|**From Chaos to Clarity: 3DGS in the Dark**|Zhihao Li et.al.|[2406.08300](http://arxiv.org/abs/2406.08300)|null|
+|**2024-06-12**|**AdaNCA: Neural Cellular Automata As Adaptors For More Robust Vision Transformer**|Yitao Xu et.al.|[2406.08298](http://arxiv.org/abs/2406.08298)|null|
+|**2024-06-12**|**Unlabeled Compressed Sensing from Multiple Measurement Vectors**|Mohamed Akrout et.al.|[2406.08290](http://arxiv.org/abs/2406.08290)|null|
+|**2024-06-12**|**The Importance of Positional Encoding Initialization in Transformers for Relational Reasoning**|Takuya Ito et.al.|[2406.08272](http://arxiv.org/abs/2406.08272)|null|
+|**2024-06-12**|**Graph Bottlenecked Social Recommendation**|Yonghui Yang et.al.|[2406.08214](http://arxiv.org/abs/2406.08214)|null|
+|**2024-06-12**|**Identification of Conversation Partners from Egocentric Video**|Tobias Dorszewski et.al.|[2406.08089](http://arxiv.org/abs/2406.08089)|null|
 |**2024-06-11**|**Image Textualization: An Automatic Framework for Creating Accurate and Detailed Image Descriptions**|Renjie Pi et.al.|[2406.07502](http://arxiv.org/abs/2406.07502)|**[link](https://github.com/sterzhang/image-textualization)**|
 |**2024-06-11**|**Noise-robust Speech Separation with Fast Generative Correction**|Helin Wang et.al.|[2406.07461](http://arxiv.org/abs/2406.07461)|null|
 |**2024-06-11**|**Beware of Aliases -- Signal Preservation is Crucial for Robust Image Restoration**|Shashank Agnihotri et.al.|[2406.07435](http://arxiv.org/abs/2406.07435)|null|
