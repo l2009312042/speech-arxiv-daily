@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-14**|**Probing entanglement dynamics and topological transitions on noisy intermediate-scale quantum computers**|Huai-Chun Chang et.al.|[2406.10159](http://arxiv.org/abs/2406.10159)|null|
+|**2024-06-14**|**Training-free Camera Control for Video Generation**|Chen Hou et.al.|[2406.10126](http://arxiv.org/abs/2406.10126)|null|
+|**2024-06-14**|**Whisper-Flamingo: Integrating Visual Features into Whisper for Audio-Visual Speech Recognition and Translation**|Andrew Rouditchenko et.al.|[2406.10082](http://arxiv.org/abs/2406.10082)|**[link](https://github.com/roudimit/whisper-flamingo)**|
+|**2024-06-14**|**Fundamental operating regimes, hyper-parameter fine-tuning and glassiness: towards an interpretable replica-theory for trained restricted Boltzmann machines**|Alberto Fachechi et.al.|[2406.09924](http://arxiv.org/abs/2406.09924)|null|
+|**2024-06-14**|**Unsupervised Monocular Depth Estimation Based on Hierarchical Feature-Guided Diffusion**|Runze Liu et.al.|[2406.09782](http://arxiv.org/abs/2406.09782)|null|
+|**2024-06-14**|**Asymmetrical Siamese Network for Point Clouds Normal Estimation**|Wei Jin et.al.|[2406.09681](http://arxiv.org/abs/2406.09681)|null|
+|**2024-06-14**|**Averaging for random metastable systems**|Cecilia González-Tokman et.al.|[2406.09672](http://arxiv.org/abs/2406.09672)|null|
+|**2024-06-13**|**Online Bandit Learning with Offline Preference Data**|Akhil Agnihotri et.al.|[2406.09574](http://arxiv.org/abs/2406.09574)|null|
+|**2024-06-13**|**Improving Consistency Models with Generator-Induced Coupling**|Thibaut Issenhuth et.al.|[2406.09570](http://arxiv.org/abs/2406.09570)|**[link](https://github.com/thibautissenhuth/consistency_gc)**|
+|**2024-06-13**|**Label Noise Robustness for Domain-Agnostic Fair Corrections via Nearest Neighbors Label Spreading**|Nathan Stromberg et.al.|[2406.09561](http://arxiv.org/abs/2406.09561)|null|
 |**2024-06-13**|**Aligning Vision Models with Human Aesthetics in Retrieval: Benchmarks and Algorithms**|Miaosen Zhang et.al.|[2406.09397](http://arxiv.org/abs/2406.09397)|null|
 |**2024-06-13**|**Elastic scattering on a quantum computer**|Muhammad Yusf et.al.|[2406.09231](http://arxiv.org/abs/2406.09231)|null|
 |**2024-06-13**|**Bengining overfitting in Fixed Dimension via Physics-Informed Learning with Smooth Iductive Bias**|Honam Wong et.al.|[2406.09194](http://arxiv.org/abs/2406.09194)|null|
