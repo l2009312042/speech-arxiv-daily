@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-18**|**Privacy Preserving Federated Learning in Medical Imaging with Uncertainty Estimation**|Nikolas Koutsoubis et.al.|[2406.12815](http://arxiv.org/abs/2406.12815)|**[link](https://github.com/niko-k98/awesome-list-federated-learning-review)**|
+|**2024-06-18**|**The Limits of Pure Exploration in POMDPs: When the Observation Entropy is Enough**|Riccardo Zamboni et.al.|[2406.12795](http://arxiv.org/abs/2406.12795)|null|
+|**2024-06-18**|**Improving Multi-modal Recommender Systems by Denoising and Aligning Multi-modal Content and User Feedback**|Guipeng Xv et.al.|[2406.12501](http://arxiv.org/abs/2406.12501)|null|
+|**2024-06-18**|**Fighting Randomness with Randomness: Mitigating Optimisation Instability of Fine-Tuning using Delayed Ensemble and Noisy Interpolation**|Branislav Pecher et.al.|[2406.12471](http://arxiv.org/abs/2406.12471)|null|
+|**2024-06-18**|**Text-aware Speech Separation for Multi-talker Keyword Spotting**|Haoyu Li et.al.|[2406.12447](http://arxiv.org/abs/2406.12447)|null|
+|**2024-06-18**|**Unleashing the Potential of Open-set Noisy Samples Against Label Noise for Medical Image Classification**|Zehui Liao et.al.|[2406.12293](http://arxiv.org/abs/2406.12293)|null|
+|**2024-06-18**|**Time Series Modeling for Heart Rate Prediction: From ARIMA to Transformers**|Haowei Ni et.al.|[2406.12199](http://arxiv.org/abs/2406.12199)|null|
+|**2024-06-18**|**Quantum Compiling with Reinforcement Learning on a Superconducting Processor**|Z. T. Wang et.al.|[2406.12195](http://arxiv.org/abs/2406.12195)|null|
+|**2024-06-17**|**Efficient particle-conserving brick-wall quantum circuits**|Babatunde M. Ayeni et.al.|[2406.12130](http://arxiv.org/abs/2406.12130)|null|
+|**2024-06-17**|**Delay Embedding Theory of Neural Sequence Models**|Mitchell Ostrow et.al.|[2406.11993](http://arxiv.org/abs/2406.11993)|null|
 |**2024-06-17**|**A Clipped Trip: the Dynamics of SGD with Gradient Clipping in High-Dimensions**|Noah Marshall et.al.|[2406.11733](http://arxiv.org/abs/2406.11733)|null|
 |**2024-06-18**|**CHG Shapley: Efficient Data Valuation and Selection towards Trustworthy Machine Learning**|Huaiguang Cai et.al.|[2406.11730](http://arxiv.org/abs/2406.11730)|null|
 |**2024-06-17**|**Computation and Control of Unstable Steady States for Mean Field Multiagent Systems**|Sara Bicego et.al.|[2406.11725](http://arxiv.org/abs/2406.11725)|null|
