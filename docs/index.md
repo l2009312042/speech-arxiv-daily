@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.18
+## Updated on 2024.06.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## KWS
@@ -15,11 +15,11 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-06-17**|**A Clipped Trip: the Dynamics of SGD with Gradient Clipping in High-Dimensions**|Noah Marshall et.al.|[2406.11733](http://arxiv.org/abs/2406.11733)|null|
-|**2024-06-17**|**CHG Shapley: Efficient Data Valuation and Selection towards Trustworthy Machine Learning**|Huaiguang Cai et.al.|[2406.11730](http://arxiv.org/abs/2406.11730)|null|
+|**2024-06-18**|**CHG Shapley: Efficient Data Valuation and Selection towards Trustworthy Machine Learning**|Huaiguang Cai et.al.|[2406.11730](http://arxiv.org/abs/2406.11730)|null|
 |**2024-06-17**|**Computation and Control of Unstable Steady States for Mean Field Multiagent Systems**|Sara Bicego et.al.|[2406.11725](http://arxiv.org/abs/2406.11725)|null|
 |**2024-06-17**|**Multiple Descents in Unsupervised Learning: The Role of Noise, Domain Shift and Anomalies**|Kobi Rahimi et.al.|[2406.11703](http://arxiv.org/abs/2406.11703)|null|
 |**2024-06-17**|**Circuit-Efficient Qubit-Excitation-based Variational Quantum Eigensolver**|Zhijie Sun et.al.|[2406.11699](http://arxiv.org/abs/2406.11699)|null|
-|**2024-06-17**|**GigaSpeech 2: An Evolving, Large-Scale and Multi-domain ASR Corpus for Low-Resource Languages with Automated Crawling, Transcription and Refinement**|Yifan Yang et.al.|[2406.11546](http://arxiv.org/abs/2406.11546)|null|
+|**2024-06-17**|**GigaSpeech 2: An Evolving, Large-Scale and Multi-domain ASR Corpus for Low-Resource Languages with Automated Crawling, Transcription and Refinement**|Yifan Yang et.al.|[2406.11546](http://arxiv.org/abs/2406.11546)|**[link](https://github.com/SpeechColab/GigaSpeech2)**|
 |**2024-06-17**|**High-Dimensional Subspace Expansion Using Classical Shadows**|Gregory Boyd et.al.|[2406.11533](http://arxiv.org/abs/2406.11533)|null|
 |**2024-06-17**|**Solving the Inverse Problem of Electrocardiography for Cardiac Digital Twins: A Survey**|Lei Li et.al.|[2406.11445](http://arxiv.org/abs/2406.11445)|null|
 |**2024-06-17**|**Spatially constrained vs. unconstrained filtering in neural spatiospectral filters for multichannel speech enhancement**|Annika Briegleb et.al.|[2406.11376](http://arxiv.org/abs/2406.11376)|null|
