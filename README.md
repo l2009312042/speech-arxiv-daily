@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-20**|**Communication with Quantum Catalysts**|Yuqi Li et.al.|[2406.14395](http://arxiv.org/abs/2406.14395)|null|
+|**2024-06-20**|**Mask the Unknown: Assessing Different Strategies to Handle Weak Annotations in the MICCAI2023 Mediastinal Lymph Node Quantification Challenge**|Stefan M. Fischer et.al.|[2406.14365](http://arxiv.org/abs/2406.14365)|**[link](https://gitlab.lrz.de/compai/MediastinalLymphNodeSegmentation)**|
+|**2024-06-20**|**Automatic Labels are as Effective as Manual Labels in Biomedical Images Classification with Deep Learning**|Niccolò Marini et.al.|[2406.14351](http://arxiv.org/abs/2406.14351)|null|
+|**2024-06-20**|**DASB -- Discrete Audio and Speech Benchmark**|Pooneh Mousavi et.al.|[2406.14294](http://arxiv.org/abs/2406.14294)|null|
+|**2024-06-20**|**Learning to Discover Knowledge: A Weakly-Supervised Partial Domain Adaptation Approach**|Mengcheng Lan et.al.|[2406.14274](http://arxiv.org/abs/2406.14274)|**[link](https://github.com/mc-lan/sp-tcl)**|
+|**2024-06-20**|**Zero-Shot Image Denoising for High-Resolution Electron Microscopy**|Xuanyu Tian et.al.|[2406.14264](http://arxiv.org/abs/2406.14264)|null|
+|**2024-06-20**|**Unleashing the Potential of Tracklets for Unsupervised Video Person Re-Identification**|Nanxing Meng et.al.|[2406.14261](http://arxiv.org/abs/2406.14261)|null|
+|**2024-06-20**|**NAC-QFL: Noise Aware Clustered Quantum Federated Learning**|Himanshu Sahu et.al.|[2406.14236](http://arxiv.org/abs/2406.14236)|null|
+|**2024-06-20**|**Repeater-Based Quantum Communication Protocol: Maximizing Teleportation Fidelity with Minimal Entanglement**|Arkaprabha Ghosal et.al.|[2406.14216](http://arxiv.org/abs/2406.14216)|null|
+|**2024-06-20**|**LayerMatch: Do Pseudo-labels Benefit All Layers?**|Chaoqi Liang et.al.|[2406.14207](http://arxiv.org/abs/2406.14207)|null|
 |**2024-06-18**|**Privacy Preserving Federated Learning in Medical Imaging with Uncertainty Estimation**|Nikolas Koutsoubis et.al.|[2406.12815](http://arxiv.org/abs/2406.12815)|**[link](https://github.com/niko-k98/awesome-list-federated-learning-review)**|
 |**2024-06-18**|**The Limits of Pure Exploration in POMDPs: When the Observation Entropy is Enough**|Riccardo Zamboni et.al.|[2406.12795](http://arxiv.org/abs/2406.12795)|null|
 |**2024-06-18**|**Improving Multi-modal Recommender Systems by Denoising and Aligning Multi-modal Content and User Feedback**|Guipeng Xv et.al.|[2406.12501](http://arxiv.org/abs/2406.12501)|null|
