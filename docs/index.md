@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-21**|**One-Shot Min-Entropy Calculation And Its Application To Quantum Cryptography**|Rong Wang et.al.|[2406.15226](http://arxiv.org/abs/2406.15226)|null|
+|**2024-06-21**|**Inference for Delay Differential Equations Using Manifold-Constrained Gaussian Processes**|Yuxuan Zhao et.al.|[2406.15170](http://arxiv.org/abs/2406.15170)|null|
+|**2024-06-21**|**Inverse Design of Planar Clamped-Free Elastic Rods from Noisy Data**|Dezhong Tong et.al.|[2406.15166](http://arxiv.org/abs/2406.15166)|null|
+|**2024-06-21**|**High Resolution Surface Reconstruction of Cultural Heritage Objects Using Shape from Polarization Method**|F. S. Mortazavi et.al.|[2406.15121](http://arxiv.org/abs/2406.15121)|null|
+|**2024-06-21**|**Micro-power spoken keyword spotting on Xylo Audio 2**|Hannah Bos et.al.|[2406.15112](http://arxiv.org/abs/2406.15112)|null|
+|**2024-06-21**|**New Upper Bounds for Noisy Permutation Channels**|Lugaoze Feng et.al.|[2406.15031](http://arxiv.org/abs/2406.15031)|null|
+|**2024-06-21**|**Using Neural Networks for Data Cleaning in Weather Datasets**|Jack R. P. Hanslope et.al.|[2406.15027](http://arxiv.org/abs/2406.15027)|null|
+|**2024-06-21**|**DN-CL: Deep Symbolic Regression against Noise via Contrastive Learning**|Jingyi Liu et.al.|[2406.14844](http://arxiv.org/abs/2406.14844)|null|
+|**2024-06-21**|**On the estimation rate of Bayesian PINN for inverse problems**|Yi Sun et.al.|[2406.14808](http://arxiv.org/abs/2406.14808)|null|
+|**2024-06-20**|**Co-training for Low Resource Scientific Natural Language Inference**|Mobashir Sadat et.al.|[2406.14666](http://arxiv.org/abs/2406.14666)|null|
 |**2024-06-20**|**Communication with Quantum Catalysts**|Yuqi Li et.al.|[2406.14395](http://arxiv.org/abs/2406.14395)|null|
 |**2024-06-20**|**Mask the Unknown: Assessing Different Strategies to Handle Weak Annotations in the MICCAI2023 Mediastinal Lymph Node Quantification Challenge**|Stefan M. Fischer et.al.|[2406.14365](http://arxiv.org/abs/2406.14365)|**[link](https://gitlab.lrz.de/compai/MediastinalLymphNodeSegmentation)**|
 |**2024-06-20**|**Automatic Labels are as Effective as Manual Labels in Biomedical Images Classification with Deep Learning**|Niccolò Marini et.al.|[2406.14351](http://arxiv.org/abs/2406.14351)|null|
