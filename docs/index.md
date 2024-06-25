@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-24**|**From Perfect to Noisy World Simulation: Customizable Embodied Multi-modal Perturbations for SLAM Robustness Benchmarking**|Xiaohao Xu et.al.|[2406.16850](http://arxiv.org/abs/2406.16850)|**[link](https://github.com/xiaohao-xu/slam-under-perturbation)**|
+|**2024-06-24**|**USDC: A Dataset of $\underline{U}$ser $\underline{S}$tance and $\underline{D}$ogmatism in Long $\underline{C}$ onversations**|Mounika Marreddy et.al.|[2406.16833](http://arxiv.org/abs/2406.16833)|null|
+|**2024-06-24**|**On the Impact of Sample Size in Reconstructing Noisy Graph Signals: A Theoretical Characterisation**|Baskaran Sripathmanathan et.al.|[2406.16816](http://arxiv.org/abs/2406.16816)|null|
+|**2024-06-24**|**Deep Learning and Chaos: A combined Approach To Image Encryption and Decryption**|Bharath V Nair et.al.|[2406.16792](http://arxiv.org/abs/2406.16792)|null|
+|**2024-06-24**|**Inferring stochastic low-rank recurrent neural networks from neural data**|Matthijs Pals et.al.|[2406.16749](http://arxiv.org/abs/2406.16749)|null|
+|**2024-06-24**|**Portrait3D: 3D Head Generation from Single In-the-wild Portrait Image**|Jinkun Hao et.al.|[2406.16710](http://arxiv.org/abs/2406.16710)|null|
+|**2024-06-24**|**Security of Partially Corrupted Repeater Chains**|Adrian Harkness et.al.|[2406.16651](http://arxiv.org/abs/2406.16651)|null|
+|**2024-06-24**|**Noisy Neighbors: Efficient membership inference attacks against LLMs**|Filippo Galli et.al.|[2406.16565](http://arxiv.org/abs/2406.16565)|null|
+|**2024-06-24**|**Exploring Cross-Domain Few-Shot Classification via Frequency-Aware Prompting**|Tiange Zhang et.al.|[2406.16422](http://arxiv.org/abs/2406.16422)|**[link](https://github.com/tinkez/fap_cdfsc)**|
+|**2024-06-24**|**SNR-Progressive Model with Harmonic Compensation for Low-SNR Speech Enhancement**|Zhongshu Hou et.al.|[2406.16317](http://arxiv.org/abs/2406.16317)|null|
 |**2024-06-21**|**One-Shot Min-Entropy Calculation And Its Application To Quantum Cryptography**|Rong Wang et.al.|[2406.15226](http://arxiv.org/abs/2406.15226)|null|
 |**2024-06-21**|**Inference for Delay Differential Equations Using Manifold-Constrained Gaussian Processes**|Yuxuan Zhao et.al.|[2406.15170](http://arxiv.org/abs/2406.15170)|null|
 |**2024-06-21**|**Inverse Design of Planar Clamped-Free Elastic Rods from Noisy Data**|Dezhong Tong et.al.|[2406.15166](http://arxiv.org/abs/2406.15166)|null|
