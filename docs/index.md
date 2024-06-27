@@ -14,6 +14,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-26**|**Near-Term Quantum Spin Simulation of the Spin- $\frac{1}{2}$ Square $J_{1}-J_{2}$ Heisenberg Model**|Dylan Sheils et.al.|[2406.18474](http://arxiv.org/abs/2406.18474)|null|
+|**2024-06-26**|**Scaling Quantum Computations via Gate Virtualization**|Nathaniel Tornow et.al.|[2406.18410](http://arxiv.org/abs/2406.18410)|null|
+|**2024-06-26**|**Advancing Airport Tower Command Recognition: Integrating Squeeze-and-Excitation and Broadcasted Residual Learning**|Yuanxi Lin et.al.|[2406.18313](http://arxiv.org/abs/2406.18313)|null|
+|**2024-06-26**|**Measurement-Induced Spectral Transition**|Ken Mochizuki et.al.|[2406.18234](http://arxiv.org/abs/2406.18234)|null|
+|**2024-06-26**|**Beyond Statistical Estimation: Differentially Private Individual Computation in the Shuffle Model**|Shaowei Wang et.al.|[2406.18145](http://arxiv.org/abs/2406.18145)|null|
+|**2024-06-26**|**CTS: Sim-to-Real Unsupervised Domain Adaptation on 3D Detection**|Meiying Zhang et.al.|[2406.18129](http://arxiv.org/abs/2406.18129)|null|
+|**2024-06-26**|**Learning Optimal Filters Using Variational Inference**|Enoch Luk et.al.|[2406.18066](http://arxiv.org/abs/2406.18066)|null|
+|**2024-06-25**|**FASA: a Flexible and Automatic Speech Aligner for Extracting High-quality Aligned Children Speech Data**|Dancheng Liu et.al.|[2406.17926](http://arxiv.org/abs/2406.17926)|null|
 |**2024-06-25**|**Automatic Parameter Tuning of Self-Driving Vehicles**|Hung-Ju Wu et.al.|[2406.17757](http://arxiv.org/abs/2406.17757)|null|
 |**2024-06-25**|**Robust Gray Codes Approaching the Optimal Rate**|Roni Con et.al.|[2406.17689](http://arxiv.org/abs/2406.17689)|null|
 |**2024-06-25**|**CMBFSCNN: Cosmic Microwave Background Polarization Foreground Subtraction with Convolutional Neural Network**|Ye-Peng Yan et.al.|[2406.17685](http://arxiv.org/abs/2406.17685)|null|
