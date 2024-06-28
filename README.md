@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.27
+## Updated on 2024.06.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -24,7 +24,7 @@
 |**2024-06-26**|**Beyond Statistical Estimation: Differentially Private Individual Computation in the Shuffle Model**|Shaowei Wang et.al.|[2406.18145](http://arxiv.org/abs/2406.18145)|null|
 |**2024-06-26**|**CTS: Sim-to-Real Unsupervised Domain Adaptation on 3D Detection**|Meiying Zhang et.al.|[2406.18129](http://arxiv.org/abs/2406.18129)|null|
 |**2024-06-26**|**Learning Optimal Filters Using Variational Inference**|Enoch Luk et.al.|[2406.18066](http://arxiv.org/abs/2406.18066)|null|
-|**2024-06-25**|**FASA: a Flexible and Automatic Speech Aligner for Extracting High-quality Aligned Children Speech Data**|Dancheng Liu et.al.|[2406.17926](http://arxiv.org/abs/2406.17926)|null|
+|**2024-06-25**|**FASA: a Flexible and Automatic Speech Aligner for Extracting High-quality Aligned Children Speech Data**|Dancheng Liu et.al.|[2406.17926](http://arxiv.org/abs/2406.17926)|**[link](https://github.com/DanchengLiu/FASA)**|
 |**2024-06-25**|**Automatic Parameter Tuning of Self-Driving Vehicles**|Hung-Ju Wu et.al.|[2406.17757](http://arxiv.org/abs/2406.17757)|null|
 |**2024-06-25**|**Robust Gray Codes Approaching the Optimal Rate**|Roni Con et.al.|[2406.17689](http://arxiv.org/abs/2406.17689)|null|
 |**2024-06-25**|**CMBFSCNN: Cosmic Microwave Background Polarization Foreground Subtraction with Convolutional Neural Network**|Ye-Peng Yan et.al.|[2406.17685](http://arxiv.org/abs/2406.17685)|null|
@@ -187,7 +187,7 @@
 |**2024-05-03**|**A Class of Numerical Semigroups Defined by Kunz and Waldi**|Srishti Singh et.al.|[2405.00331](http://arxiv.org/abs/2405.00331)|null|
 |**2024-04-26**|**Machine Learning based prediction of Vanadium Redox Flow Battery temperature rise under different charge-discharge conditions**|Anirudh Narayan D et.al.|[2404.17284](http://arxiv.org/abs/2404.17284)|null|
 
-<p align=right>(<a href=#updated-on-20240627>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240628>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
