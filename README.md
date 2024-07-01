@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-28**|**AI for Extreme Event Modeling and Understanding: Methodologies and Challenges**|Gustau Camps-Valls et.al.|[2406.20080](http://arxiv.org/abs/2406.20080)|null|
+|**2024-06-28**|**GRACE: Graph-Regularized Attentive Convolutional Entanglement with Laplacian Smoothing for Robust DeepFake Video Detection**|Chih-Chung Hsu et.al.|[2406.19941](http://arxiv.org/abs/2406.19941)|**[link](https://github.com/ming053l/grace)**|
+|**2024-06-28**|**Interactive Topic Models with Optimal Transport**|Garima Dhanania et.al.|[2406.19928](http://arxiv.org/abs/2406.19928)|null|
+|**2024-06-28**|**Untangling the Unrestricted Web: Automatic Identification of Multilingual Registers**|Erik Henriksson et.al.|[2406.19892](http://arxiv.org/abs/2406.19892)|null|
+|**2024-06-28**|**From Problem to Solution: A general Pipeline to Solve Optimisation Problems on Quantum Hardware**|Tobias Rohe et.al.|[2406.19876](http://arxiv.org/abs/2406.19876)|null|
+|**2024-06-28**|**Approximate solutions of a general stochastic velocity-jump process subject to discrete-time noisy observations**|Arianna Ceccarelli et.al.|[2406.19787](http://arxiv.org/abs/2406.19787)|null|
+|**2024-06-28**|**Classical Bandit Algorithms for Entanglement Detection in Parameterized Qubit States**|Bharati. K et.al.|[2406.19738](http://arxiv.org/abs/2406.19738)|null|
+|**2024-06-28**|**Finite basis Kolmogorov-Arnold networks: domain decomposition for data-driven and physics-informed problems**|Amanda A. Howard et.al.|[2406.19662](http://arxiv.org/abs/2406.19662)|null|
+|**2024-06-28**|**Safety through feedback in Constrained RL**|Shashank Reddy Chirra et.al.|[2406.19626](http://arxiv.org/abs/2406.19626)|null|
+|**2024-06-28**|**Stochastic Zeroth-Order Optimization under Strongly Convexity and Lipschitz Hessian: Minimax Sample Complexity**|Qian Yu et.al.|[2406.19617](http://arxiv.org/abs/2406.19617)|null|
 |**2024-06-27**|**Quartic quantum speedups for planted inference**|Alexander Schmidhuber et.al.|[2406.19378](http://arxiv.org/abs/2406.19378)|null|
 |**2024-06-27**|**Enhancing Quantum State Discrimination with Indefinite Causal Order**|Spiros Kechrimparis et.al.|[2406.19373](http://arxiv.org/abs/2406.19373)|null|
 |**2024-06-28**|**LiverUSRecon: Automatic 3D Reconstruction and Volumetry of the Liver with a Few Partial Ultrasound Scans**|Kaushalya Sivayogaraj et.al.|[2406.19336](http://arxiv.org/abs/2406.19336)|null|
