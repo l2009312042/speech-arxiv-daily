@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.30
+## Updated on 2024.07.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -19,14 +19,14 @@
 |---|---|---|---|---|
 |**2024-06-27**|**Quartic quantum speedups for planted inference**|Alexander Schmidhuber et.al.|[2406.19378](http://arxiv.org/abs/2406.19378)|null|
 |**2024-06-27**|**Enhancing Quantum State Discrimination with Indefinite Causal Order**|Spiros Kechrimparis et.al.|[2406.19373](http://arxiv.org/abs/2406.19373)|null|
-|**2024-06-27**|**LiverUSRecon: Automatic 3D Reconstruction and Volumetry of the Liver with a Few Partial Ultrasound Scans**|Kaushalya Sivayogaraj et.al.|[2406.19336](http://arxiv.org/abs/2406.19336)|null|
+|**2024-06-28**|**LiverUSRecon: Automatic 3D Reconstruction and Volumetry of the Liver with a Few Partial Ultrasound Scans**|Kaushalya Sivayogaraj et.al.|[2406.19336](http://arxiv.org/abs/2406.19336)|null|
 |**2024-06-27**|**ProtoGMM: Multi-prototype Gaussian-Mixture-based Domain Adaptation Model for Semantic Segmentation**|Nazanin Moradinasab et.al.|[2406.19225](http://arxiv.org/abs/2406.19225)|null|
 |**2024-06-27**|**JuliVQC: an Efficient Variational Quantum Circuit Simulator for Near-Term Quantum Algorithms**|Wei-You Liao et.al.|[2406.19212](http://arxiv.org/abs/2406.19212)|null|
 |**2024-06-27**|**Towards Crowd-Based Requirements Engineering for Digital Farming (CrowdRE4DF)**|Eduard C. Groen et.al.|[2406.19171](http://arxiv.org/abs/2406.19171)|null|
 |**2024-06-27**|**QOS: A Quantum Operating System**|Emmanouil Giortamis et.al.|[2406.19120](http://arxiv.org/abs/2406.19120)|null|
 |**2024-06-27**|**Accuracy on the wrong line: On the pitfalls of noisy data for out-of-distribution generalisation**|Amartya Sanyal et.al.|[2406.19049](http://arxiv.org/abs/2406.19049)|null|
 |**2024-06-27**|**Improving Weak-to-Strong Generalization with Reliability-Aware Alignment**|Yue Guo et.al.|[2406.19032](http://arxiv.org/abs/2406.19032)|**[link](https://github.com/irenehere/reliablealignment)**|
-|**2024-06-27**|**Efficient course recommendations with T5-based ranking and summarization**|Thijmen Bijl et.al.|[2406.19018](http://arxiv.org/abs/2406.19018)|null|
+|**2024-06-27**|**Efficient course recommendations with T5-based ranking and summarization**|Thijmen Bijl et.al.|[2406.19018](http://arxiv.org/abs/2406.19018)|**[link](https://github.com/tbijl/course_ranking_data)**|
 |**2024-06-26**|**Near-Term Quantum Spin Simulation of the Spin- $\frac{1}{2}$ Square $J_{1}-J_{2}$ Heisenberg Model**|Dylan Sheils et.al.|[2406.18474](http://arxiv.org/abs/2406.18474)|null|
 |**2024-06-26**|**Scaling Quantum Computations via Gate Virtualization**|Nathaniel Tornow et.al.|[2406.18410](http://arxiv.org/abs/2406.18410)|null|
 |**2024-06-26**|**Advancing Airport Tower Command Recognition: Integrating Squeeze-and-Excitation and Broadcasted Residual Learning**|Yuanxi Lin et.al.|[2406.18313](http://arxiv.org/abs/2406.18313)|null|
@@ -197,7 +197,7 @@
 |**2024-05-03**|**A Class of Numerical Semigroups Defined by Kunz and Waldi**|Srishti Singh et.al.|[2405.00331](http://arxiv.org/abs/2405.00331)|null|
 |**2024-04-26**|**Machine Learning based prediction of Vanadium Redox Flow Battery temperature rise under different charge-discharge conditions**|Anirudh Narayan D et.al.|[2404.17284](http://arxiv.org/abs/2404.17284)|null|
 
-<p align=right>(<a href=#updated-on-20240630>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240701>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
