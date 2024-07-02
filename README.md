@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.01
+## Updated on 2024.07.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,7 +18,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-06-28**|**AI for Extreme Event Modeling and Understanding: Methodologies and Challenges**|Gustau Camps-Valls et.al.|[2406.20080](http://arxiv.org/abs/2406.20080)|null|
-|**2024-06-28**|**GRACE: Graph-Regularized Attentive Convolutional Entanglement with Laplacian Smoothing for Robust DeepFake Video Detection**|Chih-Chung Hsu et.al.|[2406.19941](http://arxiv.org/abs/2406.19941)|**[link](https://github.com/ming053l/grace)**|
+|**2024-07-01**|**GRACE: Graph-Regularized Attentive Convolutional Entanglement with Laplacian Smoothing for Robust DeepFake Video Detection**|Chih-Chung Hsu et.al.|[2406.19941](http://arxiv.org/abs/2406.19941)|**[link](https://github.com/ming053l/grace)**|
 |**2024-06-28**|**Interactive Topic Models with Optimal Transport**|Garima Dhanania et.al.|[2406.19928](http://arxiv.org/abs/2406.19928)|null|
 |**2024-06-28**|**Untangling the Unrestricted Web: Automatic Identification of Multilingual Registers**|Erik Henriksson et.al.|[2406.19892](http://arxiv.org/abs/2406.19892)|null|
 |**2024-06-28**|**From Problem to Solution: A general Pipeline to Solve Optimisation Problems on Quantum Hardware**|Tobias Rohe et.al.|[2406.19876](http://arxiv.org/abs/2406.19876)|null|
@@ -207,7 +207,7 @@
 |**2024-05-03**|**A Class of Numerical Semigroups Defined by Kunz and Waldi**|Srishti Singh et.al.|[2405.00331](http://arxiv.org/abs/2405.00331)|null|
 |**2024-04-26**|**Machine Learning based prediction of Vanadium Redox Flow Battery temperature rise under different charge-discharge conditions**|Anirudh Narayan D et.al.|[2404.17284](http://arxiv.org/abs/2404.17284)|null|
 
-<p align=right>(<a href=#updated-on-20240701>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240702>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

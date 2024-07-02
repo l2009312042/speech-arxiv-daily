@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.01
+## Updated on 2024.07.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## KWS
@@ -15,7 +15,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-06-28**|**AI for Extreme Event Modeling and Understanding: Methodologies and Challenges**|Gustau Camps-Valls et.al.|[2406.20080](http://arxiv.org/abs/2406.20080)|null|
-|**2024-06-28**|**GRACE: Graph-Regularized Attentive Convolutional Entanglement with Laplacian Smoothing for Robust DeepFake Video Detection**|Chih-Chung Hsu et.al.|[2406.19941](http://arxiv.org/abs/2406.19941)|**[link](https://github.com/ming053l/grace)**|
+|**2024-07-01**|**GRACE: Graph-Regularized Attentive Convolutional Entanglement with Laplacian Smoothing for Robust DeepFake Video Detection**|Chih-Chung Hsu et.al.|[2406.19941](http://arxiv.org/abs/2406.19941)|**[link](https://github.com/ming053l/grace)**|
 |**2024-06-28**|**Interactive Topic Models with Optimal Transport**|Garima Dhanania et.al.|[2406.19928](http://arxiv.org/abs/2406.19928)|null|
 |**2024-06-28**|**Untangling the Unrestricted Web: Automatic Identification of Multilingual Registers**|Erik Henriksson et.al.|[2406.19892](http://arxiv.org/abs/2406.19892)|null|
 |**2024-06-28**|**From Problem to Solution: A general Pipeline to Solve Optimisation Problems on Quantum Hardware**|Tobias Rohe et.al.|[2406.19876](http://arxiv.org/abs/2406.19876)|null|
