@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-02**|**Diffusion and pattern formation in spatial games**|Alexandre Champagne-Ruel et.al.|[2407.02385](http://arxiv.org/abs/2407.02385)|null|
+|**2024-07-02**|**FedIA: Federated Medical Image Segmentation with Heterogeneous Annotation Completeness**|Yangyang Xiang et.al.|[2407.02280](http://arxiv.org/abs/2407.02280)|**[link](https://github.com/hustxyy/fedia)**|
+|**2024-07-02**|**How to Learn in a Noisy World? Self-Correcting the Real-World Data Noise on Machine Translation**|Yan Meng et.al.|[2407.02208](http://arxiv.org/abs/2407.02208)|null|
+|**2024-07-02**|**State Transfer in Noisy Modular Quantum Networks**|Markku Hahto et.al.|[2407.02145](http://arxiv.org/abs/2407.02145)|null|
+|**2024-07-02**|**Suppression of noise in separation estimation of optical sources with spatial-mode demultiplexing**|Fattah Sakuldee et.al.|[2407.01995](http://arxiv.org/abs/2407.01995)|null|
+|**2024-07-02**|**Beyond Numeric Awards: In-Context Dueling Bandits with LLM Agents**|Fanzeng Xia et.al.|[2407.01887](http://arxiv.org/abs/2407.01887)|null|
+|**2024-07-01**|**peerRTF: Robust MVDR Beamforming Using Graph Convolutional Network**|Amit Sofer et.al.|[2407.01779](http://arxiv.org/abs/2407.01779)|null|
+|**2024-07-01**|**Invariant Correlation of Representation with Label**|Gaojie Jin et.al.|[2407.01749](http://arxiv.org/abs/2407.01749)|null|
+|**2024-07-01**|**Grouped Discrete Representation Guides Object-Centric Learning**|Rongzhen Zhao et.al.|[2407.01726](http://arxiv.org/abs/2407.01726)|null|
+|**2024-07-01**|**Predicting DC-Link Capacitor Current Ripple in AC-DC Rectifier Circuits Using Fine-Tuned Large Language Models**|Mohamed Zeid et.al.|[2407.01724](http://arxiv.org/abs/2407.01724)|null|
 |**2024-06-28**|**AI for Extreme Event Modeling and Understanding: Methodologies and Challenges**|Gustau Camps-Valls et.al.|[2406.20080](http://arxiv.org/abs/2406.20080)|null|
 |**2024-07-01**|**GRACE: Graph-Regularized Attentive Convolutional Entanglement with Laplacian Smoothing for Robust DeepFake Video Detection**|Chih-Chung Hsu et.al.|[2406.19941](http://arxiv.org/abs/2406.19941)|**[link](https://github.com/ming053l/grace)**|
 |**2024-06-28**|**Interactive Topic Models with Optimal Transport**|Garima Dhanania et.al.|[2406.19928](http://arxiv.org/abs/2406.19928)|null|
