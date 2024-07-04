@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-03**|**CATT: Character-based Arabic Tashkeel Transformer**|Faris Alasmary et.al.|[2407.03236](http://arxiv.org/abs/2407.03236)|null|
+|**2024-07-03**|**Inverse stochastic resonance in adaptive small-world neural networks**|Marius E. Yamakou et.al.|[2407.03151](http://arxiv.org/abs/2407.03151)|null|
+|**2024-07-03**|**IntentionNet: Map-Lite Visual Navigation at the Kilometre Scale**|Wei Gao et.al.|[2407.03122](http://arxiv.org/abs/2407.03122)|null|
+|**2024-07-03**|**Entanglement-assisted authenticated BB84 protocol**|Pol Julià Farré et.al.|[2407.03119](http://arxiv.org/abs/2407.03119)|null|
+|**2024-07-03**|**The sudden death of quantum advantage in correlation generations**|Weixiao Sun et.al.|[2407.03088](http://arxiv.org/abs/2407.03088)|null|
+|**2024-07-03**|**MedPix 2.0: A Comprehensive Multimodal Biomedical Dataset for Advanced AI Applications**|Irene Siragusa et.al.|[2407.02994](http://arxiv.org/abs/2407.02994)|**[link](https://github.com/chilab1/medpix-2.0)**|
+|**2024-07-03**|**Quantum Serverless Paradigm and Application Development using the QFaaS Framework**|Hoa T. Nguyen et.al.|[2407.02828](http://arxiv.org/abs/2407.02828)|null|
+|**2024-07-03**|**Foster Adaptivity and Balance in Learning with Noisy Labels**|Mengmeng Sheng et.al.|[2407.02778](http://arxiv.org/abs/2407.02778)|null|
+|**2024-07-03**|**A Framework for Quantum Finite-State Languages with Density Mapping**|SeungYeop Baik et.al.|[2407.02776](http://arxiv.org/abs/2407.02776)|**[link](https://github.com/sybaik1/qfa-toolkit)**|
+|**2024-07-03**|**OpenVNA: A Framework for Analyzing the Behavior of Multimodal Language Understanding System under Noisy Scenarios**|Ziqi Yuan et.al.|[2407.02773](http://arxiv.org/abs/2407.02773)|null|
 |**2024-07-02**|**Diffusion and pattern formation in spatial games**|Alexandre Champagne-Ruel et.al.|[2407.02385](http://arxiv.org/abs/2407.02385)|null|
 |**2024-07-03**|**FedIA: Federated Medical Image Segmentation with Heterogeneous Annotation Completeness**|Yangyang Xiang et.al.|[2407.02280](http://arxiv.org/abs/2407.02280)|**[link](https://github.com/hustxyy/fedia)**|
 |**2024-07-02**|**How to Learn in a Noisy World? Self-Correcting the Real-World Data Noise on Machine Translation**|Yan Meng et.al.|[2407.02208](http://arxiv.org/abs/2407.02208)|null|
