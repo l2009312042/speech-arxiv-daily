@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.03
+## Updated on 2024.07.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## KWS
@@ -15,7 +15,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-07-02**|**Diffusion and pattern formation in spatial games**|Alexandre Champagne-Ruel et.al.|[2407.02385](http://arxiv.org/abs/2407.02385)|null|
-|**2024-07-02**|**FedIA: Federated Medical Image Segmentation with Heterogeneous Annotation Completeness**|Yangyang Xiang et.al.|[2407.02280](http://arxiv.org/abs/2407.02280)|**[link](https://github.com/hustxyy/fedia)**|
+|**2024-07-03**|**FedIA: Federated Medical Image Segmentation with Heterogeneous Annotation Completeness**|Yangyang Xiang et.al.|[2407.02280](http://arxiv.org/abs/2407.02280)|**[link](https://github.com/hustxyy/fedia)**|
 |**2024-07-02**|**How to Learn in a Noisy World? Self-Correcting the Real-World Data Noise on Machine Translation**|Yan Meng et.al.|[2407.02208](http://arxiv.org/abs/2407.02208)|null|
 |**2024-07-02**|**State Transfer in Noisy Modular Quantum Networks**|Markku Hahto et.al.|[2407.02145](http://arxiv.org/abs/2407.02145)|null|
 |**2024-07-02**|**Suppression of noise in separation estimation of optical sources with spatial-mode demultiplexing**|Fattah Sakuldee et.al.|[2407.01995](http://arxiv.org/abs/2407.01995)|null|
