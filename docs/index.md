@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-08**|**Quantum decoherence dynamics in stochastically fluctuating environments**|Xiangji Cai et.al.|[2407.06074](http://arxiv.org/abs/2407.06074)|null|
+|**2024-07-08**|**Active Label Refinement for Robust Training of Imbalanced Medical Image Classification Tasks in the Presence of High Label Noise**|Bidur Khanal et.al.|[2407.05973](http://arxiv.org/abs/2407.05973)|null|
+|**2024-07-08**|**Graph Anomaly Detection with Noisy Labels by Reinforcement Learning**|Zhu Wang et.al.|[2407.05934](http://arxiv.org/abs/2407.05934)|null|
+|**2024-07-08**|**Submodular video object proposal selection for semantic object segmentation**|Tinghuai Wang et.al.|[2407.05913](http://arxiv.org/abs/2407.05913)|null|
+|**2024-07-08**|**LGRNet: Local-Global Reciprocal Network for Uterine Fibroid Segmentation in Ultrasound Videos**|Huihui Xu et.al.|[2407.05703](http://arxiv.org/abs/2407.05703)|**[link](https://github.com/bio-mlhui/lgrnet)**|
+|**2024-07-08**|**Recovering a Message from an Incomplete Set of Noisy Fragments**|Aditya Narayan Ravi et.al.|[2407.05544](http://arxiv.org/abs/2407.05544)|null|
+|**2024-07-08**|**Functional Principal Component Analysis for Truncated Data**|Caitrin Murphy et.al.|[2407.05543](http://arxiv.org/abs/2407.05543)|null|
+|**2024-07-08**|**An accurate detection is not all you need to combat label noise in web-noisy datasets**|Paul Albert et.al.|[2407.05528](http://arxiv.org/abs/2407.05528)|null|
+|**2024-07-07**|**Work extraction with feedback control using limited resources**|Harrison Hartle et.al.|[2407.05507](http://arxiv.org/abs/2407.05507)|null|
+|**2024-07-07**|**Solving forward and inverse PDE problems on unknown manifolds via physics-informed neural operators**|Anran Jiao et.al.|[2407.05477](http://arxiv.org/abs/2407.05477)|null|
 |**2024-07-05**|**Near-optimal hierarchical matrix approximation from matrix-vector products**|Tyler Chen et.al.|[2407.04686](http://arxiv.org/abs/2407.04686)|null|
 |**2024-07-05**|**Unsupervised 4D Cardiac Motion Tracking with Spatiotemporal Optical Flow Networks**|Long Teng et.al.|[2407.04663](http://arxiv.org/abs/2407.04663)|null|
 |**2024-07-05**|**Multitaper mel-spectrograms for keyword spotting**|Douglas Baptista de Souza et.al.|[2407.04662](http://arxiv.org/abs/2407.04662)|null|
