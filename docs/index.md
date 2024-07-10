@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-09**|**Adaptively Robust and Sparse K-means Clustering**|Hao Li et.al.|[2407.06945](http://arxiv.org/abs/2407.06945)|null|
+|**2024-07-09**|**Learning From Crowdsourced Noisy Labels: A Signal Processing Perspective**|Shahana Ibrahim et.al.|[2407.06902](http://arxiv.org/abs/2407.06902)|null|
+|**2024-07-09**|**Paradise-disorder transition in structural balance dynamics on Erdös-Rényi graphs**|Krishnadas Mohandas et.al.|[2407.06793](http://arxiv.org/abs/2407.06793)|null|
+|**2024-07-09**|**CoLA: Conditional Dropout and Language-driven Robust Dual-modal Salient Object Detection**|Shuang Hao et.al.|[2407.06780](http://arxiv.org/abs/2407.06780)|**[link](https://github.com/ssecv/CoLA)**|
+|**2024-07-09**|**PSPU: Enhanced Positive and Unlabeled Learning by Leveraging Pseudo Supervision**|Chengjie Wang et.al.|[2407.06698](http://arxiv.org/abs/2407.06698)|null|
+|**2024-07-09**|**Piecewise regression via mixed-integer programming for MPC**|Dieter Teichrib et.al.|[2407.06665](http://arxiv.org/abs/2407.06665)|null|
+|**2024-07-09**|**Estimates on the stability constant for the truncated Fourier transform**|Mirza Karamehmedović et.al.|[2407.06656](http://arxiv.org/abs/2407.06656)|null|
+|**2024-07-09**|**Tailored Design of Audio-Visual Speech Recognition Models using Branchformers**|David Gimeno-Gómez et.al.|[2407.06606](http://arxiv.org/abs/2407.06606)|**[link](https://github.com/david-gimeno/tailored-avsr)**|
+|**2024-07-09**|**Parallel Segment Entanglement Swapping**|Binjie He et.al.|[2407.06598](http://arxiv.org/abs/2407.06598)|null|
+|**2024-07-09**|**NoisyAG-News: A Benchmark for Addressing Instance-Dependent Noise in Text Classification**|Hongfei Huang et.al.|[2407.06579](http://arxiv.org/abs/2407.06579)|null|
 |**2024-07-08**|**Quantum decoherence dynamics in stochastically fluctuating environments**|Xiangji Cai et.al.|[2407.06074](http://arxiv.org/abs/2407.06074)|null|
 |**2024-07-08**|**Active Label Refinement for Robust Training of Imbalanced Medical Image Classification Tasks in the Presence of High Label Noise**|Bidur Khanal et.al.|[2407.05973](http://arxiv.org/abs/2407.05973)|null|
 |**2024-07-08**|**Graph Anomaly Detection with Noisy Labels by Reinforcement Learning**|Zhu Wang et.al.|[2407.05934](http://arxiv.org/abs/2407.05934)|null|
