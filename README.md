@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-10**|**Information dynamics in decohered quantum memory with repeated syndrome measurements: a dual approach**|Jacob Hauser et.al.|[2407.07882](http://arxiv.org/abs/2407.07882)|null|
+|**2024-07-10**|**Towards Robust Alignment of Language Models: Distributionally Robustifying Direct Preference Optimization**|Junkang Wu et.al.|[2407.07880](http://arxiv.org/abs/2407.07880)|**[link](https://github.com/junkangwu/dr_dpo)**|
+|**2024-07-10**|**RT-LA-VocE: Real-Time Low-SNR Audio-Visual Speech Enhancement**|Honglie Chen et.al.|[2407.07825](http://arxiv.org/abs/2407.07825)|null|
+|**2024-07-10**|**Cross Domain Object Detection via Multi-Granularity Confidence Alignment based Mean Teacher**|Jiangming Chen et.al.|[2407.07780](http://arxiv.org/abs/2407.07780)|null|
+|**2024-07-10**|**Scalable improvement of the generalized Toffoli gate realization using trapped-ion-based qutrits**|Anastasiia S. Nikolaeva et.al.|[2407.07758](http://arxiv.org/abs/2407.07758)|null|
+|**2024-07-10**|**Towards Adaptive Pseudo-label Learning for Semi-Supervised Temporal Action Localization**|Feixiang Zhou et.al.|[2407.07673](http://arxiv.org/abs/2407.07673)|null|
+|**2024-07-10**|**Teaching Transformers Causal Reasoning through Axiomatic Training**|Aniket Vashishtha et.al.|[2407.07612](http://arxiv.org/abs/2407.07612)|null|
+|**2024-07-10**|**Weakly-supervised Medical Image Segmentation with Gaze Annotations**|Yuan Zhong et.al.|[2407.07406](http://arxiv.org/abs/2407.07406)|**[link](https://github.com/med-air/gazemedseg)**|
+|**2024-07-10**|**Data-driven Bayesian State Estimation with Compressed Measurement of Model-free Process using Semi-supervised Learning**|Anubhab Ghosh et.al.|[2407.07368](http://arxiv.org/abs/2407.07368)|null|
+|**2024-07-10**|**High-Resolution Cloud Detection Network**|Jingsheng Li et.al.|[2407.07365](http://arxiv.org/abs/2407.07365)|**[link](https://github.com/kunzhan/hr-cloud-net)**|
 |**2024-07-09**|**Adaptively Robust and Sparse K-means Clustering**|Hao Li et.al.|[2407.06945](http://arxiv.org/abs/2407.06945)|null|
 |**2024-07-09**|**Learning From Crowdsourced Noisy Labels: A Signal Processing Perspective**|Shahana Ibrahim et.al.|[2407.06902](http://arxiv.org/abs/2407.06902)|null|
 |**2024-07-09**|**Paradise-disorder transition in structural balance dynamics on Erdös-Rényi graphs**|Krishnadas Mohandas et.al.|[2407.06793](http://arxiv.org/abs/2407.06793)|null|
