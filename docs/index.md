@@ -7,13 +7,16 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.12
+## Updated on 2024.07.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## KWS
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-11**|**ERD: Exponential Retinex decomposition based on weak space and hybrid nonconvex regularization and its denoising application**|Wenjing Lu et.al.|[2407.08498](http://arxiv.org/abs/2407.08498)|null|
+|**2024-07-11**|**TLDR: Unsupervised Goal-Conditioned RL via Temporal Distance-Aware Representations**|Junik Bae et.al.|[2407.08464](http://arxiv.org/abs/2407.08464)|null|
+|**2024-07-10**|**Bayesian Detector Combination for Object Detection with Crowdsourced Annotations**|Zhi Qin Tan et.al.|[2407.07958](http://arxiv.org/abs/2407.07958)|**[link](https://github.com/zhiqin1998/bdc)**|
 |**2024-07-10**|**Information dynamics in decohered quantum memory with repeated syndrome measurements: a dual approach**|Jacob Hauser et.al.|[2407.07882](http://arxiv.org/abs/2407.07882)|null|
 |**2024-07-10**|**Towards Robust Alignment of Language Models: Distributionally Robustifying Direct Preference Optimization**|Junkang Wu et.al.|[2407.07880](http://arxiv.org/abs/2407.07880)|**[link](https://github.com/junkangwu/dr_dpo)**|
 |**2024-07-10**|**RT-LA-VocE: Real-Time Low-SNR Audio-Visual Speech Enhancement**|Honglie Chen et.al.|[2407.07825](http://arxiv.org/abs/2407.07825)|null|

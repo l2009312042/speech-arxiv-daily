@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.12
+## Updated on 2024.07.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,6 +17,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-11**|**ERD: Exponential Retinex decomposition based on weak space and hybrid nonconvex regularization and its denoising application**|Wenjing Lu et.al.|[2407.08498](http://arxiv.org/abs/2407.08498)|null|
+|**2024-07-11**|**TLDR: Unsupervised Goal-Conditioned RL via Temporal Distance-Aware Representations**|Junik Bae et.al.|[2407.08464](http://arxiv.org/abs/2407.08464)|null|
+|**2024-07-10**|**Bayesian Detector Combination for Object Detection with Crowdsourced Annotations**|Zhi Qin Tan et.al.|[2407.07958](http://arxiv.org/abs/2407.07958)|**[link](https://github.com/zhiqin1998/bdc)**|
 |**2024-07-10**|**Information dynamics in decohered quantum memory with repeated syndrome measurements: a dual approach**|Jacob Hauser et.al.|[2407.07882](http://arxiv.org/abs/2407.07882)|null|
 |**2024-07-10**|**Towards Robust Alignment of Language Models: Distributionally Robustifying Direct Preference Optimization**|Junkang Wu et.al.|[2407.07880](http://arxiv.org/abs/2407.07880)|**[link](https://github.com/junkangwu/dr_dpo)**|
 |**2024-07-10**|**RT-LA-VocE: Real-Time Low-SNR Audio-Visual Speech Enhancement**|Honglie Chen et.al.|[2407.07825](http://arxiv.org/abs/2407.07825)|null|
@@ -267,7 +270,7 @@
 |**2024-05-03**|**A Class of Numerical Semigroups Defined by Kunz and Waldi**|Srishti Singh et.al.|[2405.00331](http://arxiv.org/abs/2405.00331)|null|
 |**2024-04-26**|**Machine Learning based prediction of Vanadium Redox Flow Battery temperature rise under different charge-discharge conditions**|Anirudh Narayan D et.al.|[2404.17284](http://arxiv.org/abs/2404.17284)|null|
 
-<p align=right>(<a href=#updated-on-20240712>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240713>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
