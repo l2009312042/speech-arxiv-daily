@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-15**|**Optical Diffusion Models for Image Generation**|Ilker Oguz et.al.|[2407.10897](http://arxiv.org/abs/2407.10897)|null|
+|**2024-07-15**|**Principal Component Flow Map Learning of PDEs from Incomplete, Limited, and Noisy Data**|Victor Churchill et.al.|[2407.10854](http://arxiv.org/abs/2407.10854)|null|
+|**2024-07-15**|**Enhancing Robustness to Noise Corruption for Point Cloud Model via Spatial Sorting and Set-Mixing Aggregation Module**|Dingxin Zhang et.al.|[2407.10806](http://arxiv.org/abs/2407.10806)|null|
+|**2024-07-15**|**Hierarchical search method for gravitational waves from stellar-mass binary black holes in noisy space-based detector data**|Yao Fu et.al.|[2407.10797](http://arxiv.org/abs/2407.10797)|null|
+|**2024-07-15**|**Expanding the Scope: Inductive Knowledge Graph Reasoning with Multi-Starting Progressive Propagation**|Zhoutian Shao et.al.|[2407.10430](http://arxiv.org/abs/2407.10430)|**[link](https://github.com/nju-websoft/mstar)**|
+|**2024-07-15**|**OnionVQE Optimization Strategy for Ground State Preparation on NISQ Devices**|Katerina Gratsea et.al.|[2407.10415](http://arxiv.org/abs/2407.10415)|null|
+|**2024-07-14**|**Long Sequence Decoder Network for Mobile Sensing**|Jiazhong Mei et.al.|[2407.10338](http://arxiv.org/abs/2407.10338)|null|
+|**2024-07-14**|**Coincidence detection for photon triplet sources**|Zijun Chen et.al.|[2407.10231](http://arxiv.org/abs/2407.10231)|null|
+|**2024-07-14**|**WING: Wheel-Inertial Neural Odometry with Ground Manifold Constraints**|Chenxing Jiang et.al.|[2407.10101](http://arxiv.org/abs/2407.10101)|null|
+|**2024-07-13**|**Practicality of quantum adiabatic algorithm for chemistry applications**|Etienne Granet et.al.|[2407.09993](http://arxiv.org/abs/2407.09993)|null|
 |**2024-07-12**|**Meta-Analysis with Untrusted Data**|Shiva Kaul et.al.|[2407.09387](http://arxiv.org/abs/2407.09387)|null|
 |**2024-07-12**|**Evaluation of Encoding Schemes on Ubiquitous Sensor Signal for Spiking Neural Network**|Sizhen Bian et.al.|[2407.09260](http://arxiv.org/abs/2407.09260)|null|
 |**2024-07-12**|**Beyond Image Prior: Embedding Noise Prior into Conditional Denoising Transformer**|Yuanfei Huang et.al.|[2407.09094](http://arxiv.org/abs/2407.09094)|**[link](https://github.com/yuanfeihuang/condformer)**|
