@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-16**|**Scaling Sign Language Translation**|Biao Zhang et.al.|[2407.11855](http://arxiv.org/abs/2407.11855)|null|
+|**2024-07-16**|**Click-Gaussian: Interactive Segmentation to Any 3D Gaussians**|Seokhun Choi et.al.|[2407.11793](http://arxiv.org/abs/2407.11793)|null|
+|**2024-07-16**|**Compressive Electron Backscatter Diffraction Imaging**|Zoë Broad et.al.|[2407.11724](http://arxiv.org/abs/2407.11724)|null|
+|**2024-07-16**|**Entanglement and operator correlation signatures of many-body quantum Zeno phases in inefficiently monitored noisy systems**|Chun Y. Leung et.al.|[2407.11723](http://arxiv.org/abs/2407.11723)|null|
+|**2024-07-16**|**Enhancing stop location detection for incomplete urban mobility datasets**|Margherita Bertè et.al.|[2407.11579](http://arxiv.org/abs/2407.11579)|null|
+|**2024-07-16**|**Microscopic parametrizations for gate set tomography under coloured noise**|P. Viñas et.al.|[2407.11539](http://arxiv.org/abs/2407.11539)|null|
+|**2024-07-16**|**Bootstrapped Pre-training with Dynamic Identifier Prediction for Generative Retrieval**|Yubao Tang et.al.|[2407.11504](http://arxiv.org/abs/2407.11504)|null|
+|**2024-07-16**|**Team HYU ASML ROBOVOX SP Cup 2024 System Description**|Jeong-Hwan Choi et.al.|[2407.11365](http://arxiv.org/abs/2407.11365)|null|
+|**2024-07-16**|**Zero-Shot Adaptation for Approximate Posterior Sampling of Diffusion Models in Inverse Problems**|Yaşar Utku Alçalar et.al.|[2407.11288](http://arxiv.org/abs/2407.11288)|null|
+|**2024-07-15**|**Disentangling Representations in RNNs through Multi-task Learning**|Pantelis Vafidis et.al.|[2407.11249](http://arxiv.org/abs/2407.11249)|null|
 |**2024-07-15**|**Optical Diffusion Models for Image Generation**|Ilker Oguz et.al.|[2407.10897](http://arxiv.org/abs/2407.10897)|null|
 |**2024-07-15**|**Principal Component Flow Map Learning of PDEs from Incomplete, Limited, and Noisy Data**|Victor Churchill et.al.|[2407.10854](http://arxiv.org/abs/2407.10854)|null|
 |**2024-07-15**|**Enhancing Robustness to Noise Corruption for Point Cloud Model via Spatial Sorting and Set-Mixing Aggregation Module**|Dingxin Zhang et.al.|[2407.10806](http://arxiv.org/abs/2407.10806)|null|
