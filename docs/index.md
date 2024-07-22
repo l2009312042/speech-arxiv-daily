@@ -14,6 +14,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-19**|**Subspace-Based Local Compilation of Variational Quantum Circuits for Large-Scale Quantum Many-Body Simulation**|Shota Kanasugi et.al.|[2407.14163](http://arxiv.org/abs/2407.14163)|null|
+|**2024-07-19**|**Rethinking Visual Content Refinement in Low-Shot CLIP Adaptation**|Jinda Lu et.al.|[2407.14117](http://arxiv.org/abs/2407.14117)|**[link](https://github.com/injadlu/VCR)**|
+|**2024-07-19**|**Quantum-classical correspondence in quantum channels**|Bidhi Vijaywargia et.al.|[2407.14067](http://arxiv.org/abs/2407.14067)|null|
+|**2024-07-19**|**Energy efficient coherent quantum control of nitrogen vacancy (NV) spin with nanoscale magnets**|Md Fahim F Chowdhury et.al.|[2407.14018](http://arxiv.org/abs/2407.14018)|null|
+|**2024-07-18**|**BRSR-OpGAN: Blind Radar Signal Restoration using Operational Generative Adversarial Network**|Muhammad Uzair Zahid et.al.|[2407.13949](http://arxiv.org/abs/2407.13949)|null|
+|**2024-07-18**|**Improving Robustness and Clinical Applicability of Respiratory Sound Classification via Audio Enhancement**|Jing-Tong Tzeng et.al.|[2407.13895](http://arxiv.org/abs/2407.13895)|null|
 |**2024-07-18**|**Shape of Motion: 4D Reconstruction from a Single Video**|Qianqian Wang et.al.|[2407.13764](http://arxiv.org/abs/2407.13764)|null|
 |**2024-07-18**|**MaRINeR: Enhancing Novel Views by Matching Rendered Images with Nearby References**|Lukas Bösiger et.al.|[2407.13745](http://arxiv.org/abs/2407.13745)|null|
 |**2024-07-18**|**Discovering governing equation in structural dynamics from acceleration-only measurements**|Calvin Alvares et.al.|[2407.13704](http://arxiv.org/abs/2407.13704)|null|
