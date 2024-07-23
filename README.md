@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-22**|**Quantum Computing for Phonon Scattering Effects on Thermal Conductivity**|Xiangjun Tan et.al.|[2407.15808](http://arxiv.org/abs/2407.15808)|null|
+|**2024-07-22**|**Unsupervised Mastoidectomy for Cochlear CT Mesh Reconstruction Using Highly Noisy Data**|Yike Zhang et.al.|[2407.15787](http://arxiv.org/abs/2407.15787)|null|
+|**2024-07-22**|**Link Polarity Prediction from Sparse and Noisy Labels via Multiscale Social Balance**|Marco Minici et.al.|[2407.15643](http://arxiv.org/abs/2407.15643)|null|
+|**2024-07-22**|**Unsupervised Robust Cross-Lingual Entity Alignment via Joint Modeling of Entity and Relation Texts**|Soojin Yoon et.al.|[2407.15588](http://arxiv.org/abs/2407.15588)|**[link](https://github.com/eralign/eralign)**|
+|**2024-07-22**|**Multiple importance sampling for stochastic gradient estimation**|Corentin Salaün et.al.|[2407.15525](http://arxiv.org/abs/2407.15525)|null|
+|**2024-07-22**|**Refining Corpora from a Model Calibration Perspective for Chinese Spelling Correction**|Dingyao Yu et.al.|[2407.15498](http://arxiv.org/abs/2407.15498)|null|
+|**2024-07-22**|**Error propagation of direct pressure gradient integration and a Helmholtz-Hodge decomposition based pressure field reconstruction method for image velocimetry**|Lanyu Li et.al.|[2407.15344](http://arxiv.org/abs/2407.15344)|null|
+|**2024-07-21**|**Weakly SSM : On the Viability of Weakly Supervised Segmentations for Statistical Shape Modeling**|Janmesh Ukey et.al.|[2407.15260](http://arxiv.org/abs/2407.15260)|null|
+|**2024-07-21**|**Practical multi-fidelity machine learning: fusion of deterministic and Bayesian models**|Jiaxiang Yi et.al.|[2407.15110](http://arxiv.org/abs/2407.15110)|null|
+|**2024-07-21**|**AsyCo: An Asymmetric Dual-task Co-training Model for Partial-label Learning**|Beibei Li et.al.|[2407.15036](http://arxiv.org/abs/2407.15036)|**[link](https://github.com/libeibeics/asyco)**|
 |**2024-07-19**|**Subspace-Based Local Compilation of Variational Quantum Circuits for Large-Scale Quantum Many-Body Simulation**|Shota Kanasugi et.al.|[2407.14163](http://arxiv.org/abs/2407.14163)|null|
 |**2024-07-19**|**Rethinking Visual Content Refinement in Low-Shot CLIP Adaptation**|Jinda Lu et.al.|[2407.14117](http://arxiv.org/abs/2407.14117)|**[link](https://github.com/injadlu/VCR)**|
 |**2024-07-19**|**Quantum-classical correspondence in quantum channels**|Bidhi Vijaywargia et.al.|[2407.14067](http://arxiv.org/abs/2407.14067)|null|
