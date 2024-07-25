@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-24**|**CSCPR: Cross-Source-Context Indoor RGB-D Place Recognition**|Jing Liang et.al.|[2407.17457](http://arxiv.org/abs/2407.17457)|null|
+|**2024-07-24**|**Self-Calibrated Variance-Stabilizing Transformations for Real-World Image Denoising**|Sébastien Herbreteau et.al.|[2407.17399](http://arxiv.org/abs/2407.17399)|null|
+|**2024-07-24**|**Noise-Aware Distributed Quantum Approximate Optimization Algorithm on Near-term Quantum Hardware**|Kuan-Cheng Chen et.al.|[2407.17325](http://arxiv.org/abs/2407.17325)|null|
+|**2024-07-24**|**The Devil is in the Details: Complexity Powered Machine Intelligent Classification of Quantum Many-Body Dynamics**|Zhaoran Feng et.al.|[2407.17266](http://arxiv.org/abs/2407.17266)|null|
+|**2024-07-24**|**MoULDyS: Monitoring of Autonomous Systems in the Presence of Uncertainties**|Bineet Ghosh et.al.|[2407.17201](http://arxiv.org/abs/2407.17201)|null|
+|**2024-07-24**|**Neural Dueling Bandits**|Arun Verma et.al.|[2407.17112](http://arxiv.org/abs/2407.17112)|null|
+|**2024-07-24**|**Toward an Integrated Decision Making Framework for Optimized Stroke Diagnosis with DSA and Treatment under Uncertainty**|Nur Ahmad Khatim et.al.|[2407.16962](http://arxiv.org/abs/2407.16962)|null|
+|**2024-07-23**|**Trust Your Gut: Comparing Human and Machine Inference from Noisy Visualizations**|Ratanond Koonchanok et.al.|[2407.16871](http://arxiv.org/abs/2407.16871)|null|
+|**2024-07-23**|**Synth4Kws: Synthesized Speech for User Defined Keyword Spotting in Low Resource Environments**|Pai Zhu et.al.|[2407.16840](http://arxiv.org/abs/2407.16840)|null|
+|**2024-07-23**|**Distribution-Aware Robust Learning from Long-Tailed Data with Noisy Labels**|Jae Soon Baik et.al.|[2407.16802](http://arxiv.org/abs/2407.16802)|**[link](https://github.com/jaesoonbaik1213/dasc)**|
 |**2024-07-23**|**Determination of the flux terms in a time fractional viscoelastic equation**|Mohamed BenSalah et.al.|[2407.16621](http://arxiv.org/abs/2407.16621)|null|
 |**2024-07-23**|**HDRSplat: Gaussian Splatting for High Dynamic Range 3D Scene Reconstruction from Raw Images**|Shreyas Singh et.al.|[2407.16503](http://arxiv.org/abs/2407.16503)|null|
 |**2024-07-23**|**Neural information field filter**|Kairui Hao et.al.|[2407.16502](http://arxiv.org/abs/2407.16502)|null|
