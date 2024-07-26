@@ -14,6 +14,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-25**|**Implementing multi-controlled X gates using the quantum Fourier transform**|Vladimir V. Arsoski et.al.|[2407.18024](http://arxiv.org/abs/2407.18024)|null|
+|**2024-07-25**|**Continuous time Stochastic optimal control under discrete time partial observations**|Christian Bayer et.al.|[2407.18018](http://arxiv.org/abs/2407.18018)|null|
+|**2024-07-25**|**Multi-Stage Face-Voice Association Learning with Keynote Speaker Diarization**|Ruijie Tao et.al.|[2407.17902](http://arxiv.org/abs/2407.17902)|null|
+|**2024-07-25**|**Scalable circuit depth reduction in feedback-based quantum optimization with a quadratic approximation**|Don Arai et.al.|[2407.17810](http://arxiv.org/abs/2407.17810)|null|
+|**2024-07-25**|**Automatic Data Labeling for Software Vulnerability Prediction Models: How Far Are We?**|Triet H. M. Le et.al.|[2407.17803](http://arxiv.org/abs/2407.17803)|**[link](https://github.com/lhmtriet/autovul)**|
+|**2024-07-25**|**DAC: 2D-3D Retrieval with Noisy Labels via Divide-and-Conquer Alignment and Correction**|Chaofan Gan et.al.|[2407.17779](http://arxiv.org/abs/2407.17779)|null|
+|**2024-07-25**|**Distributed Memory Approximate Message Passing**|Jun Lu et.al.|[2407.17727](http://arxiv.org/abs/2407.17727)|null|
+|**2024-07-25**|**Describe Where You Are: Improving Noise-Robustness for Speech Emotion Recognition with Text Description of the Environment**|Seong-Gyun Leem et.al.|[2407.17716](http://arxiv.org/abs/2407.17716)|null|
 |**2024-07-24**|**CSCPR: Cross-Source-Context Indoor RGB-D Place Recognition**|Jing Liang et.al.|[2407.17457](http://arxiv.org/abs/2407.17457)|null|
 |**2024-07-24**|**Self-Calibrated Variance-Stabilizing Transformations for Real-World Image Denoising**|Sébastien Herbreteau et.al.|[2407.17399](http://arxiv.org/abs/2407.17399)|null|
 |**2024-07-24**|**Noise-Aware Distributed Quantum Approximate Optimization Algorithm on Near-term Quantum Hardware**|Kuan-Cheng Chen et.al.|[2407.17325](http://arxiv.org/abs/2407.17325)|null|
