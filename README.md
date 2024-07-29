@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.28
+## Updated on 2024.07.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -19,7 +19,7 @@
 |---|---|---|---|---|
 |**2024-07-25**|**Implementing multi-controlled X gates using the quantum Fourier transform**|Vladimir V. Arsoski et.al.|[2407.18024](http://arxiv.org/abs/2407.18024)|null|
 |**2024-07-25**|**Continuous time Stochastic optimal control under discrete time partial observations**|Christian Bayer et.al.|[2407.18018](http://arxiv.org/abs/2407.18018)|null|
-|**2024-07-25**|**Multi-Stage Face-Voice Association Learning with Keynote Speaker Diarization**|Ruijie Tao et.al.|[2407.17902](http://arxiv.org/abs/2407.17902)|null|
+|**2024-07-25**|**Multi-Stage Face-Voice Association Learning with Keynote Speaker Diarization**|Ruijie Tao et.al.|[2407.17902](http://arxiv.org/abs/2407.17902)|**[link](https://github.com/taoruijie/mfv-ksd)**|
 |**2024-07-25**|**Scalable circuit depth reduction in feedback-based quantum optimization with a quadratic approximation**|Don Arai et.al.|[2407.17810](http://arxiv.org/abs/2407.17810)|null|
 |**2024-07-25**|**Automatic Data Labeling for Software Vulnerability Prediction Models: How Far Are We?**|Triet H. M. Le et.al.|[2407.17803](http://arxiv.org/abs/2407.17803)|**[link](https://github.com/lhmtriet/autovul)**|
 |**2024-07-25**|**DAC: 2D-3D Retrieval with Noisy Labels via Divide-and-Conquer Alignment and Correction**|Chaofan Gan et.al.|[2407.17779](http://arxiv.org/abs/2407.17779)|null|
@@ -361,7 +361,7 @@
 |**2024-05-03**|**A Class of Numerical Semigroups Defined by Kunz and Waldi**|Srishti Singh et.al.|[2405.00331](http://arxiv.org/abs/2405.00331)|null|
 |**2024-04-26**|**Machine Learning based prediction of Vanadium Redox Flow Battery temperature rise under different charge-discharge conditions**|Anirudh Narayan D et.al.|[2404.17284](http://arxiv.org/abs/2404.17284)|null|
 
-<p align=right>(<a href=#updated-on-20240728>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240729>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

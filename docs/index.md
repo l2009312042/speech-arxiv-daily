@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.28
+## Updated on 2024.07.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## KWS
@@ -16,7 +16,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-07-25**|**Implementing multi-controlled X gates using the quantum Fourier transform**|Vladimir V. Arsoski et.al.|[2407.18024](http://arxiv.org/abs/2407.18024)|null|
 |**2024-07-25**|**Continuous time Stochastic optimal control under discrete time partial observations**|Christian Bayer et.al.|[2407.18018](http://arxiv.org/abs/2407.18018)|null|
-|**2024-07-25**|**Multi-Stage Face-Voice Association Learning with Keynote Speaker Diarization**|Ruijie Tao et.al.|[2407.17902](http://arxiv.org/abs/2407.17902)|null|
+|**2024-07-25**|**Multi-Stage Face-Voice Association Learning with Keynote Speaker Diarization**|Ruijie Tao et.al.|[2407.17902](http://arxiv.org/abs/2407.17902)|**[link](https://github.com/taoruijie/mfv-ksd)**|
 |**2024-07-25**|**Scalable circuit depth reduction in feedback-based quantum optimization with a quadratic approximation**|Don Arai et.al.|[2407.17810](http://arxiv.org/abs/2407.17810)|null|
 |**2024-07-25**|**Automatic Data Labeling for Software Vulnerability Prediction Models: How Far Are We?**|Triet H. M. Le et.al.|[2407.17803](http://arxiv.org/abs/2407.17803)|**[link](https://github.com/lhmtriet/autovul)**|
 |**2024-07-25**|**DAC: 2D-3D Retrieval with Noisy Labels via Divide-and-Conquer Alignment and Correction**|Chaofan Gan et.al.|[2407.17779](http://arxiv.org/abs/2407.17779)|null|
