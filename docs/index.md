@@ -14,6 +14,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-26**|**Adaptive Parameter Selection in Nudging Based Data Assimilation**|Aytekin Çıbık et.al.|[2407.18886](http://arxiv.org/abs/2407.18886)|null|
+|**2024-07-26**|**Utilizing TTS Synthesized Data for Efficient Development of Keyword Spotting Model**|Hyun Jin Park et.al.|[2407.18879](http://arxiv.org/abs/2407.18879)|null|
+|**2024-07-26**|**The Role of Temporal Hierarchy in Spiking Neural Networks**|Filippo Moro et.al.|[2407.18838](http://arxiv.org/abs/2407.18838)|null|
+|**2024-07-26**|**Distributionally Robust Kalman Filtering over Finite and Infinite Horizon**|Taylan Kargin et.al.|[2407.18837](http://arxiv.org/abs/2407.18837)|null|
+|**2024-07-26**|**Evaluating Human Trajectory Prediction with Metamorphic Testing**|Helge Spieker et.al.|[2407.18756](http://arxiv.org/abs/2407.18756)|null|
+|**2024-07-26**|**Contrastive Learning of Asset Embeddings from Financial Time Series**|Rian Dolphin et.al.|[2407.18645](http://arxiv.org/abs/2407.18645)|null|
+|**2024-07-26**|**Learning to Enhance Aperture Phasor Field for Non-Line-of-Sight Imaging**|In Cho et.al.|[2407.18574](http://arxiv.org/abs/2407.18574)|null|
+|**2024-07-26**|**Learning Robust Named Entity Recognizers From Noisy Data With Retrieval Augmentation**|Chaoyi Ai et.al.|[2407.18562](http://arxiv.org/abs/2407.18562)|null|
+|**2024-07-25**|**Quantum landscape tomography for efficient single-gate optimization on quantum computers**|Matan Ben-Dov et.al.|[2407.18305](http://arxiv.org/abs/2407.18305)|null|
 |**2024-07-25**|**Implementing multi-controlled X gates using the quantum Fourier transform**|Vladimir V. Arsoski et.al.|[2407.18024](http://arxiv.org/abs/2407.18024)|null|
 |**2024-07-25**|**Continuous time Stochastic optimal control under discrete time partial observations**|Christian Bayer et.al.|[2407.18018](http://arxiv.org/abs/2407.18018)|null|
 |**2024-07-25**|**Multi-Stage Face-Voice Association Learning with Keynote Speaker Diarization**|Ruijie Tao et.al.|[2407.17902](http://arxiv.org/abs/2407.17902)|**[link](https://github.com/taoruijie/mfv-ksd)**|
