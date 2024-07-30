@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.29
+## Updated on 2024.07.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## KWS
@@ -20,7 +20,7 @@ layout: default
 |**2024-07-26**|**Distributionally Robust Kalman Filtering over Finite and Infinite Horizon**|Taylan Kargin et.al.|[2407.18837](http://arxiv.org/abs/2407.18837)|null|
 |**2024-07-26**|**Evaluating Human Trajectory Prediction with Metamorphic Testing**|Helge Spieker et.al.|[2407.18756](http://arxiv.org/abs/2407.18756)|null|
 |**2024-07-26**|**Contrastive Learning of Asset Embeddings from Financial Time Series**|Rian Dolphin et.al.|[2407.18645](http://arxiv.org/abs/2407.18645)|null|
-|**2024-07-26**|**Learning to Enhance Aperture Phasor Field for Non-Line-of-Sight Imaging**|In Cho et.al.|[2407.18574](http://arxiv.org/abs/2407.18574)|null|
+|**2024-07-29**|**Learning to Enhance Aperture Phasor Field for Non-Line-of-Sight Imaging**|In Cho et.al.|[2407.18574](http://arxiv.org/abs/2407.18574)|null|
 |**2024-07-26**|**Learning Robust Named Entity Recognizers From Noisy Data With Retrieval Augmentation**|Chaoyi Ai et.al.|[2407.18562](http://arxiv.org/abs/2407.18562)|null|
 |**2024-07-25**|**Quantum landscape tomography for efficient single-gate optimization on quantum computers**|Matan Ben-Dov et.al.|[2407.18305](http://arxiv.org/abs/2407.18305)|null|
 |**2024-07-25**|**Implementing multi-controlled X gates using the quantum Fourier transform**|Vladimir V. Arsoski et.al.|[2407.18024](http://arxiv.org/abs/2407.18024)|null|
