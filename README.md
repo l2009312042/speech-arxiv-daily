@@ -17,6 +17,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-31**|**No-Go Theorems for Universal Entanglement Purification**|Allen Zang et.al.|[2407.21760](http://arxiv.org/abs/2407.21760)|null|
+|**2024-07-31**|**Generative Diffusion Model for Seismic Imaging Improvement of Sparsely Acquired Data and Uncertainty Quantification**|Xingchen Shi et.al.|[2407.21683](http://arxiv.org/abs/2407.21683)|null|
+|**2024-07-31**|**MarvelOVD: Marrying Object Recognition and Vision-Language Models for Robust Open-Vocabulary Object Detection**|Kuo Wang et.al.|[2407.21465](http://arxiv.org/abs/2407.21465)|null|
+|**2024-07-31**|**On the use of calibration data in error-aware compilation techniques for NISQ devices**|Handy Kurniawan et.al.|[2407.21462](http://arxiv.org/abs/2407.21462)|null|
+|**2024-07-31**|**MLLM Is a Strong Reranker: Advancing Multimodal Retrieval-augmented Generation via Knowledge-enhanced Reranking and Noise-injected Training**|Zhanpeng Chen et.al.|[2407.21439](http://arxiv.org/abs/2407.21439)|null|
+|**2024-07-30**|**NeuroSEM: A hybrid framework for simulating multiphysics problems by coupling PINNs and spectral elements**|Khemraj Shukla et.al.|[2407.21217](http://arxiv.org/abs/2407.21217)|null|
 |**2024-07-30**|**dopanim: A Dataset of Doppelganger Animals with Noisy Annotations from Multiple Humans**|Marek Herde et.al.|[2407.20950](http://arxiv.org/abs/2407.20950)|null|
 |**2024-07-30**|**Edge Learning Based Collaborative Automatic Modulation Classification for Hierarchical Cognitive Radio Networks**|Peihao Dong et.al.|[2407.20772](http://arxiv.org/abs/2407.20772)|**[link](https://github.com/AI4CogComm/CAMC)**|
 |**2024-07-30**|**Weak neural variational inference for solving Bayesian inverse problems without forward models: applications in elastography**|Vincent C. Scholz et.al.|[2407.20697](http://arxiv.org/abs/2407.20697)|null|
