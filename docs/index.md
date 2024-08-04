@@ -14,6 +14,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-01**|**You Can't Ignore Either: Unifying Structure and Feature Denoising for Robust Graph Learning**|Tianmeng Yang et.al.|[2408.00700](http://arxiv.org/abs/2408.00700)|null|
+|**2024-08-01**|**Harnessing Uncertainty-aware Bounding Boxes for Unsupervised 3D Object Detection**|Ruiyang Zhang et.al.|[2408.00619](http://arxiv.org/abs/2408.00619)|null|
+|**2024-08-01**|**Quantum Program Testing Through Commuting Pauli Strings on IBM's Quantum Computers**|Asmar Muqeet et.al.|[2408.00501](http://arxiv.org/abs/2408.00501)|null|
+|**2024-08-01**|**Goal-Oriented Semantic Communication for Wireless Image Transmission via Stable Diffusion**|Nan Li et.al.|[2408.00428](http://arxiv.org/abs/2408.00428)|null|
+|**2024-08-01**|**Quantitative Group Testing and Pooled Data in the Linear Regime with Sublinear Tests**|Nelvin Tan et.al.|[2408.00385](http://arxiv.org/abs/2408.00385)|null|
+|**2024-07-31**|**Semantic Codebook Learning for Dynamic Recommendation Models**|Zheqi Lv et.al.|[2408.00123](http://arxiv.org/abs/2408.00123)|null|
+|**2024-07-31**|**Sentinel-1 SAR Based Weakly Supervised Learning For Tropical Forest Mapping**|Adugna Mullissa et.al.|[2408.00107](http://arxiv.org/abs/2408.00107)|null|
+|**2024-07-31**|**Small correlation is sufficient for optimal noisy quantum metrology**|Chao Yin et.al.|[2408.00079](http://arxiv.org/abs/2408.00079)|null|
 |**2024-07-31**|**No-Go Theorems for Universal Entanglement Purification**|Allen Zang et.al.|[2407.21760](http://arxiv.org/abs/2407.21760)|null|
 |**2024-07-31**|**Generative Diffusion Model for Seismic Imaging Improvement of Sparsely Acquired Data and Uncertainty Quantification**|Xingchen Shi et.al.|[2407.21683](http://arxiv.org/abs/2407.21683)|null|
 |**2024-07-31**|**MarvelOVD: Marrying Object Recognition and Vision-Language Models for Robust Open-Vocabulary Object Detection**|Kuo Wang et.al.|[2407.21465](http://arxiv.org/abs/2407.21465)|null|
