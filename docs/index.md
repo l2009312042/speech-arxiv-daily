@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-02**|**PC $^2$ : Pseudo-Classification Based Pseudo-Captioning for Noisy Correspondence Learning in Cross-Modal Retrieval**|Yue Duan et.al.|[2408.01349](http://arxiv.org/abs/2408.01349)|null|
+|**2024-08-02**|**Rubric-based Learner Modelling via Noisy Gates Bayesian Networks for Computational Thinking Skills Assessment**|Giorgia Adorni et.al.|[2408.01221](http://arxiv.org/abs/2408.01221)|null|
+|**2024-08-02**|**Continuous-Time Neural Networks Can Stably Memorize Random Spike Trains**|Hugo Aguettaz et.al.|[2408.01166](http://arxiv.org/abs/2408.01166)|null|
+|**2024-08-02**|**Adaptive Contrastive Decoding in Retrieval-Augmented Generation for Handling Noisy Contexts**|Youna Kim et.al.|[2408.01084](http://arxiv.org/abs/2408.01084)|null|
+|**2024-08-02**|**PhysMamba: Leveraging Dual-Stream Cross-Attention SSD for Remote Physiological Measurement**|Zhixin Yan et.al.|[2408.01077](http://arxiv.org/abs/2408.01077)|null|
+|**2024-08-02**|**Leveraging Large Language Models for Mobile App Review Feature Extraction**|Quim Motger et.al.|[2408.01063](http://arxiv.org/abs/2408.01063)|null|
+|**2024-08-02**|**Privacy-Preserving Split Learning with Vision Transformers using Patch-Wise Random and Noisy CutMix**|Seungeun Oh et.al.|[2408.01040](http://arxiv.org/abs/2408.01040)|null|
+|**2024-08-02**|**Distilling interpretable causal trees from causal forests**|Patrick Rehill et.al.|[2408.01023](http://arxiv.org/abs/2408.01023)|null|
+|**2024-08-02**|**A Logarithmic Depth Quantum Carry-Lookahead Modulo $(2^n-1)$ Adder**|Bhaskar Gaur et.al.|[2408.01002](http://arxiv.org/abs/2408.01002)|null|
+|**2024-08-02**|**Reconstructing Richtmyer-Meshkov instabilities from noisy radiographs using low dimensional features and attention-based neural networks**|Daniel A. Serino et.al.|[2408.00985](http://arxiv.org/abs/2408.00985)|null|
 |**2024-08-01**|**You Can't Ignore Either: Unifying Structure and Feature Denoising for Robust Graph Learning**|Tianmeng Yang et.al.|[2408.00700](http://arxiv.org/abs/2408.00700)|null|
 |**2024-08-01**|**Harnessing Uncertainty-aware Bounding Boxes for Unsupervised 3D Object Detection**|Ruiyang Zhang et.al.|[2408.00619](http://arxiv.org/abs/2408.00619)|null|
 |**2024-08-01**|**Quantum Program Testing Through Commuting Pauli Strings on IBM's Quantum Computers**|Asmar Muqeet et.al.|[2408.00501](http://arxiv.org/abs/2408.00501)|null|
