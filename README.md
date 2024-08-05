@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.04
+## Updated on 2024.08.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -23,7 +23,7 @@
 |**2024-08-01**|**Goal-Oriented Semantic Communication for Wireless Image Transmission via Stable Diffusion**|Nan Li et.al.|[2408.00428](http://arxiv.org/abs/2408.00428)|null|
 |**2024-08-01**|**Quantitative Group Testing and Pooled Data in the Linear Regime with Sublinear Tests**|Nelvin Tan et.al.|[2408.00385](http://arxiv.org/abs/2408.00385)|null|
 |**2024-07-31**|**Semantic Codebook Learning for Dynamic Recommendation Models**|Zheqi Lv et.al.|[2408.00123](http://arxiv.org/abs/2408.00123)|null|
-|**2024-07-31**|**Sentinel-1 SAR Based Weakly Supervised Learning For Tropical Forest Mapping**|Adugna Mullissa et.al.|[2408.00107](http://arxiv.org/abs/2408.00107)|null|
+|**2024-08-02**|**Sentinel-1 SAR Based Weakly Supervised Learning For Tropical Forest Mapping**|Adugna Mullissa et.al.|[2408.00107](http://arxiv.org/abs/2408.00107)|null|
 |**2024-07-31**|**Small correlation is sufficient for optimal noisy quantum metrology**|Chao Yin et.al.|[2408.00079](http://arxiv.org/abs/2408.00079)|null|
 |**2024-07-31**|**No-Go Theorems for Universal Entanglement Purification**|Allen Zang et.al.|[2407.21760](http://arxiv.org/abs/2407.21760)|null|
 |**2024-07-31**|**Generative Diffusion Model for Seismic Imaging Improvement of Sparsely Acquired Data and Uncertainty Quantification**|Xingchen Shi et.al.|[2407.21683](http://arxiv.org/abs/2407.21683)|null|
@@ -401,7 +401,7 @@
 |**2024-05-03**|**A Class of Numerical Semigroups Defined by Kunz and Waldi**|Srishti Singh et.al.|[2405.00331](http://arxiv.org/abs/2405.00331)|null|
 |**2024-04-26**|**Machine Learning based prediction of Vanadium Redox Flow Battery temperature rise under different charge-discharge conditions**|Anirudh Narayan D et.al.|[2404.17284](http://arxiv.org/abs/2404.17284)|null|
 
-<p align=right>(<a href=#updated-on-20240804>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240805>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
