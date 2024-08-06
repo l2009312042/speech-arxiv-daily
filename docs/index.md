@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-05**|**Strategic Federated Learning: Application to Smart Meter Data Clustering**|Hassan Mohamad et.al.|[2408.02384](http://arxiv.org/abs/2408.02384)|null|
+|**2024-08-05**|**Cross Psuedo Supervision Framework for Sparsely Labelled Geo-spatial Images**|Yash Dixit et.al.|[2408.02382](http://arxiv.org/abs/2408.02382)|null|
+|**2024-08-05**|**How cosmological expansion affects communication between distant quantum systems**|Alessio Lapponi et.al.|[2408.02351](http://arxiv.org/abs/2408.02351)|null|
+|**2024-08-05**|**Perception Matters: Enhancing Embodied AI with Uncertainty-Aware Semantic Segmentation**|Sai Prasanna et.al.|[2408.02297](http://arxiv.org/abs/2408.02297)|null|
+|**2024-08-05**|**Cascading Refinement Video Denoising with Uncertainty Adaptivity**|Xinyuan Yu et.al.|[2408.02284](http://arxiv.org/abs/2408.02284)|null|
+|**2024-08-05**|**Enhanced quantum hypothesis testing via the interplay between coherent evolution and noises**|Qing Li et.al.|[2408.02282](http://arxiv.org/abs/2408.02282)|null|
+|**2024-08-05**|**Noise Suppression for CRP Gathers Based on Self2Self with Dropout**|Fei Li et.al.|[2408.02187](http://arxiv.org/abs/2408.02187)|null|
+|**2024-08-04**|**AvatarPose: Avatar-guided 3D Pose Estimation of Close Human Interaction from Sparse Multi-view Videos**|Feichi Lu et.al.|[2408.02110](http://arxiv.org/abs/2408.02110)|null|
+|**2024-08-04**|**First Order Stochastic Optimization with Oblivious Noise**|Ilias Diakonikolas et.al.|[2408.02090](http://arxiv.org/abs/2408.02090)|null|
+|**2024-08-04**|**Winners with Confidence: Discrete Argmin Inference with an Application to Model Selection**|Tianyu Zhang et.al.|[2408.02060](http://arxiv.org/abs/2408.02060)|null|
 |**2024-08-02**|**PC $^2$ : Pseudo-Classification Based Pseudo-Captioning for Noisy Correspondence Learning in Cross-Modal Retrieval**|Yue Duan et.al.|[2408.01349](http://arxiv.org/abs/2408.01349)|null|
 |**2024-08-02**|**Rubric-based Learner Modelling via Noisy Gates Bayesian Networks for Computational Thinking Skills Assessment**|Giorgia Adorni et.al.|[2408.01221](http://arxiv.org/abs/2408.01221)|null|
 |**2024-08-02**|**Continuous-Time Neural Networks Can Stably Memorize Random Spike Trains**|Hugo Aguettaz et.al.|[2408.01166](http://arxiv.org/abs/2408.01166)|null|
