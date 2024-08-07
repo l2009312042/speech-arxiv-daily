@@ -17,6 +17,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-06**|**Making Long-Context Language Models Better Multi-Hop Reasoners**|Yanyang Li et.al.|[2408.03246](http://arxiv.org/abs/2408.03246)|null|
+|**2024-08-06**|**Stochastic Trajectory Optimization for Demonstration Imitation**|Chenlin Ming et.al.|[2408.03131](http://arxiv.org/abs/2408.03131)|null|
+|**2024-08-06**|**Benchmarking Variational Quantum Algorithms for Combinatorial Optimization in Practice**|Tim Schwägerl et.al.|[2408.03073](http://arxiv.org/abs/2408.03073)|null|
+|**2024-08-06**|**ASR-enhanced Multimodal Representation Learning for Cross-Domain Product Retrieval**|Ruixiang Zhao et.al.|[2408.02978](http://arxiv.org/abs/2408.02978)|null|
+|**2024-08-05**|**Active Learning for WBAN-based Health Monitoring**|Cho-Chun Chiu et.al.|[2408.02849](http://arxiv.org/abs/2408.02849)|null|
+|**2024-08-05**|**Scrambling-induced entanglement suppression in noisy quantum circuits**|Lea Haas et.al.|[2408.02810](http://arxiv.org/abs/2408.02810)|null|
+|**2024-08-05**|**DUST: A Framework for Data-Driven Density Steering**|Joshua Pilipovsky et.al.|[2408.02777](http://arxiv.org/abs/2408.02777)|null|
 |**2024-08-05**|**Strategic Federated Learning: Application to Smart Meter Data Clustering**|Hassan Mohamad et.al.|[2408.02384](http://arxiv.org/abs/2408.02384)|null|
 |**2024-08-05**|**Cross Psuedo Supervision Framework for Sparsely Labelled Geo-spatial Images**|Yash Dixit et.al.|[2408.02382](http://arxiv.org/abs/2408.02382)|null|
 |**2024-08-05**|**How cosmological expansion affects communication between distant quantum systems**|Alessio Lapponi et.al.|[2408.02351](http://arxiv.org/abs/2408.02351)|null|
