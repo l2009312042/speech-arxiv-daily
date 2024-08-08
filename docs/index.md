@@ -14,6 +14,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-07**|**Fluctuation of coherences in noisy mesoscopic quantum systems with diffusive transport**|Ludwig Hruza et.al.|[2408.03917](http://arxiv.org/abs/2408.03917)|null|
+|**2024-08-07**|**Hamiltonian learning for 300 trapped ion qubits with long-range couplings**|S. -A. Guo et.al.|[2408.03801](http://arxiv.org/abs/2408.03801)|null|
+|**2024-08-07**|**Efficient Digital Quadratic Unconstrained Binary Optimization Solvers for SAT Problems**|Robert Simon Fong et.al.|[2408.03757](http://arxiv.org/abs/2408.03757)|**[link](https://github.com/seashell-s/qubo-3sat)**|
+|**2024-08-07**|**TALE: Training-free Cross-domain Image Composition via Adaptive Latent Manipulation and Energy-guided Optimization**|Kien T. Pham et.al.|[2408.03637](http://arxiv.org/abs/2408.03637)|null|
+|**2024-08-07**|**Bridging the Gap between Audio and Text using Parallel-attention for User-defined Keyword Spotting**|Youkyum Kim et.al.|[2408.03593](http://arxiv.org/abs/2408.03593)|null|
+|**2024-08-07**|**2D-OOB: Attributing Data Contribution through Joint Valuation Framework**|Yifan Sun et.al.|[2408.03572](http://arxiv.org/abs/2408.03572)|null|
+|**2024-08-07**|**SLRQA: A Sparse Low-Rank Quaternion Model for Color Image Processing with Convergence Analysis**|Zhanwang Deng et.al.|[2408.03563](http://arxiv.org/abs/2408.03563)|null|
+|**2024-08-06**|**Bayesian learning with Gaussian processes for low-dimensional representations of time-dependent nonlinear systems**|Shane A. McQuarrie et.al.|[2408.03455](http://arxiv.org/abs/2408.03455)|null|
+|**2024-08-06**|**Entanglement-enhanced learning of quantum processes at scale**|Alireza Seif et.al.|[2408.03376](http://arxiv.org/abs/2408.03376)|null|
 |**2024-08-06**|**Making Long-Context Language Models Better Multi-Hop Reasoners**|Yanyang Li et.al.|[2408.03246](http://arxiv.org/abs/2408.03246)|**[link](https://github.com/lavi-lab/longcontextreasoner)**|
 |**2024-08-07**|**Stochastic Trajectory Optimization for Demonstration Imitation**|Chenlin Ming et.al.|[2408.03131](http://arxiv.org/abs/2408.03131)|null|
 |**2024-08-06**|**Benchmarking Variational Quantum Algorithms for Combinatorial Optimization in Practice**|Tim Schwägerl et.al.|[2408.03073](http://arxiv.org/abs/2408.03073)|null|
