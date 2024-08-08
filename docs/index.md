@@ -7,15 +7,15 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.07
+## Updated on 2024.08.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## KWS
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-08-06**|**Making Long-Context Language Models Better Multi-Hop Reasoners**|Yanyang Li et.al.|[2408.03246](http://arxiv.org/abs/2408.03246)|null|
-|**2024-08-06**|**Stochastic Trajectory Optimization for Demonstration Imitation**|Chenlin Ming et.al.|[2408.03131](http://arxiv.org/abs/2408.03131)|null|
+|**2024-08-06**|**Making Long-Context Language Models Better Multi-Hop Reasoners**|Yanyang Li et.al.|[2408.03246](http://arxiv.org/abs/2408.03246)|**[link](https://github.com/lavi-lab/longcontextreasoner)**|
+|**2024-08-07**|**Stochastic Trajectory Optimization for Demonstration Imitation**|Chenlin Ming et.al.|[2408.03131](http://arxiv.org/abs/2408.03131)|null|
 |**2024-08-06**|**Benchmarking Variational Quantum Algorithms for Combinatorial Optimization in Practice**|Tim Schwägerl et.al.|[2408.03073](http://arxiv.org/abs/2408.03073)|null|
 |**2024-08-06**|**ASR-enhanced Multimodal Representation Learning for Cross-Domain Product Retrieval**|Ruixiang Zhao et.al.|[2408.02978](http://arxiv.org/abs/2408.02978)|null|
 |**2024-08-05**|**Active Learning for WBAN-based Health Monitoring**|Cho-Chun Chiu et.al.|[2408.02849](http://arxiv.org/abs/2408.02849)|null|
