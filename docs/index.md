@@ -14,6 +14,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-08**|**Learn To Learn More Precisely**|Runxi Cheng et.al.|[2408.04590](http://arxiv.org/abs/2408.04590)|null|
+|**2024-08-08**|**One-Shot Method for Computing Generalized Winding Numbers**|Cedric Martens et.al.|[2408.04466](http://arxiv.org/abs/2408.04466)|null|
+|**2024-08-08**|**Detection of Animal Movement from Weather Radar using Self-Supervised Learning**|Mubin Ul Haque et.al.|[2408.04424](http://arxiv.org/abs/2408.04424)|null|
+|**2024-08-08**|**MultiViPerFrOG: A Globally Optimized Multi-Viewpoint Perception Framework for Camera Motion and Tissue Deformation**|Guido Caccianiga et.al.|[2408.04367](http://arxiv.org/abs/2408.04367)|null|
+|**2024-08-08**|**Tackling Noisy Clients in Federated Learning with End-to-end Label Correction**|Xuefeng Jiang et.al.|[2408.04301](http://arxiv.org/abs/2408.04301)|**[link](https://github.com/sprinter1999/fedelc)**|
+|**2024-08-07**|**Active Inference in Contextual Multi-Armed Bandits for Autonomous Robotic Exploration**|Shohei Wakayama et.al.|[2408.04119](http://arxiv.org/abs/2408.04119)|null|
+|**2024-08-07**|**Learning from Noisy Labels for Long-tailed Data via Optimal Transport**|Mengting Li et.al.|[2408.03977](http://arxiv.org/abs/2408.03977)|null|
 |**2024-08-07**|**Fluctuation of coherences in noisy mesoscopic quantum systems with diffusive transport**|Ludwig Hruza et.al.|[2408.03917](http://arxiv.org/abs/2408.03917)|null|
 |**2024-08-07**|**Hamiltonian learning for 300 trapped ion qubits with long-range couplings**|S. -A. Guo et.al.|[2408.03801](http://arxiv.org/abs/2408.03801)|null|
 |**2024-08-07**|**Efficient Digital Quadratic Unconstrained Binary Optimization Solvers for SAT Problems**|Robert Simon Fong et.al.|[2408.03757](http://arxiv.org/abs/2408.03757)|**[link](https://github.com/seashell-s/qubo-3sat)**|
