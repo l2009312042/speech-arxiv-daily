@@ -14,6 +14,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-09**|**Neuromorphic Keyword Spotting with Pulse Density Modulation MEMS Microphones**|Sidi Yaya Arnaud Yarga et.al.|[2408.05156](http://arxiv.org/abs/2408.05156)|null|
+|**2024-08-09**|**Passive error correction with a qubit-oscillator system in noisy environment**|Yanzhang Zhu et.al.|[2408.05145](http://arxiv.org/abs/2408.05145)|null|
+|**2024-08-09**|**Bootstrap Latents of Nodes and Neighbors for Graph Self-Supervised Learning**|Yunhui Liu et.al.|[2408.05087](http://arxiv.org/abs/2408.05087)|**[link](https://github.com/cloudy1225/blnn)**|
+|**2024-08-09**|**Robust Backstepping Control of a Quadrotor Unmanned Aerial Vehicle Under Colored Noises**|Mehmet Karahan et.al.|[2408.05022](http://arxiv.org/abs/2408.05022)|null|
+|**2024-08-09**|**Learning symmetry-protected topological order from trapped-ion experiments**|Nicolas Sadoune et.al.|[2408.05017](http://arxiv.org/abs/2408.05017)|null|
+|**2024-08-09**|**Model Debiasing by Learnable Data Augmentation**|Pietro Morerio et.al.|[2408.04955](http://arxiv.org/abs/2408.04955)|null|
+|**2024-08-08**|**Hybrid Quantum-Classical Neural Networks for Downlink Beamforming Optimization**|Juping Zhang et.al.|[2408.04747](http://arxiv.org/abs/2408.04747)|null|
+|**2024-08-08**|**Quantum Neural Network Training of a Repeater Node**|Diego Fuentealba et.al.|[2408.04709](http://arxiv.org/abs/2408.04709)|null|
 |**2024-08-08**|**Learn To Learn More Precisely**|Runxi Cheng et.al.|[2408.04590](http://arxiv.org/abs/2408.04590)|null|
 |**2024-08-08**|**One-Shot Method for Computing Generalized Winding Numbers**|Cedric Martens et.al.|[2408.04466](http://arxiv.org/abs/2408.04466)|null|
 |**2024-08-08**|**Detection of Animal Movement from Weather Radar using Self-Supervised Learning**|Mubin Ul Haque et.al.|[2408.04424](http://arxiv.org/abs/2408.04424)|null|
