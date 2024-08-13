@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-12**|**Can We Rely on LLM Agents to Draft Long-Horizon Plans? Let's Take TravelPlanner as an Example**|Yanan Chen et.al.|[2408.06318](http://arxiv.org/abs/2408.06318)|null|
+|**2024-08-12**|**Dynamical resource theory of incompatibility preservability**|Chung-Yun Hsieh et.al.|[2408.06315](http://arxiv.org/abs/2408.06315)|null|
+|**2024-08-12**|**Sparsity Based Multi-Source Robust 3D Localization Using a Moving Receiver**|Amir Mansourian et.al.|[2408.06274](http://arxiv.org/abs/2408.06274)|null|
+|**2024-08-12**|**Audio Enhancement for Computer Audition -- An Iterative Training Paradigm Using Sample Importance**|Manuel Milling et.al.|[2408.06264](http://arxiv.org/abs/2408.06264)|null|
+|**2024-08-12**|**FaasMeter: Energy-First Serverless Computing**|Abdul Rehman et.al.|[2408.06130](http://arxiv.org/abs/2408.06130)|null|
+|**2024-08-12**|**Identifying Total Causal Effects in Linear Models under Partial Homoscedasticity**|David Strieder et.al.|[2408.06046](http://arxiv.org/abs/2408.06046)|null|
+|**2024-08-12**|**Enhancing Dialogue Speech Recognition with Robust Contextual Awareness via Noise Representation Learning**|Wonjun Lee et.al.|[2408.06043](http://arxiv.org/abs/2408.06043)|null|
+|**2024-08-12**|**Parameters Inference for Nonlinear Wave Equations with Markovian Switching**|Yi Zhang et.al.|[2408.05990](http://arxiv.org/abs/2408.05990)|null|
+|**2024-08-12**|**Uncertainty Quantification of Spectral Estimator and MLE for Orthogonal Group Synchronization**|Ziliang Samuel Zhong et.al.|[2408.05944](http://arxiv.org/abs/2408.05944)|null|
+|**2024-08-12**|**Spb3DTracker: A Robust LiDAR-Based Person Tracker for Noisy Environmen**|Eunsoo Im et.al.|[2408.05940](http://arxiv.org/abs/2408.05940)|null|
 |**2024-08-09**|**Neuromorphic Keyword Spotting with Pulse Density Modulation MEMS Microphones**|Sidi Yaya Arnaud Yarga et.al.|[2408.05156](http://arxiv.org/abs/2408.05156)|null|
 |**2024-08-09**|**Passive error correction with a qubit-oscillator system in noisy environment**|Yanzhang Zhu et.al.|[2408.05145](http://arxiv.org/abs/2408.05145)|null|
 |**2024-08-09**|**Bootstrap Latents of Nodes and Neighbors for Graph Self-Supervised Learning**|Yunhui Liu et.al.|[2408.05087](http://arxiv.org/abs/2408.05087)|**[link](https://github.com/cloudy1225/blnn)**|
