@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.13
+## Updated on 2024.08.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -26,7 +26,7 @@
 |**2024-08-12**|**Enhancing Dialogue Speech Recognition with Robust Contextual Awareness via Noise Representation Learning**|Wonjun Lee et.al.|[2408.06043](http://arxiv.org/abs/2408.06043)|null|
 |**2024-08-12**|**Parameters Inference for Nonlinear Wave Equations with Markovian Switching**|Yi Zhang et.al.|[2408.05990](http://arxiv.org/abs/2408.05990)|null|
 |**2024-08-12**|**Uncertainty Quantification of Spectral Estimator and MLE for Orthogonal Group Synchronization**|Ziliang Samuel Zhong et.al.|[2408.05944](http://arxiv.org/abs/2408.05944)|null|
-|**2024-08-12**|**Spb3DTracker: A Robust LiDAR-Based Person Tracker for Noisy Environmen**|Eunsoo Im et.al.|[2408.05940](http://arxiv.org/abs/2408.05940)|null|
+|**2024-08-13**|**Spb3DTracker: A Robust LiDAR-Based Person Tracker for Noisy Environment**|Eunsoo Im et.al.|[2408.05940](http://arxiv.org/abs/2408.05940)|null|
 |**2024-08-09**|**Neuromorphic Keyword Spotting with Pulse Density Modulation MEMS Microphones**|Sidi Yaya Arnaud Yarga et.al.|[2408.05156](http://arxiv.org/abs/2408.05156)|null|
 |**2024-08-09**|**Passive error correction with a qubit-oscillator system in noisy environment**|Yanzhang Zhu et.al.|[2408.05145](http://arxiv.org/abs/2408.05145)|null|
 |**2024-08-09**|**Bootstrap Latents of Nodes and Neighbors for Graph Self-Supervised Learning**|Yunhui Liu et.al.|[2408.05087](http://arxiv.org/abs/2408.05087)|**[link](https://github.com/cloudy1225/blnn)**|
@@ -462,7 +462,7 @@
 |**2024-05-03**|**A Class of Numerical Semigroups Defined by Kunz and Waldi**|Srishti Singh et.al.|[2405.00331](http://arxiv.org/abs/2405.00331)|null|
 |**2024-04-26**|**Machine Learning based prediction of Vanadium Redox Flow Battery temperature rise under different charge-discharge conditions**|Anirudh Narayan D et.al.|[2404.17284](http://arxiv.org/abs/2404.17284)|null|
 
-<p align=right>(<a href=#updated-on-20240813>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240814>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
