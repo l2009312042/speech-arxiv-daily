@@ -17,6 +17,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-13**|**Faster Private Minimum Spanning Trees**|Rasmus Pagh et.al.|[2408.06997](http://arxiv.org/abs/2408.06997)|null|
+|**2024-08-13**|**DCMSA: Multi-Head Self-Attention Mechanism Based on Deformable Convolution For Seismic Data Denoising**|Wang Mingwei et.al.|[2408.06963](http://arxiv.org/abs/2408.06963)|null|
+|**2024-08-13**|**Heterogeneous Space Fusion and Dual-Dimension Attention: A New Paradigm for Speech Enhancement**|Tao Zheng et.al.|[2408.06911](http://arxiv.org/abs/2408.06911)|null|
+|**2024-08-13**|**Enhancing Multiview Synergy: Robust Learning by Exploiting the Wave Loss Function with Consensus and Complementarity Principles**|A. Quadir et.al.|[2408.06819](http://arxiv.org/abs/2408.06819)|null|
+|**2024-08-13**|**How to Best Combine Demosaicing and Denoising?**|Yu Guo et.al.|[2408.06684](http://arxiv.org/abs/2408.06684)|null|
+|**2024-08-13**|**WorldScribe: Towards Context-Aware Live Visual Descriptions**|Ruei-Che Chang et.al.|[2408.06627](http://arxiv.org/abs/2408.06627)|null|
+|**2024-08-12**|**Optimized filter functions for filtered back projection reconstructions**|Matthias Beckmann et.al.|[2408.06471](http://arxiv.org/abs/2408.06471)|null|
+|**2024-08-12**|**Multi-View Neural Differential Equations for Continuous-Time Stream Data in Long-Term Traffic Forecasting**|Zibo Liu et.al.|[2408.06445](http://arxiv.org/abs/2408.06445)|null|
 |**2024-08-12**|**Can We Rely on LLM Agents to Draft Long-Horizon Plans? Let's Take TravelPlanner as an Example**|Yanan Chen et.al.|[2408.06318](http://arxiv.org/abs/2408.06318)|null|
 |**2024-08-12**|**Dynamical resource theory of incompatibility preservability**|Chung-Yun Hsieh et.al.|[2408.06315](http://arxiv.org/abs/2408.06315)|null|
 |**2024-08-12**|**Sparsity Based Multi-Source Robust 3D Localization Using a Moving Receiver**|Amir Mansourian et.al.|[2408.06274](http://arxiv.org/abs/2408.06274)|null|
