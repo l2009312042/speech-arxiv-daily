@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-15**|**Aliasing and Label-Independent Decomposition of Risk: Beyond the bias-variance trade-off**|Mark K. Transtrum et.al.|[2408.08294](http://arxiv.org/abs/2408.08294)|null|
+|**2024-08-15**|**Derivative-Free Guidance in Continuous and Discrete Diffusion Models with Soft Value-Based Decoding**|Xiner Li et.al.|[2408.08252](http://arxiv.org/abs/2408.08252)|null|
+|**2024-08-15**|**LLM4DSR: Leveraing Large Language Model for Denoising Sequential Recommendation**|Bohao Wang et.al.|[2408.08208](http://arxiv.org/abs/2408.08208)|null|
+|**2024-08-15**|**Online ML-based Joint Channel Estimation and MIMO Decoding for Dynamic Channels**|Luiz Fernando Moreira Teixeira et.al.|[2408.08186](http://arxiv.org/abs/2408.08186)|null|
+|**2024-08-15**|**The evolution of inharmonicity and noisiness in contemporary popular music**|Emmanuel Deruty et.al.|[2408.08127](http://arxiv.org/abs/2408.08127)|null|
+|**2024-08-15**|**Learned denoising with simulated and experimental low-dose CT data**|Maximilian B. Kiss et.al.|[2408.08115](http://arxiv.org/abs/2408.08115)|null|
+|**2024-08-15**|**Adaptation of uncertainty-penalized Bayesian information criterion for parametric partial differential equation discovery**|Pongpisit Thanasutives et.al.|[2408.08106](http://arxiv.org/abs/2408.08106)|**[link](https://github.com/pongpisit-thanasutives/parametric-discovery)**|
+|**2024-08-15**|**Accelerating High-Fidelity Waveform Generation via Adversarial Flow Matching Optimization**|Sang-Hoon Lee et.al.|[2408.08019](http://arxiv.org/abs/2408.08019)|**[link](https://github.com/sh-lee-prml/periodwave)**|
+|**2024-08-15**|**Robust Offline Active Learning on Graphs**|Yuanchen Wu et.al.|[2408.07941](http://arxiv.org/abs/2408.07941)|null|
+|**2024-08-15**|**A quantum-classical hybrid algorithm with Ising model for the learning with errors problem**|Muxi Zheng et.al.|[2408.07936](http://arxiv.org/abs/2408.07936)|null|
 |**2024-08-14**|**On the Parameter Selection of Phase-transmittance Radial Basis Function Neural Networks for Communication Systems**|Jonathan A. Soares et.al.|[2408.07692](http://arxiv.org/abs/2408.07692)|null|
 |**2024-08-14**|**Disentangle and denoise: Tackling context misalignment for video moment retrieval**|Kaijing Ma et.al.|[2408.07600](http://arxiv.org/abs/2408.07600)|null|
 |**2024-08-14**|**Evidential Graph Contrastive Alignment for Source-Free Blending-Target Domain Adaptation**|Juepeng Zheng et.al.|[2408.07527](http://arxiv.org/abs/2408.07527)|null|
