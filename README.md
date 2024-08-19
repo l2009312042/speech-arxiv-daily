@@ -17,6 +17,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-16**|**DPA: Dual Prototypes Alignment for Unsupervised Adaptation of Vision-Language Models**|Eman Ali et.al.|[2408.08855](http://arxiv.org/abs/2408.08855)|null|
+|**2024-08-16**|**Shapley Marginal Surplus for Strong Models**|Daniel de Marchi et.al.|[2408.08845](http://arxiv.org/abs/2408.08845)|null|
+|**2024-08-16**|**Gaussian Processes with Noisy Regression Inputs for Dynamical Systems**|Tobias M. Wolff et.al.|[2408.08834](http://arxiv.org/abs/2408.08834)|null|
+|**2024-08-16**|**MicroSSIM: Improved Structural Similarity for Comparing Microscopy Data**|Ashesh Ashesh et.al.|[2408.08747](http://arxiv.org/abs/2408.08747)|**[link](https://github.com/juglab/microssim)**|
+|**2024-08-16**|**Stability of Fixed Points for Nonlinear Selfconsistent Transfer Operators via Cone Contractions**|Roberto Castorrini et.al.|[2408.08745](http://arxiv.org/abs/2408.08745)|null|
+|**2024-08-16**|**Noisy information channel mediated prevention of the tragedy of the commons**|Samrat Sohel Mondal et.al.|[2408.08744](http://arxiv.org/abs/2408.08744)|null|
+|**2024-08-16**|**QMambaBSR: Burst Image Super-Resolution with Query State Space Model**|Xin Di et.al.|[2408.08665](http://arxiv.org/abs/2408.08665)|null|
+|**2024-08-16**|**Unsupervised Non-Rigid Point Cloud Matching through Large Vision Models**|Zhangquan Chen et.al.|[2408.08568](http://arxiv.org/abs/2408.08568)|null|
+|**2024-08-16**|**Model free data assimilation with Takens embedding**|Ziyi Wang et.al.|[2408.08476](http://arxiv.org/abs/2408.08476)|null|
 |**2024-08-15**|**Aliasing and Label-Independent Decomposition of Risk: Beyond the bias-variance trade-off**|Mark K. Transtrum et.al.|[2408.08294](http://arxiv.org/abs/2408.08294)|null|
 |**2024-08-15**|**Derivative-Free Guidance in Continuous and Discrete Diffusion Models with Soft Value-Based Decoding**|Xiner Li et.al.|[2408.08252](http://arxiv.org/abs/2408.08252)|null|
 |**2024-08-15**|**LLM4DSR: Leveraing Large Language Model for Denoising Sequential Recommendation**|Bohao Wang et.al.|[2408.08208](http://arxiv.org/abs/2408.08208)|null|
