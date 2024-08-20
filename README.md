@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-19**|**Robust spectral clustering with rank statistics**|Joshua Cape et.al.|[2408.10136](http://arxiv.org/abs/2408.10136)|null|
+|**2024-08-19**|**Factorized-Dreamer: Training A High-Quality Video Generator with Limited and Low-Quality Data**|Tao Yang et.al.|[2408.10119](http://arxiv.org/abs/2408.10119)|null|
+|**2024-08-19**|**PLUTUS: A Well Pre-trained Large Unified Transformer can Unveil Financial Time Series Regularities**|Yuanjian Xu et.al.|[2408.10111](http://arxiv.org/abs/2408.10111)|null|
+|**2024-08-19**|**A discrete Consensus-Based Global Optimization Method with Noisy Objective Function**|Stefania Bellavia et.al.|[2408.10078](http://arxiv.org/abs/2408.10078)|null|
+|**2024-08-19**|**LNQ 2023 challenge: Benchmark of weakly-supervised techniques for mediastinal lymph node quantification**|Reuben Dorent et.al.|[2408.10069](http://arxiv.org/abs/2408.10069)|null|
+|**2024-08-19**|**CLIPCleaner: Cleaning Noisy Labels with CLIP**|Chen Feng et.al.|[2408.10012](http://arxiv.org/abs/2408.10012)|null|
+|**2024-08-19**|**Seriation of Tœplitz and latent position matrices: optimal rates and computational trade-offs**|Clément Berenfeld et.al.|[2408.10004](http://arxiv.org/abs/2408.10004)|null|
+|**2024-08-19**|**Confirmation Bias in Gaussian Mixture Models**|Amnon Balanov et.al.|[2408.09718](http://arxiv.org/abs/2408.09718)|null|
+|**2024-08-19**|**Linear-Quadratic Mean-Field Game for Stochastic Systems with Partial Observation**|Min Li et.al.|[2408.09652](http://arxiv.org/abs/2408.09652)|null|
+|**2024-08-18**|**Enhancing Quantum Memory Lifetime with Measurement-Free Local Error Correction and Reinforcement Learning**|Mincheol Park et.al.|[2408.09524](http://arxiv.org/abs/2408.09524)|null|
 |**2024-08-16**|**DPA: Dual Prototypes Alignment for Unsupervised Adaptation of Vision-Language Models**|Eman Ali et.al.|[2408.08855](http://arxiv.org/abs/2408.08855)|null|
 |**2024-08-16**|**Shapley Marginal Surplus for Strong Models**|Daniel de Marchi et.al.|[2408.08845](http://arxiv.org/abs/2408.08845)|null|
 |**2024-08-16**|**Gaussian Processes with Noisy Regression Inputs for Dynamical Systems**|Tobias M. Wolff et.al.|[2408.08834](http://arxiv.org/abs/2408.08834)|null|
