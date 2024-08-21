@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-20**|**Bounding the systematic error in quantum error mitigation due to model violation**|L. C. G. Govia et.al.|[2408.10985](http://arxiv.org/abs/2408.10985)|null|
+|**2024-08-20**|**Robust Regression with Ensembles Communicating over Noisy Channels**|Yuval Ben-Hur et.al.|[2408.10942](http://arxiv.org/abs/2408.10942)|null|
+|**2024-08-20**|**TrackNeRF: Bundle Adjusting NeRF from Sparse and Noisy Views via Feature Tracks**|Jinjie Mai et.al.|[2408.10739](http://arxiv.org/abs/2408.10739)|null|
+|**2024-08-20**|**Finding the DeepDream for Time Series: Activation Maximization for Univariate Time Series**|Udo Schlegel et.al.|[2408.10628](http://arxiv.org/abs/2408.10628)|null|
+|**2024-08-20**|**Diff-PCC: Diffusion-based Neural Compression for 3D Point Clouds**|Kai Liu et.al.|[2408.10543](http://arxiv.org/abs/2408.10543)|null|
+|**2024-08-20**|**Generative Diffusion Models for High Dimensional Channel Estimation**|Xingyu Zhou et.al.|[2408.10501](http://arxiv.org/abs/2408.10501)|null|
+|**2024-08-20**|**Adversarial training of Keyword Spotting to Minimize TTS Data Overfitting**|Hyun Jin Park et.al.|[2408.10463](http://arxiv.org/abs/2408.10463)|null|
+|**2024-08-19**|**SAUNAS II: Discovery of Cross-shaped X-ray Emission and a Rotating Circumnuclear Disk in the Supermassive S0 Galaxy NGC 5084**|Alejandro S. Borlaff et.al.|[2408.10449](http://arxiv.org/abs/2408.10449)|null|
+|**2024-08-19**|**Learning Regularization for Graph Inverse Problems**|Moshe Eliasof et.al.|[2408.10436](http://arxiv.org/abs/2408.10436)|null|
+|**2024-08-19**|**Self-testing of multiple unsharpness parameters through sequential violations of non-contextual inequality**|Rajdeep Paul et.al.|[2408.10363](http://arxiv.org/abs/2408.10363)|null|
 |**2024-08-19**|**Robust spectral clustering with rank statistics**|Joshua Cape et.al.|[2408.10136](http://arxiv.org/abs/2408.10136)|null|
 |**2024-08-19**|**Factorized-Dreamer: Training A High-Quality Video Generator with Limited and Low-Quality Data**|Tao Yang et.al.|[2408.10119](http://arxiv.org/abs/2408.10119)|null|
 |**2024-08-20**|**PLUTUS: A Well Pre-trained Large Unified Transformer can Unveil Financial Time Series Regularities**|Yuanjian Xu et.al.|[2408.10111](http://arxiv.org/abs/2408.10111)|null|
