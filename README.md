@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-21**|**A Quantum Approximate Optimization Algorithm-based Decoder Architecture for NextG Wireless Channel Codes**|Srikar Kasi et.al.|[2408.11726](http://arxiv.org/abs/2408.11726)|null|
+|**2024-08-21**|**Iterative Object Count Optimization for Text-to-image Diffusion Models**|Oz Zafar et.al.|[2408.11721](http://arxiv.org/abs/2408.11721)|null|
+|**2024-08-21**|**Time-Dependent Strategy for Improving Aortic Blood Flow Simulations with Boundary Control and Data Assimilation**|Muhammad Adnan Anwar et.al.|[2408.11617](http://arxiv.org/abs/2408.11617)|null|
+|**2024-08-21**|**A Joint Noise Disentanglement and Adversarial Training Framework for Robust Speaker Verification**|Xujiang Xing et.al.|[2408.11562](http://arxiv.org/abs/2408.11562)|null|
+|**2024-08-21**|**Self-Supervised Iterative Refinement for Anomaly Detection in Industrial Quality Control**|Muhammad Aqeel et.al.|[2408.11561](http://arxiv.org/abs/2408.11561)|null|
+|**2024-08-21**|**DABench: A Benchmark Dataset for Data-Driven Weather Data Assimilation**|Wuxin Wang et.al.|[2408.11438](http://arxiv.org/abs/2408.11438)|**[link](https://github.com/wuxinwang1997/dabench)**|
+|**2024-08-21**|**Long-Range Vision-Based UAV-assisted Localization for Unmanned Surface Vehicles**|Waseem Akram et.al.|[2408.11429](http://arxiv.org/abs/2408.11429)|null|
+|**2024-08-21**|**Towards Probabilistic Inductive Logic Programming with Neurosymbolic Inference and Relaxation**|Fieke Hillerstrom et.al.|[2408.11367](http://arxiv.org/abs/2408.11367)|null|
+|**2024-08-21**|**Predator and Prey: A Minimum Recipe for the Transition from Steady to Oscillating Precipitation in Hothouse Climates**|Da Yang et.al.|[2408.11350](http://arxiv.org/abs/2408.11350)|null|
+|**2024-08-21**|**Non-verbal Hands-free Control for Smart Glasses using Teeth Clicks**|Payal Mohapatra et.al.|[2408.11346](http://arxiv.org/abs/2408.11346)|null|
 |**2024-08-20**|**Bounding the systematic error in quantum error mitigation due to model violation**|L. C. G. Govia et.al.|[2408.10985](http://arxiv.org/abs/2408.10985)|null|
 |**2024-08-20**|**Robust Regression with Ensembles Communicating over Noisy Channels**|Yuval Ben-Hur et.al.|[2408.10942](http://arxiv.org/abs/2408.10942)|null|
 |**2024-08-20**|**TrackNeRF: Bundle Adjusting NeRF from Sparse and Noisy Views via Feature Tracks**|Jinjie Mai et.al.|[2408.10739](http://arxiv.org/abs/2408.10739)|null|
