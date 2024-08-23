@@ -14,6 +14,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-22**|**WhisperMask: A Noise Suppressive Mask-Type Microphone for Whisper Speech**|Hirotaka Hiraki et.al.|[2408.12500](http://arxiv.org/abs/2408.12500)|null|
+|**2024-08-22**|**Self-Learning for Personalized Keyword Spotting on Ultra-Low-Power Audio Sensors**|Manuele Rusci et.al.|[2408.12481](http://arxiv.org/abs/2408.12481)|null|
+|**2024-08-22**|**DLCRec: A Novel Approach for Managing Diversity in LLM-Based Recommender Systems**|Jiaju Chen et.al.|[2408.12470](http://arxiv.org/abs/2408.12470)|null|
+|**2024-08-22**|**CODE: Confident Ordinary Differential Editing**|Bastien van Delft et.al.|[2408.12418](http://arxiv.org/abs/2408.12418)|**[link](https://github.com/vita-epfl/code)**|
+|**2024-08-22**|**Sharper Bounds for Chebyshev Moment Matching with Applications to Differential Privacy and Beyond**|Cameron Musco et.al.|[2408.12385](http://arxiv.org/abs/2408.12385)|null|
+|**2024-08-22**|**Machine-learning certification of multipartite entanglement for noisy quantum hardware**|Andreas J. C. Fuchs et.al.|[2408.12349](http://arxiv.org/abs/2408.12349)|null|
+|**2024-08-21**|**Automated Synthesis of Fault-Tolerant State Preparation Circuits for Quantum Error Correction Codes**|Tom Peham et.al.|[2408.11894](http://arxiv.org/abs/2408.11894)|null|
 |**2024-08-21**|**A Quantum Approximate Optimization Algorithm-based Decoder Architecture for NextG Wireless Channel Codes**|Srikar Kasi et.al.|[2408.11726](http://arxiv.org/abs/2408.11726)|null|
 |**2024-08-21**|**Iterative Object Count Optimization for Text-to-image Diffusion Models**|Oz Zafar et.al.|[2408.11721](http://arxiv.org/abs/2408.11721)|null|
 |**2024-08-21**|**Time-Dependent Strategy for Improving Aortic Blood Flow Simulations with Boundary Control and Data Assimilation**|Muhammad Adnan Anwar et.al.|[2408.11617](http://arxiv.org/abs/2408.11617)|null|
