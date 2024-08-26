@@ -17,6 +17,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-23**|**Improved Recursive QAOA for Solving MAX-CUT on Bipartite Graphs**|Eunok Bae et.al.|[2408.13207](http://arxiv.org/abs/2408.13207)|null|
+|**2024-08-23**|**NEST: Self-supervised Fast Conformer as All-purpose Seasoning to Speech Processing Tasks**|He Huang et.al.|[2408.13106](http://arxiv.org/abs/2408.13106)|null|
+|**2024-08-23**|**Attractive-repulsive interaction in coupled quantum oscillators**|Bulti Paul et.al.|[2408.12972](http://arxiv.org/abs/2408.12972)|null|
+|**2024-08-23**|**Differentially Private Spatiotemporal Trajectory Synthesis with Retained Data Utility**|Yuqing Ge et.al.|[2408.12842](http://arxiv.org/abs/2408.12842)|**[link](https://github.com/Etherious72/DP-STTS)**|
+|**2024-08-23**|**Courteous MPC for Autonomous Driving with CBF-inspired Risk Assessment**|Yanze Zhang et.al.|[2408.12822](http://arxiv.org/abs/2408.12822)|null|
+|**2024-08-22**|**Learning Robust Features for Scatter Removal and Reconstruction in Dynamic ICF X-Ray Tomography**|Siddhant Gautam et.al.|[2408.12766](http://arxiv.org/abs/2408.12766)|null|
+|**2024-08-22**|**Identification via Functions**|Mohammad Javad Salariseddigh et.al.|[2408.12730](http://arxiv.org/abs/2408.12730)|null|
+|**2024-08-22**|**MultiMed: Massively Multimodal and Multitask Medical Understanding**|Shentong Mo et.al.|[2408.12682](http://arxiv.org/abs/2408.12682)|null|
 |**2024-08-22**|**WhisperMask: A Noise Suppressive Mask-Type Microphone for Whisper Speech**|Hirotaka Hiraki et.al.|[2408.12500](http://arxiv.org/abs/2408.12500)|null|
 |**2024-08-22**|**Self-Learning for Personalized Keyword Spotting on Ultra-Low-Power Audio Sensors**|Manuele Rusci et.al.|[2408.12481](http://arxiv.org/abs/2408.12481)|null|
 |**2024-08-22**|**DLCRec: A Novel Approach for Managing Diversity in LLM-Based Recommender Systems**|Jiaju Chen et.al.|[2408.12470](http://arxiv.org/abs/2408.12470)|null|
