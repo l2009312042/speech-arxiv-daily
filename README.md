@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-26**|**Evaluating saliency scores in point clouds of natural environments by learning surface anomalies**|Reuma Arav et.al.|[2408.14421](http://arxiv.org/abs/2408.14421)|null|
+|**2024-08-26**|**MEDSAGE: Enhancing Robustness of Medical Dialogue Summarization to ASR Errors with LLM-generated Synthetic Dialogues**|Kuluhan Binici et.al.|[2408.14418](http://arxiv.org/abs/2408.14418)|null|
+|**2024-08-26**|**A quasi-Bayesian sequential approach to deconvolution density estimation**|Stefano Favaro et.al.|[2408.14402](http://arxiv.org/abs/2408.14402)|null|
+|**2024-08-26**|**An Embedding is Worth a Thousand Noisy Labels**|Francesco Di Salvo et.al.|[2408.14358](http://arxiv.org/abs/2408.14358)|null|
+|**2024-08-26**|**May the Forgetting Be with You: Alternate Replay for Learning with Noisy Labels**|Monica Millunzi et.al.|[2408.14284](http://arxiv.org/abs/2408.14284)|**[link](https://github.com/aimagelab/mammoth)**|
+|**2024-08-26**|**Feature Aligning Few shot Learning Method Using Local Descriptors Weighted Rules**|Bingchen Yan et.al.|[2408.14192](http://arxiv.org/abs/2408.14192)|null|
+|**2024-08-26**|**Theoretical Proportion Label Perturbation for Learning from Label Proportions in Large Bags**|Shunsuke Kubo et.al.|[2408.14130](http://arxiv.org/abs/2408.14130)|**[link](https://github.com/stainlessnight/llp-largebags)**|
+|**2024-08-25**|**SimpleSpeech 2: Towards Simple and Efficient Text-to-Speech with Flow-based Scalar Latent Transformer Diffusion Models**|Dongchao Yang et.al.|[2408.13893](http://arxiv.org/abs/2408.13893)|null|
+|**2024-08-25**|**Quantum-enhanced weak absorption estimation with correlated photons**|Zhucheng Zhang et.al.|[2408.13817](http://arxiv.org/abs/2408.13817)|null|
+|**2024-08-25**|**Verifiable cloud-based variational quantum algorithms**|Junhong Yang et.al.|[2408.13713](http://arxiv.org/abs/2408.13713)|null|
 |**2024-08-23**|**Improved Recursive QAOA for Solving MAX-CUT on Bipartite Graphs**|Eunok Bae et.al.|[2408.13207](http://arxiv.org/abs/2408.13207)|null|
 |**2024-08-23**|**NEST: Self-supervised Fast Conformer as All-purpose Seasoning to Speech Processing Tasks**|He Huang et.al.|[2408.13106](http://arxiv.org/abs/2408.13106)|null|
 |**2024-08-23**|**Attractive-repulsive interaction in coupled quantum oscillators**|Bulti Paul et.al.|[2408.12972](http://arxiv.org/abs/2408.12972)|null|
