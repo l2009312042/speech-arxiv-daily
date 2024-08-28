@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-27**|**Learning Robust Reward Machines from Noisy Labels**|Roko Parac et.al.|[2408.14871](http://arxiv.org/abs/2408.14871)|**[link](https://github.com/rparac/prob-irm)**|
+|**2024-08-27**|**DiffSurf: A Transformer-based Diffusion Model for Generating and Reconstructing 3D Surfaces in Pose**|Yusuke Yoshiyasu et.al.|[2408.14860](http://arxiv.org/abs/2408.14860)|null|
+|**2024-08-27**|**Practical quantum advantage on partially fault-tolerant quantum computer**|Riki Toshio et.al.|[2408.14848](http://arxiv.org/abs/2408.14848)|null|
+|**2024-08-27**|**Correntropy-Based Improper Likelihood Model for Robust Electrophysiological Source Imaging**|Yuanhao Li et.al.|[2408.14843](http://arxiv.org/abs/2408.14843)|null|
+|**2024-08-27**|**Weakly Fault-Tolerant Computation in a Quantum Error-Detecting Code**|Christopher Gerhard et.al.|[2408.14828](http://arxiv.org/abs/2408.14828)|null|
+|**2024-08-27**|**Impact of Noisy Labels on Sound Event Detection: Deletion Errors Are More Detrimental Than Insertion Errors**|Yuliang Zhang et.al.|[2408.14771](http://arxiv.org/abs/2408.14771)|null|
+|**2024-08-26**|**Circumventing Traps in Analog Quantum Machine Learning Algorithms Through Co-Design**|Rodrigo Araiza Bravo et.al.|[2408.14697](http://arxiv.org/abs/2408.14697)|null|
+|**2024-08-26**|**On-Chip Learning with Memristor-Based Neural Networks: Assessing Accuracy and Efficiency Under Device Variations, Conductance Errors, and Input Noise**|M. Reza Eslami et.al.|[2408.14680](http://arxiv.org/abs/2408.14680)|null|
+|**2024-08-26**|**gWaveNet: Classification of Gravity Waves from Noisy Satellite Data using Custom Kernel Integrated Deep Learning Method**|Seraj Al Mahmud Mostafa et.al.|[2408.14674](http://arxiv.org/abs/2408.14674)|null|
+|**2024-08-26**|**Non-Parametric Bayesian Inference for Partial Orders with Ties from Rank Data observed with Mallows Noise**|Chuxuan et.al.|[2408.14661](http://arxiv.org/abs/2408.14661)|null|
 |**2024-08-26**|**Evaluating saliency scores in point clouds of natural environments by learning surface anomalies**|Reuma Arav et.al.|[2408.14421](http://arxiv.org/abs/2408.14421)|null|
 |**2024-08-26**|**MEDSAGE: Enhancing Robustness of Medical Dialogue Summarization to ASR Errors with LLM-generated Synthetic Dialogues**|Kuluhan Binici et.al.|[2408.14418](http://arxiv.org/abs/2408.14418)|null|
 |**2024-08-26**|**A quasi-Bayesian sequential approach to deconvolution density estimation**|Stefano Favaro et.al.|[2408.14402](http://arxiv.org/abs/2408.14402)|null|
