@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.27
+## Updated on 2024.08.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -26,7 +26,7 @@
 |**2024-08-26**|**Theoretical Proportion Label Perturbation for Learning from Label Proportions in Large Bags**|Shunsuke Kubo et.al.|[2408.14130](http://arxiv.org/abs/2408.14130)|**[link](https://github.com/stainlessnight/llp-largebags)**|
 |**2024-08-25**|**SimpleSpeech 2: Towards Simple and Efficient Text-to-Speech with Flow-based Scalar Latent Transformer Diffusion Models**|Dongchao Yang et.al.|[2408.13893](http://arxiv.org/abs/2408.13893)|null|
 |**2024-08-25**|**Quantum-enhanced weak absorption estimation with correlated photons**|Zhucheng Zhang et.al.|[2408.13817](http://arxiv.org/abs/2408.13817)|null|
-|**2024-08-25**|**Verifiable cloud-based variational quantum algorithms**|Junhong Yang et.al.|[2408.13713](http://arxiv.org/abs/2408.13713)|null|
+|**2024-08-27**|**Verifiable cloud-based variational quantum algorithms**|Junhong Yang et.al.|[2408.13713](http://arxiv.org/abs/2408.13713)|null|
 |**2024-08-23**|**Improved Recursive QAOA for Solving MAX-CUT on Bipartite Graphs**|Eunok Bae et.al.|[2408.13207](http://arxiv.org/abs/2408.13207)|null|
 |**2024-08-23**|**NEST: Self-supervised Fast Conformer as All-purpose Seasoning to Speech Processing Tasks**|He Huang et.al.|[2408.13106](http://arxiv.org/abs/2408.13106)|null|
 |**2024-08-23**|**Attractive-repulsive interaction in coupled quantum oscillators**|Bulti Paul et.al.|[2408.12972](http://arxiv.org/abs/2408.12972)|null|
@@ -550,7 +550,7 @@
 |**2024-05-03**|**A Class of Numerical Semigroups Defined by Kunz and Waldi**|Srishti Singh et.al.|[2405.00331](http://arxiv.org/abs/2405.00331)|null|
 |**2024-04-26**|**Machine Learning based prediction of Vanadium Redox Flow Battery temperature rise under different charge-discharge conditions**|Anirudh Narayan D et.al.|[2404.17284](http://arxiv.org/abs/2404.17284)|null|
 
-<p align=right>(<a href=#updated-on-20240827>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240828>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
