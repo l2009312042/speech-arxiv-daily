@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-28**|**Efficient Slice Anomaly Detection Network for 3D Brain MRI Volume**|Zeduo Zhang et.al.|[2408.15958](http://arxiv.org/abs/2408.15958)|null|
+|**2024-08-28**|**Modeling and Analyzing the Influence of Non-Item Pages on Sequential Next-Item Prediction**|Elisabeth Fischer et.al.|[2408.15953](http://arxiv.org/abs/2408.15953)|null|
+|**2024-08-28**|**Fast quantum interconnects via constant-rate entanglement distillation**|Christopher A. Pattison et.al.|[2408.15936](http://arxiv.org/abs/2408.15936)|null|
+|**2024-08-28**|**Characterization of dynamical systems with scanty data using Persistent Homology and Machine Learning**|Rishab Antosh et.al.|[2408.15834](http://arxiv.org/abs/2408.15834)|null|
+|**2024-08-28**|**Mining Field Data for Tree Species Recognition at Scale**|Dimitri Gominski et.al.|[2408.15816](http://arxiv.org/abs/2408.15816)|null|
+|**2024-08-28**|**Multi-view Pose Fusion for Occlusion-Aware 3D Human Pose Estimation**|Laura Bragagnolo et.al.|[2408.15810](http://arxiv.org/abs/2408.15810)|**[link](https://github.com/laurabragagnolo/human3.6m-occluded)**|
+|**2024-08-28**|**Learning latent tree models with small query complexity**|Luc Devroye et.al.|[2408.15624](http://arxiv.org/abs/2408.15624)|null|
+|**2024-08-28**|**Convergent Differential Privacy Analysis for General Federated Learning: the f-DP Perspective**|Yan Sun et.al.|[2408.15621](http://arxiv.org/abs/2408.15621)|null|
+|**2024-08-28**|**EmoAttack: Utilizing Emotional Voice Conversion for Speech Backdoor Attacks on Deep Speech Classification Models**|Wenhan Yao et.al.|[2408.15508](http://arxiv.org/abs/2408.15508)|null|
+|**2024-08-27**|**AUTOGENICS: Automated Generation of Context-Aware Inline Comments for Code Snippets on Programming Q&A Sites Using LLM**|Suborno Deb Bappon et.al.|[2408.15411](http://arxiv.org/abs/2408.15411)|null|
 |**2024-08-27**|**Learning Robust Reward Machines from Noisy Labels**|Roko Parac et.al.|[2408.14871](http://arxiv.org/abs/2408.14871)|**[link](https://github.com/rparac/prob-irm)**|
 |**2024-08-27**|**DiffSurf: A Transformer-based Diffusion Model for Generating and Reconstructing 3D Surfaces in Pose**|Yusuke Yoshiyasu et.al.|[2408.14860](http://arxiv.org/abs/2408.14860)|null|
 |**2024-08-27**|**Practical quantum advantage on partially fault-tolerant quantum computer**|Riki Toshio et.al.|[2408.14848](http://arxiv.org/abs/2408.14848)|null|
