@@ -14,6 +14,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-29**|**Unconditionally separating noisy $\mathsf{QNC}^0$ from bounded polynomial threshold circuits of constant depth**|Min-Hsiu Hsieh et.al.|[2408.16378](http://arxiv.org/abs/2408.16378)|null|
+|**2024-08-29**|**Learned Image Transmission with Hierarchical Variational Autoencoder**|Guangyi Zhang et.al.|[2408.16340](http://arxiv.org/abs/2408.16340)|null|
+|**2024-08-29**|**Flexible framework for generating synthetic electrocardiograms and photoplethysmograms**|Katri Karhinoja et.al.|[2408.16291](http://arxiv.org/abs/2408.16291)|**[link](https://github.com/utu-health-research/framework_for_synthetic_biosignals)**|
+|**2024-08-29**|**Beyond Uncertainty: Evidential Deep Learning for Robust Video Temporal Grounding**|Kaijing Ma et.al.|[2408.16272](http://arxiv.org/abs/2408.16272)|null|
+|**2024-08-29**|**Coherent Information Phase Transition in a Noisy Quantum Circuit**|Dongheng Qian et.al.|[2408.16267](http://arxiv.org/abs/2408.16267)|null|
+|**2024-08-28**|**Integrating Quantum Computing Resources into Scientific HPC Ecosystems**|Thomas Beck et.al.|[2408.16159](http://arxiv.org/abs/2408.16159)|null|
 |**2024-08-28**|**Efficient Slice Anomaly Detection Network for 3D Brain MRI Volume**|Zeduo Zhang et.al.|[2408.15958](http://arxiv.org/abs/2408.15958)|null|
 |**2024-08-28**|**Modeling and Analyzing the Influence of Non-Item Pages on Sequential Next-Item Prediction**|Elisabeth Fischer et.al.|[2408.15953](http://arxiv.org/abs/2408.15953)|null|
 |**2024-08-28**|**Fast quantum interconnects via constant-rate entanglement distillation**|Christopher A. Pattison et.al.|[2408.15936](http://arxiv.org/abs/2408.15936)|null|
