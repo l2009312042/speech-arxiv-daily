@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-30**|**Audio Enhancement from Multiple Crowdsourced Recordings: A Simple and Effective Baseline**|Shiran Aziz et.al.|[2408.17434](http://arxiv.org/abs/2408.17434)|null|
+|**2024-08-30**|**Subspace Diffusion Posterior Sampling for Travel-Time Tomography**|Xiang Cao et.al.|[2408.17333](http://arxiv.org/abs/2408.17333)|null|
+|**2024-08-30**|**A zero-entropy classical shadow reconstruction of density state operators**|J. A. Montañez-Barrera et.al.|[2408.17317](http://arxiv.org/abs/2408.17317)|null|
+|**2024-08-30**|**A Limit on the Power of Entanglement-Assistance in Quantum Communication**|Lasse H. Wolff et.al.|[2408.17290](http://arxiv.org/abs/2408.17290)|null|
+|**2024-08-30**|**Stochastic Vector Approximate Message Passing with applications to phase retrieval**|Hajime Ueda et.al.|[2408.17102](http://arxiv.org/abs/2408.17102)|null|
+|**2024-08-30**|**ConDense: Consistent 2D/3D Pre-training for Dense and Sparse Features from Multi-View Images**|Xiaoshuai Zhang et.al.|[2408.17027](http://arxiv.org/abs/2408.17027)|null|
+|**2024-08-30**|**Point Neuron Learning: A New Physics-Informed Neural Network Architecture**|Hanwen Bi et.al.|[2408.16969](http://arxiv.org/abs/2408.16969)|null|
+|**2024-08-30**|**A Persistent Hierarchical Bloom Filter-based Framework for Authentication and Tracking of ICs**|Md Mashfiq Rizvee et.al.|[2408.16950](http://arxiv.org/abs/2408.16950)|null|
+|**2024-08-29**|**AI-driven Reverse Engineering of QML Models**|Archisman Ghosh et.al.|[2408.16929](http://arxiv.org/abs/2408.16929)|null|
+|**2024-08-29**|**Asymptotically Stable Data-Driven Koopman Operator Approximation with Inputs using Total Extended DMD**|Louis Lortie et.al.|[2408.16846](http://arxiv.org/abs/2408.16846)|null|
 |**2024-08-29**|**Unconditionally separating noisy $\mathsf{QNC}^0$ from bounded polynomial threshold circuits of constant depth**|Min-Hsiu Hsieh et.al.|[2408.16378](http://arxiv.org/abs/2408.16378)|null|
 |**2024-08-29**|**Learned Image Transmission with Hierarchical Variational Autoencoder**|Guangyi Zhang et.al.|[2408.16340](http://arxiv.org/abs/2408.16340)|null|
 |**2024-08-29**|**Flexible framework for generating synthetic electrocardiograms and photoplethysmograms**|Katri Karhinoja et.al.|[2408.16291](http://arxiv.org/abs/2408.16291)|**[link](https://github.com/utu-health-research/framework_for_synthetic_biosignals)**|
