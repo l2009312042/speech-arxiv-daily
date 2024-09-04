@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.03
+## Updated on 2024.09.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## KWS
@@ -18,7 +18,7 @@ layout: default
 |**2024-08-30**|**Subspace Diffusion Posterior Sampling for Travel-Time Tomography**|Xiang Cao et.al.|[2408.17333](http://arxiv.org/abs/2408.17333)|null|
 |**2024-08-30**|**A zero-entropy classical shadow reconstruction of density state operators**|J. A. Montañez-Barrera et.al.|[2408.17317](http://arxiv.org/abs/2408.17317)|null|
 |**2024-08-30**|**A Limit on the Power of Entanglement-Assistance in Quantum Communication**|Lasse H. Wolff et.al.|[2408.17290](http://arxiv.org/abs/2408.17290)|null|
-|**2024-08-30**|**Stochastic Vector Approximate Message Passing with applications to phase retrieval**|Hajime Ueda et.al.|[2408.17102](http://arxiv.org/abs/2408.17102)|null|
+|**2024-09-02**|**Stochastic Vector Approximate Message Passing with applications to phase retrieval**|Hajime Ueda et.al.|[2408.17102](http://arxiv.org/abs/2408.17102)|null|
 |**2024-08-30**|**ConDense: Consistent 2D/3D Pre-training for Dense and Sparse Features from Multi-View Images**|Xiaoshuai Zhang et.al.|[2408.17027](http://arxiv.org/abs/2408.17027)|null|
 |**2024-08-30**|**Point Neuron Learning: A New Physics-Informed Neural Network Architecture**|Hanwen Bi et.al.|[2408.16969](http://arxiv.org/abs/2408.16969)|null|
 |**2024-08-30**|**A Persistent Hierarchical Bloom Filter-based Framework for Authentication and Tracking of ICs**|Md Mashfiq Rizvee et.al.|[2408.16950](http://arxiv.org/abs/2408.16950)|null|
