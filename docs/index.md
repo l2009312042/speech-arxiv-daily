@@ -7,13 +7,20 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.05
+## Updated on 2024.09.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## KWS
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-05**|**A neural processing approach to quantum state discrimination**|Saeed A. Khan et.al.|[2409.03748](http://arxiv.org/abs/2409.03748)|null|
+|**2024-09-05**|**Multimodal Laryngoscopic Video Analysis for Assisted Diagnosis of Vocal Cord Paralysis**|Yucong Zhang et.al.|[2409.03597](http://arxiv.org/abs/2409.03597)|null|
+|**2024-09-05**|**Distributionally Robust Optimisation with Bayesian Ambiguity Sets**|Charita Dellaporta et.al.|[2409.03492](http://arxiv.org/abs/2409.03492)|null|
+|**2024-09-05**|**Raw Speech Enhancement with Deep State Space Modeling**|Yan Ru Pei et.al.|[2409.03377](http://arxiv.org/abs/2409.03377)|**[link](https://github.com/Brainchip-Inc/aTENNuate)**|
+|**2024-09-05**|**A spherical harmonic-domain spatial audio signal enhancement method based on minimum variance distortionless response**|Huawei Zhang et.al.|[2409.03269](http://arxiv.org/abs/2409.03269)|null|
+|**2024-09-04**|**High Energy Physics from Low Energy Physics**|Roland C. Farrell et.al.|[2409.03123](http://arxiv.org/abs/2409.03123)|null|
+|**2024-09-04**|**No Detail Left Behind: Revisiting Self-Retrieval for Fine-Grained Image Captioning**|Manu Gaur et.al.|[2409.03025](http://arxiv.org/abs/2409.03025)|null|
 |**2024-09-04**|**Learning Density Functionals from Noisy Quantum Data**|Emiel Koridon et.al.|[2409.02921](http://arxiv.org/abs/2409.02921)|null|
 |**2024-09-04**|**A Data Selection Approach for Enhancing Low Resource Machine Translation Using Cross-Lingual Sentence Representations**|Nidhi Kowtal et.al.|[2409.02712](http://arxiv.org/abs/2409.02712)|null|
 |**2024-09-04**|**Symmetries and synchronization from whole-neural activity in {\it C. elegans} connectome: Integration of functional and structural networks**|Bryant Avila et.al.|[2409.02682](http://arxiv.org/abs/2409.02682)|null|
