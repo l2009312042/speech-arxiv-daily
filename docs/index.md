@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-06**|**RLPF: Reinforcement Learning from Prediction Feedback for User Summarization with LLMs**|Jiaxing Wu et.al.|[2409.04421](http://arxiv.org/abs/2409.04421)|null|
+|**2024-09-06**|**Bayesian solution to the inverse problem and its relation to Backus-Gilbert methods**|Luigi Del Debbio et.al.|[2409.04413](http://arxiv.org/abs/2409.04413)|null|
+|**2024-09-06**|**Lightcone shading for classically accelerated quantum error mitigation**|Andrew Eddins et.al.|[2409.04401](http://arxiv.org/abs/2409.04401)|null|
+|**2024-09-06**|**Safe and Efficient Path Planning under Uncertainty via Deep Collision Probability Fields**|Felix Herrmann et.al.|[2409.04306](http://arxiv.org/abs/2409.04306)|null|
+|**2024-09-06**|**Dilution of error in digital Hamiltonian simulation**|Etienne Granet et.al.|[2409.04254](http://arxiv.org/abs/2409.04254)|null|
+|**2024-09-06**|**An Efficient Classical Algorithm for Simulating Short Time 2D Quantum Dynamics**|Yusen Wu et.al.|[2409.04161](http://arxiv.org/abs/2409.04161)|null|
+|**2024-09-06**|**Low Complexity Own Voice Reconstruction for Hearables with an In-ear Microphone**|Mattes Ohlenbusch et.al.|[2409.04136](http://arxiv.org/abs/2409.04136)|null|
+|**2024-09-06**|**Intelligent tutoring systems by Bayesian networks with noisy gates**|Alessandro Antonucci et.al.|[2409.04102](http://arxiv.org/abs/2409.04102)|null|
+|**2024-09-06**|**Distributed exact multi-objective quantum search algorithm**|Hao Li et.al.|[2409.04039](http://arxiv.org/abs/2409.04039)|null|
+|**2024-09-06**|**Development of the Listening in Spatialized Noise-Sentences (LiSN-S) Test in Brazilian Portuguese: Presentation Software, Speech Stimuli, and Sentence Equivalence**|Bruno S. Masiero et.al.|[2409.04014](http://arxiv.org/abs/2409.04014)|null|
 |**2024-09-05**|**A neural processing approach to quantum state discrimination**|Saeed A. Khan et.al.|[2409.03748](http://arxiv.org/abs/2409.03748)|null|
 |**2024-09-05**|**Multimodal Laryngoscopic Video Analysis for Assisted Diagnosis of Vocal Cord Paralysis**|Yucong Zhang et.al.|[2409.03597](http://arxiv.org/abs/2409.03597)|null|
 |**2024-09-05**|**Distributionally Robust Optimisation with Bayesian Ambiguity Sets**|Charita Dellaporta et.al.|[2409.03492](http://arxiv.org/abs/2409.03492)|null|
