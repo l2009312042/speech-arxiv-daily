@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.09
+## Updated on 2024.09.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -23,8 +23,8 @@
 |**2024-09-06**|**Safe and Efficient Path Planning under Uncertainty via Deep Collision Probability Fields**|Felix Herrmann et.al.|[2409.04306](http://arxiv.org/abs/2409.04306)|null|
 |**2024-09-06**|**Dilution of error in digital Hamiltonian simulation**|Etienne Granet et.al.|[2409.04254](http://arxiv.org/abs/2409.04254)|null|
 |**2024-09-06**|**An Efficient Classical Algorithm for Simulating Short Time 2D Quantum Dynamics**|Yusen Wu et.al.|[2409.04161](http://arxiv.org/abs/2409.04161)|null|
-|**2024-09-06**|**Low Complexity Own Voice Reconstruction for Hearables with an In-ear Microphone**|Mattes Ohlenbusch et.al.|[2409.04136](http://arxiv.org/abs/2409.04136)|null|
-|**2024-09-06**|**Intelligent tutoring systems by Bayesian networks with noisy gates**|Alessandro Antonucci et.al.|[2409.04102](http://arxiv.org/abs/2409.04102)|null|
+|**2024-09-09**|**Low-Complexity Own Voice Reconstruction for Hearables with an In-Ear Microphone**|Mattes Ohlenbusch et.al.|[2409.04136](http://arxiv.org/abs/2409.04136)|null|
+|**2024-09-09**|**Intelligent tutoring systems by Bayesian nets with noisy gates**|Alessandro Antonucci et.al.|[2409.04102](http://arxiv.org/abs/2409.04102)|null|
 |**2024-09-06**|**Distributed exact multi-objective quantum search algorithm**|Hao Li et.al.|[2409.04039](http://arxiv.org/abs/2409.04039)|null|
 |**2024-09-06**|**Development of the Listening in Spatialized Noise-Sentences (LiSN-S) Test in Brazilian Portuguese: Presentation Software, Speech Stimuli, and Sentence Equivalence**|Bruno S. Masiero et.al.|[2409.04014](http://arxiv.org/abs/2409.04014)|null|
 |**2024-09-05**|**A neural processing approach to quantum state discrimination**|Saeed A. Khan et.al.|[2409.03748](http://arxiv.org/abs/2409.03748)|null|
@@ -613,7 +613,7 @@
 |**2024-05-03**|**A Class of Numerical Semigroups Defined by Kunz and Waldi**|Srishti Singh et.al.|[2405.00331](http://arxiv.org/abs/2405.00331)|null|
 |**2024-04-26**|**Machine Learning based prediction of Vanadium Redox Flow Battery temperature rise under different charge-discharge conditions**|Anirudh Narayan D et.al.|[2404.17284](http://arxiv.org/abs/2404.17284)|null|
 
-<p align=right>(<a href=#updated-on-20240909>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240910>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
