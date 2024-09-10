@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-09**|**Quantum Wasserstein Compilation: Unitary Compilation using the Quantum Earth Mover's Distance**|Marvin Richter et.al.|[2409.05849](http://arxiv.org/abs/2409.05849)|null|
+|**2024-09-09**|**Robust Loss Functions for Object Grasping under Limited Ground Truth**|Yangfan Deng et.al.|[2409.05742](http://arxiv.org/abs/2409.05742)|null|
+|**2024-09-09**|**Thermalization And Convergence To Equilibrium Of The Noisy Voter Model**|Enzo Aljovin et.al.|[2409.05722](http://arxiv.org/abs/2409.05722)|null|
+|**2024-09-09**|**Quantum teleportation of a qutrit state via a hypergraph state in a noisy environment**|Souvik Giri et.al.|[2409.05675](http://arxiv.org/abs/2409.05675)|null|
+|**2024-09-09**|**An investigation of modularity for noise robustness in conformer-based ASR**|Louise Coppieters de Gibson et.al.|[2409.05589](http://arxiv.org/abs/2409.05589)|null|
+|**2024-09-09**|**DSDFormer: An Innovative Transformer-Mamba Framework for Robust High-Precision Driver Distraction Identification**|Junzhou Chen et.al.|[2409.05587](http://arxiv.org/abs/2409.05587)|null|
+|**2024-09-09**|**Learning to Model Graph Structural Information on MLPs via Graph Structure Self-Contrasting**|Lirong Wu et.al.|[2409.05573](http://arxiv.org/abs/2409.05573)|null|
+|**2024-09-09**|**Beyond Flatland: A Geometric Take on Matching Methods for Treatment Effect Estimation**|Melanie F. Pradier et.al.|[2409.05459](http://arxiv.org/abs/2409.05459)|null|
+|**2024-09-09**|**EndoOmni: Zero-Shot Cross-Dataset Depth Estimation in Endoscopy by Robust Self-Learning from Noisy Labels**|Qingyao Tian et.al.|[2409.05442](http://arxiv.org/abs/2409.05442)|null|
+|**2024-09-09**|**Towards Building a Robust Knowledge Intensive Question Answering Model with Large Language Models**|Hong Xingyun Hong et.al.|[2409.05385](http://arxiv.org/abs/2409.05385)|null|
 |**2024-09-06**|**RLPF: Reinforcement Learning from Prediction Feedback for User Summarization with LLMs**|Jiaxing Wu et.al.|[2409.04421](http://arxiv.org/abs/2409.04421)|null|
 |**2024-09-06**|**Bayesian solution to the inverse problem and its relation to Backus-Gilbert methods**|Luigi Del Debbio et.al.|[2409.04413](http://arxiv.org/abs/2409.04413)|null|
 |**2024-09-06**|**Lightcone shading for classically accelerated quantum error mitigation**|Andrew Eddins et.al.|[2409.04401](http://arxiv.org/abs/2409.04401)|null|
