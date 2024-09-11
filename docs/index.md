@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-10**|**A Practical Gated Recurrent Transformer Network Incorporating Multiple Fusions for Video Denoising**|Kai Guo et.al.|[2409.06603](http://arxiv.org/abs/2409.06603)|null|
+|**2024-09-10**|**Weakly-supervised Camera Localization by Ground-to-satellite Image Registration**|Yujiao Shi et.al.|[2409.06471](http://arxiv.org/abs/2409.06471)|**[link](https://github.com/yujiaoshi/g2sweakly)**|
+|**2024-09-10**|**Human-mimetic binaural ear design and sound source direction estimation for task realization of musculoskeletal humanoids**|Yusuke Omura et.al.|[2409.06429](http://arxiv.org/abs/2409.06429)|null|
+|**2024-09-10**|**AMNS: Attention-Weighted Selective Mask and Noise Label Suppression for Text-to-Image Person Retrieval**|Runqing Zhang et.al.|[2409.06385](http://arxiv.org/abs/2409.06385)|null|
+|**2024-09-10**|**Generalized Approximate Message-Passing for Compressed Sensing with Sublinear Sparsity**|Keigo Takeuchi et.al.|[2409.06320](http://arxiv.org/abs/2409.06320)|null|
+|**2024-09-10**|**Noisy Quantum Dynamics and Measurement Induced Phase Transitions**|Alexios Christopoulos et.al.|[2409.06310](http://arxiv.org/abs/2409.06310)|null|
+|**2024-09-10**|**Test-Time Certifiable Self-Supervision to Bridge the Sim2Real Gap in Event-Based Satellite Pose Estimation**|Mohsi Jawaid et.al.|[2409.06240](http://arxiv.org/abs/2409.06240)|null|
+|**2024-09-10**|**RobustSVC: HuBERT-based Melody Extractor and Adversarial Learning for Robust Singing Voice Conversion**|Wei Chen et.al.|[2409.06237](http://arxiv.org/abs/2409.06237)|null|
+|**2024-09-10**|**VC-ENHANCE: Speech Restoration with Integrated Noise Suppression and Voice Conversion**|Kyungguen Byun et.al.|[2409.06126](http://arxiv.org/abs/2409.06126)|null|
+|**2024-09-09**|**Effect of noise on quantum circuit realization of non-Hermitian time crystals**|Weihua Xie et.al.|[2409.06113](http://arxiv.org/abs/2409.06113)|null|
 |**2024-09-09**|**Quantum Wasserstein Compilation: Unitary Compilation using the Quantum Earth Mover's Distance**|Marvin Richter et.al.|[2409.05849](http://arxiv.org/abs/2409.05849)|null|
 |**2024-09-09**|**Robust Loss Functions for Object Grasping under Limited Ground Truth**|Yangfan Deng et.al.|[2409.05742](http://arxiv.org/abs/2409.05742)|null|
 |**2024-09-09**|**Thermalization And Convergence To Equilibrium Of The Noisy Voter Model**|Enzo Aljovin et.al.|[2409.05722](http://arxiv.org/abs/2409.05722)|null|
