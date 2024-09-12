@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-11**|**DreamMesh: Jointly Manipulating and Texturing Triangle Meshes for Text-to-3D Generation**|Haibo Yang et.al.|[2409.07454](http://arxiv.org/abs/2409.07454)|null|
+|**2024-09-11**|**Constraining Genetic Symbolic Regression via Semantic Backpropagation**|Maximilian Reissmann et.al.|[2409.07369](http://arxiv.org/abs/2409.07369)|null|
+|**2024-09-11**|**ART: Artifact Removal Transformer for Reconstructing Noise-Free Multichannel Electroencephalographic Signals**|Chun-Hsiang Chuang et.al.|[2409.07326](http://arxiv.org/abs/2409.07326)|null|
+|**2024-09-11**|**Combined Optimization of Dynamics and Assimilation with End-to-End Learning on Sparse Observations**|Vadim Zinchenko et.al.|[2409.07137](http://arxiv.org/abs/2409.07137)|null|
+|**2024-09-11**|**Reranking Laws for Language Generation: A Communication-Theoretic Perspective**|António Farinhas et.al.|[2409.07131](http://arxiv.org/abs/2409.07131)|null|
+|**2024-09-11**|**Fully-Optimized Quantum Metrology: Framework, Tools, and Applications**|Qiushi Liu et.al.|[2409.07068](http://arxiv.org/abs/2409.07068)|null|
+|**2024-09-11**|**Edge Modeling Activation Free Fourier Network for Spacecraft Image Denoising**|Jingfan Yang et.al.|[2409.07067](http://arxiv.org/abs/2409.07067)|null|
+|**2024-09-11**|**The VoiceMOS Challenge 2024: Beyond Speech Quality Prediction**|Wen-Chin Huang et.al.|[2409.07001](http://arxiv.org/abs/2409.07001)|null|
+|**2024-09-11**|**Introducing UNIQuE: The Unconventional Noiseless Intermediate Quantum Emulator**|Reece Robertson et.al.|[2409.07000](http://arxiv.org/abs/2409.07000)|null|
+|**2024-09-11**|**Bridging Domain Gap of Point Cloud Representations via Self-Supervised Geometric Augmentation**|Li Yu et.al.|[2409.06956](http://arxiv.org/abs/2409.06956)|null|
 |**2024-09-10**|**A Practical Gated Recurrent Transformer Network Incorporating Multiple Fusions for Video Denoising**|Kai Guo et.al.|[2409.06603](http://arxiv.org/abs/2409.06603)|null|
 |**2024-09-10**|**Weakly-supervised Camera Localization by Ground-to-satellite Image Registration**|Yujiao Shi et.al.|[2409.06471](http://arxiv.org/abs/2409.06471)|**[link](https://github.com/yujiaoshi/g2sweakly)**|
 |**2024-09-10**|**Human-mimetic binaural ear design and sound source direction estimation for task realization of musculoskeletal humanoids**|Yusuke Omura et.al.|[2409.06429](http://arxiv.org/abs/2409.06429)|null|
