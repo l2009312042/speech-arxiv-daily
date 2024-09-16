@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-13**|**Pushing Joint Image Denoising and Classification to the Edge**|Thomas C Markhorst et.al.|[2409.08943](http://arxiv.org/abs/2409.08943)|null|
+|**2024-09-13**|**Shadow Quantum Linear Solver: A Resource Efficient Quantum Algorithm for Linear Systems of Equations**|Francesco Ghisoni et.al.|[2409.08929](http://arxiv.org/abs/2409.08929)|null|
+|**2024-09-13**|**Self-supervised learning for denoising quasiparticle interference data**|Ilse S. Kuijf et.al.|[2409.08891](http://arxiv.org/abs/2409.08891)|null|
+|**2024-09-13**|**Quantum spin van der Pol oscillator -- a spin-based limit-cycle oscillator exhibiting quantum synchronization**|Yuzuru Kato et.al.|[2409.08791](http://arxiv.org/abs/2409.08791)|null|
+|**2024-09-13**|**Measure-Theoretic Time-Delay Embedding**|Jonah Botvinick-Greenhouse et.al.|[2409.08768](http://arxiv.org/abs/2409.08768)|**[link](https://github.com/jrbotvinick/Measure-Theoretic-Time-Delay-Embedding)**|
+|**2024-09-13**|**Applications of multiscale hierarchical decomposition to blind deconvolution**|Tobias Wolf et.al.|[2409.08734](http://arxiv.org/abs/2409.08734)|null|
+|**2024-09-13**|**Layerwise Change of Knowledge in Neural Networks**|Xu Cheng et.al.|[2409.08712](http://arxiv.org/abs/2409.08712)|null|
+|**2024-09-13**|**Effective Integration of KAN for Keyword Spotting**|Anfeng Xu et.al.|[2409.08605](http://arxiv.org/abs/2409.08605)|null|
+|**2024-09-13**|**CompressedMediQ: Hybrid Quantum Machine Learning Pipeline for High-Dimentional Neuroimaging Data**|Kuan-Cheng Chen et.al.|[2409.08584](http://arxiv.org/abs/2409.08584)|null|
+|**2024-09-13**|**Adaptive Robust High-Precision Atomic Gravimetry**|Jinye Wei et.al.|[2409.08550](http://arxiv.org/abs/2409.08550)|null|
 |**2024-09-12**|**Photonic Quantum Computers**|M. AbuGhanem et.al.|[2409.08229](http://arxiv.org/abs/2409.08229)|null|
 |**2024-09-13**|**Dark Experience for Incremental Keyword Spotting**|Tianyi Peng et.al.|[2409.08153](http://arxiv.org/abs/2409.08153)|null|
 |**2024-09-12**|**Inertial Coordination Games**|Andrew Koh et.al.|[2409.08145](http://arxiv.org/abs/2409.08145)|null|
