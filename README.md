@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-16**|**MacDiff: Unified Skeleton Modeling with Masked Conditional Diffusion**|Lehong Wu et.al.|[2409.10473](http://arxiv.org/abs/2409.10473)|null|
+|**2024-09-16**|**Efficiently Crowdsourcing Visual Importance with Punch-Hole Annotation**|Minsuk Chang et.al.|[2409.10459](http://arxiv.org/abs/2409.10459)|null|
+|**2024-09-16**|**User-Authenticated Device-Independent Quantum Secure Direct Communication Protocol**|Nayana Das et.al.|[2409.10427](http://arxiv.org/abs/2409.10427)|null|
+|**2024-09-16**|**A point process approach for the classification of noisy calcium imaging data**|Arianna Burzacchi et.al.|[2409.10409](http://arxiv.org/abs/2409.10409)|null|
+|**2024-09-16**|**Stochastic Data-Driven Predictive Control: Chance-Constraint Satisfaction with Identified Multi-step Predictors**|Haldun Balim et.al.|[2409.10405](http://arxiv.org/abs/2409.10405)|null|
+|**2024-09-16**|**Large Language Model Enhanced Hard Sample Identification for Denoising Recommendation**|Tianrui Song et.al.|[2409.10343](http://arxiv.org/abs/2409.10343)|null|
+|**2024-09-16**|**Self-Updating Vehicle Monitoring Framework Employing Distributed Acoustic Sensing towards Real-World Settings**|Xi Wang et.al.|[2409.10259](http://arxiv.org/abs/2409.10259)|null|
+|**2024-09-16**|**Kernel Descent -- a Novel Optimizer for Variational Quantum Algorithms**|Lars Simon et.al.|[2409.10257](http://arxiv.org/abs/2409.10257)|null|
+|**2024-09-16**|**RealDiff: Real-world 3D Shape Completion using Self-Supervised Diffusion Models**|Başak Melis Öcal et.al.|[2409.10180](http://arxiv.org/abs/2409.10180)|null|
+|**2024-09-15**|**Fuzzy logic for reconstructing arbitrary moments of multiplicity distributions**|Anar Rustamov et.al.|[2409.09814](http://arxiv.org/abs/2409.09814)|null|
 |**2024-09-13**|**Pushing Joint Image Denoising and Classification to the Edge**|Thomas C Markhorst et.al.|[2409.08943](http://arxiv.org/abs/2409.08943)|null|
 |**2024-09-13**|**Shadow Quantum Linear Solver: A Resource Efficient Quantum Algorithm for Linear Systems of Equations**|Francesco Ghisoni et.al.|[2409.08929](http://arxiv.org/abs/2409.08929)|null|
 |**2024-09-13**|**Self-supervised learning for denoising quasiparticle interference data**|Ilse S. Kuijf et.al.|[2409.08891](http://arxiv.org/abs/2409.08891)|null|
