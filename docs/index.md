@@ -14,6 +14,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-17**|**Temporal As a Plugin: Unsupervised Video Denoising with Pre-Trained Image Denoisers**|Zixuan Fu et.al.|[2409.11256](http://arxiv.org/abs/2409.11256)|**[link](https://github.com/zfu006/tap)**|
+|**2024-09-17**|**Self-Evolutionary Large Language Models through Uncertainty-Enhanced Preference Optimization**|Jianing Wang et.al.|[2409.11212](http://arxiv.org/abs/2409.11212)|null|
+|**2024-09-17**|**Learning Generalized Hamiltonians using fully Symplectic Mappings**|Harsh Choudhary et.al.|[2409.11138](http://arxiv.org/abs/2409.11138)|null|
+|**2024-09-17**|**P2 Explore: Efficient Exploration in Unknown Clustered Environment with Floor Plan Prediction**|Kun Song et.al.|[2409.10878](http://arxiv.org/abs/2409.10878)|null|
+|**2024-09-17**|**SIFToM: Robust Spoken Instruction Following through Theory of Mind**|Lance Ying et.al.|[2409.10849](http://arxiv.org/abs/2409.10849)|null|
+|**2024-09-17**|**Bayesian Optimal Experimental Design for Robot Kinematic Calibration**|Ersin Das et.al.|[2409.10802](http://arxiv.org/abs/2409.10802)|null|
+|**2024-09-16**|**Investigating Training Objectives for Generative Speech Enhancement**|Julius Richter et.al.|[2409.10753](http://arxiv.org/abs/2409.10753)|null|
 |**2024-09-16**|**MacDiff: Unified Skeleton Modeling with Masked Conditional Diffusion**|Lehong Wu et.al.|[2409.10473](http://arxiv.org/abs/2409.10473)|null|
 |**2024-09-16**|**Efficiently Crowdsourcing Visual Importance with Punch-Hole Annotation**|Minsuk Chang et.al.|[2409.10459](http://arxiv.org/abs/2409.10459)|null|
 |**2024-09-16**|**User-Authenticated Device-Independent Quantum Secure Direct Communication Protocol**|Nayana Das et.al.|[2409.10427](http://arxiv.org/abs/2409.10427)|null|
