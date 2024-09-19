@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.18
+## Updated on 2024.09.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -22,7 +22,7 @@
 |**2024-09-17**|**Learning Generalized Hamiltonians using fully Symplectic Mappings**|Harsh Choudhary et.al.|[2409.11138](http://arxiv.org/abs/2409.11138)|null|
 |**2024-09-17**|**P2 Explore: Efficient Exploration in Unknown Clustered Environment with Floor Plan Prediction**|Kun Song et.al.|[2409.10878](http://arxiv.org/abs/2409.10878)|null|
 |**2024-09-17**|**SIFToM: Robust Spoken Instruction Following through Theory of Mind**|Lance Ying et.al.|[2409.10849](http://arxiv.org/abs/2409.10849)|null|
-|**2024-09-17**|**Bayesian Optimal Experimental Design for Robot Kinematic Calibration**|Ersin Das et.al.|[2409.10802](http://arxiv.org/abs/2409.10802)|null|
+|**2024-09-18**|**Bayesian Optimal Experimental Design for Robot Kinematic Calibration**|Ersin Das et.al.|[2409.10802](http://arxiv.org/abs/2409.10802)|null|
 |**2024-09-16**|**Investigating Training Objectives for Generative Speech Enhancement**|Julius Richter et.al.|[2409.10753](http://arxiv.org/abs/2409.10753)|null|
 |**2024-09-16**|**MacDiff: Unified Skeleton Modeling with Masked Conditional Diffusion**|Lehong Wu et.al.|[2409.10473](http://arxiv.org/abs/2409.10473)|null|
 |**2024-09-16**|**Efficiently Crowdsourcing Visual Importance with Punch-Hole Annotation**|Minsuk Chang et.al.|[2409.10459](http://arxiv.org/abs/2409.10459)|null|
@@ -680,7 +680,7 @@
 |**2024-05-03**|**A Class of Numerical Semigroups Defined by Kunz and Waldi**|Srishti Singh et.al.|[2405.00331](http://arxiv.org/abs/2405.00331)|null|
 |**2024-04-26**|**Machine Learning based prediction of Vanadium Redox Flow Battery temperature rise under different charge-discharge conditions**|Anirudh Narayan D et.al.|[2404.17284](http://arxiv.org/abs/2404.17284)|null|
 
-<p align=right>(<a href=#updated-on-20240918>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240919>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
