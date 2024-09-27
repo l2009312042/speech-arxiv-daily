@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.26
+## Updated on 2024.09.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## KWS
@@ -17,7 +17,7 @@ layout: default
 |**2024-09-25**|**Language-oriented Semantic Communication for Image Transmission with Fine-Tuned Diffusion Model**|Xinfeng Wei et.al.|[2409.17104](http://arxiv.org/abs/2409.17104)|null|
 |**2024-09-25**|**Ctrl-GenAug: Controllable Generative Augmentation for Medical Sequence Classification**|Xinrui Zhou et.al.|[2409.17091](http://arxiv.org/abs/2409.17091)|null|
 |**2024-09-25**|**Quantum Advantage in Distributed Sensing with Noisy Quantum Networks**|Allen Zang et.al.|[2409.17089](http://arxiv.org/abs/2409.17089)|null|
-|**2024-09-25**|**Investigating OCR-Sensitive Neurons to Improve Entity Recognition in Historical Documents**|Emanuela Boros et.al.|[2409.16934](http://arxiv.org/abs/2409.16934)|null|
+|**2024-09-26**|**Investigating OCR-Sensitive Neurons to Improve Entity Recognition in Historical Documents**|Emanuela Boros et.al.|[2409.16934](http://arxiv.org/abs/2409.16934)|null|
 |**2024-09-25**|**Feedforward Controllers from Learned Dynamic Local Model Networks with Application to Excavator Assistance Functions**|Leon Greiser et.al.|[2409.16875](http://arxiv.org/abs/2409.16875)|null|
 |**2024-09-25**|**A Versatile and Differentiable Hand-Object Interaction Representation**|Théo Morales et.al.|[2409.16855](http://arxiv.org/abs/2409.16855)|null|
 |**2024-09-25**|**An Adaptive Re-evaluation Method for Evolution Strategy under Additive Noise**|Catalin-Viorel Dinu et.al.|[2409.16757](http://arxiv.org/abs/2409.16757)|null|
