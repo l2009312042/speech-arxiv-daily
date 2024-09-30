@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-27**|**Robust and efficient data-driven predictive control**|Mohammad Alsalti et.al.|[2409.18867](http://arxiv.org/abs/2409.18867)|null|
+|**2024-09-27**|**Classical Statistical (In-Sample) Intuitions Don't Generalize Well: A Note on Bias-Variance Tradeoffs, Overfitting and Moving from Fixed to Random Designs**|Alicia Curth et.al.|[2409.18842](http://arxiv.org/abs/2409.18842)|null|
+|**2024-09-27**|**MECG-E: Mamba-based ECG Enhancer for Baseline Wander Removal**|Kuo-Hsuan Hung et.al.|[2409.18828](http://arxiv.org/abs/2409.18828)|null|
+|**2024-09-27**|**Interplay between time and energy in bosonic noisy quantum metrology**|Wojciech Górecki et.al.|[2409.18791](http://arxiv.org/abs/2409.18791)|null|
+|**2024-09-27**|**Speech Boosting: Low-Latency Live Speech Enhancement for TWS Earbuds**|Hanbin Bae et.al.|[2409.18705](http://arxiv.org/abs/2409.18705)|null|
+|**2024-09-27**|**Optimal Tree-Based Mechanisms for Differentially Private Approximate CDFs**|V. Arvind Rameshwar et.al.|[2409.18573](http://arxiv.org/abs/2409.18573)|null|
+|**2024-09-27**|**Towards Diverse Device Heterogeneous Federated Learning via Task Arithmetic Knowledge Integration**|Mahdi Morafah et.al.|[2409.18461](http://arxiv.org/abs/2409.18461)|**[link](https://github.com/mmorafah/takfl)**|
+|**2024-09-27**|**A3: Active Adversarial Alignment for Source-Free Domain Adaptation**|Chrisantus Eze et.al.|[2409.18418](http://arxiv.org/abs/2409.18418)|null|
+|**2024-09-27**|**Heterogeneous quantization regularizes spiking neural network activity**|Roy Moyal et.al.|[2409.18396](http://arxiv.org/abs/2409.18396)|null|
+|**2024-09-27**|**Discovery and inversion of the viscoelastic wave equation in inhomogeneous media**|Su Chen et.al.|[2409.18370](http://arxiv.org/abs/2409.18370)|null|
 |**2024-09-26**|**Slowly Scaling Per-Record Differential Privacy**|Brian Finley et.al.|[2409.18118](http://arxiv.org/abs/2409.18118)|null|
 |**2024-09-26**|**EfficientCrackNet: A Lightweight Model for Crack Segmentation**|Abid Hasan Zim et.al.|[2409.18099](http://arxiv.org/abs/2409.18099)|null|
 |**2024-09-26**|**Codesigned counterdiabatic quantum optimization on a photonic quantum processor**|Xiao-Wen Shang et.al.|[2409.17930](http://arxiv.org/abs/2409.17930)|null|
