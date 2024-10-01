@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.30
+## Updated on 2024.10.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -22,7 +22,7 @@
 |**2024-09-27**|**MECG-E: Mamba-based ECG Enhancer for Baseline Wander Removal**|Kuo-Hsuan Hung et.al.|[2409.18828](http://arxiv.org/abs/2409.18828)|null|
 |**2024-09-27**|**Interplay between time and energy in bosonic noisy quantum metrology**|Wojciech Górecki et.al.|[2409.18791](http://arxiv.org/abs/2409.18791)|null|
 |**2024-09-27**|**Speech Boosting: Low-Latency Live Speech Enhancement for TWS Earbuds**|Hanbin Bae et.al.|[2409.18705](http://arxiv.org/abs/2409.18705)|null|
-|**2024-09-27**|**Optimal Tree-Based Mechanisms for Differentially Private Approximate CDFs**|V. Arvind Rameshwar et.al.|[2409.18573](http://arxiv.org/abs/2409.18573)|null|
+|**2024-09-30**|**Optimal Tree-Based Mechanisms for Differentially Private Approximate CDFs**|V. Arvind Rameshwar et.al.|[2409.18573](http://arxiv.org/abs/2409.18573)|null|
 |**2024-09-27**|**Towards Diverse Device Heterogeneous Federated Learning via Task Arithmetic Knowledge Integration**|Mahdi Morafah et.al.|[2409.18461](http://arxiv.org/abs/2409.18461)|**[link](https://github.com/mmorafah/takfl)**|
 |**2024-09-27**|**A3: Active Adversarial Alignment for Source-Free Domain Adaptation**|Chrisantus Eze et.al.|[2409.18418](http://arxiv.org/abs/2409.18418)|null|
 |**2024-09-27**|**Heterogeneous quantization regularizes spiking neural network activity**|Roy Moyal et.al.|[2409.18396](http://arxiv.org/abs/2409.18396)|null|
@@ -716,7 +716,7 @@
 |**2024-05-03**|**A Class of Numerical Semigroups Defined by Kunz and Waldi**|Srishti Singh et.al.|[2405.00331](http://arxiv.org/abs/2405.00331)|null|
 |**2024-04-26**|**Machine Learning based prediction of Vanadium Redox Flow Battery temperature rise under different charge-discharge conditions**|Anirudh Narayan D et.al.|[2404.17284](http://arxiv.org/abs/2404.17284)|null|
 
-<p align=right>(<a href=#updated-on-20240930>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241001>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

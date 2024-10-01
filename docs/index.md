@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.30
+## Updated on 2024.10.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## KWS
@@ -19,7 +19,7 @@ layout: default
 |**2024-09-27**|**MECG-E: Mamba-based ECG Enhancer for Baseline Wander Removal**|Kuo-Hsuan Hung et.al.|[2409.18828](http://arxiv.org/abs/2409.18828)|null|
 |**2024-09-27**|**Interplay between time and energy in bosonic noisy quantum metrology**|Wojciech Górecki et.al.|[2409.18791](http://arxiv.org/abs/2409.18791)|null|
 |**2024-09-27**|**Speech Boosting: Low-Latency Live Speech Enhancement for TWS Earbuds**|Hanbin Bae et.al.|[2409.18705](http://arxiv.org/abs/2409.18705)|null|
-|**2024-09-27**|**Optimal Tree-Based Mechanisms for Differentially Private Approximate CDFs**|V. Arvind Rameshwar et.al.|[2409.18573](http://arxiv.org/abs/2409.18573)|null|
+|**2024-09-30**|**Optimal Tree-Based Mechanisms for Differentially Private Approximate CDFs**|V. Arvind Rameshwar et.al.|[2409.18573](http://arxiv.org/abs/2409.18573)|null|
 |**2024-09-27**|**Towards Diverse Device Heterogeneous Federated Learning via Task Arithmetic Knowledge Integration**|Mahdi Morafah et.al.|[2409.18461](http://arxiv.org/abs/2409.18461)|**[link](https://github.com/mmorafah/takfl)**|
 |**2024-09-27**|**A3: Active Adversarial Alignment for Source-Free Domain Adaptation**|Chrisantus Eze et.al.|[2409.18418](http://arxiv.org/abs/2409.18418)|null|
 |**2024-09-27**|**Heterogeneous quantization regularizes spiking neural network activity**|Roy Moyal et.al.|[2409.18396](http://arxiv.org/abs/2409.18396)|null|
