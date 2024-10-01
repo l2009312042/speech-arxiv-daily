@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-30**|**Orthogonal-state-based Measurement Device Independent Quantum Communication**|Chitra Shukla et.al.|[2409.20438](http://arxiv.org/abs/2409.20438)|null|
+|**2024-09-30**|**Floquet evolution of the q-deformed \texorpdfstring{SU(3) ${}_1$ }{SU(3)1} Yang-Mills theory on a two-leg ladder**|Tomoya Hayata et.al.|[2409.20263](http://arxiv.org/abs/2409.20263)|null|
+|**2024-09-30**|**Random Features Outperform Linear Models: Effect of Strong Input-Label Correlation in Spiked Covariance Data**|Samet Demir et.al.|[2409.20250](http://arxiv.org/abs/2409.20250)|null|
+|**2024-09-30**|**ProFD: Prompt-Guided Feature Disentangling for Occluded Person Re-Identification**|Can Cui et.al.|[2409.20081](http://arxiv.org/abs/2409.20081)|**[link](https://github.com/cuixxx/profd)**|
+|**2024-09-30**|**Robust Multi-view Co-expression Network Inference**|Teodora Pandeva et.al.|[2409.19991](http://arxiv.org/abs/2409.19991)|null|
+|**2024-09-30**|**Fourier Domain Physics Informed Neural Network**|Jonathan Musgrave et.al.|[2409.19895](http://arxiv.org/abs/2409.19895)|null|
+|**2024-09-29**|**Calibration and Performance of the Upgraded ALICE Inner Tracking System**|Andrea Sofia Triolo et.al.|[2409.19810](http://arxiv.org/abs/2409.19810)|null|
+|**2024-09-29**|**ANN-Enhanced Detection of Multipartite Entanglement in a Three-Qubit NMR Quantum Processor**|Vaishali Gulati et.al.|[2409.19739](http://arxiv.org/abs/2409.19739)|null|
+|**2024-09-29**|**Efficient Verification of Stabilizer Code Subspaces with Local Measurements**|Congcong Zheng et.al.|[2409.19699](http://arxiv.org/abs/2409.19699)|null|
+|**2024-09-29**|**Vision-Language Models are Strong Noisy Label Detectors**|Tong Wei et.al.|[2409.19696](http://arxiv.org/abs/2409.19696)|null|
 |**2024-09-27**|**Robust and efficient data-driven predictive control**|Mohammad Alsalti et.al.|[2409.18867](http://arxiv.org/abs/2409.18867)|null|
 |**2024-09-27**|**Classical Statistical (In-Sample) Intuitions Don't Generalize Well: A Note on Bias-Variance Tradeoffs, Overfitting and Moving from Fixed to Random Designs**|Alicia Curth et.al.|[2409.18842](http://arxiv.org/abs/2409.18842)|null|
 |**2024-09-27**|**MECG-E: Mamba-based ECG Enhancer for Baseline Wander Removal**|Kuo-Hsuan Hung et.al.|[2409.18828](http://arxiv.org/abs/2409.18828)|null|
