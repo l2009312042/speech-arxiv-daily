@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-02**|**Thermodynamic Bayesian Inference**|Maxwell Aifer et.al.|[2410.01793](http://arxiv.org/abs/2410.01793)|null|
+|**2024-10-02**|**Trained Transformer Classifiers Generalize and Exhibit Benign Overfitting In-Context**|Spencer Frei et.al.|[2410.01774](http://arxiv.org/abs/2410.01774)|null|
+|**2024-10-02**|**LASeR: Learning to Adaptively Select Reward Models with Multi-Armed Bandits**|Duy Nguyen et.al.|[2410.01735](http://arxiv.org/abs/2410.01735)|**[link](https://github.com/duykhuongnguyen/laser-mab)**|
+|**2024-10-02**|**Sparse Covariance Neural Networks**|Andrea Cavallo et.al.|[2410.01669](http://arxiv.org/abs/2410.01669)|null|
+|**2024-10-02**|**3DGS-DET: Empower 3D Gaussian Splatting with Boundary Guidance and Box-Focused Sampling for 3D Object Detection**|Yang Cao et.al.|[2410.01647](http://arxiv.org/abs/2410.01647)|**[link](https://github.com/yangcaoai/3dgs-det)**|
+|**2024-10-02**|**Design of Convolutional Codes for Varying Constraint Lengths**|Parag Dhounde et.al.|[2410.01567](http://arxiv.org/abs/2410.01567)|null|
+|**2024-10-02**|**Detection and suppression of epileptiform seizures via model-free control and derivatives in a noisy environment**|Cédric Join et.al.|[2410.01403](http://arxiv.org/abs/2410.01403)|null|
+|**2024-10-02**|**Question-guided Knowledge Graph Re-scoring and Injection for Knowledge Graph Question Answering**|Yu Zhang et.al.|[2410.01401](http://arxiv.org/abs/2410.01401)|**[link](https://github.com/EchoDreamer/Q-KGR)**|
+|**2024-10-02**|**Newton Meets Marchenko-Pastur: Massively Parallel Second-Order Optimization with Hessian Sketching and Debiasing**|Elad Romanov et.al.|[2410.01374](http://arxiv.org/abs/2410.01374)|null|
+|**2024-10-02**|**CANVAS: Commonsense-Aware Navigation System for Intuitive Human-Robot Interaction**|Suhwan Choi et.al.|[2410.01273](http://arxiv.org/abs/2410.01273)|null|
 |**2024-09-30**|**Orthogonal-state-based Measurement Device Independent Quantum Communication**|Chitra Shukla et.al.|[2409.20438](http://arxiv.org/abs/2409.20438)|null|
 |**2024-09-30**|**Floquet evolution of the q-deformed \texorpdfstring{SU(3) ${}_1$ }{SU(3)1} Yang-Mills theory on a two-leg ladder**|Tomoya Hayata et.al.|[2409.20263](http://arxiv.org/abs/2409.20263)|null|
 |**2024-09-30**|**Random Features Outperform Linear Models: Effect of Strong Input-Label Correlation in Spiked Covariance Data**|Samet Demir et.al.|[2409.20250](http://arxiv.org/abs/2409.20250)|null|
