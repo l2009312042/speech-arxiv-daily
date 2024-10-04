@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-03**|**Contrastive Localized Language-Image Pre-Training**|Hong-You Chen et.al.|[2410.02746](http://arxiv.org/abs/2410.02746)|null|
+|**2024-10-03**|**HELMET: How to Evaluate Long-Context Language Models Effectively and Thoroughly**|Howard Yen et.al.|[2410.02694](http://arxiv.org/abs/2410.02694)|null|
+|**2024-10-03**|**Plots Unlock Time-Series Understanding in Multimodal Models**|Mayank Daswani et.al.|[2410.02637](http://arxiv.org/abs/2410.02637)|null|
+|**2024-10-03**|**Quantum Machine Learning for Digital Health? A Systematic Review**|Riddhi S. Gupta et.al.|[2410.02446](http://arxiv.org/abs/2410.02446)|null|
+|**2024-10-03**|**LoGDesc: Local geometric features aggregation for robust point cloud registration**|Karim Slimani et.al.|[2410.02420](http://arxiv.org/abs/2410.02420)|null|
+|**2024-10-03**|**Online Multi-Label Classification under Noisy and Changing Label Distribution**|Yizhang Zou et.al.|[2410.02394](http://arxiv.org/abs/2410.02394)|null|
+|**2024-10-03**|**Polynomial approximation of noisy functions**|Takeru Matsuda et.al.|[2410.02317](http://arxiv.org/abs/2410.02317)|null|
+|**2024-10-03**|**Correlation and Navigation in the Vocabulary Key Representation Space of Language Models**|Letian Peng et.al.|[2410.02284](http://arxiv.org/abs/2410.02284)|**[link](https://github.com/KomeijiForce/KeyNavi)**|
+|**2024-10-03**|**Perfect Counterfactuals in Imperfect Worlds: Modelling Noisy Implementation of Actions in Sequential Algorithmic Recourse**|Yueqing Xuan et.al.|[2410.02273](http://arxiv.org/abs/2410.02273)|null|
+|**2024-10-03**|**MIGA: Mixture-of-Experts with Group Aggregation for Stock Market Prediction**|Zhaojian Yu et.al.|[2410.02241](http://arxiv.org/abs/2410.02241)|null|
 |**2024-10-02**|**Thermodynamic Bayesian Inference**|Maxwell Aifer et.al.|[2410.01793](http://arxiv.org/abs/2410.01793)|null|
 |**2024-10-02**|**Trained Transformer Classifiers Generalize and Exhibit Benign Overfitting In-Context**|Spencer Frei et.al.|[2410.01774](http://arxiv.org/abs/2410.01774)|null|
 |**2024-10-02**|**LASeR: Learning to Adaptively Select Reward Models with Multi-Armed Bandits**|Duy Nguyen et.al.|[2410.01735](http://arxiv.org/abs/2410.01735)|**[link](https://github.com/duykhuongnguyen/laser-mab)**|
