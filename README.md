@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-04**|**Estimating Body and Hand Motion in an Ego-sensed World**|Brent Yi et.al.|[2410.03665](http://arxiv.org/abs/2410.03665)|null|
+|**2024-10-04**|**Slower swimming promotes chemotactic encounters between bacteria and small phytoplankton**|Riccardo Foffi et.al.|[2410.03641](http://arxiv.org/abs/2410.03641)|null|
+|**2024-10-04**|**Functional Singular Value Decomposition**|Jianbin Tan et.al.|[2410.03619](http://arxiv.org/abs/2410.03619)|null|
+|**2024-10-04**|**A Practical Concatenated Coding Scheme for Noisy Shuffling Channels with Coset-based Indexing**|Javad Haghighat et.al.|[2410.03578](http://arxiv.org/abs/2410.03578)|null|
+|**2024-10-04**|**Classification-Denoising Networks**|Louis Thiry et.al.|[2410.03505](http://arxiv.org/abs/2410.03505)|null|
+|**2024-10-04**|**STREAMS: An Assistive Multimodal AI Framework for Empowering Biosignal Based Robotic Controls**|Ali Rabiee et.al.|[2410.03486](http://arxiv.org/abs/2410.03486)|null|
+|**2024-10-04**|**VEDIT: Latent Prediction Architecture For Procedural Video Representation Learning**|Han Lin et.al.|[2410.03478](http://arxiv.org/abs/2410.03478)|null|
+|**2024-10-04**|**Impact of Bivariate Gaussian Potentials on Quantum Walks for Spatial Search**|Franklin de L. Marquezino et.al.|[2410.03269](http://arxiv.org/abs/2410.03269)|null|
+|**2024-10-04**|**A Geometric Approach for Multivariate Jumps Detection**|Hugo Henneuse et.al.|[2410.03231](http://arxiv.org/abs/2410.03231)|null|
+|**2024-10-04**|**Entanglement-induced provable and robust quantum learning advantages**|Haimeng Zhao et.al.|[2410.03094](http://arxiv.org/abs/2410.03094)|**[link](https://github.com/haimengzhao/qml-advantage)**|
 |**2024-10-03**|**Contrastive Localized Language-Image Pre-Training**|Hong-You Chen et.al.|[2410.02746](http://arxiv.org/abs/2410.02746)|null|
 |**2024-10-03**|**HELMET: How to Evaluate Long-Context Language Models Effectively and Thoroughly**|Howard Yen et.al.|[2410.02694](http://arxiv.org/abs/2410.02694)|null|
 |**2024-10-03**|**Plots Unlock Time-Series Understanding in Multimodal Models**|Mayank Daswani et.al.|[2410.02637](http://arxiv.org/abs/2410.02637)|null|
