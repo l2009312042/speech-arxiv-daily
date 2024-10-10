@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-09**|**Mental Disorders Detection in the Era of Large Language Models**|Gleb Kuzmin et.al.|[2410.07129](http://arxiv.org/abs/2410.07129)|null|
+|**2024-10-09**|**Variational approach to photonic quantum circuits via the parameter shift rule**|Francesco Hoch et.al.|[2410.06966](http://arxiv.org/abs/2410.06966)|null|
+|**2024-10-09**|**Representation Alignment for Generation: Training Diffusion Transformers Is Easier Than You Think**|Sihyun Yu et.al.|[2410.06940](http://arxiv.org/abs/2410.06940)|null|
+|**2024-10-09**|**Subspace method of moments for ab initio 3-D single-particle Cryo-EM reconstruction**|Jeremy Hoskins et.al.|[2410.06889](http://arxiv.org/abs/2410.06889)|null|
+|**2024-10-09**|**Noise is All You Need: Private Second-Order Convergence of Noisy SGD**|Dmitrii Avdiukhin et.al.|[2410.06878](http://arxiv.org/abs/2410.06878)|null|
+|**2024-10-09**|**Diff-FMT: Diffusion Models for Fluorescence Molecular Tomography**|Qianqian Xue et.al.|[2410.06757](http://arxiv.org/abs/2410.06757)|null|
+|**2024-10-09**|**Suppress Content Shift: Better Diffusion Features via Off-the-Shelf Generation Techniques**|Benyuan Meng et.al.|[2410.06719](http://arxiv.org/abs/2410.06719)|null|
+|**2024-10-09**|**Experimental single-copy distillation of quantumness from higher-dimensional entanglement**|Xiao-Xu Fang et.al.|[2410.06610](http://arxiv.org/abs/2410.06610)|null|
+|**2024-10-09**|**Real-to-Sim Grasp: Rethinking the Gap between Simulation and Real World in Grasp Detection**|Jia-Feng Cai et.al.|[2410.06521](http://arxiv.org/abs/2410.06521)|null|
+|**2024-10-09**|**SEGMENT+: Long Text Processing with Short-Context Language Models**|Wei Shi et.al.|[2410.06519](http://arxiv.org/abs/2410.06519)|null|
 |**2024-10-07**|**Investigating large language models for their competence in extracting grammatically sound sentences from transcribed noisy utterances**|Alina Wróblewska et.al.|[2410.05099](http://arxiv.org/abs/2410.05099)|null|
 |**2024-10-08**|**RoWeeder: Unsupervised Weed Mapping through Crop-Row Detection**|Pasquale De Marinis et.al.|[2410.04983](http://arxiv.org/abs/2410.04983)|**[link](https://github.com/pasqualedem/roweeder)**|
 |**2024-10-07**|**FELLAS: Enhancing Federated Sequential Recommendation with LLM as External Services**|Wei Yuan et.al.|[2410.04927](http://arxiv.org/abs/2410.04927)|null|
