@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.09
+## Updated on 2024.10.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## KWS
@@ -15,11 +15,11 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-07**|**Investigating large language models for their competence in extracting grammatically sound sentences from transcribed noisy utterances**|Alina Wróblewska et.al.|[2410.05099](http://arxiv.org/abs/2410.05099)|null|
-|**2024-10-07**|**RoWeeder: Unsupervised Weed Mapping through Crop-Row Detection**|Pasquale De Marinis et.al.|[2410.04983](http://arxiv.org/abs/2410.04983)|**[link](https://github.com/pasqualedem/roweeder)**|
+|**2024-10-08**|**RoWeeder: Unsupervised Weed Mapping through Crop-Row Detection**|Pasquale De Marinis et.al.|[2410.04983](http://arxiv.org/abs/2410.04983)|**[link](https://github.com/pasqualedem/roweeder)**|
 |**2024-10-07**|**FELLAS: Enhancing Federated Sequential Recommendation with LLM as External Services**|Wei Yuan et.al.|[2410.04927](http://arxiv.org/abs/2410.04927)|null|
 |**2024-10-07**|**On the Optimization and Generalization of Two-layer Transformers with Sign Gradient Descent**|Bingrui Li et.al.|[2410.04870](http://arxiv.org/abs/2410.04870)|null|
 |**2024-10-07**|**Active Inference for Closed-loop transmit beamsteering in Fetal Doppler Ultrasound**|Beatrice Federici et.al.|[2410.04869](http://arxiv.org/abs/2410.04869)|null|
-|**2024-10-07**|**Formality is Favored: Unraveling the Learning Preferences of Large Language Models on Data with Conflicting Knowledge**|Jiahuan Li et.al.|[2410.04784](http://arxiv.org/abs/2410.04784)|null|
+|**2024-10-07**|**Formality is Favored: Unraveling the Learning Preferences of Large Language Models on Data with Conflicting Knowledge**|Jiahuan Li et.al.|[2410.04784](http://arxiv.org/abs/2410.04784)|**[link](https://github.com/CaoYiqingT/Formality-is-Favored)**|
 |**2024-10-06**|**Robustness Reprogramming for Representation Learning**|Zhichao Hou et.al.|[2410.04577](http://arxiv.org/abs/2410.04577)|null|
 |**2024-10-06**|**Numerical Solution for Nonlinear 4D Variational Data Assimilation (4D-Var) via ADMM**|Bowen Li et.al.|[2410.04471](http://arxiv.org/abs/2410.04471)|null|
 |**2024-10-05**|**Mechanistic Behavior Editing of Language Models**|Joykirat Singh et.al.|[2410.04277](http://arxiv.org/abs/2410.04277)|**[link](https://github.com/joykirat18/tarot)**|
