@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-10**|**LatteCLIP: Unsupervised CLIP Fine-Tuning via LMM-Synthetic Texts**|Anh-Quan Cao et.al.|[2410.08211](http://arxiv.org/abs/2410.08211)|null|
+|**2024-10-10**|**Mono-InternVL: Pushing the Boundaries of Monolithic Multimodal Large Language Models with Endogenous Visual Pre-training**|Gen Luo et.al.|[2410.08202](http://arxiv.org/abs/2410.08202)|null|
+|**2024-10-10**|**Field theory for monitored Brownian SYK clusters**|Anastasiia Tiutiakina et.al.|[2410.08079](http://arxiv.org/abs/2410.08079)|null|
+|**2024-10-10**|**AHA: Human-Assisted Out-of-Distribution Generalization and Detection**|Haoyue Bai et.al.|[2410.08000](http://arxiv.org/abs/2410.08000)|null|
+|**2024-10-10**|**Large Deviation Analysis for the Reverse Shannon Theorem**|Shi-Bing Li et.al.|[2410.07984](http://arxiv.org/abs/2410.07984)|null|
+|**2024-10-10**|**Window Function-less DFT with Reduced Noise and Latency for Real-Time Music Analysis**|Cai Biesinger et.al.|[2410.07982](http://arxiv.org/abs/2410.07982)|**[link](https://github.com/CaiB/ColorChord.NET)**|
+|**2024-10-10**|**Neural Semantic Map-Learning for Autonomous Vehicles**|Markus Herb et.al.|[2410.07780](http://arxiv.org/abs/2410.07780)|null|
+|**2024-10-10**|**Benign Overfitting in Single-Head Attention**|Roey Magen et.al.|[2410.07746](http://arxiv.org/abs/2410.07746)|null|
+|**2024-10-10**|**When the Small-Loss Trick is Not Enough: Multi-Label Image Classification with Noisy Labels Applied to CCTV Sewer Inspections**|Keryan Chelouche et.al.|[2410.07689](http://arxiv.org/abs/2410.07689)|null|
+|**2024-10-10**|**Cognitive Noise and Altruistic Preferences**|Niklas M. Witzig et.al.|[2410.07647](http://arxiv.org/abs/2410.07647)|null|
 |**2024-10-09**|**Mental Disorders Detection in the Era of Large Language Models**|Gleb Kuzmin et.al.|[2410.07129](http://arxiv.org/abs/2410.07129)|null|
 |**2024-10-09**|**Variational approach to photonic quantum circuits via the parameter shift rule**|Francesco Hoch et.al.|[2410.06966](http://arxiv.org/abs/2410.06966)|null|
 |**2024-10-09**|**Representation Alignment for Generation: Training Diffusion Transformers Is Easier Than You Think**|Sihyun Yu et.al.|[2410.06940](http://arxiv.org/abs/2410.06940)|null|
