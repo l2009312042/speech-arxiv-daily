@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.10
+## Updated on 2024.10.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -23,7 +23,7 @@
 |**2024-10-09**|**Subspace method of moments for ab initio 3-D single-particle Cryo-EM reconstruction**|Jeremy Hoskins et.al.|[2410.06889](http://arxiv.org/abs/2410.06889)|null|
 |**2024-10-09**|**Noise is All You Need: Private Second-Order Convergence of Noisy SGD**|Dmitrii Avdiukhin et.al.|[2410.06878](http://arxiv.org/abs/2410.06878)|null|
 |**2024-10-09**|**Diff-FMT: Diffusion Models for Fluorescence Molecular Tomography**|Qianqian Xue et.al.|[2410.06757](http://arxiv.org/abs/2410.06757)|null|
-|**2024-10-09**|**Suppress Content Shift: Better Diffusion Features via Off-the-Shelf Generation Techniques**|Benyuan Meng et.al.|[2410.06719](http://arxiv.org/abs/2410.06719)|null|
+|**2024-10-10**|**Suppress Content Shift: Better Diffusion Features via Off-the-Shelf Generation Techniques**|Benyuan Meng et.al.|[2410.06719](http://arxiv.org/abs/2410.06719)|null|
 |**2024-10-09**|**Experimental single-copy distillation of quantumness from higher-dimensional entanglement**|Xiao-Xu Fang et.al.|[2410.06610](http://arxiv.org/abs/2410.06610)|null|
 |**2024-10-09**|**Real-to-Sim Grasp: Rethinking the Gap between Simulation and Real World in Grasp Detection**|Jia-Feng Cai et.al.|[2410.06521](http://arxiv.org/abs/2410.06521)|null|
 |**2024-10-09**|**SEGMENT+: Long Text Processing with Short-Context Language Models**|Wei Shi et.al.|[2410.06519](http://arxiv.org/abs/2410.06519)|null|
@@ -776,7 +776,7 @@
 |**2024-05-03**|**A Class of Numerical Semigroups Defined by Kunz and Waldi**|Srishti Singh et.al.|[2405.00331](http://arxiv.org/abs/2405.00331)|null|
 |**2024-04-26**|**Machine Learning based prediction of Vanadium Redox Flow Battery temperature rise under different charge-discharge conditions**|Anirudh Narayan D et.al.|[2404.17284](http://arxiv.org/abs/2404.17284)|null|
 
-<p align=right>(<a href=#updated-on-20241010>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241011>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
