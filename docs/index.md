@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-11**|**Semi-Supervised Learning of Noisy Mixture of Experts Models**|Oh-Ran Kwon et.al.|[2410.09039](http://arxiv.org/abs/2410.09039)|null|
+|**2024-10-11**|**Ensemble Kalman Inversion for Geothermal Reservoir Modelling**|Alex de Beer et.al.|[2410.09017](http://arxiv.org/abs/2410.09017)|null|
+|**2024-10-11**|**Engineering dipole-dipole couplings for enhanced cooperative light-matter interactions**|Adam Burgess et.al.|[2410.08940](http://arxiv.org/abs/2410.08940)|null|
+|**2024-10-11**|**Interdependency Matters: Graph Alignment for Multivariate Time Series Anomaly Detection**|Yuanyi Wang et.al.|[2410.08877](http://arxiv.org/abs/2410.08877)|null|
+|**2024-10-11**|**RoRA-VLM: Robust Retrieval-Augmented Vision Language Models**|Jingyuan Qi et.al.|[2410.08876](http://arxiv.org/abs/2410.08876)|null|
+|**2024-10-11**|**StructRAG: Boosting Knowledge Intensive Reasoning of LLMs via Inference-time Hybrid Information Structurization**|Zhuoqun Li et.al.|[2410.08815](http://arxiv.org/abs/2410.08815)|null|
+|**2024-10-11**|**MEMROC: Multi-Eye to Mobile RObot Calibration**|Davide Allegro et.al.|[2410.08805](http://arxiv.org/abs/2410.08805)|null|
+|**2024-10-11**|**Preferential Normalizing Flows**|Petrus Mikkola et.al.|[2410.08710](http://arxiv.org/abs/2410.08710)|null|
+|**2024-10-11**|**Analog simulation of noisy quantum circuits**|Etienne Granet et.al.|[2410.08639](http://arxiv.org/abs/2410.08639)|null|
+|**2024-10-11**|**Logarithmic Regret for Unconstrained Submodular Maximization Stochastic Bandit**|Julien Zhou et.al.|[2410.08578](http://arxiv.org/abs/2410.08578)|null|
 |**2024-10-10**|**LatteCLIP: Unsupervised CLIP Fine-Tuning via LMM-Synthetic Texts**|Anh-Quan Cao et.al.|[2410.08211](http://arxiv.org/abs/2410.08211)|null|
 |**2024-10-10**|**Mono-InternVL: Pushing the Boundaries of Monolithic Multimodal Large Language Models with Endogenous Visual Pre-training**|Gen Luo et.al.|[2410.08202](http://arxiv.org/abs/2410.08202)|null|
 |**2024-10-10**|**Field theory for monitored Brownian SYK clusters**|Anastasiia Tiutiakina et.al.|[2410.08079](http://arxiv.org/abs/2410.08079)|null|
