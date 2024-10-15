@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-14**|**Efficient Simulation of Open Quantum Systems on NISQ Devices**|Colin Burdine et.al.|[2410.10732](http://arxiv.org/abs/2410.10732)|null|
+|**2024-10-14**|**A System Parameterization for Direct Data-Driven Estimator Synthesis**|Felix Brändle et.al.|[2410.10681](http://arxiv.org/abs/2410.10681)|null|
+|**2024-10-14**|**PCF-Lift: Panoptic Lifting by Probabilistic Contrastive Fusion**|Runsong Zhu et.al.|[2410.10659](http://arxiv.org/abs/2410.10659)|**[link](https://github.com/runsong123/pcf-lift)**|
+|**2024-10-14**|**Application of zero-noise extrapolation-based quantum error mitigation to a silicon spin qubit**|Hanseo Sohn et.al.|[2410.10339](http://arxiv.org/abs/2410.10339)|null|
+|**2024-10-14**|**Preliminary Evaluation of an Ultrasound-Guided Robotic System for Autonomous Percutaneous Intervention**|Pratima Mohan et.al.|[2410.10299](http://arxiv.org/abs/2410.10299)|null|
+|**2024-10-14**|**BanglaQuAD: A Bengali Open-domain Question Answering Dataset**|Md Rashad Al Hasan Rony et.al.|[2410.10229](http://arxiv.org/abs/2410.10229)|null|
+|**2024-10-14**|**Automated Filtering of Human Feedback Data for Aligning Text-to-Image Diffusion Models**|Yongjin Yang et.al.|[2410.10166](http://arxiv.org/abs/2410.10166)|null|
+|**2024-10-14**|**NeRF-enabled Analysis-Through-Synthesis for ISAR Imaging of Small Everyday Objects with Sparse and Noisy UWB Radar Data**|Md Farhan Tasnim Oshim et.al.|[2410.10085](http://arxiv.org/abs/2410.10085)|null|
+|**2024-10-13**|**Sharper Guarantees for Learning Neural Network Classifiers with Gradient Methods**|Hossein Taheri et.al.|[2410.10024](http://arxiv.org/abs/2410.10024)|null|
+|**2024-10-13**|**Physics-informed AI and ML-based sparse system identification algorithm for discovery of PDE's representing nonlinear dynamic systems**|Ashish Pal et.al.|[2410.10023](http://arxiv.org/abs/2410.10023)|null|
 |**2024-10-11**|**Semi-Supervised Learning of Noisy Mixture of Experts Models**|Oh-Ran Kwon et.al.|[2410.09039](http://arxiv.org/abs/2410.09039)|null|
 |**2024-10-11**|**Ensemble Kalman Inversion for Geothermal Reservoir Modelling**|Alex de Beer et.al.|[2410.09017](http://arxiv.org/abs/2410.09017)|null|
 |**2024-10-11**|**Engineering dipole-dipole couplings for enhanced cooperative light-matter interactions**|Adam Burgess et.al.|[2410.08940](http://arxiv.org/abs/2410.08940)|null|
