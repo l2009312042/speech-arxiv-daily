@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-15**|**Data Quality Control in Federated Instruction-tuning of Large Language Models**|Yaxin Du et.al.|[2410.11540](http://arxiv.org/abs/2410.11540)|null|
+|**2024-10-15**|**Supersymmetry-Driven Quantum Gate Design Based on Feynman Path Integral and TPCP Map Optimization**|Harish Parthasarathy et.al.|[2410.11534](http://arxiv.org/abs/2410.11534)|null|
+|**2024-10-15**|**DRACO: A Denoising-Reconstruction Autoencoder for Cryo-EM**|Yingjun Shen et.al.|[2410.11373](http://arxiv.org/abs/2410.11373)|null|
+|**2024-10-15**|**Self-adaptive Multimodal Retrieval-Augmented Generation**|Wenjia Zhai et.al.|[2410.11321](http://arxiv.org/abs/2410.11321)|**[link](https://github.com/sam-rag/sam_rag)**|
+|**2024-10-15**|**Learning Diffusion Model from Noisy Measurement using Principled Expectation-Maximization Method**|Weimin Bai et.al.|[2410.11241](http://arxiv.org/abs/2410.11241)|null|
+|**2024-10-15**|**Statistical Inference in Tensor Completion: Optimal Uncertainty Quantification and Statistical-Computational Gaps**|Wanteng Ma et.al.|[2410.11225](http://arxiv.org/abs/2410.11225)|null|
+|**2024-10-15**|**Relationship between average correlation and quantum steering for arbitrary two-qubit states**|youneng Guo et.al.|[2410.11219](http://arxiv.org/abs/2410.11219)|null|
+|**2024-10-15**|**A CLIP-Powered Framework for Robust and Generalizable Data Selection**|Suorong Yang et.al.|[2410.11215](http://arxiv.org/abs/2410.11215)|null|
+|**2024-10-15**|**Neural Symbolic Regression of Complex Network Dynamics**|Haiquan Qiu et.al.|[2410.11185](http://arxiv.org/abs/2410.11185)|null|
+|**2024-10-15**|**Free Hunch: Denoiser Covariance Estimation for Diffusion Models Without Extra Costs**|Severi Rissanen et.al.|[2410.11149](http://arxiv.org/abs/2410.11149)|null|
 |**2024-10-14**|**Efficient Simulation of Open Quantum Systems on NISQ Devices**|Colin Burdine et.al.|[2410.10732](http://arxiv.org/abs/2410.10732)|null|
 |**2024-10-14**|**A System Parameterization for Direct Data-Driven Estimator Synthesis**|Felix Brändle et.al.|[2410.10681](http://arxiv.org/abs/2410.10681)|null|
 |**2024-10-14**|**PCF-Lift: Panoptic Lifting by Probabilistic Contrastive Fusion**|Runsong Zhu et.al.|[2410.10659](http://arxiv.org/abs/2410.10659)|**[link](https://github.com/runsong123/pcf-lift)**|
