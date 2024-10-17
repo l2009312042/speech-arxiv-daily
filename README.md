@@ -17,6 +17,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-16**|**K-Contact Distance for Noisy Nonhomogeneous Spatial Point Data with application to Repeating Fast Radio Burst sources**|A. M. Cook et.al.|[2410.12146](http://arxiv.org/abs/2410.12146)|null|
+|**2024-10-15**|**The Quasi-probability Method and Applications for Trace Reconstruction**|Ittai Rubinstein et.al.|[2410.11980](http://arxiv.org/abs/2410.11980)|null|
+|**2024-10-15**|**CtrlSynth: Controllable Image Text Synthesis for Data-Efficient Multimodal Learning**|Qingqing Cao et.al.|[2410.11963](http://arxiv.org/abs/2410.11963)|null|
 |**2024-10-15**|**Data Quality Control in Federated Instruction-tuning of Large Language Models**|Yaxin Du et.al.|[2410.11540](http://arxiv.org/abs/2410.11540)|null|
 |**2024-10-15**|**Supersymmetry-Driven Quantum Gate Design Based on Feynman Path Integral and TPCP Map Optimization**|Harish Parthasarathy et.al.|[2410.11534](http://arxiv.org/abs/2410.11534)|null|
 |**2024-10-15**|**DRACO: A Denoising-Reconstruction Autoencoder for Cryo-EM**|Yingjun Shen et.al.|[2410.11373](http://arxiv.org/abs/2410.11373)|null|
