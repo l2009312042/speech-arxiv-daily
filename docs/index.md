@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-17**|**A Fourier analysis framework for approximate classical simulations of quantum circuits**|Cristina Cirstoiu et.al.|[2410.13856](http://arxiv.org/abs/2410.13856)|null|
+|**2024-10-17**|**GDeR: Safeguarding Efficiency, Balancing, and Robustness via Prototypical Graph Pruning**|Guibin Zhang et.al.|[2410.13761](http://arxiv.org/abs/2410.13761)|**[link](https://github.com/ins1stenc3/gder)**|
+|**2024-10-17**|**Solving eigenvalue problems obtained by the finite element method on a quantum annealer using only a few qubits**|Arnaud Rémi et.al.|[2410.13740](http://arxiv.org/abs/2410.13740)|null|
+|**2024-10-17**|**A multiscale method for data collected from network edges via the line graph**|Dingjia Cao et.al.|[2410.13693](http://arxiv.org/abs/2410.13693)|null|
+|**2024-10-17**|**SAda-Net: A Self-Supervised Adaptive Stereo Estimation CNN For Remote Sensing Image Data**|Dominik Hirner et.al.|[2410.13500](http://arxiv.org/abs/2410.13500)|**[link](https://github.com/thedodo/sada-net)**|
+|**2024-10-17**|**Optimal Quantum Overlapping Tomography**|Chao Wei et.al.|[2410.13473](http://arxiv.org/abs/2410.13473)|null|
+|**2024-10-17**|**On the Use of Audio to Improve Dialogue Policies**|Daniel Roncel et.al.|[2410.13385](http://arxiv.org/abs/2410.13385)|null|
+|**2024-10-17**|**End-to-End Integration of Speech Emotion Recognition with Voice Activity Detection using Self-Supervised Learning Features**|Natsuo Yamashita et.al.|[2410.13282](http://arxiv.org/abs/2410.13282)|null|
+|**2024-10-17**|**Just Add Force for Contact-Rich Robot Policies**|William Xie et.al.|[2410.13124](http://arxiv.org/abs/2410.13124)|null|
+|**2024-10-16**|**Multi-Source Approximate Message Passing: Random Semi-Unitary Dictionaries**|Burak Çakmak et.al.|[2410.13021](http://arxiv.org/abs/2410.13021)|null|
 |**2024-10-16**|**K-Contact Distance for Noisy Nonhomogeneous Spatial Point Data with application to Repeating Fast Radio Burst sources**|A. M. Cook et.al.|[2410.12146](http://arxiv.org/abs/2410.12146)|null|
 |**2024-10-15**|**The Quasi-probability Method and Applications for Trace Reconstruction**|Ittai Rubinstein et.al.|[2410.11980](http://arxiv.org/abs/2410.11980)|null|
 |**2024-10-15**|**CtrlSynth: Controllable Image Text Synthesis for Data-Efficient Multimodal Learning**|Qingqing Cao et.al.|[2410.11963](http://arxiv.org/abs/2410.11963)|null|
