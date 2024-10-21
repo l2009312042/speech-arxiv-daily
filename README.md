@@ -17,6 +17,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-18**|**Spoofing of Quantum Channels Enables Low-Rank Projective Simulation**|Timothy Heightman et.al.|[2410.14608](http://arxiv.org/abs/2410.14608)|null|
+|**2024-10-18**|**Nonadaptive Noisy Group Testing with Optimal Tests and Decoding**|Xiaxin Li et.al.|[2410.14566](http://arxiv.org/abs/2410.14566)|null|
+|**2024-10-18**|**Surpassing the fundamental limits of distillation with catalysts**|Kun Fang et.al.|[2410.14547](http://arxiv.org/abs/2410.14547)|null|
+|**2024-10-18**|**Impact of imperfect annotations on CNN training and performance for instance segmentation and classification in digital pathology**|Laura Gálvez Jiménez et.al.|[2410.14365](http://arxiv.org/abs/2410.14365)|null|
+|**2024-10-18**|**Montessori-Instruct: Generate Influential Training Data Tailored for Student Learning**|Xiaochuan Li et.al.|[2410.14208](http://arxiv.org/abs/2410.14208)|**[link](https://github.com/cxcscmu/montessori-instruct)**|
+|**2024-10-18**|**Flexi-Fuzz least squares SVM for Alzheimer's diagnosis: Tackling noise, outliers, and class imbalance**|Mushir Akhtar et.al.|[2410.14207](http://arxiv.org/abs/2410.14207)|null|
+|**2024-10-18**|**Personalized Image Generation with Large Multimodal Models**|Yiyan Xu et.al.|[2410.14170](http://arxiv.org/abs/2410.14170)|null|
+|**2024-10-18**|**Towards Robust Transcription: Exploring Noise Injection Strategies for Training Data Augmentation**|Yonghyun Kim et.al.|[2410.14122](http://arxiv.org/abs/2410.14122)|**[link](https://github.com/yonghyunk1m/TowardsRobustTranscription)**|
+|**2024-10-17**|**Islanding Detection for Active Distribution Networks Using WaveNet+UNet Classifier**|Amirhosein Alizadeh et.al.|[2410.13926](http://arxiv.org/abs/2410.13926)|null|
 |**2024-10-17**|**A Fourier analysis framework for approximate classical simulations of quantum circuits**|Cristina Cirstoiu et.al.|[2410.13856](http://arxiv.org/abs/2410.13856)|null|
 |**2024-10-17**|**GDeR: Safeguarding Efficiency, Balancing, and Robustness via Prototypical Graph Pruning**|Guibin Zhang et.al.|[2410.13761](http://arxiv.org/abs/2410.13761)|**[link](https://github.com/ins1stenc3/gder)**|
 |**2024-10-17**|**Solving eigenvalue problems obtained by the finite element method on a quantum annealer using only a few qubits**|Arnaud Rémi et.al.|[2410.13740](http://arxiv.org/abs/2410.13740)|null|
