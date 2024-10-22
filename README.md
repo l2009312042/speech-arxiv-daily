@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-21**|**Quantifying the advantages of applying quantum approximate algorithms to portfolio optimisation**|Haomu Yuan et.al.|[2410.16265](http://arxiv.org/abs/2410.16265)|null|
+|**2024-10-21**|**DMM: Distributed Matrix Mechanism for Differentially-Private Federated Learning using Packed Secret Sharing**|Alexander Bienstock et.al.|[2410.16161](http://arxiv.org/abs/2410.16161)|null|
+|**2024-10-21**|**MNIST-Nd: a set of naturalistic datasets to benchmark clustering across dimensions**|Polina Turishcheva et.al.|[2410.16124](http://arxiv.org/abs/2410.16124)|null|
+|**2024-10-21**|**Projective Quantum Eigensolver with Generalized Operators**|Dibyendu Mondal et.al.|[2410.16111](http://arxiv.org/abs/2410.16111)|null|
+|**2024-10-21**|**On the Geometry of Regularization in Adversarial Training: High-Dimensional Asymptotics and Generalization Bounds**|Matteo Vilucchio et.al.|[2410.16073](http://arxiv.org/abs/2410.16073)|null|
+|**2024-10-21**|**Label Filling via Mixed Supervision for Medical Image Segmentation from Noisy Annotations**|Ming Li et.al.|[2410.16057](http://arxiv.org/abs/2410.16057)|null|
+|**2024-10-21**|**Simulation-based inference of single-molecule experiments**|Lars Dingeldein et.al.|[2410.15896](http://arxiv.org/abs/2410.15896)|null|
+|**2024-10-21**|**Large Language Models Empower Personalized Valuation in Auction**|Jie Sun et.al.|[2410.15817](http://arxiv.org/abs/2410.15817)|null|
+|**2024-10-21**|**Interventional Speech Noise Injection for ASR Generalizable Spoken Language Understanding**|Yeonjoon Jung et.al.|[2410.15609](http://arxiv.org/abs/2410.15609)|null|
+|**2024-10-20**|**Generating Tabular Data Using Heterogeneous Sequential Feature Forest Flow Matching**|Ange-Clément Akazan et.al.|[2410.15516](http://arxiv.org/abs/2410.15516)|null|
 |**2024-10-18**|**Spoofing of Quantum Channels Enables Low-Rank Projective Simulation**|Timothy Heightman et.al.|[2410.14608](http://arxiv.org/abs/2410.14608)|null|
 |**2024-10-18**|**Nonadaptive Noisy Group Testing with Optimal Tests and Decoding**|Xiaxin Li et.al.|[2410.14566](http://arxiv.org/abs/2410.14566)|null|
 |**2024-10-18**|**Surpassing the fundamental limits of distillation with catalysts**|Kun Fang et.al.|[2410.14547](http://arxiv.org/abs/2410.14547)|null|
