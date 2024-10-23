@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-22**|**Joint Point Cloud Upsampling and Cleaning with Octree-based CNNs**|Jihe Li et.al.|[2410.17001](http://arxiv.org/abs/2410.17001)|**[link](https://github.com/octree-nn/upsample-clean)**|
+|**2024-10-22**|**Lower Bounds for Time-Varying Kernelized Bandits**|Xu Cai et.al.|[2410.16692](http://arxiv.org/abs/2410.16692)|null|
+|**2024-10-22**|**Parsimonious Dynamic Mode Decomposition: A Robust and Automated Approach for Optimally Sparse Mode Selection in Complex Systems**|Arpan Das et.al.|[2410.16656](http://arxiv.org/abs/2410.16656)|null|
+|**2024-10-22**|**GE2E-KWS: Generalized End-to-End Training and Evaluation for Zero-shot Keyword Spotting**|Pai Zhu et.al.|[2410.16647](http://arxiv.org/abs/2410.16647)|null|
+|**2024-10-22**|**TopoDiffusionNet: A Topology-aware Diffusion Model**|Saumya Gupta et.al.|[2410.16646](http://arxiv.org/abs/2410.16646)|null|
+|**2024-10-21**|**Enhancing PAC Learning of Half spaces Through Robust Optimization Techniques**|Shirmohammad Tavangari et.al.|[2410.16573](http://arxiv.org/abs/2410.16573)|null|
+|**2024-10-21**|**Scalability of memorization-based machine unlearning**|Kairan Zhao et.al.|[2410.16516](http://arxiv.org/abs/2410.16516)|null|
+|**2024-10-21**|**TIPS: Text-Image Pretraining with Spatial Awareness**|Kevis-Kokitsi Maninis et.al.|[2410.16512](http://arxiv.org/abs/2410.16512)|null|
+|**2024-10-21**|**GenGMM: Generalized Gaussian-Mixture-based Domain Adaptation Model for Semantic Segmentation**|Nazanin Moradinasab et.al.|[2410.16485](http://arxiv.org/abs/2410.16485)|null|
+|**2024-10-21**|**Policies with Sparse Inter-Agent Dependencies in Dynamic Games: A Dynamic Programming Approach**|Xinjie Liu et.al.|[2410.16441](http://arxiv.org/abs/2410.16441)|null|
 |**2024-10-21**|**Quantifying the advantages of applying quantum approximate algorithms to portfolio optimisation**|Haomu Yuan et.al.|[2410.16265](http://arxiv.org/abs/2410.16265)|null|
 |**2024-10-21**|**DMM: Distributed Matrix Mechanism for Differentially-Private Federated Learning using Packed Secret Sharing**|Alexander Bienstock et.al.|[2410.16161](http://arxiv.org/abs/2410.16161)|null|
 |**2024-10-21**|**MNIST-Nd: a set of naturalistic datasets to benchmark clustering across dimensions**|Polina Turishcheva et.al.|[2410.16124](http://arxiv.org/abs/2410.16124)|null|
