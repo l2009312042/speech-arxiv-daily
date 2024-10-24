@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.23
+## Updated on 2024.10.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## KWS
@@ -20,7 +20,7 @@ layout: default
 |**2024-10-22**|**GE2E-KWS: Generalized End-to-End Training and Evaluation for Zero-shot Keyword Spotting**|Pai Zhu et.al.|[2410.16647](http://arxiv.org/abs/2410.16647)|null|
 |**2024-10-22**|**TopoDiffusionNet: A Topology-aware Diffusion Model**|Saumya Gupta et.al.|[2410.16646](http://arxiv.org/abs/2410.16646)|null|
 |**2024-10-21**|**Enhancing PAC Learning of Half spaces Through Robust Optimization Techniques**|Shirmohammad Tavangari et.al.|[2410.16573](http://arxiv.org/abs/2410.16573)|null|
-|**2024-10-21**|**Scalability of memorization-based machine unlearning**|Kairan Zhao et.al.|[2410.16516](http://arxiv.org/abs/2410.16516)|null|
+|**2024-10-21**|**Scalability of memorization-based machine unlearning**|Kairan Zhao et.al.|[2410.16516](http://arxiv.org/abs/2410.16516)|**[link](https://github.com/kairanzhao/rum)**|
 |**2024-10-21**|**TIPS: Text-Image Pretraining with Spatial Awareness**|Kevis-Kokitsi Maninis et.al.|[2410.16512](http://arxiv.org/abs/2410.16512)|null|
 |**2024-10-21**|**GenGMM: Generalized Gaussian-Mixture-based Domain Adaptation Model for Semantic Segmentation**|Nazanin Moradinasab et.al.|[2410.16485](http://arxiv.org/abs/2410.16485)|null|
 |**2024-10-21**|**Policies with Sparse Inter-Agent Dependencies in Dynamic Games: A Dynamic Programming Approach**|Xinjie Liu et.al.|[2410.16441](http://arxiv.org/abs/2410.16441)|null|

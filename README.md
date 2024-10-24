@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.23
+## Updated on 2024.10.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -23,7 +23,7 @@
 |**2024-10-22**|**GE2E-KWS: Generalized End-to-End Training and Evaluation for Zero-shot Keyword Spotting**|Pai Zhu et.al.|[2410.16647](http://arxiv.org/abs/2410.16647)|null|
 |**2024-10-22**|**TopoDiffusionNet: A Topology-aware Diffusion Model**|Saumya Gupta et.al.|[2410.16646](http://arxiv.org/abs/2410.16646)|null|
 |**2024-10-21**|**Enhancing PAC Learning of Half spaces Through Robust Optimization Techniques**|Shirmohammad Tavangari et.al.|[2410.16573](http://arxiv.org/abs/2410.16573)|null|
-|**2024-10-21**|**Scalability of memorization-based machine unlearning**|Kairan Zhao et.al.|[2410.16516](http://arxiv.org/abs/2410.16516)|null|
+|**2024-10-21**|**Scalability of memorization-based machine unlearning**|Kairan Zhao et.al.|[2410.16516](http://arxiv.org/abs/2410.16516)|**[link](https://github.com/kairanzhao/rum)**|
 |**2024-10-21**|**TIPS: Text-Image Pretraining with Spatial Awareness**|Kevis-Kokitsi Maninis et.al.|[2410.16512](http://arxiv.org/abs/2410.16512)|null|
 |**2024-10-21**|**GenGMM: Generalized Gaussian-Mixture-based Domain Adaptation Model for Semantic Segmentation**|Nazanin Moradinasab et.al.|[2410.16485](http://arxiv.org/abs/2410.16485)|null|
 |**2024-10-21**|**Policies with Sparse Inter-Agent Dependencies in Dynamic Games: A Dynamic Programming Approach**|Xinjie Liu et.al.|[2410.16441](http://arxiv.org/abs/2410.16441)|null|
@@ -858,7 +858,7 @@
 |**2024-05-03**|**A Class of Numerical Semigroups Defined by Kunz and Waldi**|Srishti Singh et.al.|[2405.00331](http://arxiv.org/abs/2405.00331)|null|
 |**2024-04-26**|**Machine Learning based prediction of Vanadium Redox Flow Battery temperature rise under different charge-discharge conditions**|Anirudh Narayan D et.al.|[2404.17284](http://arxiv.org/abs/2404.17284)|null|
 
-<p align=right>(<a href=#updated-on-20241023>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241024>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
