@@ -14,6 +14,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-23**|**ProFL: Performative Robust Optimal Federated Learning**|Xue Zheng et.al.|[2410.18075](http://arxiv.org/abs/2410.18075)|null|
+|**2024-10-23**|**The Probabilistic Tsetlin Machine: A Novel Approach to Uncertainty Quantification**|K. Darshana Abeyrathna et.al.|[2410.17851](http://arxiv.org/abs/2410.17851)|null|
+|**2024-10-23**|**Unsupervised Low-dose CT Reconstruction with One-way Conditional Normalizing Flows**|Ran An et.al.|[2410.17543](http://arxiv.org/abs/2410.17543)|null|
+|**2024-10-23**|**Can Constrained Quantum Annealing Be Effective in Noisy Quantum Annealers?**|Ryoya Igata et.al.|[2410.17528](http://arxiv.org/abs/2410.17528)|null|
+|**2024-10-23**|**Diffusion Priors for Variational Likelihood Estimation and Image Denoising**|Jun Cheng et.al.|[2410.17521](http://arxiv.org/abs/2410.17521)|**[link](https://github.com/hust-tan/diffusionvi)**|
+|**2024-10-23**|**Time and Frequency Synergy for Source-Free Time-Series Domain Adaptations**|Muhammad Tanzil Furqon et.al.|[2410.17511](http://arxiv.org/abs/2410.17511)|null|
+|**2024-10-23**|**PLGS: Robust Panoptic Lifting with 3D Gaussian Splatting**|Yu Wang et.al.|[2410.17505](http://arxiv.org/abs/2410.17505)|null|
+|**2024-10-23**|**Unsupervised Domain Adaptation for Action Recognition via Self-Ensembling and Conditional Embedding Alignment**|Indrajeet Ghosh et.al.|[2410.17489](http://arxiv.org/abs/2410.17489)|**[link](https://github.com/indrajeetghosh/udar_icdm)**|
+|**2024-10-22**|**Navigating Noisy Feedback: Enhancing Reinforcement Learning with Error-Prone Language Models**|Muhan Lin et.al.|[2410.17389](http://arxiv.org/abs/2410.17389)|null|
 |**2024-10-22**|**Joint Point Cloud Upsampling and Cleaning with Octree-based CNNs**|Jihe Li et.al.|[2410.17001](http://arxiv.org/abs/2410.17001)|**[link](https://github.com/octree-nn/upsample-clean)**|
 |**2024-10-22**|**Lower Bounds for Time-Varying Kernelized Bandits**|Xu Cai et.al.|[2410.16692](http://arxiv.org/abs/2410.16692)|null|
 |**2024-10-22**|**Parsimonious Dynamic Mode Decomposition: A Robust and Automated Approach for Optimally Sparse Mode Selection in Complex Systems**|Arpan Das et.al.|[2410.16656](http://arxiv.org/abs/2410.16656)|null|
