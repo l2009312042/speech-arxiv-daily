@@ -14,6 +14,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-24**|**Characterizing conical intersections of nucleobases on quantum computers**|Yuchen Wang et.al.|[2410.18910](http://arxiv.org/abs/2410.18910)|null|
+|**2024-10-24**|**Binocular-Guided 3D Gaussian Splatting with View Consistency for Sparse View Synthesis**|Liang Han et.al.|[2410.18822](http://arxiv.org/abs/2410.18822)|null|
+|**2024-10-24**|**Learning dissipative Hamiltonian dynamics with reproducing kernel Hilbert spaces and random Fourier features**|Torbjørn Smith et.al.|[2410.18656](http://arxiv.org/abs/2410.18656)|null|
+|**2024-10-24**|**Multi-agent cooperation through learning-aware policy gradients**|Alexander Meulemans et.al.|[2410.18636](http://arxiv.org/abs/2410.18636)|null|
+|**2024-10-24**|**FirmRCA: Towards Post-Fuzzing Analysis on ARM Embedded Firmware with Efficient Event-based Fault Localization**|Boyu Chang et.al.|[2410.18483](http://arxiv.org/abs/2410.18483)|**[link](https://github.com/NESA-Lab/FirmRCA)**|
+|**2024-10-23**|**ZIP-FIT: Embedding-Free Data Selection via Compression-Based Alignment**|Elyas Obbad et.al.|[2410.18194](http://arxiv.org/abs/2410.18194)|null|
+|**2024-10-23**|**Stochastic gradient descent in high dimensions for multi-spiked tensor PCA**|Gérard Ben Arous et.al.|[2410.18162](http://arxiv.org/abs/2410.18162)|null|
 |**2024-10-23**|**ProFL: Performative Robust Optimal Federated Learning**|Xue Zheng et.al.|[2410.18075](http://arxiv.org/abs/2410.18075)|null|
 |**2024-10-23**|**The Probabilistic Tsetlin Machine: A Novel Approach to Uncertainty Quantification**|K. Darshana Abeyrathna et.al.|[2410.17851](http://arxiv.org/abs/2410.17851)|null|
 |**2024-10-23**|**Unsupervised Low-dose CT Reconstruction with One-way Conditional Normalizing Flows**|Ran An et.al.|[2410.17543](http://arxiv.org/abs/2410.17543)|null|
