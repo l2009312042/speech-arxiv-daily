@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-25**|**Inferring Neural Signed Distance Functions by Overfitting on Single Noisy Point Clouds through Finetuning Data-Driven based Priors**|Chao Chen et.al.|[2410.19680](http://arxiv.org/abs/2410.19680)|null|
+|**2024-10-25**|**SWITCH: Studying with Teacher for Knowledge Distillation of Large Language Models**|Jahyun Koo et.al.|[2410.19503](http://arxiv.org/abs/2410.19503)|null|
+|**2024-10-25**|**Generative Diffusion Models for Sequential Recommendations**|Sharare Zolghadr et.al.|[2410.19429](http://arxiv.org/abs/2410.19429)|null|
+|**2024-10-25**|**A stochastic method of moving asymptotes for topology optimization under uncertainty**|Lukas Pflug et.al.|[2410.19428](http://arxiv.org/abs/2410.19428)|null|
+|**2024-10-25**|**Robust Time Series Causal Discovery for Agent-Based Model Validation**|Gene Yu et.al.|[2410.19412](http://arxiv.org/abs/2410.19412)|null|
+|**2024-10-25**|**Embedded Graph Reconstruction under Hausdorff Noise**|Halley Fritze et.al.|[2410.19410](http://arxiv.org/abs/2410.19410)|null|
+|**2024-10-25**|**Enhancing Quantum Key Distribution with Entanglement Distillation and Classical Advantage Distillation**|Shin Sun et.al.|[2410.19334](http://arxiv.org/abs/2410.19334)|null|
+|**2024-10-25**|**An Evidence of Addressing Coherence Errors in VQE Observables by Pulse-level VQE Approach**|Xiaoan Lin et.al.|[2410.19286](http://arxiv.org/abs/2410.19286)|null|
+|**2024-10-24**|**Enriching GNNs with Text Contextual Representations for Detecting Disinformation Campaigns on Social Media**|Bruno Croso Cunha da Silva et.al.|[2410.19193](http://arxiv.org/abs/2410.19193)|null|
+|**2024-10-24**|**Noise Adaption Network for Morse Code Image Classification**|Xiaxia Wang et.al.|[2410.19180](http://arxiv.org/abs/2410.19180)|**[link](https://github.com/apple1986/morsecodeimageclassify)**|
 |**2024-10-24**|**Characterizing conical intersections of nucleobases on quantum computers**|Yuchen Wang et.al.|[2410.18910](http://arxiv.org/abs/2410.18910)|null|
 |**2024-10-24**|**Binocular-Guided 3D Gaussian Splatting with View Consistency for Sparse View Synthesis**|Liang Han et.al.|[2410.18822](http://arxiv.org/abs/2410.18822)|null|
 |**2024-10-24**|**Learning dissipative Hamiltonian dynamics with reproducing kernel Hilbert spaces and random Fourier features**|Torbjørn Smith et.al.|[2410.18656](http://arxiv.org/abs/2410.18656)|null|
