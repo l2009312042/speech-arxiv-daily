@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-28**|**Differentially Private Learned Indexes**|Jianzhang Du et.al.|[2410.21164](http://arxiv.org/abs/2410.21164)|null|
+|**2024-10-28**|**Semantic Component Analysis: Discovering Patterns in Short Texts Beyond Topics**|Florian Eichin et.al.|[2410.21054](http://arxiv.org/abs/2410.21054)|**[link](https://github.com/mainlp/semantic_components)**|
+|**2024-10-28**|**Informed Deep Abstaining Classifier: Investigating noise-robust training for diagnostic decision support systems**|Helen Schneider et.al.|[2410.21014](http://arxiv.org/abs/2410.21014)|null|
+|**2024-10-28**|**Geometric-Like imaginarity: quantification and state conversion**|Meng-Li Guo et.al.|[2410.20879](http://arxiv.org/abs/2410.20879)|null|
+|**2024-10-28**|**Reward Modeling with Weak Supervision for Language Models**|Ben Hauptvogel et.al.|[2410.20869](http://arxiv.org/abs/2410.20869)|null|
+|**2024-10-28**|**History-Matching of Imbibition Flow in Multiscale Fractured Porous Media Using Physics-Informed Neural Networks (PINNs)**|Jassem Abbasi et.al.|[2410.20801](http://arxiv.org/abs/2410.20801)|null|
+|**2024-10-27**|**Normal-GS: 3D Gaussian Splatting with Normal-Involved Rendering**|Meng Wei et.al.|[2410.20593](http://arxiv.org/abs/2410.20593)|null|
+|**2024-10-27**|**GrounDiT: Grounding Diffusion Transformers via Noisy Patch Transplantation**|Phillip Y. Lee et.al.|[2410.20474](http://arxiv.org/abs/2410.20474)|null|
+|**2024-10-27**|**Optimal Bayesian Persuasion for Containing SIS Epidemics**|Urmee Maitra et.al.|[2410.20303](http://arxiv.org/abs/2410.20303)|null|
+|**2024-10-26**|**Advancing Hybrid Quantum Neural Network for Alternative Current Optimal Power Flow**|Ze Hu et.al.|[2410.20275](http://arxiv.org/abs/2410.20275)|null|
 |**2024-10-25**|**Inferring Neural Signed Distance Functions by Overfitting on Single Noisy Point Clouds through Finetuning Data-Driven based Priors**|Chao Chen et.al.|[2410.19680](http://arxiv.org/abs/2410.19680)|null|
 |**2024-10-25**|**SWITCH: Studying with Teacher for Knowledge Distillation of Large Language Models**|Jahyun Koo et.al.|[2410.19503](http://arxiv.org/abs/2410.19503)|null|
 |**2024-10-25**|**Generative Diffusion Models for Sequential Recommendations**|Sharare Zolghadr et.al.|[2410.19429](http://arxiv.org/abs/2410.19429)|null|
