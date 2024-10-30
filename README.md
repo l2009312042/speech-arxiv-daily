@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-29**|**Assessing User Needs in Non-Visual Text Input: Perceptions of Blind Adults on Current and Experimental Mobile Interfaces**|Dylan Gaines et.al.|[2410.22324](http://arxiv.org/abs/2410.22324)|null|
+|**2024-10-29**|**Adaptive Channel Reshaping for Improved Entanglement Distillation**|Dina Abdelhadi et.al.|[2410.22295](http://arxiv.org/abs/2410.22295)|null|
+|**2024-10-29**|**PF3plat: Pose-Free Feed-Forward 3D Gaussian Splatting**|Sunghwan Hong et.al.|[2410.22128](http://arxiv.org/abs/2410.22128)|**[link](https://github.com/cvlab-kaist/PF3plat)**|
+|**2024-10-29**|**On uniqueness in structured model learning**|Martin Holler et.al.|[2410.22009](http://arxiv.org/abs/2410.22009)|null|
+|**2024-10-29**|**Semi-Supervised Self-Learning Enhanced Music Emotion Recognition**|Yifu Sun et.al.|[2410.21897](http://arxiv.org/abs/2410.21897)|null|
+|**2024-10-29**|**Self-Relaxed Joint Training: Sample Selection for Severity Estimation with Ordinal Noisy Labels**|Shumpei Takezaki et.al.|[2410.21885](http://arxiv.org/abs/2410.21885)|**[link](https://github.com/shumpei-takezaki/self-relaxed-joint-training)**|
+|**2024-10-29**|**Application of Audio Fingerprinting Techniques for Real-Time Scalable Speech Retrieval and Speech Clusterization**|Kemal Altwlkany et.al.|[2410.21876](http://arxiv.org/abs/2410.21876)|null|
+|**2024-10-29**|**A Dual Adaptive Assignment Approach for Robust Graph-Based Clustering**|Yang Xiang et.al.|[2410.21745](http://arxiv.org/abs/2410.21745)|null|
+|**2024-10-29**|**SS3DM: Benchmarking Street-View Surface Reconstruction with a Synthetic 3D Mesh Dataset**|Yubin Hu et.al.|[2410.21739](http://arxiv.org/abs/2410.21739)|null|
+|**2024-10-29**|**Entanglement-enhanced AC magnetometry in the presence of Markovian noises**|Thanaporn Sichanugrist et.al.|[2410.21699](http://arxiv.org/abs/2410.21699)|null|
 |**2024-10-28**|**Differentially Private Learned Indexes**|Jianzhang Du et.al.|[2410.21164](http://arxiv.org/abs/2410.21164)|null|
 |**2024-10-28**|**Semantic Component Analysis: Discovering Patterns in Short Texts Beyond Topics**|Florian Eichin et.al.|[2410.21054](http://arxiv.org/abs/2410.21054)|**[link](https://github.com/mainlp/semantic_components)**|
 |**2024-10-28**|**Informed Deep Abstaining Classifier: Investigating noise-robust training for diagnostic decision support systems**|Helen Schneider et.al.|[2410.21014](http://arxiv.org/abs/2410.21014)|null|
