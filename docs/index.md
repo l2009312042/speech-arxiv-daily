@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-30**|**Method of Moments for Estimation of Noisy Curves**|Phillip Lo et.al.|[2410.23220](http://arxiv.org/abs/2410.23220)|null|
+|**2024-10-30**|**Reliability of Topic Modeling**|Kayla Schroeder et.al.|[2410.23186](http://arxiv.org/abs/2410.23186)|null|
+|**2024-10-30**|**Broad-band, high-gain, low-frequency Antennas for Radio Detection of Earth-skimming Tau Neutrinos**|Tim Huege et.al.|[2410.22945](http://arxiv.org/abs/2410.22945)|null|
+|**2024-10-30**|**Using coherent feedback for a periodic clock**|Stefan Zeppetzauer et.al.|[2410.22926](http://arxiv.org/abs/2410.22926)|null|
+|**2024-10-30**|**Eliciting Critical Reasoning in Retrieval-Augmented Language Models via Contrastive Explanations**|Leonardo Ranaldi et.al.|[2410.22874](http://arxiv.org/abs/2410.22874)|null|
+|**2024-10-30**|**The Reconstruction of the Space-Dependent Thermal Conductivity from Sparse Temperature Measurements**|Guangting Yu et.al.|[2410.22822](http://arxiv.org/abs/2410.22822)|**[link](https://github.com/yugt/inverse-heat)**|
+|**2024-10-30**|**Performance Benchmarking of Quantum Algorithms for Hard Combinatorial Optimization Problems: A Comparative Study of non-FTQC Approaches**|Santaro Kikuura et.al.|[2410.22810](http://arxiv.org/abs/2410.22810)|null|
+|**2024-10-30**|**Run-Time Adaptation of Neural Beamforming for Robust Speech Dereverberation and Denoising**|Yoto Fujita et.al.|[2410.22805](http://arxiv.org/abs/2410.22805)|null|
+|**2024-10-30**|**st-DTPM: Spatial-Temporal Guided Diffusion Transformer Probabilistic Model for Delayed Scan PET Image Prediction**|Ran Hong et.al.|[2410.22732](http://arxiv.org/abs/2410.22732)|null|
+|**2024-10-30**|**Magnetic Field Detection Using a Two-Qubit System Under Noisy Heisenberg Interaction**|George Biswas et.al.|[2410.22723](http://arxiv.org/abs/2410.22723)|null|
 |**2024-10-29**|**Assessing User Needs in Non-Visual Text Input: Perceptions of Blind Adults on Current and Experimental Mobile Interfaces**|Dylan Gaines et.al.|[2410.22324](http://arxiv.org/abs/2410.22324)|null|
 |**2024-10-29**|**Adaptive Channel Reshaping for Improved Entanglement Distillation**|Dina Abdelhadi et.al.|[2410.22295](http://arxiv.org/abs/2410.22295)|null|
 |**2024-10-29**|**PF3plat: Pose-Free Feed-Forward 3D Gaussian Splatting**|Sunghwan Hong et.al.|[2410.22128](http://arxiv.org/abs/2410.22128)|**[link](https://github.com/cvlab-kaist/PF3plat)**|
