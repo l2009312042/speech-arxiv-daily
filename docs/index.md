@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-04**|**Noisy Stark probes as quantum-enhanced sensors**|Saubhik Sarkar et.al.|[2411.02360](http://arxiv.org/abs/2411.02360)|null|
+|**2024-11-04**|**Programmable Quantum Processors: Equivalence and Learning**|Jaroslav Pavličko et.al.|[2411.02289](http://arxiv.org/abs/2411.02289)|null|
+|**2024-11-04**|**Conformal-in-the-Loop for Learning with Imbalanced Noisy Data**|John Brandon Graham-Knight et.al.|[2411.02281](http://arxiv.org/abs/2411.02281)|null|
+|**2024-11-04**|**Kinetic exchange opinion dynamics for the battleground-states in the 2024 US presidential elections**|Soumyajyoti Biswas et.al.|[2411.02240](http://arxiv.org/abs/2411.02240)|null|
+|**2024-11-04**|**Diffusion-based Virtual Fixtures**|Cem Bilaloglu et.al.|[2411.02169](http://arxiv.org/abs/2411.02169)|null|
+|**2024-11-04**|**SpecRaGE: Robust and Generalizable Multi-view Spectral Representation Learning**|Amitai Yacobi et.al.|[2411.02138](http://arxiv.org/abs/2411.02138)|null|
+|**2024-11-04**|**Distribution alignment based transfer fusion frameworks on quantum devices for seeking quantum advantages**|Xi He et.al.|[2411.01822](http://arxiv.org/abs/2411.01822)|null|
+|**2024-11-04**|**Entropy stable conservative flux form neural networks**|Lizuo Liu et.al.|[2411.01746](http://arxiv.org/abs/2411.01746)|null|
+|**2024-11-03**|**Conformal Risk Minimization with Variance Reduction**|Sima Noorani et.al.|[2411.01696](http://arxiv.org/abs/2411.01696)|null|
+|**2024-11-03**|**Chaotic Slow Slip Events in New Zealand from two coupled slip patches: a proof of concept**|Thomas Poulet et.al.|[2411.01688](http://arxiv.org/abs/2411.01688)|null|
 |**2024-11-01**|**GeoSplatting: Towards Geometry Guided Gaussian Splatting for Physically-based Inverse Rendering**|Kai Ye et.al.|[2410.24204](http://arxiv.org/abs/2410.24204)|null|
 |**2024-10-31**|**Extended Object Tracking and Classification based on Linear Splines**|Matteo Tesori et.al.|[2410.24183](http://arxiv.org/abs/2410.24183)|null|
 |**2024-10-31**|**Quantum Deep Equilibrium Models**|Philipp Schleich et.al.|[2410.23940](http://arxiv.org/abs/2410.23940)|**[link](https://github.com/martaskrt/qdeq)**|
