@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-05**|**Noise-Robust Hearing Aid Voice Control**|Iván López-Espejo et.al.|[2411.03150](http://arxiv.org/abs/2411.03150)|null|
+|**2024-11-05**|**Robust Market Interventions**|Andrea Galeotti et.al.|[2411.03026](http://arxiv.org/abs/2411.03026)|null|
+|**2024-11-05**|**Real-Time Scream Detection and Position Estimation for Worker Safety in Construction Sites**|Bikalpa Gautam et.al.|[2411.03016](http://arxiv.org/abs/2411.03016)|null|
+|**2024-11-05**|**Fast Unconditional Reset and Leakage Reduction of a Tunable Superconducting Qubit via an Engineered Dissipative Bath**|Gihwan Kim et.al.|[2411.02950](http://arxiv.org/abs/2411.02950)|null|
+|**2024-11-05**|**Mixtures of In-Context Learners**|Giwon Hong et.al.|[2411.02830](http://arxiv.org/abs/2411.02830)|null|
+|**2024-11-05**|**Synchronous manipulation of nuclear spins via boron vacancy centers in hexagonal boron nitride**|Fattah Sakuldee et.al.|[2411.02828](http://arxiv.org/abs/2411.02828)|null|
+|**2024-11-05**|**How much is a noisy image worth? Data Scaling Laws for Ambient Diffusion**|Giannis Daras et.al.|[2411.02780](http://arxiv.org/abs/2411.02780)|null|
+|**2024-11-05**|**Assessment of Misspecification in CDMs Using a Generalized Information Matrix Test**|Reyhaneh Hosseinpourkhoshkbari et.al.|[2411.02769](http://arxiv.org/abs/2411.02769)|null|
+|**2024-11-04**|**A Trust-Region Algorithm for Noisy Equality Constrained Optimization**|Shigeng Sun et.al.|[2411.02665](http://arxiv.org/abs/2411.02665)|null|
+|**2024-11-04**|**Fast and Robust Information Spreading in the Noisy PULL Model**|Niccolò D'Archivio et.al.|[2411.02560](http://arxiv.org/abs/2411.02560)|null|
 |**2024-11-04**|**Noisy Stark probes as quantum-enhanced sensors**|Saubhik Sarkar et.al.|[2411.02360](http://arxiv.org/abs/2411.02360)|null|
 |**2024-11-04**|**Programmable Quantum Processors: Equivalence and Learning**|Jaroslav Pavličko et.al.|[2411.02289](http://arxiv.org/abs/2411.02289)|null|
 |**2024-11-04**|**Conformal-in-the-Loop for Learning with Imbalanced Noisy Data**|John Brandon Graham-Knight et.al.|[2411.02281](http://arxiv.org/abs/2411.02281)|null|
