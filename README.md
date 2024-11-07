@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-06**|**Learned codes for broadcast channels with feedback**|Yingyao Zhou et.al.|[2411.04083](http://arxiv.org/abs/2411.04083)|null|
+|**2024-11-06**|**Entanglement-enhanced optimal quantum metrology**|Muhammad Talha Rahim et.al.|[2411.04022](http://arxiv.org/abs/2411.04022)|null|
+|**2024-11-06**|**GUIDE-VAE: Advancing Data Generation with User Information and Pattern Dictionaries**|Kutay Bölat et.al.|[2411.03936](http://arxiv.org/abs/2411.03936)|null|
+|**2024-11-06**|**Self-consistent Quantum Linear Response with a Polarizable Embedding environment**|Peter Reinholdt et.al.|[2411.03852](http://arxiv.org/abs/2411.03852)|null|
+|**2024-11-06**|**Noisy Linear Group Testing: Exact Thresholds and Efficient Algorithms**|Lukas Hintze et.al.|[2411.03839](http://arxiv.org/abs/2411.03839)|null|
+|**2024-11-06**|**Graph Neural Networks with Coarse- and Fine-Grained Division for Mitigating Label Sparsity and Noise**|Shuangjie Li et.al.|[2411.03744](http://arxiv.org/abs/2411.03744)|null|
+|**2024-11-06**|**Graph-Based Multi-Modal Sensor Fusion for Autonomous Driving**|Depanshu Sani et.al.|[2411.03702](http://arxiv.org/abs/2411.03702)|null|
+|**2024-11-06**|**vMF-Contact: Uncertainty-aware Evidential Learning for Probabilistic Contact-grasp in Noisy Clutter**|Yitian Shi et.al.|[2411.03591](http://arxiv.org/abs/2411.03591)|null|
+|**2024-11-06**|**Holographic deep thermalization**|Bingzhi Zhang et.al.|[2411.03587](http://arxiv.org/abs/2411.03587)|null|
+|**2024-11-06**|**Programming an Optical Lattice Interferometer**|Lennart Maximilian Seifert et.al.|[2411.03566](http://arxiv.org/abs/2411.03566)|null|
 |**2024-11-05**|**Noise-Robust Hearing Aid Voice Control**|Iván López-Espejo et.al.|[2411.03150](http://arxiv.org/abs/2411.03150)|null|
 |**2024-11-05**|**Robust Market Interventions**|Andrea Galeotti et.al.|[2411.03026](http://arxiv.org/abs/2411.03026)|null|
 |**2024-11-05**|**Real-Time Scream Detection and Position Estimation for Worker Safety in Construction Sites**|Bikalpa Gautam et.al.|[2411.03016](http://arxiv.org/abs/2411.03016)|**[link](https://github.com/Anmol2059/construction_safety)**|
