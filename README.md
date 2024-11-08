@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-07**|**ReCapture: Generative Video Camera Controls for User-Provided Videos using Masked Video Fine-Tuning**|David Junhao Zhang et.al.|[2411.05003](http://arxiv.org/abs/2411.05003)|null|
+|**2024-11-07**|**Capacities of Entanglement Distribution From a Central Source**|Xinan Chen et.al.|[2411.04977](http://arxiv.org/abs/2411.04977)|null|
+|**2024-11-07**|**Noisy Zero-Shot Coordination: Breaking The Common Knowledge Assumption In Zero-Shot Coordination Games**|Usman Anwar et.al.|[2411.04976](http://arxiv.org/abs/2411.04976)|**[link](https://github.com/ashishp166/Noisy-Zero-Shot-Coordination)**|
+|**2024-11-07**|**Quantum Advantage with Faulty Oracle**|David Rasmussen Lolck et.al.|[2411.04931](http://arxiv.org/abs/2411.04931)|null|
+|**2024-11-07**|**An optimized dynamic mode decomposition to identify coherent dynamics in noisy flow data**|Andre Weiner et.al.|[2411.04868](http://arxiv.org/abs/2411.04868)|null|
+|**2024-11-07**|**Bounding the conditional von-Neumann entropy for device independent cryptography and randomness extraction**|Gereon Koßmann et.al.|[2411.04858](http://arxiv.org/abs/2411.04858)|null|
+|**2024-11-07**|**Online learning in bifurcating dynamic systems via SINDy and Kalman filtering**|Luca Rosafalco et.al.|[2411.04842](http://arxiv.org/abs/2411.04842)|null|
+|**2024-11-07**|**Complexity of Local Quantum Circuits under Nonunital Noise**|Oles Shtanko et.al.|[2411.04819](http://arxiv.org/abs/2411.04819)|null|
+|**2024-11-07**|**Zero-Shot Temporal Resolution Domain Adaptation for Spiking Neural Networks**|Sanja Karilanova et.al.|[2411.04760](http://arxiv.org/abs/2411.04760)|null|
+|**2024-11-07**|**DanceFusion: A Spatio-Temporal Skeleton Diffusion Transformer for Audio-Driven Dance Motion Reconstruction**|Li Zhao et.al.|[2411.04646](http://arxiv.org/abs/2411.04646)|null|
 |**2024-11-06**|**Learned codes for broadcast channels with feedback**|Yingyao Zhou et.al.|[2411.04083](http://arxiv.org/abs/2411.04083)|null|
 |**2024-11-06**|**Entanglement-enhanced optimal quantum metrology**|Muhammad Talha Rahim et.al.|[2411.04022](http://arxiv.org/abs/2411.04022)|null|
 |**2024-11-06**|**GUIDE-VAE: Advancing Data Generation with User Information and Pattern Dictionaries**|Kutay Bölat et.al.|[2411.03936](http://arxiv.org/abs/2411.03936)|null|
