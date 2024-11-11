@@ -17,6 +17,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-08**|**An ambient denoising method based on multi-channel non-negative matrix factorization for wheezing detection**|Antonio J. Muñoz-Montoro et.al.|[2411.05774](http://arxiv.org/abs/2411.05774)|null|
+|**2024-11-08**|**Bias correction and instrumental variables for direct data-driven model-reference control**|Manas Mejari et.al.|[2411.05740](http://arxiv.org/abs/2411.05740)|null|
+|**2024-11-08**|**On the Role of Noise in AudioVisual Integration: Evidence from Artificial Neural Networks that Exhibit the McGurk Effect**|Lukas Grasse et.al.|[2411.05715](http://arxiv.org/abs/2411.05715)|null|
+|**2024-11-08**|**Smart navigation through a rotating barrier: Deep reinforcement learning with application to size-based separation of active microagents**|Mohammad Hossein Masoudi et.al.|[2411.05587](http://arxiv.org/abs/2411.05587)|null|
+|**2024-11-08**|**Enhancing Depth Image Estimation for Underwater Robots by Combining Image Processing and Machine Learning**|Quang Truong Nguyen et.al.|[2411.05344](http://arxiv.org/abs/2411.05344)|null|
+|**2024-11-08**|**QSRA: A QPU Scheduling and Resource Allocation Approach for Cloud-Based Quantum Computing**|Binhan Lu et.al.|[2411.05283](http://arxiv.org/abs/2411.05283)|null|
+|**2024-11-07**|**Reducing data resolution for better super-resolution: Reconstructing turbulent flows from noisy observation**|Kyongmin Yeo et.al.|[2411.05240](http://arxiv.org/abs/2411.05240)|null|
+|**2024-11-07**|**Beyond the Numbers: Transparency in Relation Extraction Benchmark Creation and Leaderboards**|Varvara Arzt et.al.|[2411.05224](http://arxiv.org/abs/2411.05224)|null|
+|**2024-11-07**|**Efficiency of optimal control for noisy spin qubits in diamond**|Hendry M. Lim et.al.|[2411.05078](http://arxiv.org/abs/2411.05078)|null|
 |**2024-11-07**|**ReCapture: Generative Video Camera Controls for User-Provided Videos using Masked Video Fine-Tuning**|David Junhao Zhang et.al.|[2411.05003](http://arxiv.org/abs/2411.05003)|null|
 |**2024-11-07**|**Capacities of Entanglement Distribution From a Central Source**|Xinan Chen et.al.|[2411.04977](http://arxiv.org/abs/2411.04977)|null|
 |**2024-11-07**|**Noisy Zero-Shot Coordination: Breaking The Common Knowledge Assumption In Zero-Shot Coordination Games**|Usman Anwar et.al.|[2411.04976](http://arxiv.org/abs/2411.04976)|**[link](https://github.com/ashishp166/Noisy-Zero-Shot-Coordination)**|
