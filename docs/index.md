@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-11**|**Feature Selection Based on Wasserstein Distance**|Fuwei Li et.al.|[2411.07217](http://arxiv.org/abs/2411.07217)|null|
+|**2024-11-11**|**Probabilistic approach to feedback control enhances multi-legged locomotion on rugged landscapes**|Juntao He et.al.|[2411.07183](http://arxiv.org/abs/2411.07183)|null|
+|**2024-11-11**|**Fast and Robust Contextual Node Representation Learning over Dynamic Graphs**|Xingzhi Guo et.al.|[2411.07123](http://arxiv.org/abs/2411.07123)|null|
+|**2024-11-11**|**Arctique: An artificial histopathological dataset unifying realism and controllability for uncertainty quantification**|Jannik Franzen et.al.|[2411.07097](http://arxiv.org/abs/2411.07097)|null|
+|**2024-11-11**|**Towards Characterizing Cyber Networks with Large Language Models**|Alaric Hartsock et.al.|[2411.07089](http://arxiv.org/abs/2411.07089)|null|
+|**2024-11-11**|**Scientific machine learning in ecological systems: A study on the predator-prey dynamics**|Ranabir Devgupta et.al.|[2411.06858](http://arxiv.org/abs/2411.06858)|null|
+|**2024-11-11**|**Test-Time Training with Quantum Auto-Encoder: From Distribution Shift to Noisy Quantum Circuits**|Damien Jian et.al.|[2411.06828](http://arxiv.org/abs/2411.06828)|null|
+|**2024-11-11**|**Séparation en composantes structures, textures et bruit d'une image, apport de l'utilisation des contourlettes**|Jerome Gilles et.al.|[2411.06696](http://arxiv.org/abs/2411.06696)|null|
+|**2024-11-11**|**Learning from Different Samples: A Source-free Framework for Semi-supervised Domain Adaptation**|Xinyang Huang et.al.|[2411.06665](http://arxiv.org/abs/2411.06665)|null|
+|**2024-11-10**|**Machine Learning-based Denoising of Surface Solar Irradiance simulated with Monte Carlo Ray Tracing**|Ment Reeze et.al.|[2411.06574](http://arxiv.org/abs/2411.06574)|null|
 |**2024-11-08**|**An ambient denoising method based on multi-channel non-negative matrix factorization for wheezing detection**|Antonio J. Muñoz-Montoro et.al.|[2411.05774](http://arxiv.org/abs/2411.05774)|null|
 |**2024-11-08**|**Bias correction and instrumental variables for direct data-driven model-reference control**|Manas Mejari et.al.|[2411.05740](http://arxiv.org/abs/2411.05740)|null|
 |**2024-11-08**|**On the Role of Noise in AudioVisual Integration: Evidence from Artificial Neural Networks that Exhibit the McGurk Effect**|Lukas Grasse et.al.|[2411.05715](http://arxiv.org/abs/2411.05715)|null|
