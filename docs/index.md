@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-12**|**Learning with Less: Knowledge Distillation from Large Language Models via Unlabeled Data**|Juanhui Li et.al.|[2411.08028](http://arxiv.org/abs/2411.08028)|null|
+|**2024-11-12**|**Noise-Resilient Quantum Random Access Codes**|H. S. Karthik et.al.|[2411.07924](http://arxiv.org/abs/2411.07924)|null|
+|**2024-11-12**|**Classical Pre-optimization Approach for ADAPT-VQE: Maximizing the Potential of High-Performance Computing Resources to Improve Quantum Simulation of Chemical Applications**|J. Wayne Mullinax et.al.|[2411.07920](http://arxiv.org/abs/2411.07920)|null|
+|**2024-11-12**|**Realization of a clock-based global height system: A simulation study for Europe and South America**|Asha Vincent et.al.|[2411.07888](http://arxiv.org/abs/2411.07888)|null|
+|**2024-11-12**|**Trapped-ion quantum simulation of the Fermi-Hubbard model as a lattice gauge theory using hardware-aware native gates**|Dhruv Srinivasan et.al.|[2411.07778](http://arxiv.org/abs/2411.07778)|null|
+|**2024-11-12**|**Navigation with QPHIL: Quantizing Planner for Hierarchical Implicit Q-Learning**|Alexi Canesse et.al.|[2411.07760](http://arxiv.org/abs/2411.07760)|null|
+|**2024-11-12**|**EMPERROR: A Flexible Generative Perception Error Model for Probing Self-Driving Planners**|Niklas Hanselmann et.al.|[2411.07719](http://arxiv.org/abs/2411.07719)|null|
+|**2024-11-12**|**RINO: Accurate, Robust Radar-Inertial Odometry with Non-Iterative Estimation**|Shuocheng Yang et.al.|[2411.07699](http://arxiv.org/abs/2411.07699)|null|
+|**2024-11-12**|**Rethinking Structure Learning For Graph Neural Networks**|Yilun Zheng et.al.|[2411.07672](http://arxiv.org/abs/2411.07672)|null|
+|**2024-11-12**|**Top- $nσ$ : Not All Logits Are You Need**|Chenxia Tang et.al.|[2411.07641](http://arxiv.org/abs/2411.07641)|null|
 |**2024-11-12**|**Feature Selection Based on Wasserstein Distance**|Fuwei Li et.al.|[2411.07217](http://arxiv.org/abs/2411.07217)|null|
 |**2024-11-11**|**Probabilistic approach to feedback control enhances multi-legged locomotion on rugged landscapes**|Juntao He et.al.|[2411.07183](http://arxiv.org/abs/2411.07183)|null|
 |**2024-11-11**|**Fast and Robust Contextual Node Representation Learning over Dynamic Graphs**|Xingzhi Guo et.al.|[2411.07123](http://arxiv.org/abs/2411.07123)|null|
