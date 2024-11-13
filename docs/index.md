@@ -7,14 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.12
+## Updated on 2024.11.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## KWS
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-11-11**|**Feature Selection Based on Wasserstein Distance**|Fuwei Li et.al.|[2411.07217](http://arxiv.org/abs/2411.07217)|null|
+|**2024-11-12**|**Feature Selection Based on Wasserstein Distance**|Fuwei Li et.al.|[2411.07217](http://arxiv.org/abs/2411.07217)|null|
 |**2024-11-11**|**Probabilistic approach to feedback control enhances multi-legged locomotion on rugged landscapes**|Juntao He et.al.|[2411.07183](http://arxiv.org/abs/2411.07183)|null|
 |**2024-11-11**|**Fast and Robust Contextual Node Representation Learning over Dynamic Graphs**|Xingzhi Guo et.al.|[2411.07123](http://arxiv.org/abs/2411.07123)|null|
 |**2024-11-11**|**Arctique: An artificial histopathological dataset unifying realism and controllability for uncertainty quantification**|Jannik Franzen et.al.|[2411.07097](http://arxiv.org/abs/2411.07097)|null|
