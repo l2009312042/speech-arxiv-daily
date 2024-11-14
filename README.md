@@ -17,6 +17,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-13**|**Robot See, Robot Do: Imitation Reward for Noisy Financial Environments**|Sven Goluža et.al.|[2411.08637](http://arxiv.org/abs/2411.08637)|null|
+|**2024-11-13**|**From noisy cell size control to population growth: when variability can be beneficial**|Arthur Genthon et.al.|[2411.08512](http://arxiv.org/abs/2411.08512)|null|
+|**2024-11-13**|**$\ell_0$ factor analysis**|Linyang Wang et.al.|[2411.08468](http://arxiv.org/abs/2411.08468)|null|
+|**2024-11-13**|**Wave topology of stellar inertial oscillations**|Armand Leclerc et.al.|[2411.08457](http://arxiv.org/abs/2411.08457)|null|
+|**2024-11-13**|**V2X-R: Cooperative LiDAR-4D Radar Fusion for 3D Object Detection with Denoising Diffusion**|Xun Huang et.al.|[2411.08402](http://arxiv.org/abs/2411.08402)|**[link](https://github.com/ylwhxht/v2x-r)**|
+|**2024-11-13**|**Noisy image decomposition: a new structure, texture and noise model based on local adaptivity**|Jerome Gilles et.al.|[2411.08292](http://arxiv.org/abs/2411.08292)|null|
+|**2024-11-12**|**Well-posedness of a Variable-Exponent Telegraph Equation Applied to Image Despeckling**|Sudeb Majee et.al.|[2411.08175](http://arxiv.org/abs/2411.08175)|null|
 |**2024-11-12**|**Learning with Less: Knowledge Distillation from Large Language Models via Unlabeled Data**|Juanhui Li et.al.|[2411.08028](http://arxiv.org/abs/2411.08028)|null|
 |**2024-11-12**|**Noise-Resilient Quantum Random Access Codes**|H. S. Karthik et.al.|[2411.07924](http://arxiv.org/abs/2411.07924)|null|
 |**2024-11-12**|**Classical Pre-optimization Approach for ADAPT-VQE: Maximizing the Potential of High-Performance Computing Resources to Improve Quantum Simulation of Chemical Applications**|J. Wayne Mullinax et.al.|[2411.07920](http://arxiv.org/abs/2411.07920)|null|
