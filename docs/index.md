@@ -14,6 +14,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-14**|**Automatic Quantum Communication Channel with Interference Detection and Reset Mechanism**|S. M. Yousuf Iqbal Tomal et.al.|[2411.09626](http://arxiv.org/abs/2411.09626)|null|
+|**2024-11-14**|**Sparse Bayesian Generative Modeling for Compressive Sensing**|Benedikt Böck et.al.|[2411.09483](http://arxiv.org/abs/2411.09483)|null|
+|**2024-11-14**|**Quantum Machine Learning: An Interplay Between Quantum Computing and Machine Learning**|Jun Qi et.al.|[2411.09403](http://arxiv.org/abs/2411.09403)|null|
+|**2024-11-14**|**Classical Verification of Quantum Learning Advantages with Noises**|Yinghao Ma et.al.|[2411.09210](http://arxiv.org/abs/2411.09210)|null|
+|**2024-11-14**|**DeBaTeR: Denoising Bipartite Temporal Graph for Recommendation**|Xinyu He et.al.|[2411.09181](http://arxiv.org/abs/2411.09181)|null|
+|**2024-11-14**|**Neural Graph Simulator for Complex Systems**|Hoyun Choi et.al.|[2411.09120](http://arxiv.org/abs/2411.09120)|null|
+|**2024-11-13**|**Extending Quantum Perceptrons: Rydberg Devices, Multi-Class Classification, and Error Tolerance**|Ishita Agarwal et.al.|[2411.09093](http://arxiv.org/abs/2411.09093)|null|
+|**2024-11-13**|**An Implementation of the Finite Element Method in Hybrid Classical/Quantum Computers**|Abhishek Arora et.al.|[2411.09038](http://arxiv.org/abs/2411.09038)|null|
 |**2024-11-13**|**Robot See, Robot Do: Imitation Reward for Noisy Financial Environments**|Sven Goluža et.al.|[2411.08637](http://arxiv.org/abs/2411.08637)|null|
 |**2024-11-13**|**From noisy cell size control to population growth: when variability can be beneficial**|Arthur Genthon et.al.|[2411.08512](http://arxiv.org/abs/2411.08512)|null|
 |**2024-11-13**|**$\ell_0$ factor analysis**|Linyang Wang et.al.|[2411.08468](http://arxiv.org/abs/2411.08468)|null|
