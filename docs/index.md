@@ -14,6 +14,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-15**|**Exploiting Negative Curvature in Conjunction with Adaptive Sampling: Theoretical Results and a Practical Algorithm**|Albert S. Berahas et.al.|[2411.10378](http://arxiv.org/abs/2411.10378)|null|
+|**2024-11-15**|**Partial Scene Text Retrieval**|Hao Wang et.al.|[2411.10261](http://arxiv.org/abs/2411.10261)|**[link](https://github.com/lanfeng4659/pstr)**|
+|**2024-11-15**|**Early Detection of Multiwavelength Blazar Variability**|Hermann Stolte et.al.|[2411.10140](http://arxiv.org/abs/2411.10140)|null|
+|**2024-11-15**|**Multi-Task Adversarial Variational Autoencoder for Estimating Biological Brain Age with Multimodal Neuroimaging**|Muhammad Usman et.al.|[2411.10100](http://arxiv.org/abs/2411.10100)|null|
+|**2024-11-15**|**Virtual entanglement purification via noisy entanglement**|Kaoru Yamamoto et.al.|[2411.10024](http://arxiv.org/abs/2411.10024)|null|
+|**2024-11-15**|**Quantum similarity learning for anomaly detection**|A. Hammad et.al.|[2411.09927](http://arxiv.org/abs/2411.09927)|null|
+|**2024-11-15**|**Enhancing Diffusion Posterior Sampling for Inverse Problems by Integrating Crafted Measurements**|Shijie Zhou et.al.|[2411.09850](http://arxiv.org/abs/2411.09850)|null|
+|**2024-11-14**|**ART-Rx: A Proportional-Integral-Derivative (PID) Controlled Adaptive Real-Time Threshold Receiver for Molecular Communication**|Hongbin Ni et.al.|[2411.09787](http://arxiv.org/abs/2411.09787)|null|
 |**2024-11-14**|**Automatic Quantum Communication Channel with Interference Detection and Reset Mechanism**|S. M. Yousuf Iqbal Tomal et.al.|[2411.09626](http://arxiv.org/abs/2411.09626)|null|
 |**2024-11-14**|**Sparse Bayesian Generative Modeling for Compressive Sensing**|Benedikt Böck et.al.|[2411.09483](http://arxiv.org/abs/2411.09483)|null|
 |**2024-11-14**|**Quantum Machine Learning: An Interplay Between Quantum Computing and Machine Learning**|Jun Qi et.al.|[2411.09403](http://arxiv.org/abs/2411.09403)|null|
