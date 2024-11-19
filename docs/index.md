@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-18**|**Anisotropic Gaussian Smoothing for Gradient-based Optimization**|Andrew Starnes et.al.|[2411.11747](http://arxiv.org/abs/2411.11747)|null|
+|**2024-11-18**|**Rethinking Thinking Tokens: Understanding Why They Underperform in Practice**|Sreeram Vennam et.al.|[2411.11371](http://arxiv.org/abs/2411.11371)|null|
+|**2024-11-18**|**Exact Quantum Algorithm for Unit Commitment Optimization based on Partially Connected Quantum Neural Networks**|Jian Liu et.al.|[2411.11369](http://arxiv.org/abs/2411.11369)|null|
+|**2024-11-18**|**Receiver-device-independent quantum secure direct communication**|Cheng Liu et.al.|[2411.11299](http://arxiv.org/abs/2411.11299)|null|
+|**2024-11-18**|**Validation tests of Gaussian boson samplers with photon-number resolving detectors**|Alexander S. Dellios et.al.|[2411.11228](http://arxiv.org/abs/2411.11228)|null|
+|**2024-11-18**|**Making Sigmoid-MSE Great Again: Output Reset Challenges Softmax Cross-Entropy in Neural Network Classification**|Kanishka Tyagi et.al.|[2411.11213](http://arxiv.org/abs/2411.11213)|null|
+|**2024-11-17**|**Accelerating Quantum Emitter Characterization with Latent Neural Ordinary Differential Equations**|Andrew H. Proppe et.al.|[2411.11191](http://arxiv.org/abs/2411.11191)|null|
+|**2024-11-17**|**Wafer Map Defect Classification Using Autoencoder-Based Data Augmentation and Convolutional Neural Network**|Yin-Yin Bao et.al.|[2411.11029](http://arxiv.org/abs/2411.11029)|null|
+|**2024-11-16**|**Explainable DNN-based Beamformer with Postfilter**|Adi Cohen et.al.|[2411.10854](http://arxiv.org/abs/2411.10854)|null|
+|**2024-11-16**|**Neighboring Slice Noise2Noise: Self-Supervised Medical Image Denoising from Single Noisy Image Volume**|Langrui Zhou et.al.|[2411.10831](http://arxiv.org/abs/2411.10831)|null|
 |**2024-11-15**|**Exploiting Negative Curvature in Conjunction with Adaptive Sampling: Theoretical Results and a Practical Algorithm**|Albert S. Berahas et.al.|[2411.10378](http://arxiv.org/abs/2411.10378)|null|
 |**2024-11-15**|**Partial Scene Text Retrieval**|Hao Wang et.al.|[2411.10261](http://arxiv.org/abs/2411.10261)|**[link](https://github.com/lanfeng4659/pstr)**|
 |**2024-11-15**|**Early Detection of Multiwavelength Blazar Variability**|Hermann Stolte et.al.|[2411.10140](http://arxiv.org/abs/2411.10140)|null|
