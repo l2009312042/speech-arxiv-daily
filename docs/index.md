@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-26**|**Learning-Based On-Track System Identification for Scaled Autonomous Racing in Under a Minute**|Onur Dikici et.al.|[2411.17508](http://arxiv.org/abs/2411.17508)|null|
+|**2024-11-26**|**Fast and Exact Similarity Search in less than a Blink of an Eye**|Patrick Schäfer et.al.|[2411.17483](http://arxiv.org/abs/2411.17483)|null|
+|**2024-11-26**|**Robust Bayesian Optimization via Localized Online Conformal Prediction**|Dongwon Kim et.al.|[2411.17387](http://arxiv.org/abs/2411.17387)|**[link](https://github.com/davinci003/LOCBO)**|
+|**2024-11-26**|**Towards Intention Recognition for Robotic Assistants Through Online POMDP Planning**|Juan Carlos Saborio et.al.|[2411.17326](http://arxiv.org/abs/2411.17326)|null|
+|**2024-11-26**|**Improving Resistance to Noisy Label Fitting by Reweighting Gradient in SAM**|Hoang-Chau Luong et.al.|[2411.17132](http://arxiv.org/abs/2411.17132)|null|
+|**2024-11-26**|**Learning from Noisy Labels via Conditional Distributionally Robust Optimization**|Hui Guo et.al.|[2411.17113](http://arxiv.org/abs/2411.17113)|**[link](https://github.com/hguo1728/AdaptCDRP)**|
+|**2024-11-26**|**Optimal Estimation of Shared Singular Subspaces across Multiple Noisy Matrices**|Zhengchi Ma et.al.|[2411.17054](http://arxiv.org/abs/2411.17054)|null|
+|**2024-11-26**|**Large-Scale Data-Free Knowledge Distillation for ImageNet via Multi-Resolution Data Generation**|Minh-Tuan Tran et.al.|[2411.17046](http://arxiv.org/abs/2411.17046)|null|
+|**2024-11-25**|**Teaching Smaller Language Models To Generalise To Unseen Compositional Questions (Full Thesis)**|Tim Hartill et.al.|[2411.16985](http://arxiv.org/abs/2411.16985)|null|
+|**2024-11-25**|**Generative vs. Predictive Models in Massive MIMO Channel Prediction**|Ju-Hyung Lee et.al.|[2411.16971](http://arxiv.org/abs/2411.16971)|null|
 |**2024-11-25**|**Extension of Clifford Data Regression Methods for Quantum Error Mitigation**|Jordi Pérez-Guijarro et.al.|[2411.16653](http://arxiv.org/abs/2411.16653)|null|
 |**2024-11-25**|**Predictive Power of LLMs in Financial Markets**|Jerick Shi et.al.|[2411.16569](http://arxiv.org/abs/2411.16569)|null|
 |**2024-11-25**|**Quantum Circuit Training with Growth-Based Architectures**|Callum Duffy et.al.|[2411.16560](http://arxiv.org/abs/2411.16560)|null|
