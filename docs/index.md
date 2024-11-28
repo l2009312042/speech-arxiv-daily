@@ -14,6 +14,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-27**|**Online versus Offline Adversaries in Property Testing**|Esty Kelman et.al.|[2411.18617](http://arxiv.org/abs/2411.18617)|null|
+|**2024-11-27**|**Optimising Iteration Scheduling for Full-State Vector Simulation of Quantum Circuits on FPGAs**|Youssef Moawad et.al.|[2411.18354](http://arxiv.org/abs/2411.18354)|null|
+|**2024-11-27**|**Efficient Nonlinear Function Approximation in Analog Resistive Crossbars for Recurrent Neural Networks**|Junyi Yang et.al.|[2411.18271](http://arxiv.org/abs/2411.18271)|null|
+|**2024-11-26**|**A Cloud-based Real-time Probabilistic Remaining Useful Life (RUL) Estimation using the Sequential Monte Carlo (SMC) Method**|Karthik Reddy Lyathakula et.al.|[2411.17824](http://arxiv.org/abs/2411.17824)|null|
+|**2024-11-26**|**Exploring Aleatoric Uncertainty in Object Detection via Vision Foundation Models**|Peng Cui et.al.|[2411.17767](http://arxiv.org/abs/2411.17767)|null|
 |**2024-11-26**|**Learning-Based On-Track System Identification for Scaled Autonomous Racing in Under a Minute**|Onur Dikici et.al.|[2411.17508](http://arxiv.org/abs/2411.17508)|null|
 |**2024-11-26**|**Fast and Exact Similarity Search in less than a Blink of an Eye**|Patrick Schäfer et.al.|[2411.17483](http://arxiv.org/abs/2411.17483)|null|
 |**2024-11-26**|**Robust Bayesian Optimization via Localized Online Conformal Prediction**|Dongwon Kim et.al.|[2411.17387](http://arxiv.org/abs/2411.17387)|**[link](https://github.com/davinci003/LOCBO)**|
