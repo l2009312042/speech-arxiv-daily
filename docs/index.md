@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-29**|**It's Quick to be Square: Fast Quadratisation for Quantum Toolchains**|Lukas Schmidbauer et.al.|[2411.19934](http://arxiv.org/abs/2411.19934)|null|
+|**2024-11-29**|**Reverse-type Data Processing Inequality**|Paula Belzig et.al.|[2411.19890](http://arxiv.org/abs/2411.19890)|null|
+|**2024-11-29**|**Linear methods for non-linear inverse problems**|Geerten Koers et.al.|[2411.19797](http://arxiv.org/abs/2411.19797)|null|
+|**2024-11-29**|**Noro: A Noise-Robust One-shot Voice Conversion System with Hidden Speaker Representation Capabilities**|Haorui He et.al.|[2411.19770](http://arxiv.org/abs/2411.19770)|null|
+|**2024-11-29**|**ChineseWebText 2.0: Large-Scale High-quality Chinese Web Text with Multi-dimensional and fine-grained information**|Wanyue Zhang et.al.|[2411.19668](http://arxiv.org/abs/2411.19668)|**[link](https://github.com/casia-lm/chinesewebtext-2.0)**|
+|**2024-11-29**|**In-Context Learning with Noisy Labels**|Junyong Kang et.al.|[2411.19581](http://arxiv.org/abs/2411.19581)|null|
+|**2024-11-29**|**Contextual Checkerboard Denoise -- A Novel Neural Network-Based Approach for Classification-Aware OCT Image Denoising**|Md. Touhidul Islam et.al.|[2411.19549](http://arxiv.org/abs/2411.19549)|**[link](https://github.com/abtahimajeed/checkerboarddenoiser)**|
+|**2024-11-29**|**Robust Bayesian Scene Reconstruction by Leveraging Retrieval-Augmented Priors**|Herbert Wright et.al.|[2411.19461](http://arxiv.org/abs/2411.19461)|null|
+|**2024-11-28**|**3D Wasserstein generative adversarial network with dense U-Net based discriminator for preclinical fMRI denoising**|Sima Soltanpour et.al.|[2411.19345](http://arxiv.org/abs/2411.19345)|null|
+|**2024-11-28**|**An Adversarial Learning Approach to Irregular Time-Series Forecasting**|Heejeong Nam et.al.|[2411.19341](http://arxiv.org/abs/2411.19341)|null|
 |**2024-11-27**|**Online versus Offline Adversaries in Property Testing**|Esty Kelman et.al.|[2411.18617](http://arxiv.org/abs/2411.18617)|null|
 |**2024-11-27**|**Optimising Iteration Scheduling for Full-State Vector Simulation of Quantum Circuits on FPGAs**|Youssef Moawad et.al.|[2411.18354](http://arxiv.org/abs/2411.18354)|null|
 |**2024-11-27**|**Efficient Nonlinear Function Approximation in Analog Resistive Crossbars for Recurrent Neural Networks**|Junyi Yang et.al.|[2411.18271](http://arxiv.org/abs/2411.18271)|null|
