@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-03**|**Ground State Energy Estimation on Current Quantum Hardware Through The Variational Quantum Eigensolver: A Comprehensive Study**|Nacer Eddine Belaloui et.al.|[2412.02606](http://arxiv.org/abs/2412.02606)|null|
+|**2024-12-03**|**DP-2Stage: Adapting Language Models as Differentially Private Tabular Data Generators**|Tejumade Afonja et.al.|[2412.02467](http://arxiv.org/abs/2412.02467)|null|
+|**2024-12-03**|**Hanke-Raus heuristic rule for iteratively regularized stochastic gradient descent**|Harshit Bajpai et.al.|[2412.02397](http://arxiv.org/abs/2412.02397)|null|
+|**2024-12-03**|**Social patch foraging theory in an egalitarian group**|Lisa Blum Moyse et.al.|[2412.02381](http://arxiv.org/abs/2412.02381)|null|
+|**2024-12-03**|**Active Negative Loss: A Robust Framework for Learning with Noisy Labels**|Xichen Ye et.al.|[2412.02373](http://arxiv.org/abs/2412.02373)|**[link](https://github.com/virusdoll/active-negative-loss)**|
+|**2024-12-03**|**Noisy Ostracods: A Fine-Grained, Imbalanced Real-World Dataset for Benchmarking Robust Machine Learning and Label Correction Methods**|Jiamian Hu et.al.|[2412.02313](http://arxiv.org/abs/2412.02313)|**[link](https://github.com/h-jamieu/noisy_ostracods)**|
+|**2024-12-03**|**GSGTrack: Gaussian Splatting-Guided Object Pose Tracking from RGB Videos**|Zhiyuan Chen et.al.|[2412.02267](http://arxiv.org/abs/2412.02267)|null|
+|**2024-12-03**|**Robust Precoding for Multi-User Visible Light Communications with Quantized Channel Information**|Olga Muñoz et.al.|[2412.02219](http://arxiv.org/abs/2412.02219)|null|
+|**2024-12-03**|**Ptychographic estimation of pure multiqubit states in a quantum device**|Warley M. S. Alves et.al.|[2412.02120](http://arxiv.org/abs/2412.02120)|null|
+|**2024-12-03**|**Let's Think Var-by-Var: Large Language Models Enable Ad Hoc Probabilistic Reasoning**|Shepard Xia et.al.|[2412.02081](http://arxiv.org/abs/2412.02081)|null|
 |**2024-11-29**|**It's Quick to be Square: Fast Quadratisation for Quantum Toolchains**|Lukas Schmidbauer et.al.|[2411.19934](http://arxiv.org/abs/2411.19934)|null|
 |**2024-11-29**|**Reverse-type Data Processing Inequality**|Paula Belzig et.al.|[2411.19890](http://arxiv.org/abs/2411.19890)|null|
 |**2024-11-29**|**Linear methods for non-linear inverse problems**|Geerten Koers et.al.|[2411.19797](http://arxiv.org/abs/2411.19797)|null|
