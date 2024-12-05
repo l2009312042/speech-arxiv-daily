@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.04
+## Updated on 2024.12.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -20,7 +20,7 @@
 |**2024-12-03**|**Ground State Energy Estimation on Current Quantum Hardware Through The Variational Quantum Eigensolver: A Comprehensive Study**|Nacer Eddine Belaloui et.al.|[2412.02606](http://arxiv.org/abs/2412.02606)|null|
 |**2024-12-03**|**DP-2Stage: Adapting Language Models as Differentially Private Tabular Data Generators**|Tejumade Afonja et.al.|[2412.02467](http://arxiv.org/abs/2412.02467)|null|
 |**2024-12-03**|**Hanke-Raus heuristic rule for iteratively regularized stochastic gradient descent**|Harshit Bajpai et.al.|[2412.02397](http://arxiv.org/abs/2412.02397)|null|
-|**2024-12-03**|**Social patch foraging theory in an egalitarian group**|Lisa Blum Moyse et.al.|[2412.02381](http://arxiv.org/abs/2412.02381)|null|
+|**2024-12-04**|**Social patch foraging theory in an egalitarian group**|Lisa Blum Moyse et.al.|[2412.02381](http://arxiv.org/abs/2412.02381)|null|
 |**2024-12-03**|**Active Negative Loss: A Robust Framework for Learning with Noisy Labels**|Xichen Ye et.al.|[2412.02373](http://arxiv.org/abs/2412.02373)|**[link](https://github.com/virusdoll/active-negative-loss)**|
 |**2024-12-03**|**Noisy Ostracods: A Fine-Grained, Imbalanced Real-World Dataset for Benchmarking Robust Machine Learning and Label Correction Methods**|Jiamian Hu et.al.|[2412.02313](http://arxiv.org/abs/2412.02313)|**[link](https://github.com/h-jamieu/noisy_ostracods)**|
 |**2024-12-03**|**GSGTrack: Gaussian Splatting-Guided Object Pose Tracking from RGB Videos**|Zhiyuan Chen et.al.|[2412.02267](http://arxiv.org/abs/2412.02267)|null|
@@ -1100,7 +1100,7 @@
 |**2024-05-03**|**A Class of Numerical Semigroups Defined by Kunz and Waldi**|Srishti Singh et.al.|[2405.00331](http://arxiv.org/abs/2405.00331)|null|
 |**2024-04-26**|**Machine Learning based prediction of Vanadium Redox Flow Battery temperature rise under different charge-discharge conditions**|Anirudh Narayan D et.al.|[2404.17284](http://arxiv.org/abs/2404.17284)|null|
 
-<p align=right>(<a href=#updated-on-20241204>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241205>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
