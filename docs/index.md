@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-04**|**Self-test loss functions for learning weak-form operators and gradient flows**|Yuan Gao et.al.|[2412.03506](http://arxiv.org/abs/2412.03506)|null|
+|**2024-12-04**|**TRENDy: Temporal Regression of Effective Non-linear Dynamics**|Matthew Ricci et.al.|[2412.03496](http://arxiv.org/abs/2412.03496)|null|
+|**2024-12-04**|**Granular Ball Twin Support Vector Machine with Universum Data**|M. A. Ganaie et.al.|[2412.03375](http://arxiv.org/abs/2412.03375)|null|
+|**2024-12-04**|**Channel Estimation for Hybrid MIMO Systems With Array Model Errors and Beam Squint Effects**|Kabuto Arai et.al.|[2412.03280](http://arxiv.org/abs/2412.03280)|null|
+|**2024-12-04**|**Intent-driven In-context Learning for Few-shot Dialogue State Tracking**|Zihao Yi et.al.|[2412.03270](http://arxiv.org/abs/2412.03270)|null|
+|**2024-12-04**|**Decentralized Mobile Target Tracking Using Consensus-Based Estimation with Nearly-Constant-Velocity Modeling**|Amir Ahmad Ghods et.al.|[2412.03095](http://arxiv.org/abs/2412.03095)|null|
+|**2024-12-04**|**Extreme Deconvolution Reimagined: Conditional Densities via Neural Networks and an Application in Quasar Classification**|Yi Kang et.al.|[2412.03029](http://arxiv.org/abs/2412.03029)|null|
+|**2024-12-04**|**Timestamp calibration for time-series single cell RNA-seq expression data**|Xiran Chen et.al.|[2412.03027](http://arxiv.org/abs/2412.03027)|null|
+|**2024-12-04**|**Hamiltonian-based neural networks for systems under nonholonomic constraints**|Ignacio Puiggros T. et.al.|[2412.03018](http://arxiv.org/abs/2412.03018)|null|
+|**2024-12-04**|**Variational quantum classifiers via a programmable photonic microprocessor**|Hexiang Lin et.al.|[2412.02955](http://arxiv.org/abs/2412.02955)|null|
 |**2024-12-03**|**Ground State Energy Estimation on Current Quantum Hardware Through The Variational Quantum Eigensolver: A Comprehensive Study**|Nacer Eddine Belaloui et.al.|[2412.02606](http://arxiv.org/abs/2412.02606)|null|
 |**2024-12-03**|**DP-2Stage: Adapting Language Models as Differentially Private Tabular Data Generators**|Tejumade Afonja et.al.|[2412.02467](http://arxiv.org/abs/2412.02467)|null|
 |**2024-12-03**|**Hanke-Raus heuristic rule for iteratively regularized stochastic gradient descent**|Harshit Bajpai et.al.|[2412.02397](http://arxiv.org/abs/2412.02397)|null|
