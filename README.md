@@ -17,6 +17,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-05**|**Bayesian Quantum Amplitude Estimation**|Alexandra Ramôa et.al.|[2412.04394](http://arxiv.org/abs/2412.04394)|null|
+|**2024-12-05**|**Multipartite entanglement distribution in Bell-pair networks without Steiner trees and with reduced gate cost**|S. Siddardha Chelluri et.al.|[2412.04252](http://arxiv.org/abs/2412.04252)|null|
+|**2024-12-05**|**Hipandas: Hyperspectral Image Joint Denoising and Super-Resolution by Image Fusion with the Panchromatic Image**|Shuang Xu et.al.|[2412.04201](http://arxiv.org/abs/2412.04201)|null|
+|**2024-12-05**|**LossVal: Efficient Data Valuation for Neural Networks**|Tim Wibiral et.al.|[2412.04158](http://arxiv.org/abs/2412.04158)|null|
+|**2024-12-05**|**A Data-Driven Framework for Discovering Fractional Differential Equations in Complex Systems**|Xiangnan Yu et.al.|[2412.03970](http://arxiv.org/abs/2412.03970)|null|
+|**2024-12-05**|**Quantized and Interpretable Learning Scheme for Deep Neural Networks in Classification Task**|Alireza Maleki et.al.|[2412.03915](http://arxiv.org/abs/2412.03915)|null|
+|**2024-12-05**|**GP-FL: Model-Based Hessian Estimation for Second-Order Over-the-Air Federated Learning**|Shayan Mohajer Hamidi et.al.|[2412.03867](http://arxiv.org/abs/2412.03867)|null|
 |**2024-12-04**|**Self-test loss functions for learning weak-form operators and gradient flows**|Yuan Gao et.al.|[2412.03506](http://arxiv.org/abs/2412.03506)|null|
 |**2024-12-04**|**TRENDy: Temporal Regression of Effective Non-linear Dynamics**|Matthew Ricci et.al.|[2412.03496](http://arxiv.org/abs/2412.03496)|null|
 |**2024-12-04**|**Granular Ball Twin Support Vector Machine with Universum Data**|M. A. Ganaie et.al.|[2412.03375](http://arxiv.org/abs/2412.03375)|null|
