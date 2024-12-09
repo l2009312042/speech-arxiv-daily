@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-06**|**Simultaneous identification of the parameters in the plasticity function for power hardening materials : A Bayesian approach**|Salih Tatar et.al.|[2412.05241](http://arxiv.org/abs/2412.05241)|null|
+|**2024-12-06**|**Dimensionality reduction for closed-loop quantum gate calibration**|Emma Berger et.al.|[2412.05230](http://arxiv.org/abs/2412.05230)|null|
+|**2024-12-06**|**Towards Flexible 3D Perception: Object-Centric Occupancy Completion Augments 3D Object Detection**|Chaoda Zheng et.al.|[2412.05154](http://arxiv.org/abs/2412.05154)|**[link](https://github.com/ghostish/objectcentricocccompletion)**|
+|**2024-12-06**|**Learning Hidden Physics and System Parameters with Deep Operator Networks**|Vijay Kag et.al.|[2412.05133](http://arxiv.org/abs/2412.05133)|null|
+|**2024-12-06**|**Mixed Blessing: Class-Wise Embedding guided Instance-Dependent Partial Label Learning**|Fuchao Yang et.al.|[2412.05029](http://arxiv.org/abs/2412.05029)|**[link](https://github.com/yangfc-ml/cel)**|
+|**2024-12-06**|**Computational Advantage in Hybrid Quantum Neural Networks: Myth or Reality?**|Muhammad Kashif et.al.|[2412.04991](http://arxiv.org/abs/2412.04991)|null|
+|**2024-12-06**|**Mitigating Instance-Dependent Label Noise: Integrating Self-Supervised Pretraining with Pseudo-Label Refinement**|Gouranga Bala et.al.|[2412.04898](http://arxiv.org/abs/2412.04898)|null|
+|**2024-12-06**|**MSECG: Incorporating Mamba for Robust and Efficient ECG Super-Resolution**|Jie Lin et.al.|[2412.04861](http://arxiv.org/abs/2412.04861)|null|
+|**2024-12-06**|**Cutting is All You Need: Execution of Large-Scale Quantum Neural Networks on Limited-Qubit Devices**|Alberto Marchisio et.al.|[2412.04844](http://arxiv.org/abs/2412.04844)|null|
+|**2024-12-06**|**Nonlocality-Assisted Enhancement of Error-Free Communication in Noisy Classical Channels**|Kunika Agarwal et.al.|[2412.04779](http://arxiv.org/abs/2412.04779)|null|
 |**2024-12-05**|**Bayesian Quantum Amplitude Estimation**|Alexandra Ramôa et.al.|[2412.04394](http://arxiv.org/abs/2412.04394)|null|
 |**2024-12-05**|**Multipartite entanglement distribution in Bell-pair networks without Steiner trees and with reduced gate cost**|S. Siddardha Chelluri et.al.|[2412.04252](http://arxiv.org/abs/2412.04252)|null|
 |**2024-12-05**|**Hipandas: Hyperspectral Image Joint Denoising and Super-Resolution by Image Fusion with the Panchromatic Image**|Shuang Xu et.al.|[2412.04201](http://arxiv.org/abs/2412.04201)|null|
