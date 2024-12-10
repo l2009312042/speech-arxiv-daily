@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-09**|**Performance and achievable rates of the Gottesman-Kitaev-Preskill code for pure-loss and amplification channels**|Guo Zheng et.al.|[2412.06715](http://arxiv.org/abs/2412.06715)|null|
+|**2024-12-09**|**Seismic Traveltime Inversion with Quantum Annealing**|Hoang Anh Nguyen et.al.|[2412.06611](http://arxiv.org/abs/2412.06611)|null|
+|**2024-12-09**|**Data Quality Enhancement on the Basis of Diversity with Large Language Models for Text Classification: Uncovered, Difficult, and Noisy**|Min Zeng et.al.|[2412.06575](http://arxiv.org/abs/2412.06575)|null|
+|**2024-12-09**|**Enhanced quantum sensitivity and coherence of symmetric magnetic clusters**|Lorenzo Amato et.al.|[2412.06554](http://arxiv.org/abs/2412.06554)|null|
+|**2024-12-09**|**New Channel Coding Lower Bounds for Noisy Permutation Channels**|Lugaoze Feng et.al.|[2412.06497](http://arxiv.org/abs/2412.06497)|null|
+|**2024-12-09**|**Parameter Adjustments in POMDP-Based Trajectory Planning for Unsignalized Intersections**|Adam Kollarčík adn Zdeněk Hanzálek et.al.|[2412.06405](http://arxiv.org/abs/2412.06405)|null|
+|**2024-12-09**|**Representational Transfer Learning for Matrix Completion**|Yong He et.al.|[2412.06233](http://arxiv.org/abs/2412.06233)|null|
+|**2024-12-09**|**You KAN Do It in a Single Shot: Plug-and-Play Methods with Single-Instance Priors**|Yanqi Cheng et.al.|[2412.06204](http://arxiv.org/abs/2412.06204)|null|
+|**2024-12-09**|**Category-Adaptive Cross-Modal Semantic Refinement and Transfer for Open-Vocabulary Multi-Label Recognition**|Haijing Liu et.al.|[2412.06190](http://arxiv.org/abs/2412.06190)|null|
+|**2024-12-09**|**Robust Noisy Correspondence Learning via Self-Drop and Dual-Weight**|Fan Liu et.al.|[2412.06172](http://arxiv.org/abs/2412.06172)|null|
 |**2024-12-06**|**Simultaneous identification of the parameters in the plasticity function for power hardening materials : A Bayesian approach**|Salih Tatar et.al.|[2412.05241](http://arxiv.org/abs/2412.05241)|null|
 |**2024-12-06**|**Dimensionality reduction for closed-loop quantum gate calibration**|Emma Berger et.al.|[2412.05230](http://arxiv.org/abs/2412.05230)|null|
 |**2024-12-06**|**Towards Flexible 3D Perception: Object-Centric Occupancy Completion Augments 3D Object Detection**|Chaoda Zheng et.al.|[2412.05154](http://arxiv.org/abs/2412.05154)|**[link](https://github.com/ghostish/objectcentricocccompletion)**|
