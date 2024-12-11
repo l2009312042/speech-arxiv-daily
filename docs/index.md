@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-10**|**Motion Artifact Removal in Pixel-Frequency Domain via Alternate Masks and Diffusion Model**|Jiahua Xu et.al.|[2412.07590](http://arxiv.org/abs/2412.07590)|**[link](https://github.com/medcx/PFAD)**|
+|**2024-12-10**|**POMDP-Based Trajectory Planning for On-Ramp Highway Merging**|Adam Kollarčík et.al.|[2412.07567](http://arxiv.org/abs/2412.07567)|null|
+|**2024-12-10**|**Physics-Based Dynamic Models Hybridisation Using Physics-Informed Neural Networks**|Branislava Lalic et.al.|[2412.07514](http://arxiv.org/abs/2412.07514)|null|
+|**2024-12-10**|**Direct phase encoding in QAOA: Describing combinatorial optimization problems through binary decision variables**|Simon Garhofer et.al.|[2412.07450](http://arxiv.org/abs/2412.07450)|null|
+|**2024-12-10**|**Noisy phase retrieval from subgaussian measurements**|Haiyang Peng et.al.|[2412.07401](http://arxiv.org/abs/2412.07401)|null|
+|**2024-12-10**|**Taylor Outlier Exposure**|Kohei Fukuda et.al.|[2412.07219](http://arxiv.org/abs/2412.07219)|**[link](https://github.com/fukuchan41/tayloroe)**|
+|**2024-12-10**|**Revisiting Lesion Tracking in 3D Total Body Photography**|Wei-Lun Huang et.al.|[2412.07132](http://arxiv.org/abs/2412.07132)|null|
+|**2024-12-10**|**EvRepSL: Event-Stream Representation via Self-Supervised Learning for Event-Based Vision**|Qiang Qu et.al.|[2412.07080](http://arxiv.org/abs/2412.07080)|**[link](https://github.com/vincentqqu/evrepsl)**|
+|**2024-12-09**|**Analysis of Conducted and Radiated Emission on a Self-oscillating Capacitive Touch Sensing Circuit**|Subramaniam Saravana Sankar et.al.|[2412.06961](http://arxiv.org/abs/2412.06961)|null|
+|**2024-12-09**|**SafeWatch: An Efficient Safety-Policy Following Video Guardrail Model with Transparent Explanations**|Zhaorun Chen et.al.|[2412.06878](http://arxiv.org/abs/2412.06878)|null|
 |**2024-12-09**|**Performance and achievable rates of the Gottesman-Kitaev-Preskill code for pure-loss and amplification channels**|Guo Zheng et.al.|[2412.06715](http://arxiv.org/abs/2412.06715)|null|
 |**2024-12-09**|**Seismic Traveltime Inversion with Quantum Annealing**|Hoang Anh Nguyen et.al.|[2412.06611](http://arxiv.org/abs/2412.06611)|null|
 |**2024-12-10**|**Data Quality Enhancement on the Basis of Diversity with Large Language Models for Text Classification: Uncovered, Difficult, and Noisy**|Min Zeng et.al.|[2412.06575](http://arxiv.org/abs/2412.06575)|null|
