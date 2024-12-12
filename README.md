@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-11**|**Image Retrieval Methods in the Dissimilarity Space**|Madhu Kiran et.al.|[2412.08618](http://arxiv.org/abs/2412.08618)|null|
+|**2024-12-11**|**Rate accelerated inference for integrals of multivariate random functions**|Valentin Patilea et.al.|[2412.08533](http://arxiv.org/abs/2412.08533)|null|
+|**2024-12-11**|**A Dual-Module Denoising Approach with Curriculum Learning for Enhancing Multimodal Aspect-Based Sentiment Analysis**|Nguyen Van Doan et.al.|[2412.08489](http://arxiv.org/abs/2412.08489)|null|
+|**2024-12-11**|**CAT: Class Aware Adaptive Thresholding for Semi-Supervised Domain Generalization**|Sumaiya Zoha et.al.|[2412.08479](http://arxiv.org/abs/2412.08479)|null|
+|**2024-12-11**|**Robustness of Graph Classification: failure modes, causes, and noise-resistant loss in Graph Neural Networks**|Farooq Ahmad Wani et.al.|[2412.08419](http://arxiv.org/abs/2412.08419)|null|
+|**2024-12-11**|**Embedding and Enriching Explicit Semantics for Visible-Infrared Person Re-Identification**|Neng Dong et.al.|[2412.08406](http://arxiv.org/abs/2412.08406)|null|
+|**2024-12-11**|**Noise-Aware Bayesian Optimization Approach for Capacity Planning of the Distributed Energy Resources in an Active Distribution Network**|Ruizhe Yang et.al.|[2412.08370](http://arxiv.org/abs/2412.08370)|null|
+|**2024-12-11**|**Evaluating the Impact of Discriminative and Generative E2E Speech Enhancement Models on Syllable Stress Preservation**|Rangavajjala Sankara Bharadwaj et.al.|[2412.08306](http://arxiv.org/abs/2412.08306)|null|
+|**2024-12-11**|**PADÉ FILTERING, Principles and Use: an Introductory Report**|Jean-Daniel Fournier et.al.|[2412.08254](http://arxiv.org/abs/2412.08254)|null|
+|**2024-12-11**|**Breaking the Bias: Recalibrating the Attention of Industrial Anomaly Detection**|Xin Chen et.al.|[2412.08189](http://arxiv.org/abs/2412.08189)|null|
 |**2024-12-11**|**Motion Artifact Removal in Pixel-Frequency Domain via Alternate Masks and Diffusion Model**|Jiahua Xu et.al.|[2412.07590](http://arxiv.org/abs/2412.07590)|**[link](https://github.com/medcx/PFAD)**|
 |**2024-12-10**|**POMDP-Based Trajectory Planning for On-Ramp Highway Merging**|Adam Kollarčík et.al.|[2412.07567](http://arxiv.org/abs/2412.07567)|null|
 |**2024-12-10**|**Physics-Based Dynamic Models Hybridisation Using Physics-Informed Neural Networks**|Branislava Lalic et.al.|[2412.07514](http://arxiv.org/abs/2412.07514)|null|
