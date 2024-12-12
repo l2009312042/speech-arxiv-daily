@@ -7,14 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.11
+## Updated on 2024.12.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## KWS
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-10**|**Motion Artifact Removal in Pixel-Frequency Domain via Alternate Masks and Diffusion Model**|Jiahua Xu et.al.|[2412.07590](http://arxiv.org/abs/2412.07590)|**[link](https://github.com/medcx/PFAD)**|
+|**2024-12-11**|**Motion Artifact Removal in Pixel-Frequency Domain via Alternate Masks and Diffusion Model**|Jiahua Xu et.al.|[2412.07590](http://arxiv.org/abs/2412.07590)|**[link](https://github.com/medcx/PFAD)**|
 |**2024-12-10**|**POMDP-Based Trajectory Planning for On-Ramp Highway Merging**|Adam Kollarčík et.al.|[2412.07567](http://arxiv.org/abs/2412.07567)|null|
 |**2024-12-10**|**Physics-Based Dynamic Models Hybridisation Using Physics-Informed Neural Networks**|Branislava Lalic et.al.|[2412.07514](http://arxiv.org/abs/2412.07514)|null|
 |**2024-12-10**|**Direct phase encoding in QAOA: Describing combinatorial optimization problems through binary decision variables**|Simon Garhofer et.al.|[2412.07450](http://arxiv.org/abs/2412.07450)|null|

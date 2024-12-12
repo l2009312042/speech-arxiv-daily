@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.11
+## Updated on 2024.12.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,7 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-12-10**|**Motion Artifact Removal in Pixel-Frequency Domain via Alternate Masks and Diffusion Model**|Jiahua Xu et.al.|[2412.07590](http://arxiv.org/abs/2412.07590)|**[link](https://github.com/medcx/PFAD)**|
+|**2024-12-11**|**Motion Artifact Removal in Pixel-Frequency Domain via Alternate Masks and Diffusion Model**|Jiahua Xu et.al.|[2412.07590](http://arxiv.org/abs/2412.07590)|**[link](https://github.com/medcx/PFAD)**|
 |**2024-12-10**|**POMDP-Based Trajectory Planning for On-Ramp Highway Merging**|Adam Kollarčík et.al.|[2412.07567](http://arxiv.org/abs/2412.07567)|null|
 |**2024-12-10**|**Physics-Based Dynamic Models Hybridisation Using Physics-Informed Neural Networks**|Branislava Lalic et.al.|[2412.07514](http://arxiv.org/abs/2412.07514)|null|
 |**2024-12-10**|**Direct phase encoding in QAOA: Describing combinatorial optimization problems through binary decision variables**|Simon Garhofer et.al.|[2412.07450](http://arxiv.org/abs/2412.07450)|null|
@@ -1147,7 +1147,7 @@
 |**2024-05-03**|**A Class of Numerical Semigroups Defined by Kunz and Waldi**|Srishti Singh et.al.|[2405.00331](http://arxiv.org/abs/2405.00331)|null|
 |**2024-04-26**|**Machine Learning based prediction of Vanadium Redox Flow Battery temperature rise under different charge-discharge conditions**|Anirudh Narayan D et.al.|[2404.17284](http://arxiv.org/abs/2404.17284)|null|
 
-<p align=right>(<a href=#updated-on-20241211>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241212>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
