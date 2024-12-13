@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-12**|**Clifford Perturbation Approximation for Quantum Error Mitigation**|Ruiqi Zhang et.al.|[2412.09518](http://arxiv.org/abs/2412.09518)|null|
+|**2024-12-12**|**Near-single-photon atto-watt detection at mid-infrared wavelengths by a room-temperature balanced heterodyne set-up**|Daniele Palaferri et.al.|[2412.09462](http://arxiv.org/abs/2412.09462)|null|
+|**2024-12-12**|**Diffusion Model with Representation Alignment for Protein Inverse Folding**|Chenglin Wang et.al.|[2412.09380](http://arxiv.org/abs/2412.09380)|null|
+|**2024-12-12**|**The Utility and Complexity of In- and Out-of-Distribution Machine Unlearning**|Youssef Allouah et.al.|[2412.09119](http://arxiv.org/abs/2412.09119)|null|
+|**2024-12-12**|**How to Re-enable PDE Loss for Physical Systems Modeling Under Partial Observation**|Haodong Feng et.al.|[2412.09116](http://arxiv.org/abs/2412.09116)|null|
+|**2024-12-12**|**Neural Networks for Threshold Dynamics Reconstruction**|Elisa Negrini et.al.|[2412.09079](http://arxiv.org/abs/2412.09079)|null|
+|**2024-12-12**|**Control Flow Adaption: An Efficient Simulation Method For Noisy Quantum Networks**|Huiping Lin et.al.|[2412.08956](http://arxiv.org/abs/2412.08956)|null|
+|**2024-12-12**|**Optimized Gradient Clipping for Noisy Label Learning**|Xichen Ye et.al.|[2412.08941](http://arxiv.org/abs/2412.08941)|null|
+|**2024-12-12**|**Goal-Conditioned Supervised Learning for Multi-Objective Recommendation**|Shijun Li et.al.|[2412.08911](http://arxiv.org/abs/2412.08911)|null|
+|**2024-12-12**|**Quantum Kernel-Based Long Short-term Memory for Climate Time-Series Forecasting**|Yu-Chao Hsu et.al.|[2412.08851](http://arxiv.org/abs/2412.08851)|null|
 |**2024-12-11**|**Image Retrieval Methods in the Dissimilarity Space**|Madhu Kiran et.al.|[2412.08618](http://arxiv.org/abs/2412.08618)|null|
 |**2024-12-11**|**Rate accelerated inference for integrals of multivariate random functions**|Valentin Patilea et.al.|[2412.08533](http://arxiv.org/abs/2412.08533)|null|
 |**2024-12-11**|**A Dual-Module Denoising Approach with Curriculum Learning for Enhancing Multimodal Aspect-Based Sentiment Analysis**|Nguyen Van Doan et.al.|[2412.08489](http://arxiv.org/abs/2412.08489)|null|
