@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-13**|**The Correlated Gaussian Sparse Histogram Mechanism**|Christian Janos Lebeda et.al.|[2412.10357](http://arxiv.org/abs/2412.10357)|null|
+|**2024-12-13**|**Tunable Josephson voltage source for quantum circuits**|J. -L. Smirr et.al.|[2412.10227](http://arxiv.org/abs/2412.10227)|null|
+|**2024-12-13**|**Learning Complex Non-Rigid Image Edits from Multimodal Conditioning**|Nikolai Warner et.al.|[2412.10219](http://arxiv.org/abs/2412.10219)|null|
+|**2024-12-13**|**Excitable response of a noisy adaptive network of spiking lasers**|S. Barland et.al.|[2412.10191](http://arxiv.org/abs/2412.10191)|null|
+|**2024-12-13**|**Unsupervised Named Entity Disambiguation for Low Resource Domains**|Debarghya Datta et.al.|[2412.10054](http://arxiv.org/abs/2412.10054)|**[link](https://github.com/deba-iitbh/gst-ned)**|
+|**2024-12-13**|**FM2S: Self-Supervised Fluorescence Microscopy Denoising With Single Noisy Image**|Jizhihui Liu et.al.|[2412.10031](http://arxiv.org/abs/2412.10031)|**[link](https://github.com/danielement321/fm2s)**|
+|**2024-12-13**|**Matrix Completion via Residual Spectral Matching**|Ziyuan Chen et.al.|[2412.10005](http://arxiv.org/abs/2412.10005)|null|
+|**2024-12-13**|**Latent feedback control of distributed systems in multiple scenarios through deep learning-based reduced order models**|Matteo Tomasetto et.al.|[2412.09942](http://arxiv.org/abs/2412.09942)|null|
+|**2024-12-13**|**Sharpening Your Density Fields: Spiking Neuron Aided Fast Geometry Learning**|Yi Gu et.al.|[2412.09881](http://arxiv.org/abs/2412.09881)|null|
+|**2024-12-13**|**Dynamic Cross-Modal Alignment for Robust Semantic Location Prediction**|Liu Jing et.al.|[2412.09870](http://arxiv.org/abs/2412.09870)|null|
 |**2024-12-12**|**Clifford Perturbation Approximation for Quantum Error Mitigation**|Ruiqi Zhang et.al.|[2412.09518](http://arxiv.org/abs/2412.09518)|null|
 |**2024-12-12**|**Near-single-photon atto-watt detection at mid-infrared wavelengths by a room-temperature balanced heterodyne set-up**|Daniele Palaferri et.al.|[2412.09462](http://arxiv.org/abs/2412.09462)|null|
 |**2024-12-12**|**Diffusion Model with Representation Alignment for Protein Inverse Folding**|Chenglin Wang et.al.|[2412.09380](http://arxiv.org/abs/2412.09380)|null|
