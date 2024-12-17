@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-16**|**Noisy initial-state qubit-channel metrology with additional undesirable noisy evolution**|David Collins et.al.|[2412.12085](http://arxiv.org/abs/2412.12085)|null|
+|**2024-12-16**|**RepFace: Refining Closed-Set Noise with Progressive Label Correction for Face Recognition**|Jie Zhang et.al.|[2412.12031](http://arxiv.org/abs/2412.12031)|null|
+|**2024-12-16**|**Cost-Effective Label-free Node Classification with LLMs**|Taiyan Zhang et.al.|[2412.11983](http://arxiv.org/abs/2412.11983)|null|
+|**2024-12-16**|**PICLe: Pseudo-Annotations for In-Context Learning in Low-Resource Named Entity Detection**|Sepideh Mamooler et.al.|[2412.11923](http://arxiv.org/abs/2412.11923)|null|
+|**2024-12-16**|**Self-Adaptive Paraphrasing and Preference Learning for Improved Claim Verifiability**|Amelie Wührl et.al.|[2412.11653](http://arxiv.org/abs/2412.11653)|null|
+|**2024-12-16**|**Combating Semantic Contamination in Learning with Label Noise**|Wenxiao Fan et.al.|[2412.11620](http://arxiv.org/abs/2412.11620)|null|
+|**2024-12-16**|**RoMeO: Robust Metric Visual Odometry**|Junda Cheng et.al.|[2412.11530](http://arxiv.org/abs/2412.11530)|null|
+|**2024-12-16**|**NoteContrast: Contrastive Language-Diagnostic Pretraining for Medical Text**|Prajwal Kailas et.al.|[2412.11477](http://arxiv.org/abs/2412.11477)|**[link](https://github.com/obi-ml-public/notecontrast)**|
+|**2024-12-16**|**Mining In-distribution Attributes in Outliers for Out-of-distribution Detection**|Yutian Lei et.al.|[2412.11466](http://arxiv.org/abs/2412.11466)|null|
+|**2024-12-16**|**Unsupervised Anomaly Detection for Tabular Data Using Noise Evaluation**|Wei Dai et.al.|[2412.11461](http://arxiv.org/abs/2412.11461)|null|
 |**2024-12-13**|**The Correlated Gaussian Sparse Histogram Mechanism**|Christian Janos Lebeda et.al.|[2412.10357](http://arxiv.org/abs/2412.10357)|null|
 |**2024-12-13**|**Tunable Josephson voltage source for quantum circuits**|J. -L. Smirr et.al.|[2412.10227](http://arxiv.org/abs/2412.10227)|null|
 |**2024-12-13**|**Learning Complex Non-Rigid Image Edits from Multimodal Conditioning**|Nikolai Warner et.al.|[2412.10219](http://arxiv.org/abs/2412.10219)|null|
