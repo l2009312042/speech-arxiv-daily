@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-18**|**The random coupled-plaquette gauge model and the surface code under circuit-level noise**|Manuel Rispler et.al.|[2412.14004](http://arxiv.org/abs/2412.14004)|null|
+|**2024-12-18**|**Surrogate-Based Optimization Techniques for Process Systems Engineering**|Mathias Neufang et.al.|[2412.13948](http://arxiv.org/abs/2412.13948)|null|
+|**2024-12-18**|**Investigating the Effects of Diffusion-based Conditional Generative Speech Models Used for Speech Enhancement on Dysarthric Speech**|Joanna Reszka et.al.|[2412.13933](http://arxiv.org/abs/2412.13933)|null|
+|**2024-12-18**|**Denoising Nearest Neighbor Graph via Continuous CRF for Visual Re-ranking without Fine-tuning**|Jaeyoon Kim et.al.|[2412.13875](http://arxiv.org/abs/2412.13875)|null|
+|**2024-12-18**|**AI-Powered Algorithm-Centric Quantum Processor Topology Design**|Tian Li et.al.|[2412.13805](http://arxiv.org/abs/2412.13805)|**[link](https://github.com/qclab-quantum/qtailor)**|
+|**2024-12-18**|**Modelling Multi-modal Cross-interaction for ML-FSIC Based on Local Feature Selection**|Kun Yan et.al.|[2412.13732](http://arxiv.org/abs/2412.13732)|null|
+|**2024-12-18**|**Turning qubit noise into a blessing: Automatic state preparation and long-time dynamics for impurity models on quantum computers**|Corentin Bertrand et.al.|[2412.13711](http://arxiv.org/abs/2412.13711)|null|
+|**2024-12-18**|**4D Radar-Inertial Odometry based on Gaussian Modeling and Multi-Hypothesis Scan Matching**|Fernando Amodeo et.al.|[2412.13639](http://arxiv.org/abs/2412.13639)|**[link](https://github.com/robotics-upo/gaussian-rio)**|
+|**2024-12-18**|**NeckCare: Preventing Tech Neck using Hearable-based Multimodal Sensing**|Bhawana Chhaglani et.al.|[2412.13579](http://arxiv.org/abs/2412.13579)|null|
+|**2024-12-18**|**Bridging the User-side Knowledge Gap in Knowledge-aware Recommendations with Large Language Models**|Zheng Hu et.al.|[2412.13544](http://arxiv.org/abs/2412.13544)|**[link](https://github.com/laowangzi/cikgrec)**|
 |**2024-12-17**|**A Knowledge-enhanced Pathology Vision-language Foundation Model for Cancer Diagnosis**|Xiao Zhou et.al.|[2412.13126](http://arxiv.org/abs/2412.13126)|null|
 |**2024-12-17**|**LMUnit: Fine-grained Evaluation with Natural Language Unit Tests**|Jon Saad-Falcon et.al.|[2412.13091](http://arxiv.org/abs/2412.13091)|null|
 |**2024-12-17**|**Learning from Noisy Labels via Self-Taught On-the-Fly Meta Loss Rescaling**|Michael Heck et.al.|[2412.12955](http://arxiv.org/abs/2412.12955)|null|
