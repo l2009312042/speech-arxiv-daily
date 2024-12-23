@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-20**|**Camera-Based Localization and Enhanced Normalized Mutual Information**|Vishnu Teja Kunde et.al.|[2412.16137](http://arxiv.org/abs/2412.16137)|null|
+|**2024-12-20**|**Multipartite entanglement structure of monitored quantum circuits**|Arnau Lira-Solanilla et.al.|[2412.16062](http://arxiv.org/abs/2412.16062)|null|
+|**2024-12-20**|**Knowledge-dependent optimal Gaussian strategies for phase estimation**|Ricard Ravell Rodríguez et.al.|[2412.16023](http://arxiv.org/abs/2412.16023)|null|
+|**2024-12-20**|**iRadar: Synthesizing Millimeter-Waves from Wearable Inertial Inputs for Human Gesture Sensing**|Huanqi Yang et.al.|[2412.15980](http://arxiv.org/abs/2412.15980)|null|
+|**2024-12-20**|**S $^2$ DN: Learning to Denoise Unconvincing Knowledge for Inductive Knowledge Graph Completion**|Tengfei Ma et.al.|[2412.15822](http://arxiv.org/abs/2412.15822)|null|
+|**2024-12-20**|**Efficient Hamiltonian Simulation: A Utility Scale Perspective for Covalent Inhibitor Reactivity Prediction**|Marek Kowalik et.al.|[2412.15804](http://arxiv.org/abs/2412.15804)|null|
+|**2024-12-20**|**Probabilistic Latent Variable Modeling for Dynamic Friction Identification and Estimation**|Victor Vantilborgh et.al.|[2412.15756](http://arxiv.org/abs/2412.15756)|null|
+|**2024-12-20**|**The Role of Recurrency in Image Segmentation for Noisy and Limited Sample Settings**|David Calhas et.al.|[2412.15734](http://arxiv.org/abs/2412.15734)|null|
+|**2024-12-20**|**Classical Combinatorial Optimization Scaling for Random Ising Models on 2D Heavy-Hex Graphs**|Elijah Pelofske et.al.|[2412.15572](http://arxiv.org/abs/2412.15572)|null|
+|**2024-12-20**|**Predicting Artificial Neural Network Representations to Learn Recognition Model for Music Identification from Brain Recordings**|Taketo Akama et.al.|[2412.15560](http://arxiv.org/abs/2412.15560)|null|
 |**2024-12-19**|**A Finite-Time Quantum Otto Engine subject to Control Noise and Enhancement Techniques**|Theodore McKeever et.al.|[2412.15196](http://arxiv.org/abs/2412.15196)|null|
 |**2024-12-19**|**ECLIPSE: Contrastive Dimension Importance Estimation with Pseudo-Irrelevance Feedback for Dense Retrieval**|Giulio D'Erasmo et.al.|[2412.14967](http://arxiv.org/abs/2412.14967)|null|
 |**2024-12-19**|**RobustFT: Robust Supervised Fine-tuning for Large Language Models under Noisy Response**|Junyu Luo et.al.|[2412.14922](http://arxiv.org/abs/2412.14922)|**[link](https://github.com/luo-junyu/robustft)**|
