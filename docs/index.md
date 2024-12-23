@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.22
+## Updated on 2024.12.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## KWS
@@ -21,7 +21,7 @@ layout: default
 |**2024-12-19**|**Federated Heavy Hitter Analytics with Local Differential Privacy**|Yuemin Zhang et.al.|[2412.14832](http://arxiv.org/abs/2412.14832)|null|
 |**2024-12-19**|**Quantum circuit synthesis with SQiSW**|Jialiang Tang et.al.|[2412.14828](http://arxiv.org/abs/2412.14828)|null|
 |**2024-12-19**|**DCL-Sparse: Distributed Range-only Cooperative Localization of Multi-Robots in Noisy and Sparse Sensing Graphs**|Atharva Sagale et.al.|[2412.14793](http://arxiv.org/abs/2412.14793)|null|
-|**2024-12-19**|**Permutation recovery of spikes in noisy high-dimensional tensor estimation**|Gérard Ben Arous et.al.|[2412.14650](http://arxiv.org/abs/2412.14650)|null|
+|**2024-12-20**|**Permutation recovery of spikes in noisy high-dimensional tensor estimation**|Gérard Ben Arous et.al.|[2412.14650](http://arxiv.org/abs/2412.14650)|null|
 |**2024-12-19**|**Quantum Homogenization as a Quantum Steady State Protocol on NISQ Hardware**|Alexander Yosifov et.al.|[2412.14544](http://arxiv.org/abs/2412.14544)|null|
 |**2024-12-19**|**ORBIT: Cost-Effective Dataset Curation for Large Language Model Domain Adaptation with an Astronomy Case Study**|Eric Modesitt et.al.|[2412.14436](http://arxiv.org/abs/2412.14436)|**[link](https://github.com/modeeric/orbit-llama)**|
 |**2024-12-18**|**The random coupled-plaquette gauge model and the surface code under circuit-level noise**|Manuel Rispler et.al.|[2412.14004](http://arxiv.org/abs/2412.14004)|null|
