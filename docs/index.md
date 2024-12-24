@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-23**|**Group Testing with General Correlation Using Hypergraphs**|Hesam Nikpey et.al.|[2412.17751](http://arxiv.org/abs/2412.17751)|null|
+|**2024-12-23**|**Bivariate Matrix-valued Linear Regression (BMLR): Finite-sample performance under Identifiability and Sparsity Assumptions**|Nayel Bettache et.al.|[2412.17749](http://arxiv.org/abs/2412.17749)|**[link](https://github.com/nayelbettache/bmlr)**|
+|**2024-12-23**|**ShotQC: Reducing Sampling Overhead in Quantum Circuit Cutting**|Po-Hung Chen et.al.|[2412.17704](http://arxiv.org/abs/2412.17704)|null|
+|**2024-12-23**|**FedTLU: Federated Learning with Targeted Layer Updates**|Jong-Ik Park et.al.|[2412.17692](http://arxiv.org/abs/2412.17692)|null|
+|**2024-12-23**|**An Adaptive Framework for Multi-View Clustering Leveraging Conditional Entropy Optimization**|Lijian Li et.al.|[2412.17647](http://arxiv.org/abs/2412.17647)|null|
+|**2024-12-23**|**Graph Neural Networks Are Evolutionary Algorithms**|Kaichen Ouyang et.al.|[2412.17629](http://arxiv.org/abs/2412.17629)|null|
+|**2024-12-23**|**Statistical Learning Theory for Neural Operators**|Niklas Reinhardt et.al.|[2412.17582](http://arxiv.org/abs/2412.17582)|null|
+|**2024-12-23**|**Complete aging in the noisy voter model enhances consensus formation**|Jaume Llabrés et.al.|[2412.17569](http://arxiv.org/abs/2412.17569)|null|
+|**2024-12-23**|**Distribution-Adaptive Dynamic Shot Optimization for Variational Quantum Algorithms**|Youngmin Kim et.al.|[2412.17485](http://arxiv.org/abs/2412.17485)|null|
+|**2024-12-23**|**Silencer: Robust Community Detection by Silencing of Noisy Pixels**|Kai Wu et.al.|[2412.17412](http://arxiv.org/abs/2412.17412)|null|
 |**2024-12-20**|**Camera-Based Localization and Enhanced Normalized Mutual Information**|Vishnu Teja Kunde et.al.|[2412.16137](http://arxiv.org/abs/2412.16137)|null|
 |**2024-12-20**|**Multipartite entanglement structure of monitored quantum circuits**|Arnau Lira-Solanilla et.al.|[2412.16062](http://arxiv.org/abs/2412.16062)|null|
 |**2024-12-20**|**Knowledge-dependent optimal Gaussian strategies for phase estimation**|Ricard Ravell Rodríguez et.al.|[2412.16023](http://arxiv.org/abs/2412.16023)|null|
