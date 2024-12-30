@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-27**|**Meta-Learning-Based Delayless Subband Adaptive Filter using Complex Self-Attention for Active Noise Control**|Pengxing Feng et.al.|[2412.19471](http://arxiv.org/abs/2412.19471)|null|
+|**2024-12-27**|**Online distributed algorithms for mixed equilibrium problems in dynamic environments**|Hang Xu et.al.|[2412.19399](http://arxiv.org/abs/2412.19399)|null|
+|**2024-12-27**|**Resolvent-based estimation and control of a laminar airfoil wake**|Junoh Jung et.al.|[2412.19386](http://arxiv.org/abs/2412.19386)|null|
+|**2024-12-26**|**Quantum-Inspired Weight-Constrained Neural Network: Reducing Variable Numbers by 100x Compared to Standard Neural Networks**|Shaozhi Li et.al.|[2412.19355](http://arxiv.org/abs/2412.19355)|null|
+|**2024-12-26**|**VoiceDiT: Dual-Condition Diffusion Transformer for Environment-Aware Speech Synthesis**|Jaemin Jung et.al.|[2412.19259](http://arxiv.org/abs/2412.19259)|null|
+|**2024-12-26**|**Causal Speech Enhancement with Predicting Semantics based on Quantized Self-supervised Learning Features**|Emiru Tsunoo et.al.|[2412.19248](http://arxiv.org/abs/2412.19248)|null|
+|**2024-12-26**|**VQE for Ising Model \& A Comparative Analysis of Classical and Quantum Optimization Methods**|Duc-Truyen Le et.al.|[2412.19176](http://arxiv.org/abs/2412.19176)|null|
+|**2024-12-26**|**Extended Cross-Modality United Learning for Unsupervised Visible-Infrared Person Re-identification**|Ruixing Wu et.al.|[2412.19134](http://arxiv.org/abs/2412.19134)|null|
+|**2024-12-26**|**"I've Heard of You!": Generate Spoken Named Entity Recognition Data for Unseen Entities**|Jiawei Yu et.al.|[2412.19102](http://arxiv.org/abs/2412.19102)|null|
+|**2024-12-26**|**Humans as a Calibration Pattern: Dynamic 3D Scene Reconstruction from Unsynchronized and Uncalibrated Videos**|Changwoon Choi et.al.|[2412.19089](http://arxiv.org/abs/2412.19089)|null|
 |**2024-12-24**|**Mitigating Label Noise using Prompt-Based Hyperbolic Meta-Learning in Open-Set Domain Generalization**|Kunyu Peng et.al.|[2412.18342](http://arxiv.org/abs/2412.18342)|**[link](https://github.com/kpeng9510/hyprometa)**|
 |**2024-12-24**|**Navigating Data Corruption in Machine Learning: Balancing Quality, Quantity, and Imputation Strategies**|Qi Liu et.al.|[2412.18296](http://arxiv.org/abs/2412.18296)|null|
 |**2024-12-24**|**Sampling Bag of Views for Open-Vocabulary Object Detection**|Hojun Choi et.al.|[2412.18273](http://arxiv.org/abs/2412.18273)|null|
