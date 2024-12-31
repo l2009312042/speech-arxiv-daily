@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-30**|**Quantum Error Correction near the Coding Theoretical Bound**|Daiki Komoto et.al.|[2412.21171](http://arxiv.org/abs/2412.21171)|null|
+|**2024-12-30**|**Investigating layer-selective transfer learning of QAOA parameters for Max-Cut problem**|Francesco Aldo Venturelli et.al.|[2412.21071](http://arxiv.org/abs/2412.21071)|null|
+|**2024-12-30**|**Considering experimental frame rates and robust segmentation analysis of piecewise-linear microparticle trajectories**|Keisha J. Cook et.al.|[2412.21025](http://arxiv.org/abs/2412.21025)|null|
+|**2024-12-30**|**A gradient-based and determinant-free framework for fully Bayesian Gaussian process regression**|P. Michael Kielstra et.al.|[2412.20884](http://arxiv.org/abs/2412.20884)|null|
+|**2024-12-30**|**SoftPatch+: Fully Unsupervised Anomaly Classification and Segmentation**|Chengjie Wang et.al.|[2412.20870](http://arxiv.org/abs/2412.20870)|**[link](https://github.com/TencentYoutuResearch/AnomalyDetection-SoftPatch)**|
+|**2024-12-30**|**Phoneme-Level Contrastive Learning for User-Defined Keyword Spotting with Flexible Enrollment**|Li Kewei et.al.|[2412.20805](http://arxiv.org/abs/2412.20805)|null|
+|**2024-12-30**|**Generalize Your Face Forgery Detectors: An Insertable Adaptation Module Is All You Need**|Xiaotian Si et.al.|[2412.20801](http://arxiv.org/abs/2412.20801)|null|
+|**2024-12-29**|**Utilizing Multimodal Data for Edge Case Robust Call-sign Recognition and Understanding**|Alexander Blatt et.al.|[2412.20467](http://arxiv.org/abs/2412.20467)|null|
+|**2024-12-29**|**Capturing strong correlation effects on a quantum annealer: calculation of avoided crossing in the H $_4$ molecule using the quantum annealer eigensolver**|Aashna Anil Zade et.al.|[2412.20464](http://arxiv.org/abs/2412.20464)|null|
+|**2024-12-29**|**Artificial Intelligence for Quantum Error Correction: A Comprehensive Review**|Zihao Wang et.al.|[2412.20380](http://arxiv.org/abs/2412.20380)|null|
 |**2024-12-27**|**Meta-Learning-Based Delayless Subband Adaptive Filter using Complex Self-Attention for Active Noise Control**|Pengxing Feng et.al.|[2412.19471](http://arxiv.org/abs/2412.19471)|null|
 |**2024-12-27**|**Online distributed algorithms for mixed equilibrium problems in dynamic environments**|Hang Xu et.al.|[2412.19399](http://arxiv.org/abs/2412.19399)|null|
 |**2024-12-27**|**Resolvent-based estimation and control of a laminar airfoil wake**|Junoh Jung et.al.|[2412.19386](http://arxiv.org/abs/2412.19386)|null|
