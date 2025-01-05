@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-02**|**VoiceVector: Multimodal Enrolment Vectors for Speaker Separation**|Akam Rahimi et.al.|[2501.01401](http://arxiv.org/abs/2501.01401)|null|
+|**2025-01-02**|**Simultaneous Latent State Estimation and Latent Linear Dynamics Discovery from Image Observations**|Nikita Kostin et.al.|[2501.01339](http://arxiv.org/abs/2501.01339)|null|
+|**2025-01-02**|**Fast data inversion for high-dimensional dynamical systems from noisy measurements**|Yizi Lin et.al.|[2501.01324](http://arxiv.org/abs/2501.01324)|null|
+|**2025-01-02**|**Robot localization in a mapped environment using Adaptive Monte Carlo algorithm**|Sagarnil Das et.al.|[2501.01153](http://arxiv.org/abs/2501.01153)|null|
+|**2025-01-02**|**An Inclusive Theoretical Framework of Robust Supervised Contrastive Loss against Label Noise**|Jingyi Cui et.al.|[2501.01130](http://arxiv.org/abs/2501.01130)|null|
+|**2025-01-02**|**PatchRefiner V2: Fast and Lightweight Real-Domain High-Resolution Metric Depth Estimation**|Zhenyu Li et.al.|[2501.01121](http://arxiv.org/abs/2501.01121)|null|
+|**2025-01-02**|**Incomplete Data Multi-Source Static Computed Tomography Reconstruction with Diffusion Priors and Implicit Neural Representation**|Ziju Shen et.al.|[2501.01013](http://arxiv.org/abs/2501.01013)|null|
+|**2025-01-01**|**The Silent Majority: Demystifying Memorization Effect in the Presence of Spurious Correlations**|Chenyu You et.al.|[2501.00961](http://arxiv.org/abs/2501.00961)|null|
+|**2025-01-01**|**Aligning LLMs with Domain Invariant Reward Models**|David Wu et.al.|[2501.00911](http://arxiv.org/abs/2501.00911)|null|
+|**2025-01-01**|**Evaluating Time Series Foundation Models on Noisy Periodic Time Series**|Syamantak Datta Gupta et.al.|[2501.00889](http://arxiv.org/abs/2501.00889)|null|
 |**2024-12-30**|**Quantum Error Correction near the Coding Theoretical Bound**|Daiki Komoto et.al.|[2412.21171](http://arxiv.org/abs/2412.21171)|null|
 |**2024-12-30**|**Investigating layer-selective transfer learning of QAOA parameters for Max-Cut problem**|Francesco Aldo Venturelli et.al.|[2412.21071](http://arxiv.org/abs/2412.21071)|null|
 |**2024-12-30**|**Considering experimental frame rates and robust segmentation analysis of piecewise-linear microparticle trajectories**|Keisha J. Cook et.al.|[2412.21025](http://arxiv.org/abs/2412.21025)|null|
