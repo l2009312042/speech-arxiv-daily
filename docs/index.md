@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-03**|**Quantum Error Correction Without Encoding via the Circulant Structure of Pauli Noise and the Fast Fourier Transform**|Alvin Gonzales et.al.|[2501.01953](http://arxiv.org/abs/2501.01953)|null|
+|**2025-01-03**|**Restoring Heisenberg-Limited Precision in Non-Markovian Open Quantum Systems via Dynamical Decoupling**|Bakmou Lahcen et.al.|[2501.01917](http://arxiv.org/abs/2501.01917)|null|
+|**2025-01-03**|**Signal Recovery Using a Spiked Mixture Model**|Paul-Louis Delacour et.al.|[2501.01840](http://arxiv.org/abs/2501.01840)|null|
+|**2025-01-03**|**Speeding up Lindblad dynamics via time-rescaling engineering**|Bertúlio de Lima Bernardo et.al.|[2501.01810](http://arxiv.org/abs/2501.01810)|null|
+|**2025-01-03**|**Universal Online Temporal Calibration for Optimization-based Visual-Inertial Navigation Systems**|Yunfei Fan et.al.|[2501.01788](http://arxiv.org/abs/2501.01788)|null|
+|**2025-01-03**|**Augmentation Matters: A Mix-Paste Method for X-Ray Prohibited Item Detection under Noisy Annotations**|Ruikang Chen et.al.|[2501.01733](http://arxiv.org/abs/2501.01733)|null|
+|**2025-01-03**|**Interpretable Face Anti-Spoofing: Enhancing Generalization with Multimodal Large Language Models**|Guosheng Zhang et.al.|[2501.01720](http://arxiv.org/abs/2501.01720)|null|
+|**2025-01-03**|**Robust Self-Paced Hashing for Cross-Modal Retrieval with Noisy Labels**|Ruitao Pu et.al.|[2501.01699](http://arxiv.org/abs/2501.01699)|null|
+|**2025-01-03**|**Noise-Mitigated Variational Quantum Eigensolver with Pre-training and Zero-Noise Extrapolation**|Wanqi Sun et.al.|[2501.01646](http://arxiv.org/abs/2501.01646)|null|
+|**2025-01-03**|**Whisphone: Whispering Input Earbuds**|Masaaki Fukumoto et.al.|[2501.01636](http://arxiv.org/abs/2501.01636)|null|
 |**2025-01-02**|**VoiceVector: Multimodal Enrolment Vectors for Speaker Separation**|Akam Rahimi et.al.|[2501.01401](http://arxiv.org/abs/2501.01401)|null|
 |**2025-01-03**|**Simultaneous Latent State Estimation and Latent Linear Dynamics Discovery from Image Observations**|Nikita Kostin et.al.|[2501.01339](http://arxiv.org/abs/2501.01339)|null|
 |**2025-01-02**|**Fast data inversion for high-dimensional dynamical systems from noisy measurements**|Yizi Lin et.al.|[2501.01324](http://arxiv.org/abs/2501.01324)|null|
