@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.05
+## Updated on 2025.01.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## KWS
@@ -15,7 +15,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-01-02**|**VoiceVector: Multimodal Enrolment Vectors for Speaker Separation**|Akam Rahimi et.al.|[2501.01401](http://arxiv.org/abs/2501.01401)|null|
-|**2025-01-02**|**Simultaneous Latent State Estimation and Latent Linear Dynamics Discovery from Image Observations**|Nikita Kostin et.al.|[2501.01339](http://arxiv.org/abs/2501.01339)|null|
+|**2025-01-03**|**Simultaneous Latent State Estimation and Latent Linear Dynamics Discovery from Image Observations**|Nikita Kostin et.al.|[2501.01339](http://arxiv.org/abs/2501.01339)|null|
 |**2025-01-02**|**Fast data inversion for high-dimensional dynamical systems from noisy measurements**|Yizi Lin et.al.|[2501.01324](http://arxiv.org/abs/2501.01324)|null|
 |**2025-01-02**|**Robot localization in a mapped environment using Adaptive Monte Carlo algorithm**|Sagarnil Das et.al.|[2501.01153](http://arxiv.org/abs/2501.01153)|null|
 |**2025-01-02**|**An Inclusive Theoretical Framework of Robust Supervised Contrastive Loss against Label Noise**|Jingyi Cui et.al.|[2501.01130](http://arxiv.org/abs/2501.01130)|null|
