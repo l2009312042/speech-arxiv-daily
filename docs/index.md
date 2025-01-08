@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-07**|**Performance of Practical Quantum Oblivious Key Distribution**|Mariano Lemus et.al.|[2501.03973](http://arxiv.org/abs/2501.03973)|null|
+|**2025-01-07**|**Some properties and applications of the new quantum $f$ -divergences**|Salman Beigi et.al.|[2501.03799](http://arxiv.org/abs/2501.03799)|null|
+|**2025-01-07**|**Continuation of an Optical Spectroscopic Campaign of Fermi Blazar Candidates with TNG: Discovery of a New Changing-Look Blazar**|N. Álvarez Crespo et.al.|[2501.03693](http://arxiv.org/abs/2501.03693)|null|
+|**2025-01-07**|**Extreme-temperature single-particle heat engine**|Molly Message et.al.|[2501.03677](http://arxiv.org/abs/2501.03677)|null|
+|**2025-01-07**|**AADNet: Exploring EEG Spatiotemporal Information for Fast and Accurate Orientation and Timbre Detection of Auditory Attention Based on A Cue-Masked Paradigm**|Keren Shi et.al.|[2501.03571](http://arxiv.org/abs/2501.03571)|null|
+|**2025-01-07**|**Vocal Tract Length Warped Features for Spoken Keyword Spotting**|Achintya kr. Sarkar et.al.|[2501.03523](http://arxiv.org/abs/2501.03523)|null|
+|**2025-01-07**|**Inductive Construction of Variational Quantum Circuit for Constrained Combinatorial Optimization**|Hyakka Nakada et.al.|[2501.03521](http://arxiv.org/abs/2501.03521)|null|
+|**2025-01-07**|**A generative approach for lensless imaging in low-light conditions**|Ziyang Liu et.al.|[2501.03511](http://arxiv.org/abs/2501.03511)|null|
+|**2025-01-06**|**A Self-supervised Diffusion Bridge for MRI Reconstruction**|Harry Gao et.al.|[2501.03430](http://arxiv.org/abs/2501.03430)|null|
+|**2025-01-06**|**Low-Order Flow Reconstruction and Uncertainty Quantification in Disturbed Aerodynamics Using Sparse Pressure Measurements**|Hanieh Mousavi et.al.|[2501.03406](http://arxiv.org/abs/2501.03406)|null|
 |**2025-01-07**|**LightGNN: Simple Graph Neural Network for Recommendation**|Guoxuan Chen et.al.|[2501.03228](http://arxiv.org/abs/2501.03228)|null|
 |**2025-01-06**|**Shots and variance on noisy quantum circuits**|Manav Seksaria et.al.|[2501.03194](http://arxiv.org/abs/2501.03194)|null|
 |**2025-01-06**|**Noise-Robust Target-Speaker Voice Activity Detection Through Self-Supervised Pretraining**|Holger Severin Bovbjerg et.al.|[2501.03184](http://arxiv.org/abs/2501.03184)|null|
