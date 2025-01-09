@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-08**|**Efficient Online Quantum Circuit Learning with No Upfront Training**|Tom O'Leary et.al.|[2501.04636](http://arxiv.org/abs/2501.04636)|null|
+|**2025-01-08**|**FatesGS: Fast and Accurate Sparse-View Surface Reconstruction using Gaussian Splatting with Depth-Feature Consistency**|Han Huang et.al.|[2501.04628](http://arxiv.org/abs/2501.04628)|null|
+|**2025-01-08**|**Rethinking High-speed Image Reconstruction Framework with Spike Camera**|Kang Chen et.al.|[2501.04477](http://arxiv.org/abs/2501.04477)|**[link](https://github.com/chenkang455/spikeclip)**|
+|**2025-01-08**|**Decoding EEG Speech Perception with Transformers and VAE-based Data Augmentation**|Terrance Yu-Hao Chen et.al.|[2501.04359](http://arxiv.org/abs/2501.04359)|null|
+|**2025-01-08**|**Inference of noise intensity and phase response from noisy synchronous oscillators**|Hisa-Aki Tanaka et.al.|[2501.04338](http://arxiv.org/abs/2501.04338)|null|
+|**2025-01-08**|**Open set label noise learning with robust sample selection and margin-guided module**|Yuandi Zhao et.al.|[2501.04269](http://arxiv.org/abs/2501.04269)|null|
+|**2025-01-07**|**Generation from Noisy Examples**|Ananth Raman et.al.|[2501.04179](http://arxiv.org/abs/2501.04179)|null|
+|**2025-01-07**|**Machine Learning for Identifying Grain Boundaries in Scanning Electron Microscopy (SEM) Images of Nanoparticle Superlattices**|Aanish Paruchuri et.al.|[2501.04172](http://arxiv.org/abs/2501.04172)|null|
+|**2025-01-07**|**A Bayesian Modeling Framework for Estimation and Ground Segmentation of Cluttered Staircases**|Prasanna Sriganesh et.al.|[2501.04170](http://arxiv.org/abs/2501.04170)|null|
+|**2025-01-07**|**Mixing Times and Privacy Analysis for the Projected Langevin Algorithm under a Modulus of Continuity**|Mario Bravo et.al.|[2501.04134](http://arxiv.org/abs/2501.04134)|null|
 |**2025-01-07**|**Performance of Practical Quantum Oblivious Key Distribution**|Mariano Lemus et.al.|[2501.03973](http://arxiv.org/abs/2501.03973)|null|
 |**2025-01-07**|**Some properties and applications of the new quantum $f$ -divergences**|Salman Beigi et.al.|[2501.03799](http://arxiv.org/abs/2501.03799)|null|
 |**2025-01-07**|**Continuation of an Optical Spectroscopic Campaign of Fermi Blazar Candidates with TNG: Discovery of a New Changing-Look Blazar**|N. Álvarez Crespo et.al.|[2501.03693](http://arxiv.org/abs/2501.03693)|null|
