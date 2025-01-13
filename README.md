@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-10**|**Nonlinear partial differential equations in neuroscience: from modelling to mathematical theory**|José A Carrillo et.al.|[2501.06015](http://arxiv.org/abs/2501.06015)|null|
+|**2025-01-10**|**Witnessing global memory effects of multiqubit correlated noisy channels by Hilbert-Schmidt speed**|Kobra Mahdavipour et.al.|[2501.05918](http://arxiv.org/abs/2501.05918)|null|
+|**2025-01-10**|**Q-MAML: Quantum Model-Agnostic Meta-Learning for Variational Quantum Algorithms**|Junyong Lee et.al.|[2501.05906](http://arxiv.org/abs/2501.05906)|null|
+|**2025-01-10**|**Satellite-based communication for phase-matching measurement-device-independent quantum key distribution**|Arindam Dutta et.al.|[2501.05829](http://arxiv.org/abs/2501.05829)|null|
+|**2025-01-10**|**AdaPRL: Adaptive Pairwise Regression Learning with Uncertainty Estimation for Universal Regression Tasks**|Fuhang Liang et.al.|[2501.05809](http://arxiv.org/abs/2501.05809)|null|
+|**2025-01-10**|**Understanding Impact of Human Feedback via Influence Functions**|Taywon Min et.al.|[2501.05790](http://arxiv.org/abs/2501.05790)|**[link](https://github.com/mintaywon/if_rlhf)**|
+|**2025-01-10**|**All-optical computing with beyond 100-GHz clock rates**|Gordon H. Y. Li et.al.|[2501.05756](http://arxiv.org/abs/2501.05756)|null|
+|**2025-01-10**|**Myths around quantum computation before full fault tolerance: What no-go theorems rule out and what they don't**|Zoltán Zimborás et.al.|[2501.05694](http://arxiv.org/abs/2501.05694)|null|
+|**2025-01-10**|**Diffusion-Enhanced Optimization of Variational Quantum Eigensolver for General Hamiltonians**|Shikun Zhang et.al.|[2501.05666](http://arxiv.org/abs/2501.05666)|null|
+|**2025-01-10**|**Constrained Over-the-Air Model Updating for Wireless Online Federated Learning with Delayed Information**|Juncheng Wang et.al.|[2501.05637](http://arxiv.org/abs/2501.05637)|null|
 |**2025-01-09**|**Entangled Mean Estimation in High-Dimensions**|Ilias Diakonikolas et.al.|[2501.05425](http://arxiv.org/abs/2501.05425)|null|
 |**2025-01-09**|**Private Selection with Heterogeneous Sensitivities**|Daniela Antonova et.al.|[2501.05309](http://arxiv.org/abs/2501.05309)|null|
 |**2025-01-10**|**ResPanDiff: Diffusion Model for Pansharpening by Inferring Residual Inference**|Shiqi Cao et.al.|[2501.05091](http://arxiv.org/abs/2501.05091)|null|
