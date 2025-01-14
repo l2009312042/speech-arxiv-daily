@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-13**|**Determining distances and consensus between mutation trees**|Luís Cunha et.al.|[2501.07529](http://arxiv.org/abs/2501.07529)|null|
+|**2025-01-13**|**Completing Sets of Prototype Transfer Functions for Subspace-based Direction of Arrival Estimation of Multiple Speakers**|Daniel Fejgin et.al.|[2501.07524](http://arxiv.org/abs/2501.07524)|null|
+|**2025-01-13**|**Inductive Learning of Robot Task Knowledge from Raw Data and Online Expert Feedback**|Daniele Meli et.al.|[2501.07507](http://arxiv.org/abs/2501.07507)|**[link](https://github.com/danm11694/ilasp_robotics)**|
+|**2025-01-13**|**Online inductive learning from answer sets for efficient reinforcement learning exploration**|Celeste Veronese et.al.|[2501.07445](http://arxiv.org/abs/2501.07445)|null|
+|**2025-01-13**|**Efficient Quantum Circuit Compilation for Near-Term Quantum Advantage**|Yuchen Guo et.al.|[2501.07387](http://arxiv.org/abs/2501.07387)|null|
+|**2025-01-13**|**Adaptive Noise-Tolerant Network for Image Segmentation**|Weizhi Li et.al.|[2501.07163](http://arxiv.org/abs/2501.07163)|null|
+|**2025-01-13**|**PPO-Q: Proximal Policy Optimization with Parametrized Quantum Policies or Values**|Yu-Xin Jin et.al.|[2501.07085](http://arxiv.org/abs/2501.07085)|null|
+|**2025-01-13**|**Label Calibration in Source Free Domain Adaptation**|Shivangi Rai et.al.|[2501.07072](http://arxiv.org/abs/2501.07072)|null|
+|**2025-01-12**|**Monotone Curve Estimation via Convex Duality**|Tongseok Lim et.al.|[2501.06975](http://arxiv.org/abs/2501.06975)|null|
+|**2025-01-12**|**Shake-VLA: Vision-Language-Action Model-Based System for Bimanual Robotic Manipulations and Liquid Mixing**|Muhamamd Haris Khan et.al.|[2501.06919](http://arxiv.org/abs/2501.06919)|null|
 |**2025-01-10**|**Nonlinear partial differential equations in neuroscience: from modelling to mathematical theory**|José A Carrillo et.al.|[2501.06015](http://arxiv.org/abs/2501.06015)|null|
 |**2025-01-10**|**Witnessing global memory effects of multiqubit correlated noisy channels by Hilbert-Schmidt speed**|Kobra Mahdavipour et.al.|[2501.05918](http://arxiv.org/abs/2501.05918)|null|
 |**2025-01-10**|**Q-MAML: Quantum Model-Agnostic Meta-Learning for Variational Quantum Algorithms**|Junyong Lee et.al.|[2501.05906](http://arxiv.org/abs/2501.05906)|null|
