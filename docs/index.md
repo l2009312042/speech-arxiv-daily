@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-14**|**Exploring Robustness of Multilingual LLMs on Real-World Noisy Data**|Amirhossein Aliakbarzadeh et.al.|[2501.08322](http://arxiv.org/abs/2501.08322)|**[link](https://github.com/caisa-lab/llms-real-world-noise-robustness)**|
+|**2025-01-14**|**COMBO and COMMA: R packages for regression modeling and inference in the presence of misclassified binary mediator or outcome variables**|Kimberly A. Hochstedler Webb et.al.|[2501.08320](http://arxiv.org/abs/2501.08320)|null|
+|**2025-01-14**|**AfriHate: A Multilingual Collection of Hate Speech and Abusive Language Datasets for African Languages**|Shamsuddeen Hassan Muhammad et.al.|[2501.08284](http://arxiv.org/abs/2501.08284)|null|
+|**2025-01-14**|**Modeling Feature Maps for Quantum Machine Learning**|Navneet Singh et.al.|[2501.08205](http://arxiv.org/abs/2501.08205)|null|
+|**2025-01-14**|**ArithmAttack: Evaluating Robustness of LLMs to Noisy Context in Math Problem Solving**|Zain Ul Abedin et.al.|[2501.08203](http://arxiv.org/abs/2501.08203)|null|
+|**2025-01-14**|**D $^2$ -DPM: Dual Denoising for Quantized Diffusion Probabilistic Models**|Qian Zeng et.al.|[2501.08180](http://arxiv.org/abs/2501.08180)|**[link](https://github.com/taylorjocelyn/d2-dpm)**|
+|**2025-01-14**|**Optical information encryption using general temporal ghost imaging with practical experimental condition**|Juan Wu et.al.|[2501.08136](http://arxiv.org/abs/2501.08136)|null|
+|**2025-01-14**|**Noise-resistant adaptive Hamiltonian learning**|Wenxuan Wang et.al.|[2501.08017](http://arxiv.org/abs/2501.08017)|null|
+|**2025-01-14**|**QGHNN: A quantum graph Hamiltonian neural network**|Wenxuan Wang et.al.|[2501.07986](http://arxiv.org/abs/2501.07986)|null|
+|**2025-01-14**|**Quantum Direct Steganography Scheme Based on Modified Generator Projection Directions of Steane Code over a Single-Type Pauli Channel**|Chaolong Hao et.al.|[2501.07578](http://arxiv.org/abs/2501.07578)|null|
 |**2025-01-13**|**Determining distances and consensus between mutation trees**|Luís Cunha et.al.|[2501.07529](http://arxiv.org/abs/2501.07529)|null|
 |**2025-01-13**|**Completing Sets of Prototype Transfer Functions for Subspace-based Direction of Arrival Estimation of Multiple Speakers**|Daniel Fejgin et.al.|[2501.07524](http://arxiv.org/abs/2501.07524)|null|
 |**2025-01-13**|**Inductive Learning of Robot Task Knowledge from Raw Data and Online Expert Feedback**|Daniele Meli et.al.|[2501.07507](http://arxiv.org/abs/2501.07507)|**[link](https://github.com/danm11694/ilasp_robotics)**|
