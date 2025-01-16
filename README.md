@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.15
+## Updated on 2025.01.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -19,7 +19,7 @@
 |---|---|---|---|---|
 |**2025-01-14**|**Exploring Robustness of Multilingual LLMs on Real-World Noisy Data**|Amirhossein Aliakbarzadeh et.al.|[2501.08322](http://arxiv.org/abs/2501.08322)|**[link](https://github.com/caisa-lab/llms-real-world-noise-robustness)**|
 |**2025-01-14**|**COMBO and COMMA: R packages for regression modeling and inference in the presence of misclassified binary mediator or outcome variables**|Kimberly A. Hochstedler Webb et.al.|[2501.08320](http://arxiv.org/abs/2501.08320)|null|
-|**2025-01-14**|**AfriHate: A Multilingual Collection of Hate Speech and Abusive Language Datasets for African Languages**|Shamsuddeen Hassan Muhammad et.al.|[2501.08284](http://arxiv.org/abs/2501.08284)|null|
+|**2025-01-15**|**AfriHate: A Multilingual Collection of Hate Speech and Abusive Language Datasets for African Languages**|Shamsuddeen Hassan Muhammad et.al.|[2501.08284](http://arxiv.org/abs/2501.08284)|null|
 |**2025-01-14**|**Modeling Feature Maps for Quantum Machine Learning**|Navneet Singh et.al.|[2501.08205](http://arxiv.org/abs/2501.08205)|null|
 |**2025-01-14**|**ArithmAttack: Evaluating Robustness of LLMs to Noisy Context in Math Problem Solving**|Zain Ul Abedin et.al.|[2501.08203](http://arxiv.org/abs/2501.08203)|null|
 |**2025-01-14**|**D $^2$ -DPM: Dual Denoising for Quantized Diffusion Probabilistic Models**|Qian Zeng et.al.|[2501.08180](http://arxiv.org/abs/2501.08180)|**[link](https://github.com/taylorjocelyn/d2-dpm)**|
@@ -1354,7 +1354,7 @@
 |**2024-05-03**|**A Class of Numerical Semigroups Defined by Kunz and Waldi**|Srishti Singh et.al.|[2405.00331](http://arxiv.org/abs/2405.00331)|null|
 |**2024-04-26**|**Machine Learning based prediction of Vanadium Redox Flow Battery temperature rise under different charge-discharge conditions**|Anirudh Narayan D et.al.|[2404.17284](http://arxiv.org/abs/2404.17284)|null|
 
-<p align=right>(<a href=#updated-on-20250115>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250116>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

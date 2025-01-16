@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.15
+## Updated on 2025.01.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## KWS
@@ -16,7 +16,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-01-14**|**Exploring Robustness of Multilingual LLMs on Real-World Noisy Data**|Amirhossein Aliakbarzadeh et.al.|[2501.08322](http://arxiv.org/abs/2501.08322)|**[link](https://github.com/caisa-lab/llms-real-world-noise-robustness)**|
 |**2025-01-14**|**COMBO and COMMA: R packages for regression modeling and inference in the presence of misclassified binary mediator or outcome variables**|Kimberly A. Hochstedler Webb et.al.|[2501.08320](http://arxiv.org/abs/2501.08320)|null|
-|**2025-01-14**|**AfriHate: A Multilingual Collection of Hate Speech and Abusive Language Datasets for African Languages**|Shamsuddeen Hassan Muhammad et.al.|[2501.08284](http://arxiv.org/abs/2501.08284)|null|
+|**2025-01-15**|**AfriHate: A Multilingual Collection of Hate Speech and Abusive Language Datasets for African Languages**|Shamsuddeen Hassan Muhammad et.al.|[2501.08284](http://arxiv.org/abs/2501.08284)|null|
 |**2025-01-14**|**Modeling Feature Maps for Quantum Machine Learning**|Navneet Singh et.al.|[2501.08205](http://arxiv.org/abs/2501.08205)|null|
 |**2025-01-14**|**ArithmAttack: Evaluating Robustness of LLMs to Noisy Context in Math Problem Solving**|Zain Ul Abedin et.al.|[2501.08203](http://arxiv.org/abs/2501.08203)|null|
 |**2025-01-14**|**D $^2$ -DPM: Dual Denoising for Quantized Diffusion Probabilistic Models**|Qian Zeng et.al.|[2501.08180](http://arxiv.org/abs/2501.08180)|**[link](https://github.com/taylorjocelyn/d2-dpm)**|
