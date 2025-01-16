@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-15**|**VECT-GAN: A variationally encoded generative model for overcoming data scarcity in pharmaceutical science**|Youssef Abdalla et.al.|[2501.08995](http://arxiv.org/abs/2501.08995)|**[link](https://github.com/y-babdalla/vect_gan)**|
+|**2025-01-15**|**Degradedness Under Cooperation**|Yossef Steinberg et.al.|[2501.08987](http://arxiv.org/abs/2501.08987)|null|
+|**2025-01-15**|**CityLoc: 6 DoF Localization of Text Descriptions in Large-Scale Scenes with Gaussian Representation**|Qi Ma et.al.|[2501.08982](http://arxiv.org/abs/2501.08982)|null|
+|**2025-01-15**|**Experimental distributed quantum sensing in a noisy environment**|James Bate et.al.|[2501.08940](http://arxiv.org/abs/2501.08940)|null|
+|**2025-01-15**|**Convergence Analysis of Levenberg-Marquardt Method for Inverse Problem with Hölder Stability Estimate**|Akari Ishida et.al.|[2501.08932](http://arxiv.org/abs/2501.08932)|null|
+|**2025-01-15**|**Enhanced Multi-Scale Cross-Attention for Person Image Generation**|Hao Tang et.al.|[2501.08900](http://arxiv.org/abs/2501.08900)|null|
+|**2025-01-15**|**Securities Transaction Settlement Optimization on superconducting quantum devices**|Francesco Martini et.al.|[2501.08794](http://arxiv.org/abs/2501.08794)|null|
+|**2025-01-15**|**Watermarking in Diffusion Model: Gaussian Shading with Exact Diffusion Inversion via Coupled Transformations (EDICT)**|Krishna Panthi et.al.|[2501.08604](http://arxiv.org/abs/2501.08604)|null|
+|**2025-01-15**|**Score-based 3D molecule generation with neural fields**|Matthieu Kirchmeyer et.al.|[2501.08508](http://arxiv.org/abs/2501.08508)|**[link](https://github.com/prescient-design/funcmol)**|
+|**2025-01-14**|**A Political Spectrograph: High-Resolution Examinations of the United States' Ideological Landscape**|David Sabin-Miller et.al.|[2501.08433](http://arxiv.org/abs/2501.08433)|null|
 |**2025-01-14**|**Exploring Robustness of Multilingual LLMs on Real-World Noisy Data**|Amirhossein Aliakbarzadeh et.al.|[2501.08322](http://arxiv.org/abs/2501.08322)|**[link](https://github.com/caisa-lab/llms-real-world-noise-robustness)**|
 |**2025-01-14**|**COMBO and COMMA: R packages for regression modeling and inference in the presence of misclassified binary mediator or outcome variables**|Kimberly A. Hochstedler Webb et.al.|[2501.08320](http://arxiv.org/abs/2501.08320)|null|
 |**2025-01-15**|**AfriHate: A Multilingual Collection of Hate Speech and Abusive Language Datasets for African Languages**|Shamsuddeen Hassan Muhammad et.al.|[2501.08284](http://arxiv.org/abs/2501.08284)|null|
