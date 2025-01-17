@@ -14,6 +14,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-16**|**ARMAX identification of low rank graphical models**|Wenqi Cao et.al.|[2501.09616](http://arxiv.org/abs/2501.09616)|null|
+|**2025-01-16**|**Comprehensive Survey of QML: From Data Analysis to Algorithmic Advancements**|Sahil Tomar et.al.|[2501.09528](http://arxiv.org/abs/2501.09528)|null|
+|**2025-01-16**|**Quantum-Enhanced Transformers for Robust Acoustic Scene Classification in IoT Environments**|Minh K. Quan et.al.|[2501.09394](http://arxiv.org/abs/2501.09394)|null|
+|**2025-01-16**|**Definition and data-driven reconstruction of asymptotic phase and amplitudes of stochastic oscillators via Koopman operator theory**|Shohei Takata et.al.|[2501.09340](http://arxiv.org/abs/2501.09340)|null|
+|**2025-01-16**|**Pretty-good simulation of all quantum measurements by projective measurements**|Michał Kotowski et.al.|[2501.09339](http://arxiv.org/abs/2501.09339)|null|
+|**2025-01-16**|**Text-guided Synthetic Geometric Augmentation for Zero-shot 3D Understanding**|Kohei Torimi et.al.|[2501.09278](http://arxiv.org/abs/2501.09278)|null|
+|**2025-01-16**|**On the convergence of noisy Bayesian Optimization with Expected Improvement**|Jingyi Wang et.al.|[2501.09262](http://arxiv.org/abs/2501.09262)|null|
+|**2025-01-15**|**Similarity-Quantized Relative Difference Learning for Improved Molecular Activity Prediction**|Karina Zadorozhny et.al.|[2501.09103](http://arxiv.org/abs/2501.09103)|null|
+|**2025-01-15**|**SeQUeNCe GUI: An Extensible User Interface for Discrete Event Quantum Network Simulations**|Alexander Kiefer et.al.|[2501.09100](http://arxiv.org/abs/2501.09100)|null|
 |**2025-01-15**|**VECT-GAN: A variationally encoded generative model for overcoming data scarcity in pharmaceutical science**|Youssef Abdalla et.al.|[2501.08995](http://arxiv.org/abs/2501.08995)|**[link](https://github.com/y-babdalla/vect_gan)**|
 |**2025-01-15**|**Degradedness Under Cooperation**|Yossef Steinberg et.al.|[2501.08987](http://arxiv.org/abs/2501.08987)|null|
 |**2025-01-15**|**CityLoc: 6 DoF Localization of Text Descriptions in Large-Scale Scenes with Gaussian Representation**|Qi Ma et.al.|[2501.08982](http://arxiv.org/abs/2501.08982)|null|
