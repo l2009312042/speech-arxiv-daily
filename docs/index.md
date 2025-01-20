@@ -14,6 +14,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-17**|**SEANN: A Domain-Informed Neural Network for Epidemiological Insights**|Jean-Baptiste Guimbaud et.al.|[2501.10273](http://arxiv.org/abs/2501.10273)|null|
+|**2025-01-17**|**Optimal multicore quantum computing with few interconnects**|J. Montes et.al.|[2501.10247](http://arxiv.org/abs/2501.10247)|null|
+|**2025-01-17**|**Actively Coupled Sensor Configuration and Planning in Unknown Dynamic Environments**|Prakash Poudel et.al.|[2501.10236](http://arxiv.org/abs/2501.10236)|null|
+|**2025-01-17**|**Conditional Latent Diffusion-Based Speech Enhancement Via Dual Context Learning**|Shengkui Zhao et.al.|[2501.10052](http://arxiv.org/abs/2501.10052)|null|
+|**2025-01-17**|**DiffuEraser: A Diffusion Model for Video Inpainting**|Xiaowen Li et.al.|[2501.10018](http://arxiv.org/abs/2501.10018)|null|
+|**2025-01-17**|**Adaptive Spatiotemporal Augmentation for Improving Dynamic Graph Learning**|Xu Chu et.al.|[2501.10010](http://arxiv.org/abs/2501.10010)|**[link](https://github.com/colinneverland/staa)**|
+|**2025-01-16**|**Learning Noisy Halfspaces with a Margin: Massart is No Harder than Random**|Gautam Chandrasekaran et.al.|[2501.09851](http://arxiv.org/abs/2501.09851)|null|
 |**2025-01-16**|**ARMAX identification of low rank graphical models**|Wenqi Cao et.al.|[2501.09616](http://arxiv.org/abs/2501.09616)|null|
 |**2025-01-16**|**Comprehensive Survey of QML: From Data Analysis to Algorithmic Advancements**|Sahil Tomar et.al.|[2501.09528](http://arxiv.org/abs/2501.09528)|null|
 |**2025-01-16**|**Quantum-Enhanced Transformers for Robust Acoustic Scene Classification in IoT Environments**|Minh K. Quan et.al.|[2501.09394](http://arxiv.org/abs/2501.09394)|null|
