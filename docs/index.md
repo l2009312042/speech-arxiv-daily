@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-21**|**InternLM-XComposer2.5-Reward: A Simple Yet Effective Multi-Modal Reward Model**|Yuhang Zang et.al.|[2501.12368](http://arxiv.org/abs/2501.12368)|**[link](https://github.com/internlm/internlm-xcomposer)**|
+|**2025-01-21**|**A neural network approach for line detection in complex atomic emission spectra measured by high-resolution Fourier transform spectroscopy**|M. Ding et.al.|[2501.12276](http://arxiv.org/abs/2501.12276)|null|
+|**2025-01-21**|**Multi-terminal Strong Coordination over Noisy Channels with Encoder Cooperation**|Viswanathan Ramachandran et.al.|[2501.12227](http://arxiv.org/abs/2501.12227)|null|
+|**2025-01-21**|**A note on the sample complexity of multi-target detection**|Amnon Balanov et.al.|[2501.11980](http://arxiv.org/abs/2501.11980)|null|
+|**2025-01-21**|**"FRAME: Forward Recursive Adaptive Model Extraction -- A Technique for Advance Feature Selection"**|Nachiket Kapure et.al.|[2501.11972](http://arxiv.org/abs/2501.11972)|null|
+|**2025-01-21**|**SMamba: Sparse Mamba for Event-based Object Detection**|Nan Yang et.al.|[2501.11971](http://arxiv.org/abs/2501.11971)|null|
+|**2025-01-21**|**Noise-Resilient Point-wise Anomaly Detection in Time Series Using Weak Segment Labels**|Yaxuan Wang et.al.|[2501.11959](http://arxiv.org/abs/2501.11959)|**[link](https://github.com/ucsc-real/nrdetector)**|
+|**2025-01-21**|**An Improved Lower Bound on Oblivious Transfer Capacity Using Polarization and Interaction**|So Suda et.al.|[2501.11883](http://arxiv.org/abs/2501.11883)|null|
+|**2025-01-20**|**Noise-Agnostic Multitask Whisper Training for Reducing False Alarm Errors in Call-for-Help Detection**|Myeonghoon Ryu et.al.|[2501.11631](http://arxiv.org/abs/2501.11631)|null|
+|**2025-01-20**|**GCSAM: Gradient Centralized Sharpness Aware Minimization**|Mohamed Hassan et.al.|[2501.11584](http://arxiv.org/abs/2501.11584)|null|
 |**2025-01-17**|**SEANN: A Domain-Informed Neural Network for Epidemiological Insights**|Jean-Baptiste Guimbaud et.al.|[2501.10273](http://arxiv.org/abs/2501.10273)|null|
 |**2025-01-17**|**Optimal multicore quantum computing with few interconnects**|J. Montes et.al.|[2501.10247](http://arxiv.org/abs/2501.10247)|null|
 |**2025-01-17**|**Actively Coupled Sensor Configuration and Planning in Unknown Dynamic Environments**|Prakash Poudel et.al.|[2501.10236](http://arxiv.org/abs/2501.10236)|null|
