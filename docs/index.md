@@ -14,6 +14,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-22**|**Simulating quantum circuits with arbitrary local noise using Pauli Propagation**|Armando Angrisani et.al.|[2501.13101](http://arxiv.org/abs/2501.13101)|null|
+|**2025-01-22**|**Attention-Driven Hierarchical Reinforcement Learning with Particle Filtering for Source Localization in Dynamic Fields**|Yiwei Shi et.al.|[2501.13084](http://arxiv.org/abs/2501.13084)|null|
+|**2025-01-22**|**TimeFilter: Patch-Specific Spatial-Temporal Graph Filtration for Time Series Forecasting**|Yifan Hu et.al.|[2501.13041](http://arxiv.org/abs/2501.13041)|**[link](https://github.com/troubadour000/timefilter)**|
+|**2025-01-22**|**FindPOTATOs: Minor Planet Observation Linking Software**|C. R. Nugent et.al.|[2501.12922](http://arxiv.org/abs/2501.12922)|null|
+|**2025-01-22**|**A topology optimisation framework to design test specimens for one-shot identification or discovery of material models**|Saeid Ghouli et.al.|[2501.12756](http://arxiv.org/abs/2501.12756)|null|
+|**2025-01-22**|**Estimating the Conformal Prediction Threshold from Noisy Labels**|Coby Penso et.al.|[2501.12749](http://arxiv.org/abs/2501.12749)|**[link](https://github.com/cobypenso/noise-aware-conformal-prediction)**|
+|**2025-01-22**|**Multiscale Training of Convolutional Neural Networks**|Niloufar Zakariaei et.al.|[2501.12739](http://arxiv.org/abs/2501.12739)|null|
+|**2025-01-22**|**Stability and Generalization of Quantum Neural Networks**|Jiaqi Yang et.al.|[2501.12737](http://arxiv.org/abs/2501.12737)|null|
+|**2025-01-21**|**QuSplit: Achieving Both High Fidelity and Throughput via Job Splitting on Noisy Quantum Computers**|Jinyang Li et.al.|[2501.12492](http://arxiv.org/abs/2501.12492)|null|
 |**2025-01-21**|**InternLM-XComposer2.5-Reward: A Simple Yet Effective Multi-Modal Reward Model**|Yuhang Zang et.al.|[2501.12368](http://arxiv.org/abs/2501.12368)|**[link](https://github.com/internlm/internlm-xcomposer)**|
 |**2025-01-21**|**A neural network approach for line detection in complex atomic emission spectra measured by high-resolution Fourier transform spectroscopy**|M. Ding et.al.|[2501.12276](http://arxiv.org/abs/2501.12276)|null|
 |**2025-01-21**|**Multi-terminal Strong Coordination over Noisy Channels with Encoder Cooperation**|Viswanathan Ramachandran et.al.|[2501.12227](http://arxiv.org/abs/2501.12227)|null|
