@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-23**|**Improving Video Generation with Human Feedback**|Jie Liu et.al.|[2501.13918](http://arxiv.org/abs/2501.13918)|null|
+|**2025-01-23**|**Safety in safe Bayesian optimization and its ramifications for control**|Christian Fiedler et.al.|[2501.13697](http://arxiv.org/abs/2501.13697)|null|
+|**2025-01-23**|**Nonasymptotic Oblivious Relaying and Variable-Length Noisy Lossy Source Coding**|Yanxiao Liu et.al.|[2501.13582](http://arxiv.org/abs/2501.13582)|null|
+|**2025-01-23**|**Propensity-driven Uncertainty Learning for Sample Exploration in Source-Free Active Domain Adaptation**|Zicheng Pan et.al.|[2501.13517](http://arxiv.org/abs/2501.13517)|null|
+|**2025-01-23**|**Adaptive Few-Shot Learning (AFSL): Tackling Data Scarcity with Stability, Robustness, and Versatility**|Rishabh Agrawal et.al.|[2501.13479](http://arxiv.org/abs/2501.13479)|null|
+|**2025-01-23**|**Quantum computational advantage of noisy boson sampling with partially distinguishable photons**|Byeongseon Go et.al.|[2501.13433](http://arxiv.org/abs/2501.13433)|null|
+|**2025-01-23**|**AEON: Adaptive Estimation of Instance-Dependent In-Distribution and Out-of-Distribution Label Noise for Robust Learning**|Arpit Garg et.al.|[2501.13389](http://arxiv.org/abs/2501.13389)|null|
+|**2025-01-23**|**Bridging The Multi-Modality Gaps of Audio, Visual and Linguistic for Speech Enhancement**|Meng-Ping Lin et.al.|[2501.13375](http://arxiv.org/abs/2501.13375)|null|
+|**2025-01-23**|**MSF: Efficient Diffusion Model Via Multi-Scale Latent Factorize**|Haohang Xu et.al.|[2501.13349](http://arxiv.org/abs/2501.13349)|null|
+|**2025-01-23**|**Signal-to-noise ratio aware minimax analysis of sparse linear regression**|Shubhangi Ghosh et.al.|[2501.13323](http://arxiv.org/abs/2501.13323)|null|
 |**2025-01-22**|**Simulating quantum circuits with arbitrary local noise using Pauli Propagation**|Armando Angrisani et.al.|[2501.13101](http://arxiv.org/abs/2501.13101)|null|
 |**2025-01-22**|**Attention-Driven Hierarchical Reinforcement Learning with Particle Filtering for Source Localization in Dynamic Fields**|Yiwei Shi et.al.|[2501.13084](http://arxiv.org/abs/2501.13084)|null|
 |**2025-01-22**|**TimeFilter: Patch-Specific Spatial-Temporal Graph Filtration for Time Series Forecasting**|Yifan Hu et.al.|[2501.13041](http://arxiv.org/abs/2501.13041)|**[link](https://github.com/troubadour000/timefilter)**|
