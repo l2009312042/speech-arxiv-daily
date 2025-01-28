@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-27**|**The Effect of Optimal Self-Distillation in Noisy Gaussian Mixture Model**|Kaito Takanami et.al.|[2501.16226](http://arxiv.org/abs/2501.16226)|null|
+|**2025-01-27**|**SPECIAL: Zero-shot Hyperspectral Image Classification With CLIP**|Li Pang et.al.|[2501.16222](http://arxiv.org/abs/2501.16222)|**[link](https://github.com/lipang/special)**|
+|**2025-01-27**|**Non-ergodicity for the noisy majority vote process on trees**|Jian Ding et.al.|[2501.16202](http://arxiv.org/abs/2501.16202)|null|
+|**2025-01-27**|**Eigenstate solutions of the Fermi-Hubbard model via symmetry-enhanced variational quantum eigensolver**|Shaohui Yao et.al.|[2501.15903](http://arxiv.org/abs/2501.15903)|null|
+|**2025-01-27**|**No-Go Theorem for Generic Simulation of Qubit Channels with Finite Classical Resources**|Sahil Gopalkrishna Naik et.al.|[2501.15807](http://arxiv.org/abs/2501.15807)|null|
+|**2025-01-27**|**Memorization and Regularization in Generative Diffusion Models**|Ricardo Baptista et.al.|[2501.15785](http://arxiv.org/abs/2501.15785)|null|
+|**2025-01-27**|**Enhancement of sensitivity near exceptional points in dissipative qubit-resonator systems**|Pei-Rong Han et.al.|[2501.15769](http://arxiv.org/abs/2501.15769)|null|
+|**2025-01-26**|**Rate Distortion Approach to Joint Communication and Sensing With Markov States: Open Loop Case**|Colton P. Lindstrom et.al.|[2501.15652](http://arxiv.org/abs/2501.15652)|null|
+|**2025-01-26**|**Cross-Cultural Fashion Design via Interactive Large Language Models and Diffusion Models**|Spencer Ramsey et.al.|[2501.15571](http://arxiv.org/abs/2501.15571)|null|
+|**2025-01-26**|**Distributionally Robust Graph Out-of-Distribution Recommendation via Diffusion Model**|Chu Zhao et.al.|[2501.15555](http://arxiv.org/abs/2501.15555)|null|
 |**2025-01-24**|**Enhanced Confocal Laser Scanning Microscopy with Adaptive Physics Informed Deep Autoencoders**|Zaheer Ahmad et.al.|[2501.14709](http://arxiv.org/abs/2501.14709)|null|
 |**2025-01-24**|**Stroke classification using Virtual Hybrid Edge Detection from in silico electrical impedance tomography data**|Juan Pablo Agnelli et.al.|[2501.14704](http://arxiv.org/abs/2501.14704)|null|
 |**2025-01-24**|**Neural-Symbolic Message Passing with Dynamic Pruning**|Chongzhi Zhang et.al.|[2501.14661](http://arxiv.org/abs/2501.14661)|null|
