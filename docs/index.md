@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.28
+## Updated on 2025.01.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## KWS
@@ -15,7 +15,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-01-27**|**The Effect of Optimal Self-Distillation in Noisy Gaussian Mixture Model**|Kaito Takanami et.al.|[2501.16226](http://arxiv.org/abs/2501.16226)|null|
-|**2025-01-27**|**SPECIAL: Zero-shot Hyperspectral Image Classification With CLIP**|Li Pang et.al.|[2501.16222](http://arxiv.org/abs/2501.16222)|**[link](https://github.com/lipang/special)**|
+|**2025-01-28**|**SPECIAL: Zero-shot Hyperspectral Image Classification With CLIP**|Li Pang et.al.|[2501.16222](http://arxiv.org/abs/2501.16222)|**[link](https://github.com/lipang/special)**|
 |**2025-01-27**|**Non-ergodicity for the noisy majority vote process on trees**|Jian Ding et.al.|[2501.16202](http://arxiv.org/abs/2501.16202)|null|
 |**2025-01-27**|**Eigenstate solutions of the Fermi-Hubbard model via symmetry-enhanced variational quantum eigensolver**|Shaohui Yao et.al.|[2501.15903](http://arxiv.org/abs/2501.15903)|null|
 |**2025-01-27**|**No-Go Theorem for Generic Simulation of Qubit Channels with Finite Classical Resources**|Sahil Gopalkrishna Naik et.al.|[2501.15807](http://arxiv.org/abs/2501.15807)|null|
