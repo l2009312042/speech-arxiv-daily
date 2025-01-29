@@ -17,6 +17,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-28**|**DINOSTAR: Deep Iterative Neural Object Detector Self-Supervised Training for Roadside LiDAR Applications**|Muhammad Shahbaz et.al.|[2501.17076](http://arxiv.org/abs/2501.17076)|null|
+|**2025-01-28**|**On Oblivious Transfer Capacity of Noisy Multiple Access Channel**|Hadi Aghaee et.al.|[2501.17021](http://arxiv.org/abs/2501.17021)|null|
+|**2025-01-28**|**Artificial Intelligence Clones**|Annie Liang et.al.|[2501.16996](http://arxiv.org/abs/2501.16996)|null|
+|**2025-01-28**|**Designing Minimalistic Variational Quantum Ansatz Inspired by Algorithmic Cooling**|Soyoung Shin et.al.|[2501.16776](http://arxiv.org/abs/2501.16776)|null|
+|**2025-01-28**|**CosyAudio: Improving Audio Generation with Confidence Scores and Synthetic Captions**|Xinfa Zhu et.al.|[2501.16761](http://arxiv.org/abs/2501.16761)|null|
+|**2025-01-28**|**Unsupervised Domain Adaptation with Dynamic Clustering and Contrastive Refinement for Gait Recognition**|Xiaolei Liu et.al.|[2501.16608](http://arxiv.org/abs/2501.16608)|null|
+|**2025-01-28**|**Ultrafast neuromorphic computing with nanophotonic optical parametric oscillators**|Midya Parto et.al.|[2501.16604](http://arxiv.org/abs/2501.16604)|null|
+|**2025-01-27**|**Reinforcement Learning for Quantum Circuit Design: Using Matrix Representations**|Zhiyuan Wang et.al.|[2501.16509](http://arxiv.org/abs/2501.16509)|null|
 |**2025-01-27**|**The Effect of Optimal Self-Distillation in Noisy Gaussian Mixture Model**|Kaito Takanami et.al.|[2501.16226](http://arxiv.org/abs/2501.16226)|null|
 |**2025-01-28**|**SPECIAL: Zero-shot Hyperspectral Image Classification With CLIP**|Li Pang et.al.|[2501.16222](http://arxiv.org/abs/2501.16222)|**[link](https://github.com/lipang/special)**|
 |**2025-01-27**|**Non-ergodicity for the noisy majority vote process on trees**|Jian Ding et.al.|[2501.16202](http://arxiv.org/abs/2501.16202)|null|
