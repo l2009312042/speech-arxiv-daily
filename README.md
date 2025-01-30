@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-29**|**Dialogue is Better Than Monologue: Instructing Medical LLMs via Strategical Conversations**|Zijie Liu et.al.|[2501.17860](http://arxiv.org/abs/2501.17860)|null|
+|**2025-01-29**|**Privacy Audit as Bits Transmission: (Im)possibilities for Audit by One Run**|Zihang Xiang et.al.|[2501.17750](http://arxiv.org/abs/2501.17750)|null|
+|**2025-01-29**|**Critique Fine-Tuning: Learning to Critique is More Effective than Learning to Imitate**|Yubo Wang et.al.|[2501.17703](http://arxiv.org/abs/2501.17703)|null|
+|**2025-01-29**|**Fidelity-Enhanced Variational Quantum Optimal Control**|Robert de Keijzer et.al.|[2501.17692](http://arxiv.org/abs/2501.17692)|null|
+|**2025-01-29**|**Machine-Learning-Enhanced Optimization of Noise-Resilient Variational Quantum Eigensolvers**|Kim A. Nicoli et.al.|[2501.17689](http://arxiv.org/abs/2501.17689)|null|
+|**2025-01-29**|**CAMP in the Odyssey: Provably Robust Reinforcement Learning with Certified Radius Maximization**|Derui Wang et.al.|[2501.17667](http://arxiv.org/abs/2501.17667)|**[link](https://github.com/neuralsec/camp-robust-rl)**|
+|**2025-01-29**|**Dual Invariance Self-training for Reliable Semi-supervised Surgical Phase Recognition**|Sahar Nasirihaghighi et.al.|[2501.17628](http://arxiv.org/abs/2501.17628)|**[link](https://github.com/sahar-nasiri/dist)**|
+|**2025-01-29**|**Neural Networks for the Analysis of Traced Particles in Kinetic Plasma Simulations**|Gabriel Torralba Paz et.al.|[2501.17537](http://arxiv.org/abs/2501.17537)|null|
+|**2025-01-29**|**Entanglement-informed Construction of Variational Quantum Circuits**|Alina Joch et.al.|[2501.17533](http://arxiv.org/abs/2501.17533)|null|
+|**2025-01-29**|**A Sampling Complexity-aware Framework for Discrete-time Fractional-Order Dynamical System Identification**|Xiaole Zhang et.al.|[2501.17499](http://arxiv.org/abs/2501.17499)|null|
 |**2025-01-28**|**DINOSTAR: Deep Iterative Neural Object Detector Self-Supervised Training for Roadside LiDAR Applications**|Muhammad Shahbaz et.al.|[2501.17076](http://arxiv.org/abs/2501.17076)|null|
 |**2025-01-28**|**On Oblivious Transfer Capacity of Noisy Multiple Access Channel**|Hadi Aghaee et.al.|[2501.17021](http://arxiv.org/abs/2501.17021)|null|
 |**2025-01-28**|**Artificial Intelligence Clones**|Annie Liang et.al.|[2501.16996](http://arxiv.org/abs/2501.16996)|null|
