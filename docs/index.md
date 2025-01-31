@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-30**|**Enhancing Quantum Expectation Values via Exponential Error Suppression and CVaR Optimization**|Touheed Anwar Atif et.al.|[2501.18513](http://arxiv.org/abs/2501.18513)|null|
+|**2025-01-30**|**Dissipation bounds the coherence of stochastic limit cycles**|Davide Santolin et.al.|[2501.18469](http://arxiv.org/abs/2501.18469)|null|
+|**2025-01-30**|**Task-based Regularization in Penalized Least-Squares for Binary Signal Detection Tasks in Medical Image Denoising**|Wentao Chen et.al.|[2501.18418](http://arxiv.org/abs/2501.18418)|null|
+|**2025-01-30**|**RbFT: Robust Fine-tuning for Retrieval-Augmented Generation against Retrieval Defects**|Yiteng Tu et.al.|[2501.18365](http://arxiv.org/abs/2501.18365)|**[link](https://github.com/StibiumT16/Robust-Fine-tuning)**|
+|**2025-01-30**|**Synthesis of Dissipative Systems Using Input-State Data**|Encho T. Nguyen et.al.|[2501.18330](http://arxiv.org/abs/2501.18330)|null|
+|**2025-01-30**|**Squeezing-enhanced accurate differential sensing under large phase noise**|Robin Corgier et.al.|[2501.18256](http://arxiv.org/abs/2501.18256)|null|
+|**2025-01-30**|**QNN-QRL: Quantum Neural Network Integrated with Quantum Reinforcement Learning for Quantum Key Distribution**|Bikash K. Behera et.al.|[2501.18188](http://arxiv.org/abs/2501.18188)|null|
+|**2025-01-30**|**Estimating Multi-chirp Parameters using Curvature-guided Langevin Monte Carlo**|Sattwik Basu et.al.|[2501.18178](http://arxiv.org/abs/2501.18178)|**[link](https://github.com/basusattwik/ChirpEstimation)**|
+|**2025-01-30**|**Nonlocal prior mixture-based Bayesian wavelet regression**|Nilotpal Sanyal et.al.|[2501.18134](http://arxiv.org/abs/2501.18134)|null|
+|**2025-01-30**|**ACTGNN: Assessment of Clustering Tendency with Synthetically-Trained Graph Neural Networks**|Yiran Luo et.al.|[2501.18112](http://arxiv.org/abs/2501.18112)|null|
 |**2025-01-29**|**Dialogue is Better Than Monologue: Instructing Medical LLMs via Strategical Conversations**|Zijie Liu et.al.|[2501.17860](http://arxiv.org/abs/2501.17860)|null|
 |**2025-01-29**|**Privacy Audit as Bits Transmission: (Im)possibilities for Audit by One Run**|Zihang Xiang et.al.|[2501.17750](http://arxiv.org/abs/2501.17750)|null|
 |**2025-01-29**|**Critique Fine-Tuning: Learning to Critique is More Effective than Learning to Imitate**|Yubo Wang et.al.|[2501.17703](http://arxiv.org/abs/2501.17703)|null|
