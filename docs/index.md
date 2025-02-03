@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-31**|**From a Frequency-Domain Willems' Lemma to Data-Driven Predictive Control**|T. J. Meijer et.al.|[2501.19390](http://arxiv.org/abs/2501.19390)|null|
+|**2025-01-31**|**Beyond Fixed Horizons: A Theoretical Framework for Adaptive Denoising Diffusions**|Sören Christensen et.al.|[2501.19373](http://arxiv.org/abs/2501.19373)|null|
+|**2025-01-31**|**Fast exact recovery of noisy matrix from few entries: the infinity norm approach**|BaoLinh Tran et.al.|[2501.19224](http://arxiv.org/abs/2501.19224)|null|
+|**2025-01-31**|**APEX: Automated Parameter Exploration for Low-Power Wireless Protocols**|Mohamed Hassaan M. Hydher et.al.|[2501.19194](http://arxiv.org/abs/2501.19194)|null|
+|**2025-01-31**|**Ambient Denoising Diffusion Generative Adversarial Networks for Establishing Stochastic Object Models from Noisy Image Data**|Xichen Xu et.al.|[2501.19094](http://arxiv.org/abs/2501.19094)|null|
+|**2025-01-31**|**Optimizing Through Change: Bounds and Recommendations for Time-Varying Bayesian Optimization Algorithms**|Anthony Bardou et.al.|[2501.18963](http://arxiv.org/abs/2501.18963)|null|
+|**2025-01-31**|**Training-free Quantum-Inspired Image Edge Extraction Method**|Arti Jain et.al.|[2501.18929](http://arxiv.org/abs/2501.18929)|null|
+|**2025-01-31**|**Best Policy Learning from Trajectory Preference Feedback**|Akhil Agnihotri et.al.|[2501.18873](http://arxiv.org/abs/2501.18873)|null|
+|**2025-01-31**|**Embedding of Tree Tensor Networks into Shallow Quantum Circuits**|Shota Sugawara et.al.|[2501.18856](http://arxiv.org/abs/2501.18856)|null|
+|**2025-01-30**|**A New Statistical Approach to the Performance Analysis of Vision-based Localization**|Haozhou Hu et.al.|[2501.18758](http://arxiv.org/abs/2501.18758)|null|
 |**2025-01-30**|**Enhancing Quantum Expectation Values via Exponential Error Suppression and CVaR Optimization**|Touheed Anwar Atif et.al.|[2501.18513](http://arxiv.org/abs/2501.18513)|null|
 |**2025-01-30**|**Dissipation bounds the coherence of stochastic limit cycles**|Davide Santolin et.al.|[2501.18469](http://arxiv.org/abs/2501.18469)|null|
 |**2025-01-31**|**Task-based Regularization in Penalized Least-Squares for Binary Signal Detection Tasks in Medical Image Denoising**|Wentao Chen et.al.|[2501.18418](http://arxiv.org/abs/2501.18418)|null|
