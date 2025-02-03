@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.02
+## Updated on 2025.02.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## KWS
@@ -16,7 +16,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-01-30**|**Enhancing Quantum Expectation Values via Exponential Error Suppression and CVaR Optimization**|Touheed Anwar Atif et.al.|[2501.18513](http://arxiv.org/abs/2501.18513)|null|
 |**2025-01-30**|**Dissipation bounds the coherence of stochastic limit cycles**|Davide Santolin et.al.|[2501.18469](http://arxiv.org/abs/2501.18469)|null|
-|**2025-01-30**|**Task-based Regularization in Penalized Least-Squares for Binary Signal Detection Tasks in Medical Image Denoising**|Wentao Chen et.al.|[2501.18418](http://arxiv.org/abs/2501.18418)|null|
+|**2025-01-31**|**Task-based Regularization in Penalized Least-Squares for Binary Signal Detection Tasks in Medical Image Denoising**|Wentao Chen et.al.|[2501.18418](http://arxiv.org/abs/2501.18418)|null|
 |**2025-01-30**|**RbFT: Robust Fine-tuning for Retrieval-Augmented Generation against Retrieval Defects**|Yiteng Tu et.al.|[2501.18365](http://arxiv.org/abs/2501.18365)|**[link](https://github.com/StibiumT16/Robust-Fine-tuning)**|
 |**2025-01-30**|**Synthesis of Dissipative Systems Using Input-State Data**|Encho T. Nguyen et.al.|[2501.18330](http://arxiv.org/abs/2501.18330)|null|
 |**2025-01-30**|**Squeezing-enhanced accurate differential sensing under large phase noise**|Robin Corgier et.al.|[2501.18256](http://arxiv.org/abs/2501.18256)|null|
