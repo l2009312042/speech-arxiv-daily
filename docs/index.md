@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-05**|**Harnessing Large Language Models for Curated Code Reviews**|Oussama Ben Sghaier et.al.|[2502.03425](http://arxiv.org/abs/2502.03425)|null|
+|**2025-02-05**|**Demystifying Long Chain-of-Thought Reasoning in LLMs**|Edward Yeo et.al.|[2502.03373](http://arxiv.org/abs/2502.03373)|null|
+|**2025-02-05**|**Rethinking Approximate Gaussian Inference in Classification**|Bálint Mucsányi et.al.|[2502.03366](http://arxiv.org/abs/2502.03366)|null|
+|**2025-02-05**|**Inverse Mixed Strategy Games with Generative Trajectory Models**|Max Muchen Sun et.al.|[2502.03356](http://arxiv.org/abs/2502.03356)|null|
+|**2025-02-05**|**Intent Representation Learning with Large Language Model for Recommendation**|Yu Wang et.al.|[2502.03307](http://arxiv.org/abs/2502.03307)|null|
+|**2025-02-05**|**GenSE: Generative Speech Enhancement via Language Models using Hierarchical Modeling**|Jixun Yao et.al.|[2502.02942](http://arxiv.org/abs/2502.02942)|null|
+|**2025-02-05**|**Large Language Model Guided Self-Debugging Code Generation**|Muntasir Adnan et.al.|[2502.02928](http://arxiv.org/abs/2502.02928)|null|
+|**2025-02-05**|**Data denoising with self consistency, variance maximization, and the Kantorovich dominance**|Joshua Zoen-Git Hiew et.al.|[2502.02925](http://arxiv.org/abs/2502.02925)|null|
+|**2025-02-05**|**Domain-Invariant Per-Frame Feature Extraction for Cross-Domain Imitation Learning with Visual Observations**|Minung Kim et.al.|[2502.02867](http://arxiv.org/abs/2502.02867)|null|
+|**2025-02-04**|**Federated Low-Rank Tensor Estimation for Multimodal Image Reconstruction**|Anh Van Nguyen et.al.|[2502.02761](http://arxiv.org/abs/2502.02761)|null|
 |**2025-02-04**|**Distributional Diffusion Models with Scoring Rules**|Valentin De Bortoli et.al.|[2502.02483](http://arxiv.org/abs/2502.02483)|null|
 |**2025-02-04**|**A Scalable Crawling Algorithm Utilizing Noisy Change-Indicating Signals**|Róbert Busa-Fekete et.al.|[2502.02430](http://arxiv.org/abs/2502.02430)|null|
 |**2025-02-04**|**Towards Fast Graph Generation via Autoregressive Noisy Filtration Modeling**|Markus Krimmel et.al.|[2502.02415](http://arxiv.org/abs/2502.02415)|null|
