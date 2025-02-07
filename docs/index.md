@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-06**|**Gaussian Process Regression for Inverse Problems in Linear PDEs**|Xin Li et.al.|[2502.04276](http://arxiv.org/abs/2502.04276)|null|
+|**2025-02-06**|**Recovering sparse DFT from missing signals via interior point method on GPU**|Wei Kuang et.al.|[2502.04217](http://arxiv.org/abs/2502.04217)|null|
+|**2025-02-06**|**Diffusion-based mass map reconstruction from weak lensing data**|Supranta S. Boruah et.al.|[2502.04158](http://arxiv.org/abs/2502.04158)|null|
+|**2025-02-06**|**DAPO-QAOA: An algorithm for solving combinatorial optimization problems by dynamically constructing phase operators**|Yukun Wang et.al.|[2502.04100](http://arxiv.org/abs/2502.04100)|null|
+|**2025-02-06**|**Regularization via f-Divergence: An Application to Multi-Oxide Spectroscopic Analysis**|Weizhi Li et.al.|[2502.03755](http://arxiv.org/abs/2502.03755)|null|
+|**2025-02-06**|**PRISM: A Robust Framework for Skill-based Meta-Reinforcement Learning with Noisy Demonstrations**|Sanghyeon Lee et.al.|[2502.03752](http://arxiv.org/abs/2502.03752)|null|
+|**2025-02-06**|**Improving noisy free-energy measurements by adding more noise**|Stephen Whitelam et.al.|[2502.03734](http://arxiv.org/abs/2502.03734)|null|
+|**2025-02-06**|**MD-BERT: Action Recognition in Dark Videos via Dynamic Multi-Stream Fusion and Temporal Modeling**|Sharana Dharshikgan Suresh Dass et.al.|[2502.03724](http://arxiv.org/abs/2502.03724)|null|
+|**2025-02-06**|**Boosting Knowledge Graph-based Recommendations through Confidence-Aware Augmentation with Large Language Models**|Rui Cai et.al.|[2502.03715](http://arxiv.org/abs/2502.03715)|null|
+|**2025-02-05**|**Emulators for scarce and noisy data II: Application to auxiliary-field diffusion Monte Carlo for neutron matter**|Cassandra L. Armstrong et.al.|[2502.03680](http://arxiv.org/abs/2502.03680)|null|
 |**2025-02-05**|**Harnessing Large Language Models for Curated Code Reviews**|Oussama Ben Sghaier et.al.|[2502.03425](http://arxiv.org/abs/2502.03425)|null|
 |**2025-02-05**|**Demystifying Long Chain-of-Thought Reasoning in LLMs**|Edward Yeo et.al.|[2502.03373](http://arxiv.org/abs/2502.03373)|null|
 |**2025-02-05**|**Rethinking Approximate Gaussian Inference in Classification**|Bálint Mucsányi et.al.|[2502.03366](http://arxiv.org/abs/2502.03366)|null|
