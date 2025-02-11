@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-10**|**Quantile Multi-Armed Bandits with 1-bit Feedback**|Ivan Lau et.al.|[2502.06678](http://arxiv.org/abs/2502.06678)|null|
+|**2025-02-10**|**Selecting Optimal Sampling Rate for Stable Super-Resolution**|Nuha Diab et.al.|[2502.06673](http://arxiv.org/abs/2502.06673)|null|
+|**2025-02-10**|**Extract-QD Framework: A Generic Approach for Quality-Diversity in Noisy, Stochastic or Uncertain Domains**|Manon Flageat et.al.|[2502.06585](http://arxiv.org/abs/2502.06585)|null|
+|**2025-02-10**|**Analog In-memory Training on General Non-ideal Resistive Elements: The Impact of Response Functions**|Zhaoxian Wu et.al.|[2502.06309](http://arxiv.org/abs/2502.06309)|null|
+|**2025-02-10**|**DGNO: A Novel Physics-aware Neural Operator for Solving Forward and Inverse PDE Problems based on Deep, Generative Probabilistic Modeling**|Yaohua Zang et.al.|[2502.06250](http://arxiv.org/abs/2502.06250)|null|
+|**2025-02-10**|**Comparing Image Segmentation Algorithms**|Milind Cherukuri et.al.|[2502.06201](http://arxiv.org/abs/2502.06201)|null|
+|**2025-02-10**|**Revisiting Dynamic Graph Clustering via Matrix Factorization**|Dongyuan Li et.al.|[2502.06117](http://arxiv.org/abs/2502.06117)|null|
+|**2025-02-09**|**Multi-granular Training Strategies for Robust Multi-hop Reasoning Over Noisy and Heterogeneous Knowledge Sources**|Jackson Coleman et.al.|[2502.05944](http://arxiv.org/abs/2502.05944)|null|
+|**2025-02-09**|**Barriers and Pathways to Human-AI Alignment: A Game-Theoretic Approach**|Aran Nayebi et.al.|[2502.05934](http://arxiv.org/abs/2502.05934)|null|
+|**2025-02-09**|**Propagation of Chaos for Mean-Field Langevin Dynamics and its Application to Model Ensemble**|Atsushi Nitanda et.al.|[2502.05784](http://arxiv.org/abs/2502.05784)|null|
 |**2025-02-07**|**Self-supervised Conformal Prediction for Uncertainty Quantification in Imaging Problems**|Jasper M. Everink et.al.|[2502.05127](http://arxiv.org/abs/2502.05127)|null|
 |**2025-02-07**|**Gaze-Guided Robotic Vascular Ultrasound Leveraging Human Intention Estimation**|Yuan Bi et.al.|[2502.05053](http://arxiv.org/abs/2502.05053)|null|
 |**2025-02-07**|**QuEST: Stable Training of LLMs with 1-Bit Weights and Activations**|Andrei Panferov et.al.|[2502.05003](http://arxiv.org/abs/2502.05003)|**[link](https://github.com/IST-DASLab/QuEST)**|
