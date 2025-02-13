@@ -14,6 +14,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-12**|**Generalized synchronization in the presence of dynamical noise and its detection via recurrent neural networks**|José M. Amigó et.al.|[2502.08343](http://arxiv.org/abs/2502.08343)|null|
+|**2025-02-12**|**Fully-Geometric Cross-Attention for Point Cloud Registration**|Weijie Wang et.al.|[2502.08285](http://arxiv.org/abs/2502.08285)|null|
+|**2025-02-12**|**Enhancing Sample Selection by Cutting Mislabeled Easy Examples**|Suqin Yuan et.al.|[2502.08227](http://arxiv.org/abs/2502.08227)|null|
+|**2025-02-12**|**Bring the noise: exact inference from noisy simulations in collider physics**|Christopher Chang et.al.|[2502.08157](http://arxiv.org/abs/2502.08157)|null|
+|**2025-02-12**|**In-Context Learning of Linear Dynamical Systems with Transformers: Error Bounds and Depth-Separation**|Frank Cole et.al.|[2502.08136](http://arxiv.org/abs/2502.08136)|null|
+|**2025-02-11**|**Optimal Pricing of Cloud Services: Committed Spend under Demand Uncertainty**|Dirk Bergemann et.al.|[2502.08022](http://arxiv.org/abs/2502.08022)|null|
 |**2025-02-11**|**Quantum learning advantage on a scalable photonic platform**|Zheng-Hao Liu et.al.|[2502.07770](http://arxiv.org/abs/2502.07770)|null|
 |**2025-02-11**|**TMLC-Net: Transferable Meta Label Correction for Noisy Label Learning**|Mengyang Li et.al.|[2502.07721](http://arxiv.org/abs/2502.07721)|null|
 |**2025-02-11**|**Multiview Point Cloud Registration Based on Minimum Potential Energy for Free-Form Blade Measurement**|Zijie Wu et.al.|[2502.07680](http://arxiv.org/abs/2502.07680)|null|
