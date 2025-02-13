@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.12
+## Updated on 2025.02.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## KWS
@@ -17,7 +17,7 @@ layout: default
 |**2025-02-11**|**Quantum learning advantage on a scalable photonic platform**|Zheng-Hao Liu et.al.|[2502.07770](http://arxiv.org/abs/2502.07770)|null|
 |**2025-02-11**|**TMLC-Net: Transferable Meta Label Correction for Noisy Label Learning**|Mengyang Li et.al.|[2502.07721](http://arxiv.org/abs/2502.07721)|null|
 |**2025-02-11**|**Multiview Point Cloud Registration Based on Minimum Potential Energy for Free-Form Blade Measurement**|Zijie Wu et.al.|[2502.07680](http://arxiv.org/abs/2502.07680)|null|
-|**2025-02-11**|**Auto-Drafting Police Reports from Noisy ASR Outputs: A Trust-Centered LLM Approach**|Param Kulkarni et.al.|[2502.07677](http://arxiv.org/abs/2502.07677)|null|
+|**2025-02-12**|**Auto-Drafting Police Reports from Noisy ASR Outputs: A Trust-Centered LLM Approach**|Param Kulkarni et.al.|[2502.07677](http://arxiv.org/abs/2502.07677)|null|
 |**2025-02-11**|**Robust-Sorting and Applications to Ulam-Median**|Ragesh Jaiswal et.al.|[2502.07653](http://arxiv.org/abs/2502.07653)|null|
 |**2025-02-11**|**Beyond Behavior Cloning: Robustness through Interactive Imitation and Contrastive Learning**|Zhaoting Li et.al.|[2502.07645](http://arxiv.org/abs/2502.07645)|null|
 |**2025-02-11**|**Scaling Pre-training to One Hundred Billion Data for Vision Language Models**|Xiao Wang et.al.|[2502.07617](http://arxiv.org/abs/2502.07617)|null|
