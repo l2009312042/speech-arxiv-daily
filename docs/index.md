@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-13**|**GAIA: A Global, Multi-modal, Multi-scale Vision-Language Dataset for Remote Sensing Image Analysis**|Angelos Zavras et.al.|[2502.09598](http://arxiv.org/abs/2502.09598)|null|
+|**2025-02-13**|**A Data-Driven Method for Microgrid System Identification: Physically Consistent Sparse Identification of Nonlinear Dynamics**|Mohan Du et.al.|[2502.09592](http://arxiv.org/abs/2502.09592)|null|
+|**2025-02-13**|**Constant Overhead Entanglement Distillation via Scrambling**|Andi Gu et.al.|[2502.09483](http://arxiv.org/abs/2502.09483)|null|
+|**2025-02-13**|**Glacier data assimilation on an Arctic glacier: Learning from large ensemble twin experiments**|Wenxue Cao et.al.|[2502.09314](http://arxiv.org/abs/2502.09314)|null|
+|**2025-02-13**|**Joint Attention Mechanism Learning to Facilitate Opto-physiological Monitoring during Physical Activity**|Xiaoyu Zheng et.al.|[2502.09291](http://arxiv.org/abs/2502.09291)|null|
+|**2025-02-13**|**Low-Fidelity Entanglement Distillation with FIMAX**|Christopher Popp et.al.|[2502.09261](http://arxiv.org/abs/2502.09261)|null|
+|**2025-02-13**|**Bayesian Matrix Factor Models for Demographic Analysis Across Age and Time**|Gregor Zens et.al.|[2502.09255](http://arxiv.org/abs/2502.09255)|null|
+|**2025-02-13**|**Likelihood asymptotics of stationary Gaussian arrays**|Carsten H. Chong et.al.|[2502.09229](http://arxiv.org/abs/2502.09229)|null|
+|**2025-02-13**|**Neuro-Symbolic Contrastive Learning for Cross-domain Inference**|Mingyue Liu et.al.|[2502.09213](http://arxiv.org/abs/2502.09213)|null|
+|**2025-02-13**|**BevSplat: Resolving Height Ambiguity via Feature-Based Gaussian Primitives for Weakly-Supervised Cross-View Localization**|Qiwei Wang et.al.|[2502.09080](http://arxiv.org/abs/2502.09080)|null|
 |**2025-02-12**|**Generalized synchronization in the presence of dynamical noise and its detection via recurrent neural networks**|José M. Amigó et.al.|[2502.08343](http://arxiv.org/abs/2502.08343)|null|
 |**2025-02-12**|**Fully-Geometric Cross-Attention for Point Cloud Registration**|Weijie Wang et.al.|[2502.08285](http://arxiv.org/abs/2502.08285)|null|
 |**2025-02-12**|**Enhancing Sample Selection by Cutting Mislabeled Easy Examples**|Suqin Yuan et.al.|[2502.08227](http://arxiv.org/abs/2502.08227)|null|
