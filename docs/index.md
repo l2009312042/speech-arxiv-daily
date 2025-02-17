@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-14**|**AffinityFlow: Guided Flows for Antibody Affinity Maturation**|Can Chen et.al.|[2502.10365](http://arxiv.org/abs/2502.10365)|null|
+|**2025-02-14**|**Evaluation of the Efficiency and Comparison of Different Numerical Differentiation Methods on Three Case Studies**|Hamidreza Moradi et.al.|[2502.10285](http://arxiv.org/abs/2502.10285)|null|
+|**2025-02-14**|**Analog Quantum Teleportation**|Uesli Alushi et.al.|[2502.10253](http://arxiv.org/abs/2502.10253)|null|
+|**2025-02-14**|**Control-flow anomaly detection by process mining-based feature extraction and dimensionality reduction**|Francesco Vitale et.al.|[2502.10211](http://arxiv.org/abs/2502.10211)|null|
+|**2025-02-14**|**Quantum Neural Networks for Cloud Cover Parameterizations in Climate Models**|Lorenzo Pastori et.al.|[2502.10131](http://arxiv.org/abs/2502.10131)|null|
+|**2025-02-14**|**Principal Decomposition with Nested Submanifolds**|Jiaji Su et.al.|[2502.10010](http://arxiv.org/abs/2502.10010)|null|
+|**2025-02-14**|**Navigating Label Ambiguity for Facial Expression Recognition in the Wild**|JunGyu Lee et.al.|[2502.09993](http://arxiv.org/abs/2502.09993)|null|
+|**2025-02-14**|**Symmetry-Preserving Diffusion Models via Target Symmetrization**|Vinh Tong et.al.|[2502.09890](http://arxiv.org/abs/2502.09890)|null|
+|**2025-02-14**|**Compressive Sensing Empirical Wavelet Transform for Frequency-Banded Power Measurement Considering Interharmonics**|Jian Liu et.al.|[2502.09847](http://arxiv.org/abs/2502.09847)|null|
+|**2025-02-13**|**PUGS: Perceptual Uncertainty for Grasp Selection in Underwater Environments**|Onur Bagoren et.al.|[2502.09824](http://arxiv.org/abs/2502.09824)|null|
 |**2025-02-13**|**GAIA: A Global, Multi-modal, Multi-scale Vision-Language Dataset for Remote Sensing Image Analysis**|Angelos Zavras et.al.|[2502.09598](http://arxiv.org/abs/2502.09598)|null|
 |**2025-02-13**|**A Data-Driven Method for Microgrid System Identification: Physically Consistent Sparse Identification of Nonlinear Dynamics**|Mohan Du et.al.|[2502.09592](http://arxiv.org/abs/2502.09592)|null|
 |**2025-02-13**|**Constant Overhead Entanglement Distillation via Scrambling**|Andi Gu et.al.|[2502.09483](http://arxiv.org/abs/2502.09483)|null|
