@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-17**|**The Role of Prescreening in Auctions with Predictions**|Yanwei Sun et.al.|[2502.12117](http://arxiv.org/abs/2502.12117)|null|
+|**2025-02-17**|**Variational Quantum Algorithms for Many-Body Systems**|Mirko Consiglio et.al.|[2502.11985](http://arxiv.org/abs/2502.11985)|null|
+|**2025-02-17**|**Robust 6DoF Pose Tracking Considering Contour and Interior Correspondence Uncertainty for AR Assembly Guidance**|Jixiang Chen et.al.|[2502.11971](http://arxiv.org/abs/2502.11971)|null|
+|**2025-02-17**|**Robust Partial-Label Learning by Leveraging Class Activation Values**|Tobias Fuchs et.al.|[2502.11743](http://arxiv.org/abs/2502.11743)|null|
+|**2025-02-17**|**Matrix Low-dimensional Qubit Casting Based Quantum Electromagnetic Transient Network Simulation Program**|Qi Lou et.al.|[2502.11728](http://arxiv.org/abs/2502.11728)|null|
+|**2025-02-17**|**Exact Upper and Lower Bounds for the Output Distribution of Neural Networks with Random Inputs**|Andrey Kofnov et.al.|[2502.11672](http://arxiv.org/abs/2502.11672)|null|
+|**2025-02-17**|**Language Complexity Measurement as a Noisy Zero-Shot Proxy for Evaluating LLM Performance**|Birger Moell et.al.|[2502.11578](http://arxiv.org/abs/2502.11578)|null|
+|**2025-02-17**|**DCAD-2000: A Multilingual Dataset across 2000+ Languages with Data Cleaning as Anomaly Detection**|Yingli Shen et.al.|[2502.11546](http://arxiv.org/abs/2502.11546)|null|
+|**2025-02-17**|**Learning Surrogate Potential Mean Field Games via Gaussian Processes: A Data-Driven Approach to Ill-Posed Inverse Problems**|Jingguo Zhang et.al.|[2502.11506](http://arxiv.org/abs/2502.11506)|null|
+|**2025-02-17**|**Revisiting Robust RAG: Do We Still Need Complex Robust Training in the Era of Powerful LLMs?**|Hanxing Ding et.al.|[2502.11400](http://arxiv.org/abs/2502.11400)|null|
 |**2025-02-14**|**AffinityFlow: Guided Flows for Antibody Affinity Maturation**|Can Chen et.al.|[2502.10365](http://arxiv.org/abs/2502.10365)|null|
 |**2025-02-14**|**Evaluation of the Efficiency and Comparison of Different Numerical Differentiation Methods on Three Case Studies**|Hamidreza Moradi et.al.|[2502.10285](http://arxiv.org/abs/2502.10285)|null|
 |**2025-02-14**|**Analog Quantum Teleportation**|Uesli Alushi et.al.|[2502.10253](http://arxiv.org/abs/2502.10253)|null|
