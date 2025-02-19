@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-18**|**RobuRCDet: Enhancing Robustness of Radar-Camera Fusion in Bird's Eye View for 3D Object Detection**|Jingtong Yue et.al.|[2502.13071](http://arxiv.org/abs/2502.13071)|null|
+|**2025-02-18**|**Enhancing Power Grid Inspections with Machine Learning**|Diogo Lavado et.al.|[2502.13037](http://arxiv.org/abs/2502.13037)|null|
+|**2025-02-18**|**Smoothed Analysis of Dynamic Graph Algorithms**|Uri Meir et.al.|[2502.13007](http://arxiv.org/abs/2502.13007)|null|
+|**2025-02-18**|**A Bayesian Perspective on Uncertainty Quantification for Estimated Graph Signals**|Lennard Rompelberg et.al.|[2502.12971](http://arxiv.org/abs/2502.12971)|null|
+|**2025-02-18**|**A measure-valued HJB perspective on Bayesian optimal adaptive control**|Alexander M. G. Cox et.al.|[2502.12957](http://arxiv.org/abs/2502.12957)|null|
+|**2025-02-18**|**On-Device LLMs for Home Assistant: Dual Role in Intent Detection and Response Generation**|Rune Birkmose et.al.|[2502.12923](http://arxiv.org/abs/2502.12923)|null|
+|**2025-02-18**|**How Much Do LLMs Hallucinate across Languages? On Multilingual Estimation of LLM Hallucination in the Wild**|Saad Obaid ul Islam et.al.|[2502.12769](http://arxiv.org/abs/2502.12769)|null|
+|**2025-02-18**|**Cross-Domain Continual Learning for Edge Intelligence in Wireless ISAC Networks**|Jingzhi Hu et.al.|[2502.12736](http://arxiv.org/abs/2502.12736)|null|
+|**2025-02-18**|**Responsive Noise-Relaying Diffusion Policy: Responsive and Efficient Visuomotor Control**|Zhuoqun Chen et.al.|[2502.12724](http://arxiv.org/abs/2502.12724)|null|
+|**2025-02-18**|**Maximizing Truth Learning in a Social Network is NP-hard**|Filip Úradník et.al.|[2502.12704](http://arxiv.org/abs/2502.12704)|null|
 |**2025-02-17**|**The Role of Prescreening in Auctions with Predictions**|Yanwei Sun et.al.|[2502.12117](http://arxiv.org/abs/2502.12117)|null|
 |**2025-02-17**|**Variational Quantum Algorithms for Many-Body Systems**|Mirko Consiglio et.al.|[2502.11985](http://arxiv.org/abs/2502.11985)|null|
 |**2025-02-17**|**Robust 6DoF Pose Tracking Considering Contour and Interior Correspondence Uncertainty for AR Assembly Guidance**|Jixiang Chen et.al.|[2502.11971](http://arxiv.org/abs/2502.11971)|null|
