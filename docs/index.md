@@ -14,6 +14,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-19**|**Where's the Bug? Attention Probing for Scalable Fault Localization**|Adam Stein et.al.|[2502.13966](http://arxiv.org/abs/2502.13966)|null|
+|**2025-02-19**|**Partially Observable Gaussian Process Network and Doubly Stochastic Variational Inference**|Saksham Kiroriwal et.al.|[2502.13905](http://arxiv.org/abs/2502.13905)|null|
+|**2025-02-19**|**Grid Labeling: Crowdsourcing Task-Specific Importance from Visualizations**|Minsuk Chang et.al.|[2502.13902](http://arxiv.org/abs/2502.13902)|null|
+|**2025-02-19**|**Optimal Overlap Detection of Shotgun Reads**|Nir Luria et.al.|[2502.13813](http://arxiv.org/abs/2502.13813)|null|
+|**2025-02-19**|**Geolocation with Real Human Gameplay Data: A Large-Scale Dataset and Human-Like Reasoning Framework**|Zirui Song et.al.|[2502.13759](http://arxiv.org/abs/2502.13759)|null|
+|**2025-02-19**|**Measuring the Effect of Transcription Noise on Downstream Language Understanding Tasks**|Ori Shapira et.al.|[2502.13645](http://arxiv.org/abs/2502.13645)|null|
+|**2025-02-19**|**Integrating Inverse and Forward Modeling for Sparse Temporal Data from Sensor Networks**|Julian Vexler et.al.|[2502.13638](http://arxiv.org/abs/2502.13638)|null|
+|**2025-02-19**|**MATS: An Audio Language Model under Text-only Supervision**|Wen Wang et.al.|[2502.13433](http://arxiv.org/abs/2502.13433)|null|
+|**2025-02-19**|**TabSD: Large Free-Form Table Question Answering with SQL-Based Table Decomposition**|Yuxiang Wang et.al.|[2502.13422](http://arxiv.org/abs/2502.13422)|null|
 |**2025-02-18**|**RobuRCDet: Enhancing Robustness of Radar-Camera Fusion in Bird's Eye View for 3D Object Detection**|Jingtong Yue et.al.|[2502.13071](http://arxiv.org/abs/2502.13071)|null|
 |**2025-02-18**|**Enhancing Power Grid Inspections with Machine Learning**|Diogo Lavado et.al.|[2502.13037](http://arxiv.org/abs/2502.13037)|null|
 |**2025-02-18**|**Smoothed Analysis of Dynamic Graph Algorithms**|Uri Meir et.al.|[2502.13007](http://arxiv.org/abs/2502.13007)|null|
