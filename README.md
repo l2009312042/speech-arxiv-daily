@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-20**|**On the role of symmetry and geometry in global quantum sensing**|Julia Boeyens et.al.|[2502.14817](http://arxiv.org/abs/2502.14817)|null|
+|**2025-02-20**|**VB-Com: Learning Vision-Blind Composite Humanoid Locomotion Against Deficient Perception**|Junli Ren et.al.|[2502.14814](http://arxiv.org/abs/2502.14814)|null|
+|**2025-02-20**|**Noisy Test-Time Adaptation in Vision-Language Models**|Chentao Cao et.al.|[2502.14604](http://arxiv.org/abs/2502.14604)|null|
+|**2025-02-20**|**Less is More: Improving LLM Alignment via Preference Data Selection**|Xun Deng et.al.|[2502.14560](http://arxiv.org/abs/2502.14560)|null|
+|**2025-02-20**|**Port-Hamiltonian Neural Networks with Output Error Noise Models**|Sarvin Moradi et.al.|[2502.14432](http://arxiv.org/abs/2502.14432)|null|
+|**2025-02-20**|**SegAnyPET: Universal Promptable Segmentation from Positron Emission Tomography Images**|Yichi Zhang et.al.|[2502.14351](http://arxiv.org/abs/2502.14351)|null|
+|**2025-02-20**|**Correcting Noisy Multilabel Predictions: Modeling Label Noise through Latent Space Shifts**|Weipeng Huang et.al.|[2502.14281](http://arxiv.org/abs/2502.14281)|null|
+|**2025-02-20**|**MCQA-Eval: Efficient Confidence Evaluation in NLG with Gold-Standard Correctness Labels**|Xiaoou Liu et.al.|[2502.14268](http://arxiv.org/abs/2502.14268)|null|
+|**2025-02-20**|**Topology-Driven Quantum Architecture Search Framework**|Junjian Su et.al.|[2502.14265](http://arxiv.org/abs/2502.14265)|null|
+|**2025-02-20**|**Prediction-Powered Adaptive Shrinkage Estimation**|Sida Li et.al.|[2502.14166](http://arxiv.org/abs/2502.14166)|null|
 |**2025-02-20**|**Where's the Bug? Attention Probing for Scalable Fault Localization**|Adam Stein et.al.|[2502.13966](http://arxiv.org/abs/2502.13966)|null|
 |**2025-02-19**|**Partially Observable Gaussian Process Network and Doubly Stochastic Variational Inference**|Saksham Kiroriwal et.al.|[2502.13905](http://arxiv.org/abs/2502.13905)|null|
 |**2025-02-19**|**Grid Labeling: Crowdsourcing Task-Specific Importance from Visualizations**|Minsuk Chang et.al.|[2502.13902](http://arxiv.org/abs/2502.13902)|null|
