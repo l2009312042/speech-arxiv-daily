@@ -17,9 +17,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-21**|**Dynamic Knowledge Selector and Evaluator for recommendation with Knowledge Graph**|Feng Xia et.al.|[2502.15623](http://arxiv.org/abs/2502.15623)|null|
+|**2025-02-21**|**Tailoring transport via disorder and collisions interplay in quantum spin chains**|Vittoria Stanzione et.al.|[2502.15515](http://arxiv.org/abs/2502.15515)|null|
+|**2025-02-21**|**Quantum autoencoders for image classification**|Hinako Asaoka et.al.|[2502.15254](http://arxiv.org/abs/2502.15254)|null|
+|**2025-02-21**|**Real-Time Moving Flock Detection in Pedestrian Trajectories Using Sequential Deep Learning Models**|Amartaivan Sanjjamts et.al.|[2502.15252](http://arxiv.org/abs/2502.15252)|null|
+|**2025-02-21**|**Latent Factor Models Meets Instructions:Goal-conditioned Latent Factor Discovery without Task Supervision**|Zhouhang Xie et.al.|[2502.15147](http://arxiv.org/abs/2502.15147)|null|
+|**2025-02-20**|**Optimizing Continuous-Wave Pumped Entanglement-based QKD in Noisy Environment**|Hashir Kuniyil et.al.|[2502.15059](http://arxiv.org/abs/2502.15059)|null|
 |**2025-02-20**|**On the role of symmetry and geometry in global quantum sensing**|Julia Boeyens et.al.|[2502.14817](http://arxiv.org/abs/2502.14817)|null|
 |**2025-02-20**|**VB-Com: Learning Vision-Blind Composite Humanoid Locomotion Against Deficient Perception**|Junli Ren et.al.|[2502.14814](http://arxiv.org/abs/2502.14814)|null|
-|**2025-02-20**|**Noisy Test-Time Adaptation in Vision-Language Models**|Chentao Cao et.al.|[2502.14604](http://arxiv.org/abs/2502.14604)|null|
+|**2025-02-20**|**Noisy Test-Time Adaptation in Vision-Language Models**|Chentao Cao et.al.|[2502.14604](http://arxiv.org/abs/2502.14604)|**[link](https://github.com/tmlr-group/zs-ntta)**|
 |**2025-02-20**|**Less is More: Improving LLM Alignment via Preference Data Selection**|Xun Deng et.al.|[2502.14560](http://arxiv.org/abs/2502.14560)|null|
 |**2025-02-20**|**Port-Hamiltonian Neural Networks with Output Error Noise Models**|Sarvin Moradi et.al.|[2502.14432](http://arxiv.org/abs/2502.14432)|null|
 |**2025-02-20**|**SegAnyPET: Universal Promptable Segmentation from Positron Emission Tomography Images**|Yichi Zhang et.al.|[2502.14351](http://arxiv.org/abs/2502.14351)|null|
