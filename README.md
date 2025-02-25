@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-24**|**Entanglement fidelity of Petz decoder for one-shot entanglement transmission**|Laura Burri et.al.|[2502.17411](http://arxiv.org/abs/2502.17411)|null|
+|**2025-02-24**|**FIG: Forward-Inverse Generation for Low-Resource Domain-specific Event Detection**|Tanmay Parekh et.al.|[2502.17394](http://arxiv.org/abs/2502.17394)|null|
+|**2025-02-24**|**Beyond NISQ: The Megaquop Machine**|John Preskill et.al.|[2502.17368](http://arxiv.org/abs/2502.17368)|null|
+|**2025-02-24**|**A benchmark analysis of saliency-based explainable deep learning methods for the morphological classification of radio galaxies**|M. T. Atemkeng et.al.|[2502.17207](http://arxiv.org/abs/2502.17207)|null|
+|**2025-02-24**|**Measuring network quantum steerability utilizing artificial neural networks**|Mengyan Li et.al.|[2502.17084](http://arxiv.org/abs/2502.17084)|null|
+|**2025-02-24**|**Optimizing Urban Mobility Through Complex Network Analysis and Big Data from Smart Cards**|Li Sun et.al.|[2502.17054](http://arxiv.org/abs/2502.17054)|null|
+|**2025-02-24**|**Structure-Aware Matrix Pencil Method**|Yehonatan-Itay Segman et.al.|[2502.17047](http://arxiv.org/abs/2502.17047)|null|
+|**2025-02-24**|**Semantic Neural Radiance Fields for Multi-Date Satellite Data**|Valentin Wagner et.al.|[2502.16992](http://arxiv.org/abs/2502.16992)|null|
+|**2025-02-24**|**MAD-AD: Masked Diffusion for Unsupervised Brain Anomaly Detection**|Farzad Beizaee et.al.|[2502.16943](http://arxiv.org/abs/2502.16943)|null|
+|**2025-02-24**|**Noise2Score3D:Unsupervised Tweedie's Approach for Point Cloud Denoising**|Xiangbin Wei et.al.|[2502.16826](http://arxiv.org/abs/2502.16826)|null|
 |**2025-02-21**|**Dynamic Knowledge Selector and Evaluator for recommendation with Knowledge Graph**|Feng Xia et.al.|[2502.15623](http://arxiv.org/abs/2502.15623)|null|
 |**2025-02-21**|**Tailoring transport via disorder and collisions interplay in quantum spin chains**|Vittoria Stanzione et.al.|[2502.15515](http://arxiv.org/abs/2502.15515)|null|
 |**2025-02-21**|**Quantum autoencoders for image classification**|Hinako Asaoka et.al.|[2502.15254](http://arxiv.org/abs/2502.15254)|null|
