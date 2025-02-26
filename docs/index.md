@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-25**|**Indefinite Time Directed Quantum Metrology**|Gaurang Agrawal et.al.|[2502.18264](http://arxiv.org/abs/2502.18264)|null|
+|**2025-02-25**|**A Market for Accuracy: Classification under Competition**|Ohad Einav et.al.|[2502.18052](http://arxiv.org/abs/2502.18052)|null|
+|**2025-02-25**|**Quantum Inspired Excited States Calculations for Molecules Based on Contextual Subspace and Symmetry Optimizations**|Qianjun Yao et.al.|[2502.17932](http://arxiv.org/abs/2502.17932)|null|
+|**2025-02-25**|**Enhancing Speech Quality through the Integration of BGRU and Transformer Architectures**|Souliman Alghnam et.al.|[2502.17911](http://arxiv.org/abs/2502.17911)|null|
+|**2025-02-25**|**Optimum Noncoherent Detection of Constant-Envelope Signals using Received Signal Magnitudes -- Energy Detection and Amplitude Detection**|Mu Jia et.al.|[2502.17897](http://arxiv.org/abs/2502.17897)|null|
+|**2025-02-25**|**RankCoT: Refining Knowledge for Retrieval-Augmented Generation through Ranking Chain-of-Thoughts**|Mingyan Wu et.al.|[2502.17888](http://arxiv.org/abs/2502.17888)|null|
+|**2025-02-25**|**5G Direct Position Estimation for Precise Localization in Dense Urban Area**|Sijia Li et.al.|[2502.17875](http://arxiv.org/abs/2502.17875)|null|
+|**2025-02-25**|**An Improved Privacy and Utility Analysis of Differentially Private SGD with Bounded Domain and Smooth Losses**|Hao Liang et.al.|[2502.17772](http://arxiv.org/abs/2502.17772)|null|
+|**2025-02-25**|**Sample Selection via Contrastive Fragmentation for Noisy Label Regression**|Chris Dongjoo Kim et.al.|[2502.17771](http://arxiv.org/abs/2502.17771)|null|
+|**2025-02-25**|**Robust and Efficient Deep Hedging via Linearized Objective Neural Network**|Lei Zhao et.al.|[2502.17757](http://arxiv.org/abs/2502.17757)|null|
 |**2025-02-24**|**Entanglement fidelity of Petz decoder for one-shot entanglement transmission**|Laura Burri et.al.|[2502.17411](http://arxiv.org/abs/2502.17411)|null|
 |**2025-02-24**|**FIG: Forward-Inverse Generation for Low-Resource Domain-specific Event Detection**|Tanmay Parekh et.al.|[2502.17394](http://arxiv.org/abs/2502.17394)|null|
 |**2025-02-24**|**Beyond NISQ: The Megaquop Machine**|John Preskill et.al.|[2502.17368](http://arxiv.org/abs/2502.17368)|null|
