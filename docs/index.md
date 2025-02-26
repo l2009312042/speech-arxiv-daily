@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.25
+## Updated on 2025.02.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## KWS
@@ -21,8 +21,8 @@ layout: default
 |**2025-02-24**|**Measuring network quantum steerability utilizing artificial neural networks**|Mengyan Li et.al.|[2502.17084](http://arxiv.org/abs/2502.17084)|null|
 |**2025-02-24**|**Optimizing Urban Mobility Through Complex Network Analysis and Big Data from Smart Cards**|Li Sun et.al.|[2502.17054](http://arxiv.org/abs/2502.17054)|null|
 |**2025-02-24**|**Structure-Aware Matrix Pencil Method**|Yehonatan-Itay Segman et.al.|[2502.17047](http://arxiv.org/abs/2502.17047)|null|
-|**2025-02-24**|**Semantic Neural Radiance Fields for Multi-Date Satellite Data**|Valentin Wagner et.al.|[2502.16992](http://arxiv.org/abs/2502.16992)|null|
-|**2025-02-24**|**MAD-AD: Masked Diffusion for Unsupervised Brain Anomaly Detection**|Farzad Beizaee et.al.|[2502.16943](http://arxiv.org/abs/2502.16943)|null|
+|**2025-02-24**|**Semantic Neural Radiance Fields for Multi-Date Satellite Data**|Valentin Wagner et.al.|[2502.16992](http://arxiv.org/abs/2502.16992)|**[link](https://github.com/wagnva/semantic-nerf-for-satellite-data)**|
+|**2025-02-24**|**MAD-AD: Masked Diffusion for Unsupervised Brain Anomaly Detection**|Farzad Beizaee et.al.|[2502.16943](http://arxiv.org/abs/2502.16943)|**[link](https://github.com/farzad-bz/mad-ad)**|
 |**2025-02-24**|**Noise2Score3D:Unsupervised Tweedie's Approach for Point Cloud Denoising**|Xiangbin Wei et.al.|[2502.16826](http://arxiv.org/abs/2502.16826)|null|
 |**2025-02-21**|**Dynamic Knowledge Selector and Evaluator for recommendation with Knowledge Graph**|Feng Xia et.al.|[2502.15623](http://arxiv.org/abs/2502.15623)|null|
 |**2025-02-21**|**Tailoring transport via disorder and collisions interplay in quantum spin chains**|Vittoria Stanzione et.al.|[2502.15515](http://arxiv.org/abs/2502.15515)|null|
