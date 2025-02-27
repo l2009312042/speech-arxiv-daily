@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-26**|**Simulating Work Extraction in a Dinuclear Quantum Battery Using a Variational Quantum Algorithm**|Lucas Galvão et.al.|[2502.19331](http://arxiv.org/abs/2502.19331)|null|
+|**2025-02-26**|**Corporate Fraud Detection in Rich-yet-Noisy Financial Graph**|Shiqi Wang et.al.|[2502.19305](http://arxiv.org/abs/2502.19305)|null|
+|**2025-02-26**|**U-Net 3+ for Anomalous Diffusion Analysis enhanced with Mixture Estimates (U-AnD-ME) in particle-tracking data**|Solomon Asghar et.al.|[2502.19253](http://arxiv.org/abs/2502.19253)|null|
+|**2025-02-26**|**Distill Any Depth: Distillation Creates a Stronger Monocular Depth Estimator**|Xiankang He et.al.|[2502.19204](http://arxiv.org/abs/2502.19204)|**[link](https://github.com/Westlake-AGI-Lab/Distill-Any-Depth)**|
+|**2025-02-26**|**Improving the quality of Web-mined Parallel Corpora of Low-Resource Languages using Debiasing Heuristics**|Aloka Fernando et.al.|[2502.19074](http://arxiv.org/abs/2502.19074)|null|
+|**2025-02-26**|**Foundation Inference Models for Stochastic Differential Equations: A Transformer-based Approach for Zero-shot Function Estimation**|Patrick Seifner et.al.|[2502.19049](http://arxiv.org/abs/2502.19049)|null|
+|**2025-02-26**|**Real-time Sign-Problem-Suppressed Quantum Monte Carlo Algorithm For Noisy Quantum Circuit Simulations**|Tong Shen et.al.|[2502.18929](http://arxiv.org/abs/2502.18929)|null|
+|**2025-02-26**|**END: Early Noise Dropping for Efficient and Effective Context Denoising**|Hongye Jin et.al.|[2502.18915](http://arxiv.org/abs/2502.18915)|null|
+|**2025-02-25**|**Faster, Cheaper, Better: Multi-Objective Hyperparameter Optimization for LLM and RAG Systems**|Matthew Barker et.al.|[2502.18635](http://arxiv.org/abs/2502.18635)|null|
+|**2025-02-25**|**Understanding Untrained Deep Models for Inverse Problems: Algorithms and Theory**|Ismail Alkhouri et.al.|[2502.18612](http://arxiv.org/abs/2502.18612)|null|
 |**2025-02-26**|**Indefinite Time Directed Quantum Metrology**|Gaurang Agrawal et.al.|[2502.18264](http://arxiv.org/abs/2502.18264)|null|
 |**2025-02-25**|**A Market for Accuracy: Classification under Competition**|Ohad Einav et.al.|[2502.18052](http://arxiv.org/abs/2502.18052)|null|
 |**2025-02-25**|**Quantum Inspired Excited States Calculations for Molecules Based on Contextual Subspace and Symmetry Optimizations**|Qianjun Yao et.al.|[2502.17932](http://arxiv.org/abs/2502.17932)|null|
