@@ -7,14 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.26
+## Updated on 2025.02.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## KWS
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-02-25**|**Indefinite Time Directed Quantum Metrology**|Gaurang Agrawal et.al.|[2502.18264](http://arxiv.org/abs/2502.18264)|null|
+|**2025-02-26**|**Indefinite Time Directed Quantum Metrology**|Gaurang Agrawal et.al.|[2502.18264](http://arxiv.org/abs/2502.18264)|null|
 |**2025-02-25**|**A Market for Accuracy: Classification under Competition**|Ohad Einav et.al.|[2502.18052](http://arxiv.org/abs/2502.18052)|null|
 |**2025-02-25**|**Quantum Inspired Excited States Calculations for Molecules Based on Contextual Subspace and Symmetry Optimizations**|Qianjun Yao et.al.|[2502.17932](http://arxiv.org/abs/2502.17932)|null|
 |**2025-02-25**|**Enhancing Speech Quality through the Integration of BGRU and Transformer Architectures**|Souliman Alghnam et.al.|[2502.17911](http://arxiv.org/abs/2502.17911)|null|

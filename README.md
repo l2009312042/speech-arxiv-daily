@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.26
+## Updated on 2025.02.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,7 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-02-25**|**Indefinite Time Directed Quantum Metrology**|Gaurang Agrawal et.al.|[2502.18264](http://arxiv.org/abs/2502.18264)|null|
+|**2025-02-26**|**Indefinite Time Directed Quantum Metrology**|Gaurang Agrawal et.al.|[2502.18264](http://arxiv.org/abs/2502.18264)|null|
 |**2025-02-25**|**A Market for Accuracy: Classification under Competition**|Ohad Einav et.al.|[2502.18052](http://arxiv.org/abs/2502.18052)|null|
 |**2025-02-25**|**Quantum Inspired Excited States Calculations for Molecules Based on Contextual Subspace and Symmetry Optimizations**|Qianjun Yao et.al.|[2502.17932](http://arxiv.org/abs/2502.17932)|null|
 |**2025-02-25**|**Enhancing Speech Quality through the Integration of BGRU and Transformer Architectures**|Souliman Alghnam et.al.|[2502.17911](http://arxiv.org/abs/2502.17911)|null|
@@ -1618,7 +1618,7 @@
 |**2024-05-03**|**A Class of Numerical Semigroups Defined by Kunz and Waldi**|Srishti Singh et.al.|[2405.00331](http://arxiv.org/abs/2405.00331)|null|
 |**2024-04-26**|**Machine Learning based prediction of Vanadium Redox Flow Battery temperature rise under different charge-discharge conditions**|Anirudh Narayan D et.al.|[2404.17284](http://arxiv.org/abs/2404.17284)|null|
 
-<p align=right>(<a href=#updated-on-20250226>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250227>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
