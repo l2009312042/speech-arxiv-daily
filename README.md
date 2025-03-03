@@ -17,7 +17,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-02-27**|**Beyond Next-Token: Next-X Prediction for Autoregressive Visual Generation**|Sucheng Ren et.al.|[2502.20388](http://arxiv.org/abs/2502.20388)|null|
+|**2025-02-28**|**Does Generation Require Memorization? Creative Diffusion Models using Ambient Diffusion**|Kulin Shah et.al.|[2502.21278](http://arxiv.org/abs/2502.21278)|null|
+|**2025-02-28**|**End-to-End Deep Learning in Phase Noisy Coherent Optical Link**|Omar Alnaseri et.al.|[2502.21209](http://arxiv.org/abs/2502.21209)|null|
+|**2025-02-28**|**"No negatives needed": weakly-supervised regression for interpretable tumor detection in whole-slide histopathology images**|Marina D'Amato et.al.|[2502.21109](http://arxiv.org/abs/2502.21109)|null|
+|**2025-02-28**|**Enhancing deep neural networks through complex-valued representations and Kuramoto synchronization dynamics**|Sabine Muzellec et.al.|[2502.21077](http://arxiv.org/abs/2502.21077)|null|
+|**2025-02-28**|**Goal-Oriented Semantic Communication for Wireless Video Transmission via Generative AI**|Nan Li et.al.|[2502.20927](http://arxiv.org/abs/2502.20927)|null|
+|**2025-02-27**|**The Noisy Path from Source to Citation: Measuring How Scholars Engage with Past Research**|Hong Chen et.al.|[2502.20581](http://arxiv.org/abs/2502.20581)|null|
+|**2025-02-27**|**A Unifying Model of Information Loss in Communication Across Populations**|Sagar Kumar et.al.|[2502.20460](http://arxiv.org/abs/2502.20460)|null|
+|**2025-02-27**|**Beyond Next-Token: Next-X Prediction for Autoregressive Visual Generation**|Sucheng Ren et.al.|[2502.20388](http://arxiv.org/abs/2502.20388)|**[link](https://github.com/OliverRensu/xAR)**|
 |**2025-02-27**|**KeBaB: $k$ -mer based breaking for finding super-maximal exact matches**|Nathaniel K. Brown et.al.|[2502.20338](http://arxiv.org/abs/2502.20338)|null|
 |**2025-02-27**|**Adapting Automatic Speech Recognition for Accented Air Traffic Control Communications**|Marcus Yu Zhe Wee et.al.|[2502.20311](http://arxiv.org/abs/2502.20311)|null|
 |**2025-02-27**|**Quantum Natural Gradient optimizer on noisy platforms: QAOA as a case study**|Federico Dell'Anna et.al.|[2502.20288](http://arxiv.org/abs/2502.20288)|null|
