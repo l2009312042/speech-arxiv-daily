@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-04**|**Spike-and-Slab Posterior Sampling in High Dimensions**|Syamantak Kumar et.al.|[2503.02798](http://arxiv.org/abs/2503.02798)|null|
+|**2025-03-04**|**Undetected Error Probability in the Short Blocklength Regime: Approaching Finite-Blocklength Bounds with Polar Codes**|Alexander Sauter et.al.|[2503.02782](http://arxiv.org/abs/2503.02782)|null|
+|**2025-03-04**|**Efficient Quantum Chemistry Calculations on Noisy Quantum Hardware**|Nora Bauer et.al.|[2503.02778](http://arxiv.org/abs/2503.02778)|null|
+|**2025-03-04**|**Deep Learning-Enhanced Visual Monitoring in Hazardous Underwater Environments with a Swarm of Micro-Robots**|Shuang Chen et.al.|[2503.02752](http://arxiv.org/abs/2503.02752)|null|
+|**2025-03-04**|**Weakly-Constrained 4D Var for Downscaling with Uncertainty using Data-Driven Surrogate Models**|Philip Dinenis et.al.|[2503.02665](http://arxiv.org/abs/2503.02665)|null|
+|**2025-03-04**|**Introspective Loop Closure for SLAM with 4D Imaging Radar**|Maximilian Hilger et.al.|[2503.02383](http://arxiv.org/abs/2503.02383)|null|
+|**2025-03-04**|**Confidence HNC: A Network Flow Technique for Binary Classification with Noisy Labels**|Dorit Hochbaum et.al.|[2503.02352](http://arxiv.org/abs/2503.02352)|null|
+|**2025-03-04**|**Noisy Low-Rank Matrix Completion via Transformed $L_1$ Regularization and its Theoretical Properties**|Kun Zhao et.al.|[2503.02289](http://arxiv.org/abs/2503.02289)|null|
+|**2025-03-04**|**Towards Heisenberg limit without critical slowing down via quantum reinforcement learning**|Hang Xu et.al.|[2503.02210](http://arxiv.org/abs/2503.02210)|null|
+|**2025-03-03**|**Gradient-free stochastic optimization for additive models**|Arya Akhavan et.al.|[2503.02131](http://arxiv.org/abs/2503.02131)|null|
 |**2025-02-28**|**Does Generation Require Memorization? Creative Diffusion Models using Ambient Diffusion**|Kulin Shah et.al.|[2502.21278](http://arxiv.org/abs/2502.21278)|null|
 |**2025-02-28**|**End-to-End Deep Learning in Phase Noisy Coherent Optical Link**|Omar Alnaseri et.al.|[2502.21209](http://arxiv.org/abs/2502.21209)|null|
 |**2025-02-28**|**"No negatives needed": weakly-supervised regression for interpretable tumor detection in whole-slide histopathology images**|Marina D'Amato et.al.|[2502.21109](http://arxiv.org/abs/2502.21109)|null|
