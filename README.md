@@ -17,6 +17,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-05**|**Entanglement generation and scaling from noisy quenches across a quantum critical point**|R. Jafari et.al.|[2503.03584](http://arxiv.org/abs/2503.03584)|null|
+|**2025-03-05**|**Unified Human Localization and Trajectory Prediction with Monocular Vision**|Po-Chien Luan et.al.|[2503.03535](http://arxiv.org/abs/2503.03535)|null|
+|**2025-03-05**|**Anti Kibble-Zurek behavior in the quantum XY spin-1/2 chain driven by correlated noisy magnetic field and anisotropy**|S. Sadeghizade et.al.|[2503.03409](http://arxiv.org/abs/2503.03409)|null|
+|**2025-03-05**|**TopoMortar: A dataset to evaluate image segmentation methods focused on topology accuracy**|Juan Miguel Valverde et.al.|[2503.03365](http://arxiv.org/abs/2503.03365)|null|
+|**2025-03-05**|**TrafficKAN-GCN: Graph Convolutional-based Kolmogorov-Arnold Network for Traffic Flow Optimization**|Jiayi Zhang et.al.|[2503.03276](http://arxiv.org/abs/2503.03276)|null|
+|**2025-03-05**|**Noise-induced cycles in the Togashi-Kaneko model with species-dependent degradation**|Jeremy R. Worsfold et.al.|[2503.03157](http://arxiv.org/abs/2503.03157)|null|
+|**2025-03-04**|**Learning from Noisy Labels with Contrastive Co-Transformer**|Yan Han et.al.|[2503.03042](http://arxiv.org/abs/2503.03042)|null|
+|**2025-03-04**|**Enabling Fast, Accurate, and Efficient Real-Time Genome Analysis via New Algorithms and Techniques**|Can Firtina et.al.|[2503.02997](http://arxiv.org/abs/2503.02997)|null|
+|**2025-03-04**|**LAPD: Langevin-Assisted Bayesian Active Learning for Physical Discovery**|Cindy Xiangrui Kong et.al.|[2503.02983](http://arxiv.org/abs/2503.02983)|null|
 |**2025-03-04**|**Spike-and-Slab Posterior Sampling in High Dimensions**|Syamantak Kumar et.al.|[2503.02798](http://arxiv.org/abs/2503.02798)|null|
 |**2025-03-04**|**Undetected Error Probability in the Short Blocklength Regime: Approaching Finite-Blocklength Bounds with Polar Codes**|Alexander Sauter et.al.|[2503.02782](http://arxiv.org/abs/2503.02782)|null|
 |**2025-03-04**|**Efficient Quantum Chemistry Calculations on Noisy Quantum Hardware**|Nora Bauer et.al.|[2503.02778](http://arxiv.org/abs/2503.02778)|null|
