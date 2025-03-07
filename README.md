@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-06**|**Optimal Cell Shape for Accurate Chemical Gradient Sensing in Eukaryote Chemotaxis**|Daiqiu Mou et.al.|[2503.04716](http://arxiv.org/abs/2503.04716)|null|
+|**2025-03-06**|**Teach YOLO to Remember: A Self-Distillation Approach for Continual Object Detection**|Riccardo De Monte et.al.|[2503.04688](http://arxiv.org/abs/2503.04688)|null|
+|**2025-03-06**|**An Information-theoretic Multi-task Representation Learning Framework for Natural Language Understanding**|Dou Hu et.al.|[2503.04667](http://arxiv.org/abs/2503.04667)|null|
+|**2025-03-06**|**On the Random Schrödinger Equation and Geometric Quantum Control**|Rufus Lawrence et.al.|[2503.04617](http://arxiv.org/abs/2503.04617)|null|
+|**2025-03-06**|**Gradient-descent methods for fast quantum state tomography**|Akshay Gaikwad et.al.|[2503.04526](http://arxiv.org/abs/2503.04526)|null|
+|**2025-03-06**|**EvidMTL: Evidential Multi-Task Learning for Uncertainty-Aware Semantic Surface Mapping from Monocular RGB Images**|Rohit Menon et.al.|[2503.04441](http://arxiv.org/abs/2503.04441)|null|
+|**2025-03-06**|**Eventprop training for efficient neuromorphic applications**|Thomas Shoesmith et.al.|[2503.04341](http://arxiv.org/abs/2503.04341)|null|
+|**2025-03-06**|**Guided smoothing and control for diffusion processes**|Oskar Eklund et.al.|[2503.04326](http://arxiv.org/abs/2503.04326)|**[link](https://github.com/mschauer/GuiSDE.jl)**|
+|**2025-03-06**|**Baseline filtering and peak reconstruction for haloscope-like axion searches**|Andrea Gallo Rosso et.al.|[2503.04288](http://arxiv.org/abs/2503.04288)|null|
+|**2025-03-06**|**Kernel dependence of the Gaussian Process reconstruction of late Universe expansion history**|Joseph P Johnson et.al.|[2503.04273](http://arxiv.org/abs/2503.04273)|null|
 |**2025-03-05**|**Entanglement generation and scaling from noisy quenches across a quantum critical point**|R. Jafari et.al.|[2503.03584](http://arxiv.org/abs/2503.03584)|null|
 |**2025-03-05**|**Unified Human Localization and Trajectory Prediction with Monocular Vision**|Po-Chien Luan et.al.|[2503.03535](http://arxiv.org/abs/2503.03535)|null|
 |**2025-03-05**|**Anti Kibble-Zurek behavior in the quantum XY spin-1/2 chain driven by correlated noisy magnetic field and anisotropy**|S. Sadeghizade et.al.|[2503.03409](http://arxiv.org/abs/2503.03409)|null|
