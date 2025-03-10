@@ -17,6 +17,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-07**|**Fast and memory efficient strong simulation of noisy adaptive linear optical circuits**|Timothée Goubault de Brugière et.al.|[2503.05699](http://arxiv.org/abs/2503.05699)|null|
+|**2025-03-07**|**Less Quantum, More Advantage: An End-to-End Quantum Algorithm for the Jones Polynomial**|Tuomas Laakkonen et.al.|[2503.05625](http://arxiv.org/abs/2503.05625)|null|
+|**2025-03-07**|**Performance Analysis of Spatial and Temporal Learning Networks in the Presence of DVL Noise**|Rajini Makam et.al.|[2503.05309](http://arxiv.org/abs/2503.05309)|null|
+|**2025-03-07**|**Reward-Centered ReST-MCTS: A Robust Decision-Making Framework for Robotic Manipulation in High Uncertainty Environments**|Xibai Wang et.al.|[2503.05226](http://arxiv.org/abs/2503.05226)|null|
+|**2025-03-07**|**On reconstructing high derivatives of noisy time-series with confidence intervals**|Mazen Alamir et.al.|[2503.05222](http://arxiv.org/abs/2503.05222)|null|
+|**2025-03-07**|**GaussianCAD: Robust Self-Supervised CAD Reconstruction from Three Orthographic Views Using 3D Gaussian Splatting**|Zheng Zhou et.al.|[2503.05161](http://arxiv.org/abs/2503.05161)|null|
+|**2025-03-07**|**Sparse identification of nonlinear dynamics with high accuracy and reliability under noisy conditions for applications to industrial systems**|Shuichi Yahagi et.al.|[2503.05154](http://arxiv.org/abs/2503.05154)|null|
+|**2025-03-06**|**Entanglement Transitions in Noisy Quantum Circuits on Trees**|Vikram Ravindranath et.al.|[2503.05027](http://arxiv.org/abs/2503.05027)|null|
+|**2025-03-06**|**Optimized noise-resilient surface code teleportation interfaces**|Mohamed A. Shalby et.al.|[2503.04968](http://arxiv.org/abs/2503.04968)|null|
 |**2025-03-06**|**Optimal Cell Shape for Accurate Chemical Gradient Sensing in Eukaryote Chemotaxis**|Daiqiu Mou et.al.|[2503.04716](http://arxiv.org/abs/2503.04716)|null|
 |**2025-03-06**|**Teach YOLO to Remember: A Self-Distillation Approach for Continual Object Detection**|Riccardo De Monte et.al.|[2503.04688](http://arxiv.org/abs/2503.04688)|null|
 |**2025-03-06**|**An Information-theoretic Multi-task Representation Learning Framework for Natural Language Understanding**|Dou Hu et.al.|[2503.04667](http://arxiv.org/abs/2503.04667)|null|
