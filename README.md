@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-10**|**Denoising Score Distillation: From Noisy Diffusion Pretraining to One-Step High-Quality Generation**|Tianyu Chen et.al.|[2503.07578](http://arxiv.org/abs/2503.07578)|null|
+|**2025-03-10**|**Trustworthy Machine Learning via Memorization and the Granular Long-Tail: A Survey on Interactions, Tradeoffs, and Beyond**|Qiongxiu Li et.al.|[2503.07501](http://arxiv.org/abs/2503.07501)|null|
+|**2025-03-10**|**Estimation of Local Geometric Structure on Manifolds from Noisy Data**|Yariv Aizenbud et.al.|[2503.07220](http://arxiv.org/abs/2503.07220)|null|
+|**2025-03-10**|**Linguistic Knowledge Transfer Learning for Speech Enhancement**|Kuo-Hsuan Hung et.al.|[2503.07078](http://arxiv.org/abs/2503.07078)|null|
+|**2025-03-10**|**PIED: Physics-Informed Experimental Design for Inverse Problems**|Apivich Hemachandra et.al.|[2503.07070](http://arxiv.org/abs/2503.07070)|null|
+|**2025-03-10**|**Graph Chirp Signal and Graph Fractional Vertex-Frequency Energy Distribution**|Manjun Cui et.al.|[2503.06981](http://arxiv.org/abs/2503.06981)|null|
+|**2025-03-10**|**Distributed Pose Graph Optimization using the Splitting Method based on the Alternating Direction Method of Multipliers**|Zeinab Ebrahimi et.al.|[2503.06912](http://arxiv.org/abs/2503.06912)|null|
+|**2025-03-10**|**AKF-LIO: LiDAR-Inertial Odometry with Gaussian Map by Adaptive Kalman Filter**|Xupeng Xie et.al.|[2503.06891](http://arxiv.org/abs/2503.06891)|null|
+|**2025-03-10**|**MADS: Multi-Attribute Document Supervision for Zero-Shot Image Classification**|Xiangyan Qu et.al.|[2503.06847](http://arxiv.org/abs/2503.06847)|null|
+|**2025-03-10**|**Two-stage Deep Denoising with Self-guided Noise Attention for Multimodal Medical Images**|S M A Sharif et.al.|[2503.06827](http://arxiv.org/abs/2503.06827)|null|
 |**2025-03-07**|**Fast and memory efficient strong simulation of noisy adaptive linear optical circuits**|Timothée Goubault de Brugière et.al.|[2503.05699](http://arxiv.org/abs/2503.05699)|null|
 |**2025-03-07**|**Less Quantum, More Advantage: An End-to-End Quantum Algorithm for the Jones Polynomial**|Tuomas Laakkonen et.al.|[2503.05625](http://arxiv.org/abs/2503.05625)|null|
 |**2025-03-07**|**Performance Analysis of Spatial and Temporal Learning Networks in the Presence of DVL Noise**|Rajini Makam et.al.|[2503.05309](http://arxiv.org/abs/2503.05309)|null|
