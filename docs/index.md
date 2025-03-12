@@ -14,6 +14,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-11**|**LiSu: A Dataset and Method for LiDAR Surface Normal Estimation**|Dušan Malić et.al.|[2503.08601](http://arxiv.org/abs/2503.08601)|null|
+|**2025-03-11**|**Pointwise Minimax Vector Field Reconstruction from Noisy ODE**|Hugo Henneuse et.al.|[2503.08355](http://arxiv.org/abs/2503.08355)|null|
+|**2025-03-11**|**Flexible and Efficient Probabilistic PDE Solvers through Gaussian Markov Random Fields**|Tim Weiland et.al.|[2503.08343](http://arxiv.org/abs/2503.08343)|null|
+|**2025-03-11**|**A Framework for Reducing the Complexity of Geometric Vision Problems and its Application to Two-View Triangulation with Approximation Bounds**|Felix Rydell et.al.|[2503.08142](http://arxiv.org/abs/2503.08142)|null|
+|**2025-03-11**|**Deep Perceptual Enhancement for Medical Image Analysis**|S M A Sharif et.al.|[2503.08027](http://arxiv.org/abs/2503.08027)|null|
+|**2025-03-11**|**Dynamic PET Image Reconstruction via Non-negative INR Factorization**|Chaozhi Zhang et.al.|[2503.08025](http://arxiv.org/abs/2503.08025)|null|
 |**2025-03-10**|**Denoising Score Distillation: From Noisy Diffusion Pretraining to One-Step High-Quality Generation**|Tianyu Chen et.al.|[2503.07578](http://arxiv.org/abs/2503.07578)|null|
 |**2025-03-10**|**Trustworthy Machine Learning via Memorization and the Granular Long-Tail: A Survey on Interactions, Tradeoffs, and Beyond**|Qiongxiu Li et.al.|[2503.07501](http://arxiv.org/abs/2503.07501)|null|
 |**2025-03-10**|**Estimation of Local Geometric Structure on Manifolds from Noisy Data**|Yariv Aizenbud et.al.|[2503.07220](http://arxiv.org/abs/2503.07220)|null|
