@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.11
+## Updated on 2025.03.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -27,6 +27,8 @@
 |**2025-03-10**|**AKF-LIO: LiDAR-Inertial Odometry with Gaussian Map by Adaptive Kalman Filter**|Xupeng Xie et.al.|[2503.06891](http://arxiv.org/abs/2503.06891)|null|
 |**2025-03-10**|**MADS: Multi-Attribute Document Supervision for Zero-Shot Image Classification**|Xiangyan Qu et.al.|[2503.06847](http://arxiv.org/abs/2503.06847)|null|
 |**2025-03-10**|**Two-stage Deep Denoising with Self-guided Noise Attention for Multimodal Medical Images**|S M A Sharif et.al.|[2503.06827](http://arxiv.org/abs/2503.06827)|null|
+|**2025-03-10**|**Recursive Estimation for Dynamical Systems with Measurement Bias, Outliers and Constraints**|Krishan Mohan Nagpal et.al.|[2503.06825](http://arxiv.org/abs/2503.06825)|null|
+|**2025-03-10**|**Model-based edge clustering for weighted networks with a noise component**|Haomin Li et.al.|[2503.06822](http://arxiv.org/abs/2503.06822)|null|
 |**2025-03-07**|**Fast and memory efficient strong simulation of noisy adaptive linear optical circuits**|Timothée Goubault de Brugière et.al.|[2503.05699](http://arxiv.org/abs/2503.05699)|null|
 |**2025-03-07**|**Less Quantum, More Advantage: An End-to-End Quantum Algorithm for the Jones Polynomial**|Tuomas Laakkonen et.al.|[2503.05625](http://arxiv.org/abs/2503.05625)|null|
 |**2025-03-07**|**Performance Analysis of Spatial and Temporal Learning Networks in the Presence of DVL Noise**|Rajini Makam et.al.|[2503.05309](http://arxiv.org/abs/2503.05309)|null|
@@ -1693,7 +1695,7 @@
 |**2024-05-03**|**A Class of Numerical Semigroups Defined by Kunz and Waldi**|Srishti Singh et.al.|[2405.00331](http://arxiv.org/abs/2405.00331)|null|
 |**2024-04-26**|**Machine Learning based prediction of Vanadium Redox Flow Battery temperature rise under different charge-discharge conditions**|Anirudh Narayan D et.al.|[2404.17284](http://arxiv.org/abs/2404.17284)|null|
 
-<p align=right>(<a href=#updated-on-20250311>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250312>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
