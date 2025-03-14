@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.13
+## Updated on 2025.03.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -25,7 +25,7 @@
 |**2025-03-12**|**Noise2Score3D: Tweedie's Approach for Unsupervised Point Cloud Denoising**|Xiangbin Wei et.al.|[2503.09283](http://arxiv.org/abs/2503.09283)|null|
 |**2025-03-12**|**Other Vehicle Trajectories Are Also Needed: A Driving World Model Unifies Ego-Other Vehicle Trajectories in Video Latant Space**|Jian Zhu et.al.|[2503.09215](http://arxiv.org/abs/2503.09215)|null|
 |**2025-03-12**|**Hyperfine Coupling Constants on Quantum Computers: Performance, Errors, and Future Prospects**|Phillip W. K. Jensen et.al.|[2503.09214](http://arxiv.org/abs/2503.09214)|null|
-|**2025-03-12**|**Training Hybrid Deep Quantum Neural Network for Reinforced Learning Efficiently**|Jie Luo et.al.|[2503.09119](http://arxiv.org/abs/2503.09119)|null|
+|**2025-03-13**|**Training Hybrid Deep Quantum Neural Network for Reinforced Learning Efficiently**|Jie Luo et.al.|[2503.09119](http://arxiv.org/abs/2503.09119)|null|
 |**2025-03-12**|**Reconstructing Noisy Gene Regulation Dynamics Using Extrinsic-Noise-Driven Neural Stochastic Differential Equations**|Jiancheng Zhang et.al.|[2503.09007](http://arxiv.org/abs/2503.09007)|null|
 |**2025-03-11**|**LiSu: A Dataset and Method for LiDAR Surface Normal Estimation**|Dušan Malić et.al.|[2503.08601](http://arxiv.org/abs/2503.08601)|null|
 |**2025-03-11**|**Pointwise Minimax Vector Field Reconstruction from Noisy ODE**|Hugo Henneuse et.al.|[2503.08355](http://arxiv.org/abs/2503.08355)|null|
@@ -1711,7 +1711,7 @@
 |**2024-05-03**|**A Class of Numerical Semigroups Defined by Kunz and Waldi**|Srishti Singh et.al.|[2405.00331](http://arxiv.org/abs/2405.00331)|null|
 |**2024-04-26**|**Machine Learning based prediction of Vanadium Redox Flow Battery temperature rise under different charge-discharge conditions**|Anirudh Narayan D et.al.|[2404.17284](http://arxiv.org/abs/2404.17284)|null|
 
-<p align=right>(<a href=#updated-on-20250313>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250314>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
