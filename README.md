@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-13**|**Dual-Stage Cross-Modal Network with Dynamic Feature Fusion for Emotional Mimicry Intensity Estimation**|Jun Yu et.al.|[2503.10603](http://arxiv.org/abs/2503.10603)|null|
+|**2025-03-13**|**Performance of the spin qubit shuttling architecture for a surface code implementation**|Berat Yenilen et.al.|[2503.10601](http://arxiv.org/abs/2503.10601)|null|
+|**2025-03-13**|**From Linear to Spline-Based Classification:Developing and Enhancing SMPA for Noisy Non-Linear Datasets**|Vatsal Srivastava et.al.|[2503.10545](http://arxiv.org/abs/2503.10545)|null|
+|**2025-03-13**|**Learning Disease State from Noisy Ordinal Disease Progression Labels**|Gustav Schmidt et.al.|[2503.10440](http://arxiv.org/abs/2503.10440)|**[link](https://github.com/berenslab/Learning-Disease-State)**|
+|**2025-03-13**|**New Trends for Modern Machine Translation with Large Reasoning Models**|Sinuo Liu et.al.|[2503.10351](http://arxiv.org/abs/2503.10351)|null|
+|**2025-03-13**|**Approximation Methods for Simulation and Equivalence Checking of Noisy Quantum Circuits**|Mingyu Huang et.al.|[2503.10340](http://arxiv.org/abs/2503.10340)|null|
+|**2025-03-13**|**Characterizing Nonlinear Dynamics via Smooth Prototype Equivalences**|Roy Friedman et.al.|[2503.10336](http://arxiv.org/abs/2503.10336)|**[link](https://github.com/nitzanlab/prototype-equivalences)**|
+|**2025-03-13**|**Mixed-state learnability transitions in monitored noisy quantum dynamics**|Hansveer Singh et.al.|[2503.10308](http://arxiv.org/abs/2503.10308)|null|
+|**2025-03-13**|**Efficient Diffusion Posterior Sampling for Noisy Inverse Problems**|Ji Li et.al.|[2503.10237](http://arxiv.org/abs/2503.10237)|null|
+|**2025-03-13**|**Refining Noise Mitigation in NISQ Hardware Through Qubit Error Probability**|Nahual Sobrino et.al.|[2503.10204](http://arxiv.org/abs/2503.10204)|null|
 |**2025-03-12**|**Hybrid Rendering for Multimodal Autonomous Driving: Merging Neural and Physics-Based Simulation**|Máté Tóth et.al.|[2503.09464](http://arxiv.org/abs/2503.09464)|null|
 |**2025-03-12**|**Neural-Augmented Incremental Nonlinear Dynamic Inversion for Quadrotors with Payload Adaptation**|Eckart Cobo-Briesewitz et.al.|[2503.09441](http://arxiv.org/abs/2503.09441)|null|
 |**2025-03-12**|**Multiple Speaker Separation from Noisy Sources in Reverberant Rooms using Relative Transfer Matrix**|Wageesha N. Manamperi et.al.|[2503.09412](http://arxiv.org/abs/2503.09412)|null|
