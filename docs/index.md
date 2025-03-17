@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-14**|**Quantum algorithms for simulating systems coupled to bosonic modes using a hybrid resonator-qubit quantum computer**|Juha Leppäkangas et.al.|[2503.11507](http://arxiv.org/abs/2503.11507)|null|
+|**2025-03-14**|**An automated geometric space curve approach for designing dynamically corrected gates**|Evangelos Piliouras et.al.|[2503.11492](http://arxiv.org/abs/2503.11492)|null|
+|**2025-03-14**|**Classifying Long-tailed and Label-noise Data via Disentangling and Unlearning**|Chen Shu et.al.|[2503.11414](http://arxiv.org/abs/2503.11414)|null|
+|**2025-03-14**|**MMS-LLaMA: Efficient LLM-based Audio-Visual Speech Recognition with Minimal Multimodal Speech Tokens**|Jeong Hun Yeo et.al.|[2503.11315](http://arxiv.org/abs/2503.11315)|null|
+|**2025-03-14**|**Clustering Items through Bandit Feedback: Finding the Right Feature out of Many**|Maximilian Graf et.al.|[2503.11209](http://arxiv.org/abs/2503.11209)|null|
+|**2025-03-14**|**NF-SLAM: Effective, Normalizing Flow-supported Neural Field representations for object-level visual SLAM in automotive applications**|Li Cui et.al.|[2503.11199](http://arxiv.org/abs/2503.11199)|null|
+|**2025-03-14**|**Learnable Group Transform: Enhancing Genotype-to-Phenotype Prediction for Rice Breeding with Small, Structured Datasets**|Yunxuan Dong et.al.|[2503.11180](http://arxiv.org/abs/2503.11180)|null|
+|**2025-03-14**|**Minding Fuzzy Regions: A Data-driven Alternating Learning Paradigm for Stable Lesion Segmentation**|Lexin Fang et.al.|[2503.11140](http://arxiv.org/abs/2503.11140)|null|
+|**2025-03-14**|**Quantum ensemble learning with a programmable superconducting processor**|Jiachen Chen et.al.|[2503.11047](http://arxiv.org/abs/2503.11047)|null|
+|**2025-03-13**|**Auto-Associative Memories for Direct Signalling of Visual Angle During Object Approaches**|Matthias S. Keil et.al.|[2503.10896](http://arxiv.org/abs/2503.10896)|null|
 |**2025-03-14**|**Dual-Stage Cross-Modal Network with Dynamic Feature Fusion for Emotional Mimicry Intensity Estimation**|Jun Yu et.al.|[2503.10603](http://arxiv.org/abs/2503.10603)|null|
 |**2025-03-13**|**Performance of the spin qubit shuttling architecture for a surface code implementation**|Berat Yenilen et.al.|[2503.10601](http://arxiv.org/abs/2503.10601)|null|
 |**2025-03-13**|**From Linear to Spline-Based Classification:Developing and Enhancing SMPA for Noisy Non-Linear Datasets**|Vatsal Srivastava et.al.|[2503.10545](http://arxiv.org/abs/2503.10545)|null|
