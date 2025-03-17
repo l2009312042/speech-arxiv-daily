@@ -7,18 +7,18 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.16
+## Updated on 2025.03.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## KWS
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-03-13**|**Dual-Stage Cross-Modal Network with Dynamic Feature Fusion for Emotional Mimicry Intensity Estimation**|Jun Yu et.al.|[2503.10603](http://arxiv.org/abs/2503.10603)|null|
+|**2025-03-14**|**Dual-Stage Cross-Modal Network with Dynamic Feature Fusion for Emotional Mimicry Intensity Estimation**|Jun Yu et.al.|[2503.10603](http://arxiv.org/abs/2503.10603)|null|
 |**2025-03-13**|**Performance of the spin qubit shuttling architecture for a surface code implementation**|Berat Yenilen et.al.|[2503.10601](http://arxiv.org/abs/2503.10601)|null|
 |**2025-03-13**|**From Linear to Spline-Based Classification:Developing and Enhancing SMPA for Noisy Non-Linear Datasets**|Vatsal Srivastava et.al.|[2503.10545](http://arxiv.org/abs/2503.10545)|null|
 |**2025-03-13**|**Learning Disease State from Noisy Ordinal Disease Progression Labels**|Gustav Schmidt et.al.|[2503.10440](http://arxiv.org/abs/2503.10440)|**[link](https://github.com/berenslab/Learning-Disease-State)**|
-|**2025-03-13**|**New Trends for Modern Machine Translation with Large Reasoning Models**|Sinuo Liu et.al.|[2503.10351](http://arxiv.org/abs/2503.10351)|null|
+|**2025-03-14**|**New Trends for Modern Machine Translation with Large Reasoning Models**|Sinuo Liu et.al.|[2503.10351](http://arxiv.org/abs/2503.10351)|null|
 |**2025-03-13**|**Approximation Methods for Simulation and Equivalence Checking of Noisy Quantum Circuits**|Mingyu Huang et.al.|[2503.10340](http://arxiv.org/abs/2503.10340)|null|
 |**2025-03-13**|**Characterizing Nonlinear Dynamics via Smooth Prototype Equivalences**|Roy Friedman et.al.|[2503.10336](http://arxiv.org/abs/2503.10336)|**[link](https://github.com/nitzanlab/prototype-equivalences)**|
 |**2025-03-13**|**Mixed-state learnability transitions in monitored noisy quantum dynamics**|Hansveer Singh et.al.|[2503.10308](http://arxiv.org/abs/2503.10308)|null|
