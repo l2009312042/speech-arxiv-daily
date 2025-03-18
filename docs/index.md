@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-17**|**Uncovering Utility Functions from Observed Outcomes**|Marta Grzeskiewicz et.al.|[2503.13432](http://arxiv.org/abs/2503.13432)|null|
+|**2025-03-17**|**Decentralized Sensor Network Localization using Matrix-Parametrized Proximal Splittings**|Peter Barkley et.al.|[2503.13403](http://arxiv.org/abs/2503.13403)|null|
+|**2025-03-17**|**Mixtures of ensembles: System separation and identification via optimal transport**|Filip Elvander et.al.|[2503.13362](http://arxiv.org/abs/2503.13362)|null|
+|**2025-03-17**|**Actively learning equilibria in Nash games with misleading information**|Barbara Franci et.al.|[2503.13167](http://arxiv.org/abs/2503.13167)|null|
+|**2025-03-17**|**Accelerating large-scale linear algebra using variational quantum imaginary time evolution**|Willie Aboumrad et.al.|[2503.13128](http://arxiv.org/abs/2503.13128)|null|
+|**2025-03-17**|**Symmetric channel verification for purifying noisy quantum channels**|Kento Tsubouchi et.al.|[2503.13114](http://arxiv.org/abs/2503.13114)|null|
+|**2025-03-17**|**FNSE-SBGAN: Far-field Speech Enhancement with Schrodinger Bridge and Generative Adversarial Networks**|Tong Lei et.al.|[2503.12936](http://arxiv.org/abs/2503.12936)|null|
+|**2025-03-17**|**COSMOS: Continuous Simplicial Neural Networks**|Aref Einizade et.al.|[2503.12919](http://arxiv.org/abs/2503.12919)|null|
+|**2025-03-17**|**Robust Deep Joint Source Channel Coding for Task-Oriented Semantic Communications**|Taewoo Park et.al.|[2503.12907](http://arxiv.org/abs/2503.12907)|null|
+|**2025-03-17**|**Efficient noise tailoring and detection of hypergraph states using Clifford circuits**|Guedong Park et.al.|[2503.12870](http://arxiv.org/abs/2503.12870)|null|
 |**2025-03-14**|**Quantum algorithms for simulating systems coupled to bosonic modes using a hybrid resonator-qubit quantum computer**|Juha Leppäkangas et.al.|[2503.11507](http://arxiv.org/abs/2503.11507)|null|
 |**2025-03-14**|**An automated geometric space curve approach for designing dynamically corrected gates**|Evangelos Piliouras et.al.|[2503.11492](http://arxiv.org/abs/2503.11492)|null|
 |**2025-03-14**|**Classifying Long-tailed and Label-noise Data via Disentangling and Unlearning**|Chen Shu et.al.|[2503.11414](http://arxiv.org/abs/2503.11414)|null|
