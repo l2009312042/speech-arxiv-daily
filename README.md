@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-18**|**EnQode: Fast Amplitude Embedding for Quantum Machine Learning Using Classical Data**|Jason Han et.al.|[2503.14473](http://arxiv.org/abs/2503.14473)|null|
+|**2025-03-18**|**Measurement-Induced Multimode Squeezed Light Interferometers with Scalable Architectures**|Abhinav Verma et.al.|[2503.14449](http://arxiv.org/abs/2503.14449)|null|
+|**2025-03-18**|**PLAY2PROMPT: Zero-shot Tool Instruction Optimization for LLM Agents via Tool Play**|Wei Fang et.al.|[2503.14432](http://arxiv.org/abs/2503.14432)|null|
+|**2025-03-18**|**QuGStep: Refining Step Size Selection in Gradient Estimation for Variational Quantum Algorithms**|Senwei Liang et.al.|[2503.14366](http://arxiv.org/abs/2503.14366)|null|
+|**2025-03-18**|**Unified Analysis of Decentralized Gradient Descent: a Contraction Mapping Framework**|Erik G. Larsson et.al.|[2503.14353](http://arxiv.org/abs/2503.14353)|null|
+|**2025-03-18**|**3D Densification for Multi-Map Monocular VSLAM in Endoscopy**|X. Anadón et.al.|[2503.14346](http://arxiv.org/abs/2503.14346)|null|
+|**2025-03-18**|**Fundamental Limits of Matrix Sensing: Exact Asymptotics, Universality, and Applications**|Yizhou Xu et.al.|[2503.14121](http://arxiv.org/abs/2503.14121)|null|
+|**2025-03-18**|**Toward Large-Scale Distributed Quantum Long Short-Term Memory with Modular Quantum Computers**|Kuan-Cheng Chen et.al.|[2503.14088](http://arxiv.org/abs/2503.14088)|null|
+|**2025-03-18**|**Rethinking End-to-End 2D to 3D Scene Segmentation in Gaussian Splatting**|Runsong Zhu et.al.|[2503.14029](http://arxiv.org/abs/2503.14029)|null|
+|**2025-03-18**|**MP-GUI: Modality Perception with MLLMs for GUI Understanding**|Ziwei Wang et.al.|[2503.14021](http://arxiv.org/abs/2503.14021)|null|
 |**2025-03-17**|**Uncovering Utility Functions from Observed Outcomes**|Marta Grzeskiewicz et.al.|[2503.13432](http://arxiv.org/abs/2503.13432)|null|
 |**2025-03-17**|**Decentralized Sensor Network Localization using Matrix-Parametrized Proximal Splittings**|Peter Barkley et.al.|[2503.13403](http://arxiv.org/abs/2503.13403)|null|
 |**2025-03-17**|**Mixtures of ensembles: System separation and identification via optimal transport**|Filip Elvander et.al.|[2503.13362](http://arxiv.org/abs/2503.13362)|null|
