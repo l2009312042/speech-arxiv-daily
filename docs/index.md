@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-20**|**Enhancing Software Quality Assurance with an Adaptive Differential Evolution based Quantum Variational Autoencoder-Transformer Model**|Seshu Babu Barma et.al.|[2503.16335](http://arxiv.org/abs/2503.16335)|null|
+|**2025-03-20**|**SceneMI: Motion In-betweening for Modeling Human-Scene Interactions**|Inwoo Hwang et.al.|[2503.16289](http://arxiv.org/abs/2503.16289)|null|
+|**2025-03-20**|**Generalized Few-shot 3D Point Cloud Segmentation with Vision-Language Model**|Zhaochong An et.al.|[2503.16282](http://arxiv.org/abs/2503.16282)|null|
+|**2025-03-20**|**Variance-Aware Noisy Training: Hardening DNNs against Unstable Analog Computations**|Xiao Wang et.al.|[2503.16183](http://arxiv.org/abs/2503.16183)|null|
+|**2025-03-20**|**Automatically Generating Chinese Homophone Words to Probe Machine Translation Estimation Systems**|Shenbin Qian et.al.|[2503.16158](http://arxiv.org/abs/2503.16158)|null|
+|**2025-03-20**|**Statistical accuracy of the ensemble Kalman filter in the near-linear setting**|E. Calvello et.al.|[2503.16154](http://arxiv.org/abs/2503.16154)|null|
+|**2025-03-20**|**Distributed Quantum Dense Coding Enhanced With Non-classical Routing**|Pratham Hullamballi et.al.|[2503.16122](http://arxiv.org/abs/2503.16122)|null|
+|**2025-03-20**|**Estimation of Piecewise Continuous Regression Function in Finite Dimension using Oblique Regression Tree with Applications in Image Denoising**|Subhasish Basak et.al.|[2503.16007](http://arxiv.org/abs/2503.16007)|null|
+|**2025-03-20**|**DIPLI: Deep Image Prior Lucky Imaging for Blind Astronomical Image Restoration**|Suraj Singh et.al.|[2503.15984](http://arxiv.org/abs/2503.15984)|null|
+|**2025-03-20**|**Text-Driven Diffusion Model for Sign Language Production**|Jiayi He et.al.|[2503.15914](http://arxiv.org/abs/2503.15914)|null|
 |**2025-03-19**|**Emergent coding phases and hardware-tailored quantum codes**|Gaurav Gyawali et.al.|[2503.15483](http://arxiv.org/abs/2503.15483)|null|
 |**2025-03-19**|**Towards efficient keyword spotting using spike-based time difference encoders**|Alejandro Pequeño-Zurro et.al.|[2503.15402](http://arxiv.org/abs/2503.15402)|null|
 |**2025-03-19**|**The importance of being empty: a spectral approach to Hopfield neural networks with diluted examples**|Elena Agliari et.al.|[2503.15353](http://arxiv.org/abs/2503.15353)|null|
