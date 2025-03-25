@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.24
+## Updated on 2025.03.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -19,7 +19,7 @@
 |---|---|---|---|---|
 |**2025-03-21**|**Fast Convex Optimization with Quantum Gradient Methods**|Brandon Augustino et.al.|[2503.17356](http://arxiv.org/abs/2503.17356)|null|
 |**2025-03-21**|**A Language Anchor-Guided Method for Robust Noisy Domain Generalization**|Zilin Dai et.al.|[2503.17211](http://arxiv.org/abs/2503.17211)|null|
-|**2025-03-21**|**An Energy-Adaptive Elastic Equivariant Transformer Framework for Protein Structure Representation**|Zhongyue Zhang et.al.|[2503.16996](http://arxiv.org/abs/2503.16996)|null|
+|**2025-03-24**|**An Energy-Adaptive Elastic Equivariant Transformer Framework for Protein Structure Representation**|Zhongyue Zhang et.al.|[2503.16996](http://arxiv.org/abs/2503.16996)|null|
 |**2025-03-21**|**GeoT: Geometry-guided Instance-dependent Transition Matrix for Semi-supervised Tooth Point Cloud Segmentation**|Weihao Yu et.al.|[2503.16976](http://arxiv.org/abs/2503.16976)|null|
 |**2025-03-21**|**Nonparametric Factor Analysis and Beyond**|Yujia Zheng et.al.|[2503.16865](http://arxiv.org/abs/2503.16865)|null|
 |**2025-03-20**|**Tight-Binding Energy-Phase Calculation for Topological Josephson Junction Nanowire Architecture**|Adrian D. Scheppe et.al.|[2503.16704](http://arxiv.org/abs/2503.16704)|null|
@@ -1778,7 +1778,7 @@
 |**2024-05-03**|**A Class of Numerical Semigroups Defined by Kunz and Waldi**|Srishti Singh et.al.|[2405.00331](http://arxiv.org/abs/2405.00331)|null|
 |**2024-04-26**|**Machine Learning based prediction of Vanadium Redox Flow Battery temperature rise under different charge-discharge conditions**|Anirudh Narayan D et.al.|[2404.17284](http://arxiv.org/abs/2404.17284)|null|
 
-<p align=right>(<a href=#updated-on-20250324>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250325>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
