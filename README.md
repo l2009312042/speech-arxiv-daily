@@ -17,6 +17,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-26**|**Improving Variational Quantum Circuit Optimization via Hybrid Algorithms and Random Axis Initialization**|Joona V. Pankkonen et.al.|[2503.20728](http://arxiv.org/abs/2503.20728)|null|
+|**2025-03-26**|**Measuring Incompatible Observables with Quantum Neural Networks**|Muchun Yang et.al.|[2503.20565](http://arxiv.org/abs/2503.20565)|null|
+|**2025-03-26**|**Adaptive Local Clustering over Attributed Graphs**|Haoran Zheng et.al.|[2503.20488](http://arxiv.org/abs/2503.20488)|**[link](https://github.com/HaoranZ99/laca)**|
+|**2025-03-26**|**Recovering Dynamic 3D Sketches from Videos**|Jaeah Lee et.al.|[2503.20321](http://arxiv.org/abs/2503.20321)|null|
+|**2025-03-26**|**Traversing Distortion-Perception Tradeoff using a Single Score-Based Generative Model**|Yuhan Wang et.al.|[2503.20297](http://arxiv.org/abs/2503.20297)|null|
+|**2025-03-26**|**Learnable Sequence Augmenter for Triplet Contrastive Learning in Sequential Recommendation**|Wei Wang et.al.|[2503.20232](http://arxiv.org/abs/2503.20232)|null|
+|**2025-03-26**|**Fast and Noise-aware Machine Learning Variational Quantum Eigensolver Optimiser**|Akib Karim et.al.|[2503.20210](http://arxiv.org/abs/2503.20210)|null|
+|**2025-03-26**|**EVolSplat: Efficient Volume-based Gaussian Splatting for Urban View Synthesis**|Sheng Miao et.al.|[2503.20168](http://arxiv.org/abs/2503.20168)|null|
+|**2025-03-26**|**Physics-Informed Neural Networks with Unknown Partial Differential Equations: an Application in Multivariate Time Series**|Seyedeh Azadeh Fallah Mortezanejad et.al.|[2503.20144](http://arxiv.org/abs/2503.20144)|null|
 |**2025-03-25**|**RCC-PFL: Robust Client Clustering under Noisy Labels in Personalized Federated Learning**|Abdulmoneam Ali et.al.|[2503.19886](http://arxiv.org/abs/2503.19886)|null|
 |**2025-03-25**|**An Approximate Monte Carlo Simulation Method for Estimating Uncertainty and Constructing Confidence Intervals for 2020 Census Statistics**|Robert Ashmead et.al.|[2503.19714](http://arxiv.org/abs/2503.19714)|null|
 |**2025-03-25**|**Noise Resilient Over-The-Air Federated Learning In Heterogeneous Wireless Networks**|Zubair Shaban et.al.|[2503.19549](http://arxiv.org/abs/2503.19549)|null|
