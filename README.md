@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.27
+## Updated on 2025.03.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -20,7 +20,7 @@
 |**2025-03-26**|**Improving Variational Quantum Circuit Optimization via Hybrid Algorithms and Random Axis Initialization**|Joona V. Pankkonen et.al.|[2503.20728](http://arxiv.org/abs/2503.20728)|null|
 |**2025-03-26**|**Measuring Incompatible Observables with Quantum Neural Networks**|Muchun Yang et.al.|[2503.20565](http://arxiv.org/abs/2503.20565)|null|
 |**2025-03-26**|**Adaptive Local Clustering over Attributed Graphs**|Haoran Zheng et.al.|[2503.20488](http://arxiv.org/abs/2503.20488)|**[link](https://github.com/HaoranZ99/laca)**|
-|**2025-03-26**|**Recovering Dynamic 3D Sketches from Videos**|Jaeah Lee et.al.|[2503.20321](http://arxiv.org/abs/2503.20321)|null|
+|**2025-03-27**|**Recovering Dynamic 3D Sketches from Videos**|Jaeah Lee et.al.|[2503.20321](http://arxiv.org/abs/2503.20321)|null|
 |**2025-03-26**|**Traversing Distortion-Perception Tradeoff using a Single Score-Based Generative Model**|Yuhan Wang et.al.|[2503.20297](http://arxiv.org/abs/2503.20297)|null|
 |**2025-03-26**|**Learnable Sequence Augmenter for Triplet Contrastive Learning in Sequential Recommendation**|Wei Wang et.al.|[2503.20232](http://arxiv.org/abs/2503.20232)|null|
 |**2025-03-26**|**Fast and Noise-aware Machine Learning Variational Quantum Eigensolver Optimiser**|Akib Karim et.al.|[2503.20210](http://arxiv.org/abs/2503.20210)|null|
@@ -1807,7 +1807,7 @@
 |**2024-05-03**|**A Class of Numerical Semigroups Defined by Kunz and Waldi**|Srishti Singh et.al.|[2405.00331](http://arxiv.org/abs/2405.00331)|null|
 |**2024-04-26**|**Machine Learning based prediction of Vanadium Redox Flow Battery temperature rise under different charge-discharge conditions**|Anirudh Narayan D et.al.|[2404.17284](http://arxiv.org/abs/2404.17284)|null|
 
-<p align=right>(<a href=#updated-on-20250327>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250328>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
