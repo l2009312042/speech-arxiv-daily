@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-27**|**Penalty decomposition derivative free method for the minimization of partially separable functions over a convex feasible set**|Francesco Cecere et.al.|[2503.21631](http://arxiv.org/abs/2503.21631)|null|
+|**2025-03-27**|**Renormalization group analysis of noisy neural field**|Jie Zang et.al.|[2503.21605](http://arxiv.org/abs/2503.21605)|null|
+|**2025-03-27**|**1-DREAM: 1D Recovery, Extraction and Analysis of Manifolds in noisy environments**|Marco Canducci et.al.|[2503.21584](http://arxiv.org/abs/2503.21584)|**[link](https://git.lwp.rug.nl/cs.projects/1DREAM.git)**|
+|**2025-03-27**|**Quantitative Evaluation of Quantum/Classical Neural Network Using a Game Solver Metric**|Suzukaze Kamei et.al.|[2503.21514](http://arxiv.org/abs/2503.21514)|null|
+|**2025-03-27**|**Double Blind Imaging with Generative Modeling**|Brett Levac et.al.|[2503.21501](http://arxiv.org/abs/2503.21501)|null|
+|**2025-03-27**|**Adaptive Resampling with Bootstrap for Noisy Multi-Objective Optimization Problems**|Timo Budszuhn et.al.|[2503.21495](http://arxiv.org/abs/2503.21495)|null|
+|**2025-03-27**|**BOLT: Boost Large Vision-Language Model Without Training for Long-form Video Understanding**|Shuming Liu et.al.|[2503.21483](http://arxiv.org/abs/2503.21483)|null|
+|**2025-03-27**|**Unsupervised Real-World Denoising: Sparsity is All You Need**|Hamadi Chihaoui et.al.|[2503.21377](http://arxiv.org/abs/2503.21377)|null|
+|**2025-03-27**|**Inference in stochastic differential equations using the Laplace approximation: Demonstration and examples**|Uffe Høgsbro Thygesen et.al.|[2503.21358](http://arxiv.org/abs/2503.21358)|null|
+|**2025-03-27**|**ReFeed: Multi-dimensional Summarization Refinement with Reflective Reasoning on Feedback**|Taewon Yun et.al.|[2503.21332](http://arxiv.org/abs/2503.21332)|null|
 |**2025-03-26**|**Improving Variational Quantum Circuit Optimization via Hybrid Algorithms and Random Axis Initialization**|Joona V. Pankkonen et.al.|[2503.20728](http://arxiv.org/abs/2503.20728)|null|
 |**2025-03-26**|**Measuring Incompatible Observables with Quantum Neural Networks**|Muchun Yang et.al.|[2503.20565](http://arxiv.org/abs/2503.20565)|null|
 |**2025-03-26**|**Adaptive Local Clustering over Attributed Graphs**|Haoran Zheng et.al.|[2503.20488](http://arxiv.org/abs/2503.20488)|**[link](https://github.com/HaoranZ99/laca)**|
