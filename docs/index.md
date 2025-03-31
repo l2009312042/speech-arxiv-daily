@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-28**|**Streaming quantum state purification for general mixed states**|Daniel Grier et.al.|[2503.22644](http://arxiv.org/abs/2503.22644)|null|
+|**2025-03-28**|**Enhanced Variational Quantum Kolmogorov-Arnold Network**|Hikaru Wakaura et.al.|[2503.22604](http://arxiv.org/abs/2503.22604)|null|
+|**2025-03-28**|**Variational quantum-neural hybrid imaginary time evolution**|Hiroki Kuji et.al.|[2503.22570](http://arxiv.org/abs/2503.22570)|null|
+|**2025-03-28**|**EndoLRMGS: Complete Endoscopic Scene Reconstruction combining Large Reconstruction Modelling and Gaussian Splatting**|Xu Wang et.al.|[2503.22437](http://arxiv.org/abs/2503.22437)|null|
+|**2025-03-28**|**Avoiding convergence stagnation in a quantum circuit evolutionary framework through an adaptive cost function**|Bruno Oziel Fernandez et.al.|[2503.22404](http://arxiv.org/abs/2503.22404)|null|
+|**2025-03-28**|**GCRayDiffusion: Pose-Free Surface Reconstruction via Geometric Consistent Ray Diffusion**|Li-Heng Chen et.al.|[2503.22349](http://arxiv.org/abs/2503.22349)|null|
+|**2025-03-28**|**Hardware-efficient quantum annealing with error mitigation via classical shadow**|Takaharu Yoshida et.al.|[2503.22269](http://arxiv.org/abs/2503.22269)|null|
+|**2025-03-28**|**DREMnet: An Interpretable Denoising Framework for Semi-Airborne Transient Electromagnetic Signal**|Shuang Wang et.al.|[2503.22223](http://arxiv.org/abs/2503.22223)|null|
+|**2025-03-28**|**Interpretable Deep Learning Paradigm for Airborne Transient Electromagnetic Inversion**|Shuang Wang et.al.|[2503.22214](http://arxiv.org/abs/2503.22214)|null|
+|**2025-03-28**|**Few-Shot Graph Out-of-Distribution Detection with LLMs**|Haoyan Xu et.al.|[2503.22097](http://arxiv.org/abs/2503.22097)|null|
 |**2025-03-27**|**Penalty decomposition derivative free method for the minimization of partially separable functions over a convex feasible set**|Francesco Cecere et.al.|[2503.21631](http://arxiv.org/abs/2503.21631)|null|
 |**2025-03-27**|**Renormalization group analysis of noisy neural field**|Jie Zang et.al.|[2503.21605](http://arxiv.org/abs/2503.21605)|null|
 |**2025-03-27**|**1-DREAM: 1D Recovery, Extraction and Analysis of Manifolds in noisy environments**|Marco Canducci et.al.|[2503.21584](http://arxiv.org/abs/2503.21584)|**[link](https://git.lwp.rug.nl/cs.projects/1DREAM.git)**|
