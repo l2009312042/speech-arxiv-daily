@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-02**|**Review, Refine, Repeat: Understanding Iterative Decoding of AI Agents with Dynamic Evaluation and Selection**|Souradip Chakraborty et.al.|[2504.01931](http://arxiv.org/abs/2504.01931)|null|
+|**2025-04-02**|**TransforMerger: Transformer-based Voice-Gesture Fusion for Robust Human-Robot Communication**|Petr Vanc et.al.|[2504.01708](http://arxiv.org/abs/2504.01708)|null|
+|**2025-04-02**|**Semi-Supervised Biomedical Image Segmentation via Diffusion Models and Teacher-Student Co-Training**|Luca Ciampi et.al.|[2504.01547](http://arxiv.org/abs/2504.01547)|null|
+|**2025-04-02**|**DRAN: A Distribution and Relation Adaptive Network for Spatio-temporal Forecasting**|Xiaobei Zou et.al.|[2504.01531](http://arxiv.org/abs/2504.01531)|null|
+|**2025-04-02**|**Multimodal Point Cloud Semantic Segmentation With Virtual Point Enhancement**|Zaipeng Duan et.al.|[2504.01449](http://arxiv.org/abs/2504.01449)|null|
+|**2025-04-02**|**Age-Aware Partial Gradient Update Strategy for Federated Learning Over the Air**|Ruihao Du et.al.|[2504.01357](http://arxiv.org/abs/2504.01357)|null|
+|**2025-04-02**|**Safeguarding Vision-Language Models: Mitigating Vulnerabilities to Gaussian Noise in Perturbation-based Attacks**|Jiawei Wang et.al.|[2504.01308](http://arxiv.org/abs/2504.01308)|null|
+|**2025-04-02**|**Derivative estimation by RKHS regularization for learning dynamics from time-series data**|Hailong Guo et.al.|[2504.01289](http://arxiv.org/abs/2504.01289)|null|
+|**2025-04-01**|**Efficient State Estimation of a Networked FlipIt Model**|Brandon Collins et.al.|[2504.01096](http://arxiv.org/abs/2504.01096)|null|
+|**2025-04-01**|**Fault-tolerant correction-ready encoding of the [[7,1,3]] Steane code on a 2D grid**|Andrea Rodriguez-Blanco et.al.|[2504.01083](http://arxiv.org/abs/2504.01083)|null|
 |**2025-03-31**|**Exploring the Effect of Reinforcement Learning on Video Understanding: Insights from SEED-Bench-R1**|Yi Chen et.al.|[2503.24376](http://arxiv.org/abs/2503.24376)|**[link](https://github.com/tencentarc/seed-bench-r1)**|
 |**2025-03-31**|**NoProp: Training Neural Networks without Back-propagation or Forward-propagation**|Qinyu Li et.al.|[2503.24322](http://arxiv.org/abs/2503.24322)|null|
 |**2025-03-31**|**QUADRO: A Hybrid Quantum Optimization Framework for Drone Delivery**|James B. Holliday et.al.|[2503.24301](http://arxiv.org/abs/2503.24301)|null|
