@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-03**|**Multi-Head Adaptive Graph Convolution Network for Sparse Point Cloud-Based Human Activity Recognition**|Vincent Gbouna Zakka et.al.|[2504.02778](http://arxiv.org/abs/2504.02778)|**[link](https://github.com/Gbouna/MAK-GCN)**|
+|**2025-04-03**|**TailedCore: Few-Shot Sampling for Unsupervised Long-Tail Noisy Anomaly Detection**|Yoon Gyo Jung et.al.|[2504.02775](http://arxiv.org/abs/2504.02775)|null|
+|**2025-04-03**|**Scene Splatter: Momentum 3D Scene Generation from Single Image with Video Diffusion Model**|Shengjun Zhang et.al.|[2504.02764](http://arxiv.org/abs/2504.02764)|null|
+|**2025-04-03**|**HQViT: Hybrid Quantum Vision Transformer for Image Classification**|Hui Zhang et.al.|[2504.02730](http://arxiv.org/abs/2504.02730)|null|
+|**2025-04-03**|**A Scalable Synthesis Algorithm for Reversible Functions**|Moein Sarvaghad-Moghaddam et.al.|[2504.02632](http://arxiv.org/abs/2504.02632)|null|
+|**2025-04-03**|**Statistical parameter identification of mixed-mode patterns from a single experimental snapshot**|Alexey Kazarnikov et.al.|[2504.02530](http://arxiv.org/abs/2504.02530)|null|
+|**2025-04-03**|**VISTA: Unsupervised 2D Temporal Dependency Representations for Time Series Anomaly Detection**|Sinchee Chin et.al.|[2504.02498](http://arxiv.org/abs/2504.02498)|null|
+|**2025-04-03**|**Graph Attention-Driven Bayesian Deep Unrolling for Dual-Peak Single-Photon Lidar Imaging**|Kyungmin Choi et.al.|[2504.02480](http://arxiv.org/abs/2504.02480)|null|
+|**2025-04-03**|**Estimating Scene Flow in Robot Surroundings with Distributed Miniaturized Time-of-Flight Sensors**|Jack Sander et.al.|[2504.02439](http://arxiv.org/abs/2504.02439)|null|
+|**2025-04-03**|**Bayesian eco-evolutionary game dynamics**|Arunava Patra et.al.|[2504.02399](http://arxiv.org/abs/2504.02399)|null|
 |**2025-04-02**|**Review, Refine, Repeat: Understanding Iterative Decoding of AI Agents with Dynamic Evaluation and Selection**|Souradip Chakraborty et.al.|[2504.01931](http://arxiv.org/abs/2504.01931)|null|
 |**2025-04-02**|**TransforMerger: Transformer-based Voice-Gesture Fusion for Robust Human-Robot Communication**|Petr Vanc et.al.|[2504.01708](http://arxiv.org/abs/2504.01708)|null|
 |**2025-04-02**|**Semi-Supervised Biomedical Image Segmentation via Diffusion Models and Teacher-Student Co-Training**|Luca Ciampi et.al.|[2504.01547](http://arxiv.org/abs/2504.01547)|null|
