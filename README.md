@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-08**|**Hall Effect Thruster Forecasting using a Topological Approach for Data Assimilation**|Max M. Chumley et.al.|[2504.06157](http://arxiv.org/abs/2504.06157)|null|
+|**2025-04-08**|**AriaQuanta: A Quantum Software for Quantum Computing**|A. Cheraghi et.al.|[2504.06024](http://arxiv.org/abs/2504.06024)|null|
+|**2025-04-08**|**Memory-Modular Classification: Learning to Generalize with Memory Replacement**|Dahyun Kang et.al.|[2504.06021](http://arxiv.org/abs/2504.06021)|null|
+|**2025-04-08**|**Autoencoder-Based Detection of Anomalous Stokes V Spectra in the Flare-Producing Active Region 13663 Using Hinode/SP Observations**|Jargalmaa Batmunkh et.al.|[2504.05962](http://arxiv.org/abs/2504.05962)|null|
+|**2025-04-08**|**Mass-Spring Models for Passive Keyword Spotting: A Springtronics Approach**|Finn Bohte et.al.|[2504.05802](http://arxiv.org/abs/2504.05802)|null|
+|**2025-04-08**|**DDT: Decoupled Diffusion Transformer**|Shuai Wang et.al.|[2504.05741](http://arxiv.org/abs/2504.05741)|null|
+|**2025-04-08**|**Noisy Deep Ensemble: Accelerating Deep Ensemble Learning via Noise Injection**|Shunsuke Sakai et.al.|[2504.05677](http://arxiv.org/abs/2504.05677)|null|
+|**2025-04-08**|**Contraction and concentration of measures with applications to theoretical neuroscience**|Simone Betteti et.al.|[2504.05666](http://arxiv.org/abs/2504.05666)|null|
+|**2025-04-08**|**FedEFC: Federated Learning Using Enhanced Forward Correction Against Noisy Labels**|Seunghun Yu et.al.|[2504.05615](http://arxiv.org/abs/2504.05615)|null|
+|**2025-04-08**|**Assessing Teleportation of Logical Qubits in a Distributed Quantum Architecture under Error Correction**|John Stack et.al.|[2504.05611](http://arxiv.org/abs/2504.05611)|null|
 |**2025-04-07**|**AnomalousNet: A Hybrid Approach with Attention U-Nets and Change Point Detection for Accurate Characterization of Anomalous Diffusion in Video Data**|Yusef Ahsini et.al.|[2504.05271](http://arxiv.org/abs/2504.05271)|null|
 |**2025-04-07**|**From Sparse Signal to Smooth Motion: Real-Time Motion Generation with Rolling Prediction Models**|German Barquero et.al.|[2504.05265](http://arxiv.org/abs/2504.05265)|null|
 |**2025-04-07**|**PINNverse: Accurate parameter estimation in differential equations from noisy data with constrained physics-informed neural networks**|Marius Almanstötter et.al.|[2504.05248](http://arxiv.org/abs/2504.05248)|null|
