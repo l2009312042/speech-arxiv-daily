@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.09
+## Updated on 2025.04.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## KWS
@@ -19,7 +19,7 @@ layout: default
 |**2025-04-08**|**Memory-Modular Classification: Learning to Generalize with Memory Replacement**|Dahyun Kang et.al.|[2504.06021](http://arxiv.org/abs/2504.06021)|null|
 |**2025-04-08**|**Autoencoder-Based Detection of Anomalous Stokes V Spectra in the Flare-Producing Active Region 13663 Using Hinode/SP Observations**|Jargalmaa Batmunkh et.al.|[2504.05962](http://arxiv.org/abs/2504.05962)|null|
 |**2025-04-08**|**Mass-Spring Models for Passive Keyword Spotting: A Springtronics Approach**|Finn Bohte et.al.|[2504.05802](http://arxiv.org/abs/2504.05802)|null|
-|**2025-04-08**|**DDT: Decoupled Diffusion Transformer**|Shuai Wang et.al.|[2504.05741](http://arxiv.org/abs/2504.05741)|null|
+|**2025-04-09**|**DDT: Decoupled Diffusion Transformer**|Shuai Wang et.al.|[2504.05741](http://arxiv.org/abs/2504.05741)|null|
 |**2025-04-08**|**Noisy Deep Ensemble: Accelerating Deep Ensemble Learning via Noise Injection**|Shunsuke Sakai et.al.|[2504.05677](http://arxiv.org/abs/2504.05677)|null|
 |**2025-04-08**|**Contraction and concentration of measures with applications to theoretical neuroscience**|Simone Betteti et.al.|[2504.05666](http://arxiv.org/abs/2504.05666)|null|
 |**2025-04-08**|**FedEFC: Federated Learning Using Enhanced Forward Correction Against Noisy Labels**|Seunghun Yu et.al.|[2504.05615](http://arxiv.org/abs/2504.05615)|null|
