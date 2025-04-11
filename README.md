@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-10**|**Zero-Shot Low-dose CT Denoising via Sinogram Flicking**|Yongyi Shi et.al.|[2504.07927](http://arxiv.org/abs/2504.07927)|null|
+|**2025-04-10**|**Semantically Encoding Activity Labels for Context-Aware Human Activity Recognition**|Wen Ge et.al.|[2504.07916](http://arxiv.org/abs/2504.07916)|null|
+|**2025-04-10**|**Performance of Rank-One Tensor Approximation on Incomplete Data**|Hugo Lebeau et.al.|[2504.07818](http://arxiv.org/abs/2504.07818)|null|
+|**2025-04-10**|**Towards Micro-Action Recognition with Limited Annotations: An Asynchronous Pseudo Labeling and Training Approach**|Yan Zhang et.al.|[2504.07785](http://arxiv.org/abs/2504.07785)|null|
+|**2025-04-10**|**Filtering through a topological lens: homology for point processes on the time-frequency plane**|Juan Manuel Miramont et.al.|[2504.07720](http://arxiv.org/abs/2504.07720)|null|
+|**2025-04-10**|**Role of activity and dissipation in achieving precise beating in cilia: Insights from the rower model**|Subhajit Gupta et.al.|[2504.07681](http://arxiv.org/abs/2504.07681)|null|
+|**2025-04-10**|**Cross-Laplacians Based Topological Signal Processing over Cell MultiComplexes**|Stefania Sardellitti et.al.|[2504.07671](http://arxiv.org/abs/2504.07671)|null|
+|**2025-04-10**|**Robustness of Online Identification-based Policy Iteration to Noisy Data**|Bowen Song et.al.|[2504.07627](http://arxiv.org/abs/2504.07627)|null|
+|**2025-04-10**|**State Estimation Using Particle Filtering in Adaptive Machine Learning Methods: Integrating Q-Learning and NEAT Algorithms with Noisy Radar Measurements**|Wonjin Song et.al.|[2504.07393](http://arxiv.org/abs/2504.07393)|null|
+|**2025-04-10**|**Augmented Shuffle Protocols for Accurate and Robust Frequency Estimation under Differential Privacy**|Takao Murakami et.al.|[2504.07362](http://arxiv.org/abs/2504.07362)|null|
 |**2025-04-09**|**Machine Learning Approach towards Quantum Error Mitigation for Accurate Molecular Energetics**|Srushti Patil et.al.|[2504.07077](http://arxiv.org/abs/2504.07077)|null|
 |**2025-04-09**|**Quantum Reverse Shannon Theorem Revisited**|Zahra Baghali Khanian et.al.|[2504.07068](http://arxiv.org/abs/2504.07068)|null|
 |**2025-04-09**|**Harnessing non-equilibrium forces to optimize work extraction**|Kristian Stølevik Olsen et.al.|[2504.07049](http://arxiv.org/abs/2504.07049)|null|
