@@ -15,7 +15,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-04-10**|**Zero-Shot Low-dose CT Denoising via Sinogram Flicking**|Yongyi Shi et.al.|[2504.07927](http://arxiv.org/abs/2504.07927)|null|
-|**2025-04-10**|**Semantically Encoding Activity Labels for Context-Aware Human Activity Recognition**|Wen Ge et.al.|[2504.07916](http://arxiv.org/abs/2504.07916)|null|
+|**2025-04-10**|**Semantically Encoding Activity Labels for Context-Aware Human Activity Recognition**|Wen Ge et.al.|[2504.07916](http://arxiv.org/abs/2504.07916)|**[link](https://github.com/gmouyes/seal)**|
 |**2025-04-10**|**Performance of Rank-One Tensor Approximation on Incomplete Data**|Hugo Lebeau et.al.|[2504.07818](http://arxiv.org/abs/2504.07818)|null|
 |**2025-04-10**|**Towards Micro-Action Recognition with Limited Annotations: An Asynchronous Pseudo Labeling and Training Approach**|Yan Zhang et.al.|[2504.07785](http://arxiv.org/abs/2504.07785)|null|
 |**2025-04-10**|**Filtering through a topological lens: homology for point processes on the time-frequency plane**|Juan Manuel Miramont et.al.|[2504.07720](http://arxiv.org/abs/2504.07720)|null|
