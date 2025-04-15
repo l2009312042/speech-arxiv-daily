@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-14**|**Invariance Matters: Empowering Social Recommendation via Graph Invariant Learning**|Yonghui Yang et.al.|[2504.10432](http://arxiv.org/abs/2504.10432)|null|
+|**2025-04-14**|**Teacher Motion Priors: Enhancing Robot Locomotion over Challenging Terrain**|Fangcheng Jin et.al.|[2504.10390](http://arxiv.org/abs/2504.10390)|null|
+|**2025-04-14**|**Noise2Ghost: Self-supervised deep convolutional reconstruction for ghost imaging**|Mathieu Manni et.al.|[2504.10288](http://arxiv.org/abs/2504.10288)|null|
+|**2025-04-14**|**DiffMOD: Progressive Diffusion Point Denoising for Moving Object Detection in Remote Sensing**|Jinyue Zhang et.al.|[2504.10278](http://arxiv.org/abs/2504.10278)|null|
+|**2025-04-14**|**Exponentially Decaying Quantum Simulation Error with Noisy Devices**|Jue Xu et.al.|[2504.10247](http://arxiv.org/abs/2504.10247)|null|
+|**2025-04-14**|**WG-IDENT: Weak Group Identification of PDEs with Varying Coefficients**|Cheng Tang et.al.|[2504.10212](http://arxiv.org/abs/2504.10212)|null|
+|**2025-04-14**|**Differentially Private 2D Human Pose Estimation**|Kaushik Bhargav Sivangi et.al.|[2504.10190](http://arxiv.org/abs/2504.10190)|null|
+|**2025-04-14**|**Unleashing Expert Opinion from Social Media for Stock Prediction**|Wanyun Zhou et.al.|[2504.10078](http://arxiv.org/abs/2504.10078)|null|
+|**2025-04-14**|**Luminis Stellarum et Machina: Applications of Machine Learning in Light Curve Analysis**|Almat Akhmetali et.al.|[2504.10038](http://arxiv.org/abs/2504.10038)|null|
+|**2025-04-14**|**DataMosaic: Explainable and Verifiable Multi-Modal Data Analytics through Extract-Reason-Verify**|Zhengxuan Zhang et.al.|[2504.10036](http://arxiv.org/abs/2504.10036)|null|
 |**2025-04-11**|**Quantum Large Language Model Fine-Tuning**|Sang Hyub Kim et.al.|[2504.08732](http://arxiv.org/abs/2504.08732)|null|
 |**2025-04-11**|**TP-RAG: Benchmarking Retrieval-Augmented Large Language Model Agents for Spatiotemporal-Aware Travel Planning**|Hang Ni et.al.|[2504.08694](http://arxiv.org/abs/2504.08694)|null|
 |**2025-04-11**|**Title block detection and information extraction for enhanced building drawings search**|Alessio Lombardi et.al.|[2504.08645](http://arxiv.org/abs/2504.08645)|null|
