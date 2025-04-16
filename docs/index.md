@@ -14,6 +14,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-15**|**A deep dive into the interplay of structured quantum peaked circuits and infinite temperature correlation functions**|Myeongsu Kim et.al.|[2504.11240](http://arxiv.org/abs/2504.11240)|null|
+|**2025-04-15**|**A Real-time Anomaly Detection Method for Robots based on a Flexible and Sparse Latent Space**|Taewook Kang et.al.|[2504.11170](http://arxiv.org/abs/2504.11170)|null|
+|**2025-04-15**|**Q-Cluster: Quantum Error Mitigation Through Noise-Aware Unsupervised Learning**|Hrushikesh Pramod Patil et.al.|[2504.10801](http://arxiv.org/abs/2504.10801)|null|
+|**2025-04-15**|**SonicSieve: Bringing Directional Speech Extraction to Smartphones Using Acoustic Microstructures**|Kuang Yuan et.al.|[2504.10793](http://arxiv.org/abs/2504.10793)|null|
+|**2025-04-14**|**Shuttling Majorana zero modes in disordered and noisy topological superconductors**|Bill P. Truong et.al.|[2504.10749](http://arxiv.org/abs/2504.10749)|null|
+|**2025-04-14**|**Leveraging Deep Operator Networks (DeepONet) for Acoustic Full Waveform Inversion (FWI)**|Kamaljyoti Nath et.al.|[2504.10720](http://arxiv.org/abs/2504.10720)|null|
+|**2025-04-14**|**Enhancing Document Retrieval for Curating N-ary Relations in Knowledge Bases**|Xing David Wang et.al.|[2504.10613](http://arxiv.org/abs/2504.10613)|null|
 |**2025-04-14**|**Invariance Matters: Empowering Social Recommendation via Graph Invariant Learning**|Yonghui Yang et.al.|[2504.10432](http://arxiv.org/abs/2504.10432)|null|
 |**2025-04-14**|**Teacher Motion Priors: Enhancing Robot Locomotion over Challenging Terrain**|Fangcheng Jin et.al.|[2504.10390](http://arxiv.org/abs/2504.10390)|null|
 |**2025-04-14**|**Noise2Ghost: Self-supervised deep convolutional reconstruction for ghost imaging**|Mathieu Manni et.al.|[2504.10288](http://arxiv.org/abs/2504.10288)|null|
