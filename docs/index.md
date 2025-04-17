@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.16
+## Updated on 2025.04.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## KWS
@@ -15,8 +15,8 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-04-15**|**A deep dive into the interplay of structured quantum peaked circuits and infinite temperature correlation functions**|Myeongsu Kim et.al.|[2504.11240](http://arxiv.org/abs/2504.11240)|null|
-|**2025-04-15**|**A Real-time Anomaly Detection Method for Robots based on a Flexible and Sparse Latent Space**|Taewook Kang et.al.|[2504.11170](http://arxiv.org/abs/2504.11170)|null|
-|**2025-04-15**|**Q-Cluster: Quantum Error Mitigation Through Noise-Aware Unsupervised Learning**|Hrushikesh Pramod Patil et.al.|[2504.10801](http://arxiv.org/abs/2504.10801)|null|
+|**2025-04-16**|**A Real-time Anomaly Detection Method for Robots based on a Flexible and Sparse Latent Space**|Taewook Kang et.al.|[2504.11170](http://arxiv.org/abs/2504.11170)|null|
+|**2025-04-15**|**Q-Cluster: Quantum Error Mitigation Through Noise-Aware Unsupervised Learning**|Hrushikesh Pramod Patil et.al.|[2504.10801](http://arxiv.org/abs/2504.10801)|**[link](https://github.com/hrushikesh890/q-cluster)**|
 |**2025-04-15**|**SonicSieve: Bringing Directional Speech Extraction to Smartphones Using Acoustic Microstructures**|Kuang Yuan et.al.|[2504.10793](http://arxiv.org/abs/2504.10793)|null|
 |**2025-04-14**|**Shuttling Majorana zero modes in disordered and noisy topological superconductors**|Bill P. Truong et.al.|[2504.10749](http://arxiv.org/abs/2504.10749)|null|
 |**2025-04-14**|**Leveraging Deep Operator Networks (DeepONet) for Acoustic Full Waveform Inversion (FWI)**|Kamaljyoti Nath et.al.|[2504.10720](http://arxiv.org/abs/2504.10720)|null|

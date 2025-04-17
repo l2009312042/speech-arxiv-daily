@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.16
+## Updated on 2025.04.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,8 +18,8 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-04-15**|**A deep dive into the interplay of structured quantum peaked circuits and infinite temperature correlation functions**|Myeongsu Kim et.al.|[2504.11240](http://arxiv.org/abs/2504.11240)|null|
-|**2025-04-15**|**A Real-time Anomaly Detection Method for Robots based on a Flexible and Sparse Latent Space**|Taewook Kang et.al.|[2504.11170](http://arxiv.org/abs/2504.11170)|null|
-|**2025-04-15**|**Q-Cluster: Quantum Error Mitigation Through Noise-Aware Unsupervised Learning**|Hrushikesh Pramod Patil et.al.|[2504.10801](http://arxiv.org/abs/2504.10801)|null|
+|**2025-04-16**|**A Real-time Anomaly Detection Method for Robots based on a Flexible and Sparse Latent Space**|Taewook Kang et.al.|[2504.11170](http://arxiv.org/abs/2504.11170)|null|
+|**2025-04-15**|**Q-Cluster: Quantum Error Mitigation Through Noise-Aware Unsupervised Learning**|Hrushikesh Pramod Patil et.al.|[2504.10801](http://arxiv.org/abs/2504.10801)|**[link](https://github.com/hrushikesh890/q-cluster)**|
 |**2025-04-15**|**SonicSieve: Bringing Directional Speech Extraction to Smartphones Using Acoustic Microstructures**|Kuang Yuan et.al.|[2504.10793](http://arxiv.org/abs/2504.10793)|null|
 |**2025-04-14**|**Shuttling Majorana zero modes in disordered and noisy topological superconductors**|Bill P. Truong et.al.|[2504.10749](http://arxiv.org/abs/2504.10749)|null|
 |**2025-04-14**|**Leveraging Deep Operator Networks (DeepONet) for Acoustic Full Waveform Inversion (FWI)**|Kamaljyoti Nath et.al.|[2504.10720](http://arxiv.org/abs/2504.10720)|null|
@@ -1934,7 +1934,7 @@
 |**2024-05-03**|**A Class of Numerical Semigroups Defined by Kunz and Waldi**|Srishti Singh et.al.|[2405.00331](http://arxiv.org/abs/2405.00331)|null|
 |**2024-04-26**|**Machine Learning based prediction of Vanadium Redox Flow Battery temperature rise under different charge-discharge conditions**|Anirudh Narayan D et.al.|[2404.17284](http://arxiv.org/abs/2404.17284)|null|
 
-<p align=right>(<a href=#updated-on-20250416>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250417>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
