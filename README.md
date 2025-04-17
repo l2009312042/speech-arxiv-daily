@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-16**|**Liouvillean Spectral Transition in Noisy Quantum Many-Body Scars**|Jin-Lou Ma et.al.|[2504.12291](http://arxiv.org/abs/2504.12291)|null|
+|**2025-04-16**|**Towards a General-Purpose Zero-Shot Synthetic Low-Light Image and Video Pipeline**|Joanne Lin et.al.|[2504.12169](http://arxiv.org/abs/2504.12169)|null|
+|**2025-04-16**|**Dynamics of localized states in the stochastic discrete nonlinear Schrödinger equation**|Mahdieh Ebrahimi et.al.|[2504.12130](http://arxiv.org/abs/2504.12130)|null|
+|**2025-04-16**|**Max-Cut graph-driven quantum circuit design for planar spin glasses**|Seyed Ehsan Ghasempouri et.al.|[2504.12096](http://arxiv.org/abs/2504.12096)|null|
+|**2025-04-16**|**AttentionDrop: A Novel Regularization Method for Transformer Models**|Mirza Samad Ahmed Baig et.al.|[2504.12088](http://arxiv.org/abs/2504.12088)|null|
+|**2025-04-16**|**Exploring Video-Based Driver Activity Recognition under Noisy Labels**|Linjuan Fan et.al.|[2504.11966](http://arxiv.org/abs/2504.11966)|null|
+|**2025-04-16**|**Flow Intelligence: Robust Feature Matching via Temporal Signature Correlation**|Jie Wang et.al.|[2504.11949](http://arxiv.org/abs/2504.11949)|null|
+|**2025-04-16**|**Estimation and inference in error-in-operator model**|Vladimir Spokoiny et.al.|[2504.11834](http://arxiv.org/abs/2504.11834)|null|
+|**2025-04-16**|**Advancing quantum simulations of nuclear shell model with noise-resilient protocols**|Nifeeya Singh et.al.|[2504.11689](http://arxiv.org/abs/2504.11689)|null|
+|**2025-04-16**|**Quantum simulations of nuclear resonances with variational methods**|Ashutosh Singh et.al.|[2504.11685](http://arxiv.org/abs/2504.11685)|null|
 |**2025-04-15**|**A deep dive into the interplay of structured quantum peaked circuits and infinite temperature correlation functions**|Myeongsu Kim et.al.|[2504.11240](http://arxiv.org/abs/2504.11240)|null|
 |**2025-04-16**|**A Real-time Anomaly Detection Method for Robots based on a Flexible and Sparse Latent Space**|Taewook Kang et.al.|[2504.11170](http://arxiv.org/abs/2504.11170)|null|
 |**2025-04-15**|**Q-Cluster: Quantum Error Mitigation Through Noise-Aware Unsupervised Learning**|Hrushikesh Pramod Patil et.al.|[2504.10801](http://arxiv.org/abs/2504.10801)|**[link](https://github.com/hrushikesh890/q-cluster)**|
