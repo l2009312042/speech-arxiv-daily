@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-17**|**Energy-Based Reward Models for Robust Language Model Alignment**|Anamika Lochab et.al.|[2504.13134](http://arxiv.org/abs/2504.13134)|null|
+|**2025-04-17**|**Retrieval-Augmented Generation with Conflicting Evidence**|Han Wang et.al.|[2504.13079](http://arxiv.org/abs/2504.13079)|null|
+|**2025-04-17**|**NoisyRollout: Reinforcing Visual Reasoning with Data Augmentation**|Xiangyan Liu et.al.|[2504.13055](http://arxiv.org/abs/2504.13055)|null|
+|**2025-04-17**|**Maximum Information Extraction From Noisy Data Via Shannon Entropy Minimization**|Matteo Becchi et.al.|[2504.12990](http://arxiv.org/abs/2504.12990)|null|
+|**2025-04-17**|**Computing $n$ -time correlation functions without ancilla qubits**|Xiaoyang Wang et.al.|[2504.12975](http://arxiv.org/abs/2504.12975)|null|
+|**2025-04-17**|**Incorporating a Deep Neural Network into Moving Horizon Estimation for Embedded Thermal Torque Derating of an Electric Machine**|Alexander Winkler et.al.|[2504.12736](http://arxiv.org/abs/2504.12736)|null|
+|**2025-04-17**|**Quantum circuit synthesis with qudit phase gadget method**|Shuai Yang et.al.|[2504.12710](http://arxiv.org/abs/2504.12710)|null|
+|**2025-04-17**|**Spike-Kal: A Spiking Neuron Network Assisted Kalman Filter**|Xun Xiao et.al.|[2504.12703](http://arxiv.org/abs/2504.12703)|null|
+|**2025-04-17**|**Sampling-based Quantum Optimization Algorithm with Quantum Relaxation**|Hiromichi Matsuyama et.al.|[2504.12629](http://arxiv.org/abs/2504.12629)|null|
+|**2025-04-17**|**ChemKANs for Combustion Chemistry Modeling and Acceleration**|Benjamin C. Koenig et.al.|[2504.12580](http://arxiv.org/abs/2504.12580)|null|
 |**2025-04-16**|**Liouvillean Spectral Transition in Noisy Quantum Many-Body Scars**|Jin-Lou Ma et.al.|[2504.12291](http://arxiv.org/abs/2504.12291)|null|
 |**2025-04-16**|**Towards a General-Purpose Zero-Shot Synthetic Low-Light Image and Video Pipeline**|Joanne Lin et.al.|[2504.12169](http://arxiv.org/abs/2504.12169)|null|
 |**2025-04-17**|**Dynamics of localized states in the stochastic discrete nonlinear Schrödinger equation**|Mahdieh Ebrahimi et.al.|[2504.12130](http://arxiv.org/abs/2504.12130)|null|
