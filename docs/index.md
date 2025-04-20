@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.19
+## Updated on 2025.04.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## KWS
@@ -15,7 +15,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-04-17**|**Energy-Based Reward Models for Robust Language Model Alignment**|Anamika Lochab et.al.|[2504.13134](http://arxiv.org/abs/2504.13134)|null|
-|**2025-04-17**|**Retrieval-Augmented Generation with Conflicting Evidence**|Han Wang et.al.|[2504.13079](http://arxiv.org/abs/2504.13079)|null|
+|**2025-04-17**|**Retrieval-Augmented Generation with Conflicting Evidence**|Han Wang et.al.|[2504.13079](http://arxiv.org/abs/2504.13079)|**[link](https://github.com/hannight/ramdocs)**|
 |**2025-04-17**|**NoisyRollout: Reinforcing Visual Reasoning with Data Augmentation**|Xiangyan Liu et.al.|[2504.13055](http://arxiv.org/abs/2504.13055)|null|
 |**2025-04-17**|**Maximum Information Extraction From Noisy Data Via Shannon Entropy Minimization**|Matteo Becchi et.al.|[2504.12990](http://arxiv.org/abs/2504.12990)|null|
 |**2025-04-17**|**Computing $n$ -time correlation functions without ancilla qubits**|Xiaoyang Wang et.al.|[2504.12975](http://arxiv.org/abs/2504.12975)|null|
