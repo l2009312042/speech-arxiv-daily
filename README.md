@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.22
+## Updated on 2025.04.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -20,7 +20,7 @@
 |**2025-04-21**|**Broadband Fourier transform spectroscopy of quantum emitters photoluminescence with sub-nanosecond temporal resolution**|Issam Belgacem et.al.|[2504.15258](http://arxiv.org/abs/2504.15258)|null|
 |**2025-04-21**|**A General Infrastructure and Workflow for Quadrotor Deep Reinforcement Learning and Reality Deployment**|Kangyao Huang et.al.|[2504.15129](http://arxiv.org/abs/2504.15129)|null|
 |**2025-04-21**|**Efficient simulation of Clifford circuits with small Markovian errors**|Ashe Miller et.al.|[2504.15128](http://arxiv.org/abs/2504.15128)|null|
-|**2025-04-21**|**VistaDepth: Frequency Modulation With Bias Reweighting For Enhanced Long-Range Depth Estimation**|Mingxia Zhan et.al.|[2504.15095](http://arxiv.org/abs/2504.15095)|null|
+|**2025-04-22**|**VistaDepth: Frequency Modulation With Bias Reweighting For Enhanced Long-Range Depth Estimation**|Mingxia Zhan et.al.|[2504.15095](http://arxiv.org/abs/2504.15095)|null|
 |**2025-04-21**|**Mitigating Degree Bias in Graph Representation Learning with Learnable Structural Augmentation and Structural Self-Attention**|Van Thuy Hoang et.al.|[2504.15075](http://arxiv.org/abs/2504.15075)|null|
 |**2025-04-21**|**Structure-guided Diffusion Transformer for Low-Light Image Enhancement**|Xiangchen Yin et.al.|[2504.15054](http://arxiv.org/abs/2504.15054)|null|
 |**2025-04-21**|**Bridge the Gap: From Weak to Full Supervision for Temporal Action Localization with PseudoFormer**|Ziyi Liu et.al.|[2504.14860](http://arxiv.org/abs/2504.14860)|null|
@@ -1974,7 +1974,7 @@
 |**2024-05-03**|**A Class of Numerical Semigroups Defined by Kunz and Waldi**|Srishti Singh et.al.|[2405.00331](http://arxiv.org/abs/2405.00331)|null|
 |**2024-04-26**|**Machine Learning based prediction of Vanadium Redox Flow Battery temperature rise under different charge-discharge conditions**|Anirudh Narayan D et.al.|[2404.17284](http://arxiv.org/abs/2404.17284)|null|
 
-<p align=right>(<a href=#updated-on-20250422>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250423>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
