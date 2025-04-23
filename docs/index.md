@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-22**|**Intent-aware Diffusion with Contrastive Learning for Sequential Recommendation**|Yuanpeng Qu et.al.|[2504.16077](http://arxiv.org/abs/2504.16077)|null|
+|**2025-04-22**|**Reconstruction of source function in a parabolic equation using partial boundary measurements**|T. Sharma et.al.|[2504.16070](http://arxiv.org/abs/2504.16070)|null|
+|**2025-04-22**|**Real-time raw signal genomic analysis using fully integrated memristor hardware**|Peiyi He et.al.|[2504.15934](http://arxiv.org/abs/2504.15934)|null|
+|**2025-04-22**|**Characterization and ex vivo application of flexible 2D scintillating coatings in ultra-high dose rate electron beams for FLASH radiotherapy**|Verdi Vanreusel et.al.|[2504.15824](http://arxiv.org/abs/2504.15824)|null|
+|**2025-04-22**|**Lattice surgery-based logical state teleportation via noisy links**|Áron Márton et.al.|[2504.15747](http://arxiv.org/abs/2504.15747)|null|
+|**2025-04-22**|**From predictions to confidence intervals: an empirical study of conformal prediction methods for in-context learning**|Zhe Huang et.al.|[2504.15722](http://arxiv.org/abs/2504.15722)|null|
+|**2025-04-22**|**Entanglement-enhanced randomized measurement in noisy quantum devices**|Gyungmin Cho et.al.|[2504.15698](http://arxiv.org/abs/2504.15698)|null|
+|**2025-04-22**|**LLM-based Semantic Augmentation for Harmful Content Detection**|Elyas Meguellati et.al.|[2504.15548](http://arxiv.org/abs/2504.15548)|null|
+|**2025-04-21**|**A dual-stage constitutive modeling framework based on finite strain data-driven identification and physics-augmented neural networks**|Lennart Linden et.al.|[2504.15492](http://arxiv.org/abs/2504.15492)|null|
+|**2025-04-21**|**Speculative Sampling via Exponential Races**|Szymon Kobus et.al.|[2504.15475](http://arxiv.org/abs/2504.15475)|null|
 |**2025-04-21**|**Broadband Fourier transform spectroscopy of quantum emitters photoluminescence with sub-nanosecond temporal resolution**|Issam Belgacem et.al.|[2504.15258](http://arxiv.org/abs/2504.15258)|null|
 |**2025-04-21**|**A General Infrastructure and Workflow for Quadrotor Deep Reinforcement Learning and Reality Deployment**|Kangyao Huang et.al.|[2504.15129](http://arxiv.org/abs/2504.15129)|null|
 |**2025-04-21**|**Efficient simulation of Clifford circuits with small Markovian errors**|Ashe Miller et.al.|[2504.15128](http://arxiv.org/abs/2504.15128)|null|
