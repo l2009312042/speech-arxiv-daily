@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-23**|**Distributed Unknown Input Observers for Discrete-Time Linear Time-Invariant Systems**|Franco Angelo Torchiaro et.al.|[2504.16815](http://arxiv.org/abs/2504.16815)|null|
+|**2025-04-23**|**Noise-Tolerant Coreset-Based Class Incremental Continual Learning**|Edison Mucllari et.al.|[2504.16763](http://arxiv.org/abs/2504.16763)|null|
+|**2025-04-23**|**Partial orders and contraction for BISO channels**|Christoph Hirche et.al.|[2504.16726](http://arxiv.org/abs/2504.16726)|null|
+|**2025-04-23**|**On the Asymptotic MSE-Optimality of Parametric Bayesian Channel Estimation in mmWave Systems**|Franz Weißer et.al.|[2504.16710](http://arxiv.org/abs/2504.16710)|null|
+|**2025-04-23**|**Resource Reduction in Multiparty Quantum Secret Sharing of both Classical and Quantum Information under Noisy Scenario**|Nirupam Basak et.al.|[2504.16709](http://arxiv.org/abs/2504.16709)|null|
+|**2025-04-23**|**Data-Assimilated Model-Based Reinforcement Learning for Partially Observed Chaotic Flows**|Defne E. Ozan et.al.|[2504.16588](http://arxiv.org/abs/2504.16588)|null|
+|**2025-04-23**|**Enhancing Variable Selection in Large-scale Logistic Regression: Leveraging Manual Labeling with Beneficial Noise**|Xiaofei Wu et.al.|[2504.16585](http://arxiv.org/abs/2504.16585)|null|
+|**2025-04-23**|**Performance Analysis of MDI-QKD in Thermal-Loss and Phase Noise Channels**|Heyang Peng et.al.|[2504.16561](http://arxiv.org/abs/2504.16561)|null|
+|**2025-04-23**|**Preconditioning Natural and Second Order Gradient Descent in Quantum Optimization: A Performance Benchmark**|Théo Lisart-Liebermann et.al.|[2504.16518](http://arxiv.org/abs/2504.16518)|null|
+|**2025-04-23**|**LiDAL-Assisted RLNC-NOMA in OWC Systems**|Ahmed A. Hassan et.al.|[2504.16498](http://arxiv.org/abs/2504.16498)|null|
 |**2025-04-22**|**Intent-aware Diffusion with Contrastive Learning for Sequential Recommendation**|Yuanpeng Qu et.al.|[2504.16077](http://arxiv.org/abs/2504.16077)|null|
 |**2025-04-22**|**Reconstruction of source function in a parabolic equation using partial boundary measurements**|T. Sharma et.al.|[2504.16070](http://arxiv.org/abs/2504.16070)|null|
 |**2025-04-22**|**Real-time raw signal genomic analysis using fully integrated memristor hardware**|Peiyi He et.al.|[2504.15934](http://arxiv.org/abs/2504.15934)|null|
