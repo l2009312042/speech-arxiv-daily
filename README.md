@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-25**|**Iterative Event-based Motion Segmentation by Variational Contrast Maximization**|Ryo Yamaki et.al.|[2504.18447](http://arxiv.org/abs/2504.18447)|null|
+|**2025-04-25**|**CHSH Violations using Dynamic Circuits**|Jean-Baptiste Waring et.al.|[2504.18429](http://arxiv.org/abs/2504.18429)|null|
+|**2025-04-25**|**Achievable Rates and Error Probability Bounds of Frequency-based Channels of Unlimited Input Resolution**|Ran Tamir et.al.|[2504.18364](http://arxiv.org/abs/2504.18364)|null|
+|**2025-04-25**|**Evaluation of the Automatic Classifier AutoSense Sky OS for Pediatric Cochlear Implant Users using a Virtual Classroom Environment**|Maartje M. E. Hendrikse et.al.|[2504.18343](http://arxiv.org/abs/2504.18343)|null|
+|**2025-04-25**|**Parallelized Givens Ansatz for Molecular ground-states: Bridging Accuracy and Efficiency on NISQ Platforms**|M. R. Nirmal et.al.|[2504.18264](http://arxiv.org/abs/2504.18264)|null|
+|**2025-04-25**|**Multiple Target Tracking Using a UAV Swarm in Maritime Environments**|Andreas Anastasiou et.al.|[2504.18153](http://arxiv.org/abs/2504.18153)|null|
+|**2025-04-25**|**Controlled-Quantum secure remote sensing**|Muhammad Talha Rahim et.al.|[2504.18102](http://arxiv.org/abs/2504.18102)|null|
+|**2025-04-25**|**A Noise-Robust Model-Based Approach to T-Wave Amplitude Measurement and Alternans Detection**|Zuzana Koscova et.al.|[2504.18101](http://arxiv.org/abs/2504.18101)|null|
+|**2025-04-25**|**Efficient witnessing and testing of magic in mixed quantum states**|Tobias Haug et.al.|[2504.18098](http://arxiv.org/abs/2504.18098)|null|
+|**2025-04-25**|**Assessing the Utility of Audio Foundation Models for Heart and Respiratory Sound Analysis**|Daisuke Niizumi et.al.|[2504.18004](http://arxiv.org/abs/2504.18004)|null|
 |**2025-04-24**|**Inverse problem in the LaMET framework**|Hervé Dutrieux et.al.|[2504.17706](http://arxiv.org/abs/2504.17706)|null|
 |**2025-04-24**|**Self-Supervised Noise Adaptive MRI Denoising via Repetition to Repetition (Rep2Rep) Learning**|Nikola Janjušević et.al.|[2504.17698](http://arxiv.org/abs/2504.17698)|null|
 |**2025-04-24**|**BIM-Constrained Optimization for Accurate Localization and Deviation Correction in Construction Monitoring**|Asier Bikandi et.al.|[2504.17693](http://arxiv.org/abs/2504.17693)|null|
