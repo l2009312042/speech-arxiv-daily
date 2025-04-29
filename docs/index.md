@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-28**|**Kinodynamic Trajectory Following with STELA: Simultaneous Trajectory Estimation & Local Adaptation**|Edgar Granados et.al.|[2504.20009](http://arxiv.org/abs/2504.20009)|null|
+|**2025-04-28**|**Distributed Reconstruction from Compressive Measurements: Nonconvexity and Heterogeneity**|Erbo Li Qi Qin et.al.|[2504.19919](http://arxiv.org/abs/2504.19919)|null|
+|**2025-04-28**|**Fiber laser based stimulated Raman photothermal microscopy with long working distance optics**|Xiaowei Ge et.al.|[2504.19875](http://arxiv.org/abs/2504.19875)|null|
+|**2025-04-28**|**Factorization of multimeters: a unified view on nonclassical quantum phenomena**|Tim Achenbach et.al.|[2504.19865](http://arxiv.org/abs/2504.19865)|null|
+|**2025-04-28**|**Efficient quantum state preparation through seniority driven operator selection**|Dipanjali Halder et.al.|[2504.19760](http://arxiv.org/abs/2504.19760)|null|
+|**2025-04-28**|**EcoWikiRS: Learning Ecological Representation of Satellite Images from Weak Supervision with Species Observations and Wikipedia**|Valerie Zermatten et.al.|[2504.19742](http://arxiv.org/abs/2504.19742)|null|
+|**2025-04-28**|**RepText: Rendering Visual Text via Replicating**|Haofan Wang et.al.|[2504.19724](http://arxiv.org/abs/2504.19724)|null|
+|**2025-04-28**|**Pixels2Points: Fusing 2D and 3D Features for Facial Skin Segmentation**|Victoria Yue Chen et.al.|[2504.19718](http://arxiv.org/abs/2504.19718)|null|
+|**2025-04-28**|**Hardware/Software Co-Design of RISC-V Extensions for Accelerating Sparse DNNs on FPGAs**|Muhammad Sabih et.al.|[2504.19659](http://arxiv.org/abs/2504.19659)|null|
+|**2025-04-28**|**Transformation & Translation Occupancy Grid Mapping: 2-Dimensional Deep Learning Refined SLAM**|Leon Davies et.al.|[2504.19654](http://arxiv.org/abs/2504.19654)|null|
 |**2025-04-25**|**Iterative Event-based Motion Segmentation by Variational Contrast Maximization**|Ryo Yamaki et.al.|[2504.18447](http://arxiv.org/abs/2504.18447)|null|
 |**2025-04-25**|**CHSH Violations using Dynamic Circuits**|Jean-Baptiste Waring et.al.|[2504.18429](http://arxiv.org/abs/2504.18429)|null|
 |**2025-04-25**|**Achievable Rates and Error Probability Bounds of Frequency-based Channels of Unlimited Input Resolution**|Ran Tamir et.al.|[2504.18364](http://arxiv.org/abs/2504.18364)|null|
