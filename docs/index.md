@@ -14,6 +14,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-29**|**Language Model for Large-Text Transmission in Noisy Quantum Communications**|Yuqi Li et.al.|[2504.20842](http://arxiv.org/abs/2504.20842)|null|
+|**2025-04-29**|**RadSAM: Segmenting 3D radiological images with a 2D promptable model**|Julien Khlaut et.al.|[2504.20837](http://arxiv.org/abs/2504.20837)|null|
+|**2025-04-29**|**Variational Quantum Simulation of the Interacting Schwinger Model on a Trapped-Ion Quantum Processor**|Christian Melzer et.al.|[2504.20824](http://arxiv.org/abs/2504.20824)|null|
+|**2025-04-29**|**Q-Fusion: Diffusing Quantum Circuits**|Collin Beaudoin et.al.|[2504.20794](http://arxiv.org/abs/2504.20794)|null|
+|**2025-04-29**|**SNR-aware Semantic Image Transmission with Deep Learning-based Channel Estimation in Fading Channels**|Mahmoud M. Salim et.al.|[2504.20557](http://arxiv.org/abs/2504.20557)|null|
+|**2025-04-29**|**Enhancing Binary Search via Overlapping Partitions**|Kaan Buyukkalayci et.al.|[2504.20513](http://arxiv.org/abs/2504.20513)|null|
+|**2025-04-28**|**Image Interpolation with Score-based Riemannian Metrics of Diffusion Models**|Shinnosuke Saito et.al.|[2504.20288](http://arxiv.org/abs/2504.20288)|null|
 |**2025-04-28**|**Kinodynamic Trajectory Following with STELA: Simultaneous Trajectory Estimation & Local Adaptation**|Edgar Granados et.al.|[2504.20009](http://arxiv.org/abs/2504.20009)|null|
 |**2025-04-28**|**Distributed Reconstruction from Compressive Measurements: Nonconvexity and Heterogeneity**|Erbo Li Qi Qin et.al.|[2504.19919](http://arxiv.org/abs/2504.19919)|null|
 |**2025-04-28**|**Fiber laser based stimulated Raman photothermal microscopy with long working distance optics**|Xiaowei Ge et.al.|[2504.19875](http://arxiv.org/abs/2504.19875)|null|
