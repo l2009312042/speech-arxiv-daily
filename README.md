@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-30**|**Classical capacities under physical constraints: More capacity with less entanglement**|Sudipta Mondal et.al.|[2504.21748](http://arxiv.org/abs/2504.21748)|null|
+|**2025-04-30**|**Uncertainty, bias and the institution bootstrapping problem**|Stavros Anagnou et.al.|[2504.21579](http://arxiv.org/abs/2504.21579)|null|
+|**2025-04-30**|**Quaternion Nuclear Norms Over Frobenius Norms Minimization for Robust Matrix Completion**|Yu Guo et.al.|[2504.21468](http://arxiv.org/abs/2504.21468)|null|
+|**2025-04-30**|**A microwave-activated high-fidelity three-qubit gate scheme for fixed-frequency superconducting qubits**|Kui Zhao et.al.|[2504.21346](http://arxiv.org/abs/2504.21346)|null|
+|**2025-04-30**|**Efficient hybrid variational quantum algorithm for solving graph coloring problem**|Dongmei Liu et.al.|[2504.21335](http://arxiv.org/abs/2504.21335)|null|
+|**2025-04-30**|**Text-Conditioned Diffusion Model for High-Fidelity Korean Font Generation**|Abdul Sami et.al.|[2504.21325](http://arxiv.org/abs/2504.21325)|null|
+|**2025-04-30**|**Talk Before You Retrieve: Agent-Led Discussions for Better RAG in Medical QA**|Xuanzhao Dong et.al.|[2504.21252](http://arxiv.org/abs/2504.21252)|null|
+|**2025-04-29**|**A Koopman Operator-based NMPC Framework for Mobile Robot Navigation under Uncertainty**|Xiaobin Zhang et.al.|[2504.21215](http://arxiv.org/abs/2504.21215)|null|
+|**2025-04-29**|**Iceberg Beyond the Tip: Co-Compilation of a Quantum Error Detection Code and a Quantum Algorithm**|Yuwei Jin et.al.|[2504.21172](http://arxiv.org/abs/2504.21172)|null|
+|**2025-04-29**|**QAOA Parameter Transferability for Maximum Independent Set using Graph Attention Networks**|Hanjing Xu et.al.|[2504.21135](http://arxiv.org/abs/2504.21135)|null|
 |**2025-04-29**|**Language Model for Large-Text Transmission in Noisy Quantum Communications**|Yuqi Li et.al.|[2504.20842](http://arxiv.org/abs/2504.20842)|null|
 |**2025-04-29**|**RadSAM: Segmenting 3D radiological images with a 2D promptable model**|Julien Khlaut et.al.|[2504.20837](http://arxiv.org/abs/2504.20837)|null|
 |**2025-04-29**|**Variational Quantum Simulation of the Interacting Schwinger Model on a Trapped-Ion Quantum Processor**|Christian Melzer et.al.|[2504.20824](http://arxiv.org/abs/2504.20824)|null|
