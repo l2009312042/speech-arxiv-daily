@@ -14,6 +14,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-01**|**GeoDEx: A Unified Geometric Framework for Tactile Dexterous and Extrinsic Manipulation under Force Uncertainty**|Sirui Chen et.al.|[2505.00647](http://arxiv.org/abs/2505.00647)|null|
+|**2025-05-01**|**Error Exponents for Oblivious Relaying and Connections to Source Coding with a Helper**|Han Wu et.al.|[2505.00567](http://arxiv.org/abs/2505.00567)|null|
+|**2025-05-01**|**Simplified Fermionic Scattering State Preparation for the NISQ Era**|Michael Hite et.al.|[2505.00476](http://arxiv.org/abs/2505.00476)|null|
+|**2025-05-01**|**Selling Information in Games with Externalities**|Thomas Falconer et.al.|[2505.00405](http://arxiv.org/abs/2505.00405)|null|
+|**2025-04-30**|**Stereo X-ray tomography on deformed object tracking**|Zhenduo Shang et.al.|[2505.00122](http://arxiv.org/abs/2505.00122)|null|
+|**2025-04-30**|**Quantum-inspired exoplanet detection in the presence of experimental imperfections**|Tomasz Linowski et.al.|[2505.00064](http://arxiv.org/abs/2505.00064)|null|
 |**2025-04-30**|**Classical capacities under physical constraints: More capacity with less entanglement**|Sudipta Mondal et.al.|[2504.21748](http://arxiv.org/abs/2504.21748)|null|
 |**2025-04-30**|**Uncertainty, bias and the institution bootstrapping problem**|Stavros Anagnou et.al.|[2504.21579](http://arxiv.org/abs/2504.21579)|null|
 |**2025-04-30**|**Quaternion Nuclear Norms Over Frobenius Norms Minimization for Robust Matrix Completion**|Yu Guo et.al.|[2504.21468](http://arxiv.org/abs/2504.21468)|null|
