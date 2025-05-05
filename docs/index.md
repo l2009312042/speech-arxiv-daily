@@ -14,6 +14,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-02**|**Qracle: A Graph-Neural-Network-based Parameter Initializer for Variational Quantum Eigensolvers**|Chi Zhang et.al.|[2505.01236](http://arxiv.org/abs/2505.01236)|null|
+|**2025-05-02**|**A flexible Bayesian non-parametric mixture model reveals multiple dependencies of swap errors in visual working memory**|Puria Radmard et.al.|[2505.01178](http://arxiv.org/abs/2505.01178)|null|
+|**2025-05-02**|**Benchmark stars for mean stellar density and surface gravity estimates of solar-type stars**|P. F. L. Maxted et.al.|[2505.01154](http://arxiv.org/abs/2505.01154)|null|
+|**2025-05-02**|**The thermodynamic uncertainty relation of a quantum-mechanically coupled two-qubit system**|Kwang Hyun Cho et.al.|[2505.01121](http://arxiv.org/abs/2505.01121)|null|
+|**2025-05-02**|**Evaluating the Impact of Data Cleaning on the Quality of Generated Pull Request Descriptions**|Kutay Tire et.al.|[2505.01120](http://arxiv.org/abs/2505.01120)|null|
+|**2025-05-02**|**Edge-preserving Image Denoising via Multi-scale Adaptive Statistical Independence Testing**|Ruyu Yan et.al.|[2505.01032](http://arxiv.org/abs/2505.01032)|null|
+|**2025-05-02**|**Token-free Models for Sarcasm Detection**|Sumit Mamtani et.al.|[2505.01006](http://arxiv.org/abs/2505.01006)|null|
+|**2025-05-01**|**SynPAT: A System for Generating Synthetic Physical Theories with Data**|Jonathan Lenchner et.al.|[2505.00878](http://arxiv.org/abs/2505.00878)|null|
+|**2025-05-01**|**Handling Label Noise via Instance-Level Difficulty Modeling and Dynamic Optimization**|Kuan Zhang et.al.|[2505.00812](http://arxiv.org/abs/2505.00812)|null|
 |**2025-05-01**|**GeoDEx: A Unified Geometric Framework for Tactile Dexterous and Extrinsic Manipulation under Force Uncertainty**|Sirui Chen et.al.|[2505.00647](http://arxiv.org/abs/2505.00647)|null|
 |**2025-05-01**|**Error Exponents for Oblivious Relaying and Connections to Source Coding with a Helper**|Han Wu et.al.|[2505.00567](http://arxiv.org/abs/2505.00567)|null|
 |**2025-05-01**|**Simplified Fermionic Scattering State Preparation for the NISQ Era**|Michael Hite et.al.|[2505.00476](http://arxiv.org/abs/2505.00476)|null|
