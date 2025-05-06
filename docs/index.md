@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-05**|**Grasp the Graph (GtG) 2.0: Ensemble of GNNs for High-Precision Grasp Pose Detection in Clutter**|Ali Rashidi Moghadam et.al.|[2505.02664](http://arxiv.org/abs/2505.02664)|null|
+|**2025-05-05**|**Role of Noise on Defect Formation and Correlations in a Long-Range Ising Model Under Adiabatic Driving**|Santanu Dhara et.al.|[2505.02661](http://arxiv.org/abs/2505.02661)|null|
+|**2025-05-05**|**Robust Duality Learning for Unsupervised Visible-Infrared Person Re-Identfication**|Yongxiang Li et.al.|[2505.02549](http://arxiv.org/abs/2505.02549)|null|
+|**2025-05-05**|**Efficient Continual Learning in Keyword Spotting using Binary Neural Networks**|Quynh Nguyen-Phuong Vu et.al.|[2505.02469](http://arxiv.org/abs/2505.02469)|null|
+|**2025-05-05**|**SuperEdit: Rectifying and Facilitating Supervision for Instruction-Based Image Editing**|Ming Li et.al.|[2505.02370](http://arxiv.org/abs/2505.02370)|null|
+|**2025-05-05**|**Quantum-assited anomaly detection with multivariate Gaussian distribution**|Chao-Hua Yu et.al.|[2505.02316](http://arxiv.org/abs/2505.02316)|null|
+|**2025-05-04**|**On Selecting Paths for End-to-End Entanglement Creation in Quantum Networks**|Anoosha Fayyaz et.al.|[2505.02283](http://arxiv.org/abs/2505.02283)|null|
+|**2025-05-04**|**MaskClip: Detachable Clip-on Piezoelectric Sensing of Mask Surface Vibrations for Real-time Noise-Robust Speech Input**|Hirotaka Hiraki et.al.|[2505.02180](http://arxiv.org/abs/2505.02180)|null|
+|**2025-05-04**|**Sparfels: Fast Reconstruction from Sparse Unposed Imagery**|Shubhendu Jena et.al.|[2505.02178](http://arxiv.org/abs/2505.02178)|null|
+|**2025-05-04**|**Focus What Matters: Matchability-Based Reweighting for Local Feature Matching**|Dongyue Li et.al.|[2505.02161](http://arxiv.org/abs/2505.02161)|null|
 |**2025-05-02**|**Qracle: A Graph-Neural-Network-based Parameter Initializer for Variational Quantum Eigensolvers**|Chi Zhang et.al.|[2505.01236](http://arxiv.org/abs/2505.01236)|null|
 |**2025-05-02**|**A flexible Bayesian non-parametric mixture model reveals multiple dependencies of swap errors in visual working memory**|Puria Radmard et.al.|[2505.01178](http://arxiv.org/abs/2505.01178)|null|
 |**2025-05-02**|**Benchmark stars for mean stellar density and surface gravity estimates of solar-type stars**|P. F. L. Maxted et.al.|[2505.01154](http://arxiv.org/abs/2505.01154)|null|
