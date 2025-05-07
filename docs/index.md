@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-06**|**CaRaFFusion: Improving 2D Semantic Segmentation with Camera-Radar Point Cloud Fusion and Zero-Shot Image Inpainting**|Huawei Sun et.al.|[2505.03679](http://arxiv.org/abs/2505.03679)|null|
+|**2025-05-06**|**Decision Making under Model Misspecification: DRO with Robust Bayesian Ambiguity Sets**|Charita Dellaporta et.al.|[2505.03585](http://arxiv.org/abs/2505.03585)|null|
+|**2025-05-06**|**Noisy HQNNs: A Comprehensive Analysis of Noise Robustness in Hybrid Quantum Neural Networks**|Tasnim Ahmed et.al.|[2505.03378](http://arxiv.org/abs/2505.03378)|null|
+|**2025-05-06**|**Learning entanglement from tomography data: contradictory measurement importance for neural networks and random forests**|Pavel Baláž et.al.|[2505.03371](http://arxiv.org/abs/2505.03371)|null|
+|**2025-05-06**|**Exploring the application of quantum technologies to industrial and real-world use cases**|Eneko Osaba et.al.|[2505.03302](http://arxiv.org/abs/2505.03302)|null|
+|**2025-05-06**|**SepALM: Audio Language Models Are Error Correctors for Robust Speech Separation**|Zhaoxi Mu et.al.|[2505.03273](http://arxiv.org/abs/2505.03273)|null|
+|**2025-05-06**|**Transformers for Learning on Noisy and Task-Level Manifolds: Approximation and Generalization Insights**|Zhaiming Shen et.al.|[2505.03205](http://arxiv.org/abs/2505.03205)|null|
+|**2025-05-06**|**CoGenAV: Versatile Audio-Visual Representation Learning via Contrastive-Generative Synchronization**|Detao Bai et.al.|[2505.03186](http://arxiv.org/abs/2505.03186)|null|
+|**2025-05-06**|**Adaptive Thresholding for Multi-Label Classification via Global-Local Signal Fusion**|Dmytro Shamatrin et.al.|[2505.03118](http://arxiv.org/abs/2505.03118)|null|
+|**2025-05-06**|**Plug-and-Play AMC: Context Is King in Training-Free, Open-Set Modulation with LLMs**|Mohammad Rostami et.al.|[2505.03112](http://arxiv.org/abs/2505.03112)|null|
 |**2025-05-05**|**Grasp the Graph (GtG) 2.0: Ensemble of GNNs for High-Precision Grasp Pose Detection in Clutter**|Ali Rashidi Moghadam et.al.|[2505.02664](http://arxiv.org/abs/2505.02664)|null|
 |**2025-05-05**|**Role of Noise on Defect Formation and Correlations in a Long-Range Ising Model Under Adiabatic Driving**|Santanu Dhara et.al.|[2505.02661](http://arxiv.org/abs/2505.02661)|null|
 |**2025-05-06**|**Robust Duality Learning for Unsupervised Visible-Infrared Person Re-Identification**|Yongxiang Li et.al.|[2505.02549](http://arxiv.org/abs/2505.02549)|null|
