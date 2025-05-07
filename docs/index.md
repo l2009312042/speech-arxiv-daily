@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.06
+## Updated on 2025.05.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## KWS
@@ -16,7 +16,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-05**|**Grasp the Graph (GtG) 2.0: Ensemble of GNNs for High-Precision Grasp Pose Detection in Clutter**|Ali Rashidi Moghadam et.al.|[2505.02664](http://arxiv.org/abs/2505.02664)|null|
 |**2025-05-05**|**Role of Noise on Defect Formation and Correlations in a Long-Range Ising Model Under Adiabatic Driving**|Santanu Dhara et.al.|[2505.02661](http://arxiv.org/abs/2505.02661)|null|
-|**2025-05-05**|**Robust Duality Learning for Unsupervised Visible-Infrared Person Re-Identfication**|Yongxiang Li et.al.|[2505.02549](http://arxiv.org/abs/2505.02549)|null|
+|**2025-05-06**|**Robust Duality Learning for Unsupervised Visible-Infrared Person Re-Identification**|Yongxiang Li et.al.|[2505.02549](http://arxiv.org/abs/2505.02549)|null|
 |**2025-05-05**|**Efficient Continual Learning in Keyword Spotting using Binary Neural Networks**|Quynh Nguyen-Phuong Vu et.al.|[2505.02469](http://arxiv.org/abs/2505.02469)|null|
 |**2025-05-05**|**SuperEdit: Rectifying and Facilitating Supervision for Instruction-Based Image Editing**|Ming Li et.al.|[2505.02370](http://arxiv.org/abs/2505.02370)|null|
 |**2025-05-05**|**Quantum-assited anomaly detection with multivariate Gaussian distribution**|Chao-Hua Yu et.al.|[2505.02316](http://arxiv.org/abs/2505.02316)|null|
