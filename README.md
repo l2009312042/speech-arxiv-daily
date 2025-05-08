@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-07**|**ZeroSearch: Incentivize the Search Capability of LLMs without Searching**|Hao Sun et.al.|[2505.04588](http://arxiv.org/abs/2505.04588)|null|
+|**2025-05-07**|**Privacy-preserving neutral atom-based quantum classifier towards real healthcare applications**|Ettore Canonici et.al.|[2505.04570](http://arxiv.org/abs/2505.04570)|null|
+|**2025-05-07**|**Encoding classical data into the squeezing of noisy-states for nanowire communication**|Mehmet Emre Tasgin et.al.|[2505.04516](http://arxiv.org/abs/2505.04516)|null|
+|**2025-05-07**|**Miipher-2: A Universal Speech Restoration Model for Million-Hour Scale Data Restoration**|Shigeki Karita et.al.|[2505.04457](http://arxiv.org/abs/2505.04457)|null|
+|**2025-05-07**|**Latent Manifold Reconstruction and Representation with Topological and Geometrical Regularization**|Ren Wang et.al.|[2505.04412](http://arxiv.org/abs/2505.04412)|**[link](https://github.com/thanatorika/mrtg)**|
+|**2025-05-07**|**Balancing Accuracy, Calibration, and Efficiency in Active Learning with Vision Transformers Under Label Noise**|Moseli Mots'oehli et.al.|[2505.04375](http://arxiv.org/abs/2505.04375)|null|
+|**2025-05-07**|**Adaptive and Robust DBSCAN with Multi-agent Reinforcement Learning**|Hao Peng et.al.|[2505.04339](http://arxiv.org/abs/2505.04339)|null|
+|**2025-05-07**|**Generic Two-Mode Gaussian States as Quantum Sensors**|Pritam Chattopadhyay et.al.|[2505.04321](http://arxiv.org/abs/2505.04321)|null|
+|**2025-05-07**|**Sparsity is All You Need: Rethinking Biological Pathway-Informed Approaches in Deep Learning**|Isabella Caranzano et.al.|[2505.04300](http://arxiv.org/abs/2505.04300)|null|
+|**2025-05-07**|**TS-Diff: Two-Stage Diffusion Model for Low-Light RAW Image Enhancement**|Yi Li et.al.|[2505.04281](http://arxiv.org/abs/2505.04281)|**[link](https://github.com/circcclek/ts-diff)**|
 |**2025-05-06**|**CaRaFFusion: Improving 2D Semantic Segmentation with Camera-Radar Point Cloud Fusion and Zero-Shot Image Inpainting**|Huawei Sun et.al.|[2505.03679](http://arxiv.org/abs/2505.03679)|null|
 |**2025-05-06**|**Decision Making under Model Misspecification: DRO with Robust Bayesian Ambiguity Sets**|Charita Dellaporta et.al.|[2505.03585](http://arxiv.org/abs/2505.03585)|null|
 |**2025-05-06**|**Noisy HQNNs: A Comprehensive Analysis of Noise Robustness in Hybrid Quantum Neural Networks**|Tasnim Ahmed et.al.|[2505.03378](http://arxiv.org/abs/2505.03378)|null|
