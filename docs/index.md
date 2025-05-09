@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-08**|**ComPO: Preference Alignment via Comparison Oracles**|Peter Chen et.al.|[2505.05465](http://arxiv.org/abs/2505.05465)|null|
+|**2025-05-08**|**EDmamba: A Simple yet Effective Event Denoising Method with State Space Model**|Ciyu Ruan et.al.|[2505.05391](http://arxiv.org/abs/2505.05391)|null|
+|**2025-05-08**|**Normalize Everything: A Preconditioned Magnitude-Preserving Architecture for Diffusion-Based Speech Enhancement**|Julius Richter et.al.|[2505.05216](http://arxiv.org/abs/2505.05216)|null|
+|**2025-05-08**|**SSH-Net: A Self-Supervised and Hybrid Network for Noisy Image Watermark Removal**|Wenyang Liu et.al.|[2505.05088](http://arxiv.org/abs/2505.05088)|null|
+|**2025-05-08**|**ReverbMiipher: Generative Speech Restoration meets Reverberation Characteristics Controllability**|Wataru Nakata et.al.|[2505.05077](http://arxiv.org/abs/2505.05077)|null|
+|**2025-05-08**|**From Hope to Heuristic: Realistic Runtime Estimates for Quantum Optimisation in NHEP**|Maja Franz et.al.|[2505.05066](http://arxiv.org/abs/2505.05066)|null|
+|**2025-05-08**|**Improving Global Motion Estimation in Sparse IMU-based Motion Capture with Physics**|Xinyu Yi et.al.|[2505.05010](http://arxiv.org/abs/2505.05010)|null|
+|**2025-05-08**|**ReAlign: Bilingual Text-to-Motion Generation via Step-Aware Reward-Guided Alignment**|Wanjiang Weng et.al.|[2505.04974](http://arxiv.org/abs/2505.04974)|null|
+|**2025-05-08**|**An Unsupervised Learning Method for Radio Interferometry Deconvolution**|Lei Yu et.al.|[2505.04887](http://arxiv.org/abs/2505.04887)|null|
+|**2025-05-08**|**Physics-informed solution reconstruction in elasticity and heat transfer using the explicit constraint force method**|Conor Rowan et.al.|[2505.04875](http://arxiv.org/abs/2505.04875)|null|
 |**2025-05-07**|**ZeroSearch: Incentivize the Search Capability of LLMs without Searching**|Hao Sun et.al.|[2505.04588](http://arxiv.org/abs/2505.04588)|null|
 |**2025-05-07**|**Privacy-preserving neutral atom-based quantum classifier towards real healthcare applications**|Ettore Canonici et.al.|[2505.04570](http://arxiv.org/abs/2505.04570)|null|
 |**2025-05-07**|**Encoding classical data into the squeezing of noisy-states for nanowire communication**|Mehmet Emre Tasgin et.al.|[2505.04516](http://arxiv.org/abs/2505.04516)|null|
