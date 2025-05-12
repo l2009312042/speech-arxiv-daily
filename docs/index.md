@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-09**|**Auto Tensor Singular Value Thresholding: A Non-Iterative and Rank-Free Framework for Tensor Denoising**|Hiroki Hasegawa et.al.|[2505.06203](http://arxiv.org/abs/2505.06203)|null|
+|**2025-05-09**|**Optimization of Quantum Error Correcting Code under Temporal Variation of Qubit Quality**|Subrata Das et.al.|[2505.06165](http://arxiv.org/abs/2505.06165)|null|
+|**2025-05-09**|**Learning-Augmented Algorithms for Boolean Satisfiability**|Idan Attias et.al.|[2505.06146](http://arxiv.org/abs/2505.06146)|null|
+|**2025-05-09**|**Robust Method for Confidence Interval Estimation in Outlier-Prone Datasets: Application to Molecular and Biophysical Data**|Victor V. Golovko et.al.|[2505.06139](http://arxiv.org/abs/2505.06139)|null|
+|**2025-05-09**|**TREND: Tri-teaching for Robust Preference-based Reinforcement Learning with Demonstrations**|Shuaiyi Huang et.al.|[2505.06079](http://arxiv.org/abs/2505.06079)|null|
+|**2025-05-09**|**Fuzzy-UCS Revisited: Self-Adaptation of Rule Representations in Michigan-Style Learning Fuzzy-Classifier Systems**|Hiroki Shiraishi et.al.|[2505.06017](http://arxiv.org/abs/2505.06017)|null|
+|**2025-05-09**|**Modeling Multi-Hop Semantic Paths for Recommendation in Heterogeneous Information Networks**|Hongye Zheng et.al.|[2505.05989](http://arxiv.org/abs/2505.05989)|null|
+|**2025-05-09**|**A Noise-Resilient Semi-Supervised Graph Autoencoder for Overlapping Semantic Community Detection**|Abdelfateh Bekkair et.al.|[2505.05965](http://arxiv.org/abs/2505.05965)|null|
+|**2025-05-09**|**Catalytic entanglement transformations with noisy hardware**|Hemant Sharma et.al.|[2505.05964](http://arxiv.org/abs/2505.05964)|null|
+|**2025-05-09**|**Efficient Quantum Convolutional Neural Networks for Image Classification: Overcoming Hardware Constraints**|Peter Röseler et.al.|[2505.05957](http://arxiv.org/abs/2505.05957)|null|
 |**2025-05-08**|**ComPO: Preference Alignment via Comparison Oracles**|Peter Chen et.al.|[2505.05465](http://arxiv.org/abs/2505.05465)|null|
 |**2025-05-08**|**EDmamba: A Simple yet Effective Event Denoising Method with State Space Model**|Ciyu Ruan et.al.|[2505.05391](http://arxiv.org/abs/2505.05391)|null|
 |**2025-05-08**|**Normalize Everything: A Preconditioned Magnitude-Preserving Architecture for Diffusion-Based Speech Enhancement**|Julius Richter et.al.|[2505.05216](http://arxiv.org/abs/2505.05216)|null|
