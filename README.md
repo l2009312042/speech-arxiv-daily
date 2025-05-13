@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-12**|**Circuit Partitioning Using Large Language Models for Quantum Compilation and Simulations**|Pranav Sinha et.al.|[2505.07711](http://arxiv.org/abs/2505.07711)|null|
+|**2025-05-12**|**FD-RIO: Fast Dense Radar Inertial Odometry**|Nader J. Abu-Alrub et.al.|[2505.07694](http://arxiv.org/abs/2505.07694)|null|
+|**2025-05-12**|**Transfer Learning Across Fixed-Income Product Classes**|Nicolas Camenzind et.al.|[2505.07676](http://arxiv.org/abs/2505.07676)|null|
+|**2025-05-12**|**Dynamical codes for hardware with noisy readouts**|Peter-Jan H. S. Derks et.al.|[2505.07658](http://arxiv.org/abs/2505.07658)|null|
+|**2025-05-12**|**Kalman Filter Enhanced GRPO for Reinforcement Learning-Based Language Model Reasoning**|Hu Wang et.al.|[2505.07527](http://arxiv.org/abs/2505.07527)|**[link](https://github.com/billhhh/krpo_llms_rl)**|
+|**2025-05-12**|**Dynamical Label Augmentation and Calibration for Noisy Electronic Health Records**|Yuhao Li et.al.|[2505.07320](http://arxiv.org/abs/2505.07320)|null|
+|**2025-05-12**|**Efficiently Computable Limits on EPR Pair Generation in Quantum Broadcast Channels**|Patrick Hayden et.al.|[2505.07218](http://arxiv.org/abs/2505.07218)|null|
+|**2025-05-11**|**KOKKAI DOC: An LLM-driven framework for scaling parliamentary representatives**|Ken Kato et.al.|[2505.07118](http://arxiv.org/abs/2505.07118)|null|
+|**2025-05-11**|**Towards the Three-Phase Dynamics of Generalization Power of a DNN**|Yuxuan He et.al.|[2505.06993](http://arxiv.org/abs/2505.06993)|null|
+|**2025-05-11**|**Constant-Overhead Magic State Injection into qLDPC Codes with Error Independence Guarantees**|Guo Zhang et.al.|[2505.06981](http://arxiv.org/abs/2505.06981)|null|
 |**2025-05-09**|**Auto Tensor Singular Value Thresholding: A Non-Iterative and Rank-Free Framework for Tensor Denoising**|Hiroki Hasegawa et.al.|[2505.06203](http://arxiv.org/abs/2505.06203)|null|
 |**2025-05-09**|**Optimization of Quantum Error Correcting Code under Temporal Variation of Qubit Quality**|Subrata Das et.al.|[2505.06165](http://arxiv.org/abs/2505.06165)|null|
 |**2025-05-09**|**Learning-Augmented Algorithms for Boolean Satisfiability**|Idan Attias et.al.|[2505.06146](http://arxiv.org/abs/2505.06146)|null|
