@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-13**|**Addressing the Current Challenges of Quantum Machine Learning through Multi-Chip Ensembles**|Junghoon Justin Park et.al.|[2505.08782](http://arxiv.org/abs/2505.08782)|null|
+|**2025-05-13**|**An Efficient Multi-scale Leverage Effect Estimator under Dependent Microstructure Noise**|Ziyang Xiong et.al.|[2505.08654](http://arxiv.org/abs/2505.08654)|null|
+|**2025-05-13**|**Grouptuner: Efficient Group-Aware Compiler Auto-tuning**|Bingyu Gao et.al.|[2505.08598](http://arxiv.org/abs/2505.08598)|null|
+|**2025-05-13**|**A Thermodynamic Framework for Coherently Driven Systems**|Max Schrauwen et.al.|[2505.08558](http://arxiv.org/abs/2505.08558)|null|
+|**2025-05-13**|**Short Wins Long: Short Codes with Language Model Semantic Correction Outperform Long Codes**|Jiafu Hao et.al.|[2505.08536](http://arxiv.org/abs/2505.08536)|null|
+|**2025-05-13**|**Bayesian Estimation of Causal Effects Using Proxies of a Latent Interference Network**|Bar Weinstein et.al.|[2505.08395](http://arxiv.org/abs/2505.08395)|null|
+|**2025-05-13**|**An effcient variational quantum Korkin-Zolotarev algorithm for solving shortest vector problems**|Xiaokai Hou et.al.|[2505.08386](http://arxiv.org/abs/2505.08386)|null|
+|**2025-05-13**|**Closed-Form Information Capacity of Canonical Signaling Models**|Michał Komorowski et.al.|[2505.08365](http://arxiv.org/abs/2505.08365)|null|
+|**2025-05-13**|**SemCSINet: A Semantic-Aware CSI Feedback Network in Massive MIMO Systems**|Ruonan Ren et.al.|[2505.08314](http://arxiv.org/abs/2505.08314)|null|
+|**2025-05-13**|**Multireference error mitigation for quantum computation of chemistry**|Hang Zou et.al.|[2505.08291](http://arxiv.org/abs/2505.08291)|null|
 |**2025-05-12**|**Circuit Partitioning Using Large Language Models for Quantum Compilation and Simulations**|Pranav Sinha et.al.|[2505.07711](http://arxiv.org/abs/2505.07711)|null|
 |**2025-05-12**|**FD-RIO: Fast Dense Radar Inertial Odometry**|Nader J. Abu-Alrub et.al.|[2505.07694](http://arxiv.org/abs/2505.07694)|null|
 |**2025-05-12**|**Transfer Learning Across Fixed-Income Product Classes**|Nicolas Camenzind et.al.|[2505.07676](http://arxiv.org/abs/2505.07676)|null|
