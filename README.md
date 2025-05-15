@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-14**|**Beyond Pixels: Leveraging the Language of Soccer to Improve Spatio-Temporal Action Detection in Broadcast Videos**|Jeremie Ochin et.al.|[2505.09455](http://arxiv.org/abs/2505.09455)|null|
+|**2025-05-14**|**Zassenhaus Expansion in Solving the Schrödinger Equation**|Molena Nguyen et.al.|[2505.09441](http://arxiv.org/abs/2505.09441)|null|
+|**2025-05-14**|**TensorRL-QAS: Reinforcement learning with tensor networks for scalable quantum architecture search**|Akash Kundu et.al.|[2505.09371](http://arxiv.org/abs/2505.09371)|null|
+|**2025-05-14**|**Adaptive Noise Resilient Keyword Spotting Using One-Shot Learning**|Luciano Sebastian Martinez-Rau et.al.|[2505.09304](http://arxiv.org/abs/2505.09304)|null|
+|**2025-05-14**|**Data-driven Internal Model Control for Output Regulation**|Wenjie Liu et.al.|[2505.09255](http://arxiv.org/abs/2505.09255)|null|
+|**2025-05-14**|**AMSnet 2.0: A Large AMS Database with AI Segmentation for Net Detection**|Yichen Shi et.al.|[2505.09155](http://arxiv.org/abs/2505.09155)|null|
+|**2025-05-14**|**VGC-RIO: A Tightly Integrated Radar-Inertial Odometry with Spatial Weighted Doppler Velocity and Local Geometric Constrained RCS Histograms**|Jianguang Xiang et.al.|[2505.09103](http://arxiv.org/abs/2505.09103)|null|
+|**2025-05-14**|**DPN-GAN: Inducing Periodic Activations in Generative Adversarial Networks for High-Fidelity Audio Synthesis**|Zeeshan Ahmad et.al.|[2505.09091](http://arxiv.org/abs/2505.09091)|null|
+|**2025-05-14**|**Hardware-aware Compilation for Chip-to-Chip Coupler-Connected Modular Quantum Systems**|Zefan Du et.al.|[2505.09036](http://arxiv.org/abs/2505.09036)|null|
+|**2025-05-13**|**Lower Bounds on the MMSE of Adversarially Inferring Sensitive Features**|Monica Welfert et.al.|[2505.09004](http://arxiv.org/abs/2505.09004)|null|
 |**2025-05-13**|**Addressing the Current Challenges of Quantum Machine Learning through Multi-Chip Ensembles**|Junghoon Justin Park et.al.|[2505.08782](http://arxiv.org/abs/2505.08782)|null|
 |**2025-05-13**|**An Efficient Multi-scale Leverage Effect Estimator under Dependent Microstructure Noise**|Ziyang Xiong et.al.|[2505.08654](http://arxiv.org/abs/2505.08654)|null|
 |**2025-05-13**|**Grouptuner: Efficient Group-Aware Compiler Auto-tuning**|Bingyu Gao et.al.|[2505.08598](http://arxiv.org/abs/2505.08598)|null|
