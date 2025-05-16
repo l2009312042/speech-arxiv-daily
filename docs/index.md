@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.15
+## Updated on 2025.05.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## KWS
@@ -20,7 +20,7 @@ layout: default
 |**2025-05-14**|**Adaptive Noise Resilient Keyword Spotting Using One-Shot Learning**|Luciano Sebastian Martinez-Rau et.al.|[2505.09304](http://arxiv.org/abs/2505.09304)|null|
 |**2025-05-14**|**Data-driven Internal Model Control for Output Regulation**|Wenjie Liu et.al.|[2505.09255](http://arxiv.org/abs/2505.09255)|null|
 |**2025-05-14**|**AMSnet 2.0: A Large AMS Database with AI Segmentation for Net Detection**|Yichen Shi et.al.|[2505.09155](http://arxiv.org/abs/2505.09155)|null|
-|**2025-05-14**|**VGC-RIO: A Tightly Integrated Radar-Inertial Odometry with Spatial Weighted Doppler Velocity and Local Geometric Constrained RCS Histograms**|Jianguang Xiang et.al.|[2505.09103](http://arxiv.org/abs/2505.09103)|null|
+|**2025-05-15**|**VGC-RIO: A Tightly Integrated Radar-Inertial Odometry with Spatial Weighted Doppler Velocity and Local Geometric Constrained RCS Histograms**|Jianguang Xiang et.al.|[2505.09103](http://arxiv.org/abs/2505.09103)|null|
 |**2025-05-14**|**DPN-GAN: Inducing Periodic Activations in Generative Adversarial Networks for High-Fidelity Audio Synthesis**|Zeeshan Ahmad et.al.|[2505.09091](http://arxiv.org/abs/2505.09091)|null|
 |**2025-05-14**|**Hardware-aware Compilation for Chip-to-Chip Coupler-Connected Modular Quantum Systems**|Zefan Du et.al.|[2505.09036](http://arxiv.org/abs/2505.09036)|null|
 |**2025-05-13**|**Lower Bounds on the MMSE of Adversarially Inferring Sensitive Features**|Monica Welfert et.al.|[2505.09004](http://arxiv.org/abs/2505.09004)|null|
