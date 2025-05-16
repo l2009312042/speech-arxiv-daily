@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-15**|**Unlocking early fault-tolerant quantum computing with mitigated magic dilution**|Surabhi Luthra et.al.|[2505.10513](http://arxiv.org/abs/2505.10513)|null|
+|**2025-05-15**|**The Devil Is in the Word Alignment Details: On Translation-Based Cross-Lingual Transfer for Token Classification Tasks**|Benedikt Ebing et.al.|[2505.10507](http://arxiv.org/abs/2505.10507)|null|
+|**2025-05-15**|**Variational Seasonal-Trend Decomposition with Sparse Continuous-Domain Regularization**|Julien Fageot et.al.|[2505.10486](http://arxiv.org/abs/2505.10486)|null|
+|**2025-05-15**|**Spike-timing-dependent Hebbian learning as noisy gradient descent**|Niklas Dexheimer et.al.|[2505.10272](http://arxiv.org/abs/2505.10272)|null|
+|**2025-05-15**|**Incorporating brain-inspired mechanisms for multimodal learning in artificial intelligence**|Xiang He et.al.|[2505.10176](http://arxiv.org/abs/2505.10176)|**[link](https://github.com/Brain-Cog-Lab/IEMF)**|
+|**2025-05-15**|**Role of scrambling and noise in temporal information processing with quantum systems**|Weijie Xiong et.al.|[2505.10080](http://arxiv.org/abs/2505.10080)|null|
+|**2025-05-15**|**Reinforced Interactive Continual Learning via Real-time Noisy Human Feedback**|Yutao Yang et.al.|[2505.09925](http://arxiv.org/abs/2505.09925)|null|
+|**2025-05-15**|**Correlating Account on Ethereum Mixing Service via Domain-Invariant feature learning**|Zheng Che et.al.|[2505.09892](http://arxiv.org/abs/2505.09892)|null|
+|**2025-05-14**|**Self-Consuming Generative Models with Adversarially Curated Data**|Xiukun Wei et.al.|[2505.09768](http://arxiv.org/abs/2505.09768)|null|
+|**2025-05-14**|**Robust Federated Learning with Confidence-Weighted Filtering and GAN-Based Completion under Noisy and Incomplete Data**|Alpaslan Gokcen et.al.|[2505.09733](http://arxiv.org/abs/2505.09733)|null|
 |**2025-05-14**|**Beyond Pixels: Leveraging the Language of Soccer to Improve Spatio-Temporal Action Detection in Broadcast Videos**|Jeremie Ochin et.al.|[2505.09455](http://arxiv.org/abs/2505.09455)|null|
 |**2025-05-14**|**Zassenhaus Expansion in Solving the Schrödinger Equation**|Molena Nguyen et.al.|[2505.09441](http://arxiv.org/abs/2505.09441)|null|
 |**2025-05-14**|**TensorRL-QAS: Reinforcement learning with tensor networks for scalable quantum architecture search**|Akash Kundu et.al.|[2505.09371](http://arxiv.org/abs/2505.09371)|null|
