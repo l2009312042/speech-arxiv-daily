@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-20**|**Communication with Multiple Senders**|Kailin Chen et.al.|[2505.14639](http://arxiv.org/abs/2505.14639)|null|
+|**2025-05-20**|**AdaKWS: Towards Robust Keyword Spotting with Test-Time Adaptation**|Yang Xiao et.al.|[2505.14600](http://arxiv.org/abs/2505.14600)|null|
+|**2025-05-20**|**Assessing Projected Quantum Kernels for the Classification of IoT Data**|Francesco D'Amore et.al.|[2505.14593](http://arxiv.org/abs/2505.14593)|null|
+|**2025-05-20**|**Inference with correlated priors using sisters cells**|Sina Tootoonian et.al.|[2505.14579](http://arxiv.org/abs/2505.14579)|null|
+|**2025-05-20**|**Scaling Low-Resource MT via Synthetic Data Generation with LLMs**|Ona de Gibert et.al.|[2505.14423](http://arxiv.org/abs/2505.14423)|null|
+|**2025-05-20**|**Diving into the Fusion of Monocular Priors for Generalized Stereo Matching**|Chengtang Yao et.al.|[2505.14414](http://arxiv.org/abs/2505.14414)|**[link](https://github.com/YaoChengTang/Diving-into-the-Fusion-of-Monocular-Priors-for-Generalized-Stereo-Matching)**|
+|**2025-05-20**|**Enhancing Classification with Semi-Supervised Deep Learning Using Distance-Based Sample Weights**|Aydin Abedinia et.al.|[2505.14345](http://arxiv.org/abs/2505.14345)|null|
+|**2025-05-20**|**Scaling and Enhancing LLM-based AVSR: A Sparse Mixture of Projectors Approach**|Umberto Cappellazzo et.al.|[2505.14336](http://arxiv.org/abs/2505.14336)|null|
+|**2025-05-20**|**JOLT-SQL: Joint Loss Tuning of Text-to-SQL with Confusion-aware Noisy Schema Sampling**|Jinwang Song et.al.|[2505.14305](http://arxiv.org/abs/2505.14305)|null|
+|**2025-05-20**|**AquaSignal: An Integrated Framework for Robust Underwater Acoustic Analysis**|Eirini Panteli et.al.|[2505.14285](http://arxiv.org/abs/2505.14285)|null|
 |**2025-05-19**|**Restoration Score Distillation: From Corrupted Diffusion Pretraining to One-Step High-Quality Generation**|Yasi Zhang et.al.|[2505.13377](http://arxiv.org/abs/2505.13377)|null|
 |**2025-05-20**|**One-Step Offline Distillation of Diffusion-based Models via Koopman Modeling**|Nimrod Berman et.al.|[2505.13358](http://arxiv.org/abs/2505.13358)|**[link](https://github.com/azencot-group/kdm)**|
 |**2025-05-19**|**Detect and Correct: A Selective Noise Correction Method for Learning with Noisy Labels**|Yuval Grinberg et.al.|[2505.13342](http://arxiv.org/abs/2505.13342)|null|
