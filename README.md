@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.21
+## Updated on 2025.05.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-21**|**Adaptive Estimation and Learning under Temporal Distribution Shift**|Dheeraj Baby et.al.|[2505.15803](http://arxiv.org/abs/2505.15803)|null|
+|**2025-05-21**|**Privacy-Preserving Conformal Prediction Under Local Differential Privacy**|Coby Penso et.al.|[2505.15721](http://arxiv.org/abs/2505.15721)|null|
+|**2025-05-21**|**A Unified Theoretical Analysis of Private and Robust Offline Alignment: from RLHF to DPO**|Xingyu Zhou et.al.|[2505.15694](http://arxiv.org/abs/2505.15694)|null|
+|**2025-05-21**|**Distillation of multipartite entangled states for arbitrary subsets of parties in noisy quantum networks of increasing size**|Aitor Balmaseda et.al.|[2505.15676](http://arxiv.org/abs/2505.15676)|null|
+|**2025-05-21**|**Prethermalization, shadowing breakdown, and the absence of Trotterization transition in quantum circuits**|Marko Znidaric et.al.|[2505.15521](http://arxiv.org/abs/2505.15521)|null|
+|**2025-05-21**|**On the Robustness of Medical Vision-Language Models: Are they Truly Generalizable?**|Raza Imam et.al.|[2505.15425](http://arxiv.org/abs/2505.15425)|null|
+|**2025-05-21**|**High-Throughput Mechanical Characterization of Giant Unilamellar Vesicles by Real-Time Deformability Cytometry**|Maximilian Kloppe et.al.|[2505.15341](http://arxiv.org/abs/2505.15341)|null|
+|**2025-05-21**|**Voice-ENHANCE: Speech Restoration using a Diffusion-based Voice Conversion Framework**|Kyungguen Byun et.al.|[2505.15254](http://arxiv.org/abs/2505.15254)|null|
+|**2025-05-21**|**Mitigating Spurious Correlations with Causal Logit Perturbation**|Xiaoling Zhou et.al.|[2505.15246](http://arxiv.org/abs/2505.15246)|null|
+|**2025-05-21**|**DC-Scene: Data-Centric Learning for 3D Scene Understanding**|Ting Huang et.al.|[2505.15232](http://arxiv.org/abs/2505.15232)|**[link](https://github.com/aigeeksgroup/dc-scene)**|
 |**2025-05-20**|**Communication with Multiple Senders**|Kailin Chen et.al.|[2505.14639](http://arxiv.org/abs/2505.14639)|null|
 |**2025-05-20**|**AdaKWS: Towards Robust Keyword Spotting with Test-Time Adaptation**|Yang Xiao et.al.|[2505.14600](http://arxiv.org/abs/2505.14600)|null|
 |**2025-05-20**|**Assessing Projected Quantum Kernels for the Classification of IoT Data**|Francesco D'Amore et.al.|[2505.14593](http://arxiv.org/abs/2505.14593)|null|
@@ -2176,7 +2186,7 @@
 |**2024-05-03**|**A Class of Numerical Semigroups Defined by Kunz and Waldi**|Srishti Singh et.al.|[2405.00331](http://arxiv.org/abs/2405.00331)|null|
 |**2024-04-26**|**Machine Learning based prediction of Vanadium Redox Flow Battery temperature rise under different charge-discharge conditions**|Anirudh Narayan D et.al.|[2404.17284](http://arxiv.org/abs/2404.17284)|null|
 
-<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250522>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
