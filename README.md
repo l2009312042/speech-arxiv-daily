@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-23**|**Accelerating Learned Image Compression Through Modeling Neural Training Dynamics**|Yichi Zhang et.al.|[2505.18107](http://arxiv.org/abs/2505.18107)|null|
+|**2025-05-23**|**Evaluation of derivatives using approximate generalized parameter shift rule**|Vytautas Abramavicius et.al.|[2505.18090](http://arxiv.org/abs/2505.18090)|null|
+|**2025-05-23**|**DanceTogether! Identity-Preserving Multi-Person Interactive Video Generation**|Junhao Chen et.al.|[2505.18078](http://arxiv.org/abs/2505.18078)|null|
+|**2025-05-23**|**Outcome-based Reinforcement Learning to Predict the Future**|Benjamin Turtel et.al.|[2505.17989](http://arxiv.org/abs/2505.17989)|null|
+|**2025-05-23**|**A Principled Bayesian Framework for Training Binary and Spiking Neural Networks**|James A. Walker et.al.|[2505.17962](http://arxiv.org/abs/2505.17962)|null|
+|**2025-05-23**|**Optimizing QAOA circuit transpilation with parity twine and SWAP network encodings**|J. A. Montanez-Barrera et.al.|[2505.17944](http://arxiv.org/abs/2505.17944)|**[link](https://github.com/alejomonbar/QAOA-efficient-circuit-transpilation)**|
+|**2025-05-23**|**Scalable Valuation of Human Feedback through Provably Robust Model Alignment**|Masahiro Fujisawa et.al.|[2505.17859](http://arxiv.org/abs/2505.17859)|null|
+|**2025-05-23**|**Searching for extreme mass ratio inspirals in LISA: from identification to parameter estimation**|Stefan H. Strub et.al.|[2505.17814](http://arxiv.org/abs/2505.17814)|null|
+|**2025-05-23**|**The Third Pillar of Causal Analysis? A Measurement Perspective on Causal Representations**|Dingling Yao et.al.|[2505.17708](http://arxiv.org/abs/2505.17708)|null|
+|**2025-05-23**|**Semi-Supervised Medical Image Segmentation via Dual Networks**|Yunyao Lu et.al.|[2505.17690](http://arxiv.org/abs/2505.17690)|null|
 |**2025-05-22**|**Guided Diffusion Sampling on Function Spaces with Applications to PDEs**|Jiachen Yao et.al.|[2505.17004](http://arxiv.org/abs/2505.17004)|**[link](https://github.com/neuraloperator/fundps)**|
 |**2025-05-22**|**Sufficient conditions for offline reactivation in recurrent neural networks**|Nanda H. Krishna et.al.|[2505.17003](http://arxiv.org/abs/2505.17003)|**[link](https://github.com/nandahkrishna/RNNReactivation)**|
 |**2025-05-23**|**VeriFastScore: Speeding up long-form factuality evaluation**|Rishanth Rajendhran et.al.|[2505.16973](http://arxiv.org/abs/2505.16973)|**[link](https://github.com/rishanthrajendhran/verifastscore)**|
