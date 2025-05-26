@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.25
+## Updated on 2025.05.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,16 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-05-22**|**Guided Diffusion Sampling on Function Spaces with Applications to PDEs**|Jiachen Yao et.al.|[2505.17004](http://arxiv.org/abs/2505.17004)|null|
+|**2025-05-22**|**Guided Diffusion Sampling on Function Spaces with Applications to PDEs**|Jiachen Yao et.al.|[2505.17004](http://arxiv.org/abs/2505.17004)|**[link](https://github.com/neuraloperator/fundps)**|
 |**2025-05-22**|**Sufficient conditions for offline reactivation in recurrent neural networks**|Nanda H. Krishna et.al.|[2505.17003](http://arxiv.org/abs/2505.17003)|**[link](https://github.com/nandahkrishna/RNNReactivation)**|
-|**2025-05-22**|**VeriFastScore: Speeding up long-form factuality evaluation**|Rishanth Rajendhran et.al.|[2505.16973](http://arxiv.org/abs/2505.16973)|null|
-|**2025-05-22**|**MPO: Multilingual Safety Alignment via Reward Gap Optimization**|Weixiang Zhao et.al.|[2505.16869](http://arxiv.org/abs/2505.16869)|null|
-|**2025-05-22**|**SEED: Speaker Embedding Enhancement Diffusion Model**|KiHyun Nam et.al.|[2505.16798](http://arxiv.org/abs/2505.16798)|null|
-|**2025-05-22**|**Adversarial Deep Metric Learning for Cross-Modal Audio-Text Alignment in Open-Vocabulary Keyword Spotting**|Youngmoon Jung et.al.|[2505.16735](http://arxiv.org/abs/2505.16735)|null|
+|**2025-05-23**|**VeriFastScore: Speeding up long-form factuality evaluation**|Rishanth Rajendhran et.al.|[2505.16973](http://arxiv.org/abs/2505.16973)|**[link](https://github.com/rishanthrajendhran/verifastscore)**|
+|**2025-05-22**|**MPO: Multilingual Safety Alignment via Reward Gap Optimization**|Weixiang Zhao et.al.|[2505.16869](http://arxiv.org/abs/2505.16869)|**[link](https://github.com/circle-hit/mpo)**|
+|**2025-05-22**|**SEED: Speaker Embedding Enhancement Diffusion Model**|KiHyun Nam et.al.|[2505.16798](http://arxiv.org/abs/2505.16798)|**[link](https://github.com/kaistmm/seed-pytorch)**|
+|**2025-05-23**|**Adversarial Deep Metric Learning for Cross-Modal Audio-Text Alignment in Open-Vocabulary Keyword Spotting**|Youngmoon Jung et.al.|[2505.16735](http://arxiv.org/abs/2505.16735)|null|
 |**2025-05-22**|**A Novel Generative Model with Causality Constraint for Mitigating Biases in Recommender Systems**|Jianfeng Deng et.al.|[2505.16708](http://arxiv.org/abs/2505.16708)|null|
 |**2025-05-22**|**An Analysis of Concept Bottleneck Models: Measuring, Understanding, and Mitigating the Impact of Noisy Annotations**|Seonghwan Park et.al.|[2505.16705](http://arxiv.org/abs/2505.16705)|null|
 |**2025-05-22**|**Hybrid Parameterized Quantum States for Variational Quantum Learning**|Chen-Yu Liu et.al.|[2505.16676](http://arxiv.org/abs/2505.16676)|null|
-|**2025-05-22**|**CausalDynamics: A large-scale benchmark for structural discovery of dynamical causal models**|Benjamin Herdeanu et.al.|[2505.16620](http://arxiv.org/abs/2505.16620)|null|
+|**2025-05-22**|**CausalDynamics: A large-scale benchmark for structural discovery of dynamical causal models**|Benjamin Herdeanu et.al.|[2505.16620](http://arxiv.org/abs/2505.16620)|**[link](https://github.com/kausable/causaldynamics)**|
 |**2025-05-21**|**Adaptive Estimation and Learning under Temporal Distribution Shift**|Dheeraj Baby et.al.|[2505.15803](http://arxiv.org/abs/2505.15803)|null|
 |**2025-05-21**|**Privacy-Preserving Conformal Prediction Under Local Differential Privacy**|Coby Penso et.al.|[2505.15721](http://arxiv.org/abs/2505.15721)|null|
 |**2025-05-21**|**A Unified Theoretical Analysis of Private and Robust Offline Alignment: from RLHF to DPO**|Xingyu Zhou et.al.|[2505.15694](http://arxiv.org/abs/2505.15694)|null|
@@ -2196,7 +2196,7 @@
 |**2024-05-03**|**A Class of Numerical Semigroups Defined by Kunz and Waldi**|Srishti Singh et.al.|[2405.00331](http://arxiv.org/abs/2405.00331)|null|
 |**2024-04-26**|**Machine Learning based prediction of Vanadium Redox Flow Battery temperature rise under different charge-discharge conditions**|Anirudh Narayan D et.al.|[2404.17284](http://arxiv.org/abs/2404.17284)|null|
 
-<p align=right>(<a href=#updated-on-20250525>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250526>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
