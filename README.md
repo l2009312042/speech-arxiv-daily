@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-26**|**No Free Lunch: Non-Asymptotic Analysis of Prediction-Powered Inference**|Pranav Mani et.al.|[2505.20178](http://arxiv.org/abs/2505.20178)|null|
+|**2025-05-26**|**Synthetic Time Series Forecasting with Transformer Architectures: Extensive Simulation Benchmarks**|Ali Forootani et.al.|[2505.20048](http://arxiv.org/abs/2505.20048)|null|
+|**2025-05-26**|**Correcting noisy quantum gates with shortcuts to adiabaticity**|Moallison F. Cavalcante et.al.|[2505.20000](http://arxiv.org/abs/2505.20000)|null|
+|**2025-05-26**|**EMAC+: Embodied Multimodal Agent for Collaborative Planning with VLM+LLM**|Shuang Ao et.al.|[2505.19905](http://arxiv.org/abs/2505.19905)|null|
+|**2025-05-26**|**Beyond Specialization: Benchmarking LLMs for Transliteration of Indian Languages**|Gulfarogh Azam et.al.|[2505.19851](http://arxiv.org/abs/2505.19851)|null|
+|**2025-05-26**|**MedDreamer: Model-Based Reinforcement Learning with Latent Imagination on Complex EHRs for Clinical Decision Support**|Qianyi Xu et.al.|[2505.19785](http://arxiv.org/abs/2505.19785)|null|
+|**2025-05-26**|**Truncated Variational Hamiltonian Ansatz: efficient quantum circuit design for quantum chemistry and material science**|Clemens Possel et.al.|[2505.19772](http://arxiv.org/abs/2505.19772)|null|
+|**2025-05-26**|**Numerical Identification of a Time-Dependent Coefficient in a Time-Fractional Diffusion Equation with Integral Constraints**|Arshyn Altybay et.al.|[2505.19738](http://arxiv.org/abs/2505.19738)|null|
+|**2025-05-26**|**Catability as a metric for evaluating superposed coherent states**|Šimon Bräuer et.al.|[2505.19723](http://arxiv.org/abs/2505.19723)|null|
+|**2025-05-26**|**Calibrating Pre-trained Language Classifiers on LLM-generated Noisy Labels via Iterative Refinement**|Liqin Ye et.al.|[2505.19675](http://arxiv.org/abs/2505.19675)|null|
 |**2025-05-23**|**Accelerating Learned Image Compression Through Modeling Neural Training Dynamics**|Yichi Zhang et.al.|[2505.18107](http://arxiv.org/abs/2505.18107)|null|
 |**2025-05-23**|**Evaluation of derivatives using approximate generalized parameter shift rule**|Vytautas Abramavicius et.al.|[2505.18090](http://arxiv.org/abs/2505.18090)|null|
 |**2025-05-23**|**DanceTogether! Identity-Preserving Multi-Person Interactive Video Generation**|Junhao Chen et.al.|[2505.18078](http://arxiv.org/abs/2505.18078)|null|
