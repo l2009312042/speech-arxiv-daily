@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-27**|**Paper2Poster: Towards Multimodal Poster Automation from Scientific Papers**|Wei Pang et.al.|[2505.21497](http://arxiv.org/abs/2505.21497)|null|
+|**2025-05-27**|**Expectation-maximization for multi-reference alignment: Two pitfalls and one remedy**|Amnon Balanov et.al.|[2505.21435](http://arxiv.org/abs/2505.21435)|null|
+|**2025-05-27**|**Automatically Identify and Rectify: Robust Deep Contrastive Multi-view Clustering in Noisy Scenarios**|Xihong Yang et.al.|[2505.21387](http://arxiv.org/abs/2505.21387)|null|
+|**2025-05-27**|**Subgroups Matter for Robust Bias Mitigation**|Anissa Alloula et.al.|[2505.21363](http://arxiv.org/abs/2505.21363)|null|
+|**2025-05-27**|**Towards Robust Automated Perceptual Voice Quality Assessment with Deep Learning**|Whenty Ariyanti et.al.|[2505.21356](http://arxiv.org/abs/2505.21356)|null|
+|**2025-05-27**|**Out of the Past: An AI-Enabled Pipeline for Traffic Simulation from Noisy, Multimodal Detector Data and Stakeholder Feedback**|Rex Chen et.al.|[2505.21349](http://arxiv.org/abs/2505.21349)|null|
+|**2025-05-27**|**Empirical Demonstration of Quantum Contextuality on NISQ Computers**|Colm Kelleher et.al.|[2505.21243](http://arxiv.org/abs/2505.21243)|null|
+|**2025-05-27**|**Optimized quantum sensor networks for ultralight dark matter detection**|Adriel I. Santoso et.al.|[2505.21188](http://arxiv.org/abs/2505.21188)|null|
+|**2025-05-27**|**Latent label distribution grid representation for modeling uncertainty**|ShuNing Sun et.al.|[2505.21180](http://arxiv.org/abs/2505.21180)|null|
+|**2025-05-27**|**Revisiting Sparsity Constraint Under High-Rank Property in Partial Multi-Label Learning**|Chongjie Si et.al.|[2505.20938](http://arxiv.org/abs/2505.20938)|null|
 |**2025-05-26**|**No Free Lunch: Non-Asymptotic Analysis of Prediction-Powered Inference**|Pranav Mani et.al.|[2505.20178](http://arxiv.org/abs/2505.20178)|null|
 |**2025-05-26**|**Synthetic Time Series Forecasting with Transformer Architectures: Extensive Simulation Benchmarks**|Ali Forootani et.al.|[2505.20048](http://arxiv.org/abs/2505.20048)|null|
 |**2025-05-26**|**Correcting noisy quantum gates with shortcuts to adiabaticity**|Moallison F. Cavalcante et.al.|[2505.20000](http://arxiv.org/abs/2505.20000)|null|
