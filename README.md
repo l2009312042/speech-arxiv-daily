@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-28**|**The Climb Carves Wisdom Deeper Than the Summit: On the Noisy Rewards in Learning to Reason**|Ang Lv et.al.|[2505.22653](http://arxiv.org/abs/2505.22653)|null|
+|**2025-05-28**|**SimProcess: High Fidelity Simulation of Noisy ICS Physical Processes**|Denis Donadel et.al.|[2505.22638](http://arxiv.org/abs/2505.22638)|null|
+|**2025-05-28**|**Disambiguating Pauli noise in quantum computers**|Edward H. Chen et.al.|[2505.22629](http://arxiv.org/abs/2505.22629)|null|
+|**2025-05-28**|**A Closer Look at Multimodal Representation Collapse**|Abhra Chaudhuri et.al.|[2505.22483](http://arxiv.org/abs/2505.22483)|null|
+|**2025-05-28**|**Numerical Optimization Strategies for the Variational Hamiltonian Ansatz in Noisy Quantum Environments**|S. Illésová et.al.|[2505.22398](http://arxiv.org/abs/2505.22398)|null|
+|**2025-05-28**|**Physics-Informed Distillation of Diffusion Models for PDE-Constrained Generation**|Yi Zhang et.al.|[2505.22391](http://arxiv.org/abs/2505.22391)|null|
+|**2025-05-28**|**Versatile Cardiovascular Signal Generation with a Unified Diffusion Transformer**|Zehua Chen et.al.|[2505.22306](http://arxiv.org/abs/2505.22306)|null|
+|**2025-05-28**|**Physics-inspired Generative AI models via real hardware-based noisy quantum diffusion**|Marco Parigi et.al.|[2505.22193](http://arxiv.org/abs/2505.22193)|null|
+|**2025-05-28**|**ConsRec: Denoising Sequential Recommendation through User-Consistent Preference Modeling**|Haidong Xin et.al.|[2505.22130](http://arxiv.org/abs/2505.22130)|null|
+|**2025-05-28**|**Visual Cues Support Robust Turn-taking Prediction in Noise**|Sam O'Connor Russell et.al.|[2505.22088](http://arxiv.org/abs/2505.22088)|null|
 |**2025-05-27**|**Paper2Poster: Towards Multimodal Poster Automation from Scientific Papers**|Wei Pang et.al.|[2505.21497](http://arxiv.org/abs/2505.21497)|null|
 |**2025-05-27**|**Expectation-maximization for multi-reference alignment: Two pitfalls and one remedy**|Amnon Balanov et.al.|[2505.21435](http://arxiv.org/abs/2505.21435)|null|
 |**2025-05-27**|**Automatically Identify and Rectify: Robust Deep Contrastive Multi-view Clustering in Noisy Scenarios**|Xihong Yang et.al.|[2505.21387](http://arxiv.org/abs/2505.21387)|null|
