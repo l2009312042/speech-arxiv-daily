@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.28
+## Updated on 2025.05.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -21,7 +21,7 @@
 |**2025-05-27**|**Expectation-maximization for multi-reference alignment: Two pitfalls and one remedy**|Amnon Balanov et.al.|[2505.21435](http://arxiv.org/abs/2505.21435)|null|
 |**2025-05-27**|**Automatically Identify and Rectify: Robust Deep Contrastive Multi-view Clustering in Noisy Scenarios**|Xihong Yang et.al.|[2505.21387](http://arxiv.org/abs/2505.21387)|null|
 |**2025-05-27**|**Subgroups Matter for Robust Bias Mitigation**|Anissa Alloula et.al.|[2505.21363](http://arxiv.org/abs/2505.21363)|null|
-|**2025-05-27**|**Towards Robust Automated Perceptual Voice Quality Assessment with Deep Learning**|Whenty Ariyanti et.al.|[2505.21356](http://arxiv.org/abs/2505.21356)|null|
+|**2025-05-28**|**Towards Robust Automated Perceptual Voice Quality Assessment with Speech Foundation Models**|Whenty Ariyanti et.al.|[2505.21356](http://arxiv.org/abs/2505.21356)|null|
 |**2025-05-27**|**Out of the Past: An AI-Enabled Pipeline for Traffic Simulation from Noisy, Multimodal Detector Data and Stakeholder Feedback**|Rex Chen et.al.|[2505.21349](http://arxiv.org/abs/2505.21349)|null|
 |**2025-05-27**|**Empirical Demonstration of Quantum Contextuality on NISQ Computers**|Colm Kelleher et.al.|[2505.21243](http://arxiv.org/abs/2505.21243)|null|
 |**2025-05-27**|**Optimized quantum sensor networks for ultralight dark matter detection**|Adriel I. Santoso et.al.|[2505.21188](http://arxiv.org/abs/2505.21188)|null|
@@ -2227,7 +2227,7 @@
 |**2024-05-03**|**A Class of Numerical Semigroups Defined by Kunz and Waldi**|Srishti Singh et.al.|[2405.00331](http://arxiv.org/abs/2405.00331)|null|
 |**2024-04-26**|**Machine Learning based prediction of Vanadium Redox Flow Battery temperature rise under different charge-discharge conditions**|Anirudh Narayan D et.al.|[2404.17284](http://arxiv.org/abs/2404.17284)|null|
 
-<p align=right>(<a href=#updated-on-20250528>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250529>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
