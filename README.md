@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-29**|**DarkDiff: Advancing Low-Light Raw Enhancement by Retasking Diffusion Models for Camera ISP**|Amber Yijia Zheng et.al.|[2505.23743](http://arxiv.org/abs/2505.23743)|null|
+|**2025-05-29**|**FMG-Det: Foundation Model Guided Robust Object Detection**|Darryl Hannan et.al.|[2505.23726](http://arxiv.org/abs/2505.23726)|null|
+|**2025-05-29**|**LLM Performance for Code Generation on Noisy Tasks**|Radzim Sendyka et.al.|[2505.23598](http://arxiv.org/abs/2505.23598)|null|
+|**2025-05-29**|**DeepFilterGAN: A Full-band Real-time Speech Enhancement System with GAN-based Stochastic Regeneration**|Sanberk Serbest et.al.|[2505.23515](http://arxiv.org/abs/2505.23515)|null|
+|**2025-05-29**|**Epistemic Errors of Imperfect Multitask Learners When Distributions Shift**|Sabina J. Sloman et.al.|[2505.23496](http://arxiv.org/abs/2505.23496)|null|
+|**2025-05-29**|**Network Inversion for Uncertainty-Aware Out-of-Distribution Detection**|Pirzada Suhail et.al.|[2505.23448](http://arxiv.org/abs/2505.23448)|null|
+|**2025-05-29**|**Robust and Annotation-Free Wound Segmentation on Noisy Real-World Pressure Ulcer Images: Towards Automated DESIGN-R\textsuperscript{\textregistered} Assessment**|Yun-Cheng Tsai et.al.|[2505.23392](http://arxiv.org/abs/2505.23392)|null|
+|**2025-05-29**|**Dynamic Estimation Loss Control in Variational Quantum Sensing via Online Conformal Inference**|Ivana Nikoloska et.al.|[2505.23389](http://arxiv.org/abs/2505.23389)|null|
+|**2025-05-29**|**Sentinel: Attention Probing of Proxy Models for LLM Context Compression with an Understanding Perspective**|Yong Zhang et.al.|[2505.23277](http://arxiv.org/abs/2505.23277)|null|
+|**2025-05-29**|**Joint estimation of smooth graph signals from partial linear measurements**|Hemant Tyagi et.al.|[2505.23240](http://arxiv.org/abs/2505.23240)|null|
 |**2025-05-28**|**The Climb Carves Wisdom Deeper Than the Summit: On the Noisy Rewards in Learning to Reason**|Ang Lv et.al.|[2505.22653](http://arxiv.org/abs/2505.22653)|null|
 |**2025-05-28**|**SimProcess: High Fidelity Simulation of Noisy ICS Physical Processes**|Denis Donadel et.al.|[2505.22638](http://arxiv.org/abs/2505.22638)|null|
 |**2025-05-28**|**Disambiguating Pauli noise in quantum computers**|Edward H. Chen et.al.|[2505.22629](http://arxiv.org/abs/2505.22629)|null|
