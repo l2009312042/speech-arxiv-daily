@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-30**|**Chameleon: A MatMul-Free Temporal Convolutional Network Accelerator for End-to-End Few-Shot and Continual Learning from Sequential Data**|Douwe den Blanken et.al.|[2505.24852](http://arxiv.org/abs/2505.24852)|null|
+|**2025-05-30**|**From Invariant Representations to Invariant Data: Provable Robustness to Spurious Correlations via Noisy Counterfactual Matching**|Ruqi Bai et.al.|[2505.24843](http://arxiv.org/abs/2505.24843)|null|
+|**2025-05-30**|**Masked Self-distilled Transducer-based Keyword Spotting with Semi-autoregressive Decoding**|Yu Xi et.al.|[2505.24820](http://arxiv.org/abs/2505.24820)|null|
+|**2025-05-30**|**AFIRE: Accurate and Fast Image Reconstruction Algorithm for Geometric-inconsistency Multispectral CT**|Yu Gao et.al.|[2505.24793](http://arxiv.org/abs/2505.24793)|null|
+|**2025-05-30**|**Supporting product launching decisions with adversarial risk analysis**|Pablo G. Arce et.al.|[2505.24771](http://arxiv.org/abs/2505.24771)|null|
+|**2025-05-30**|**On Symmetric Losses for Robust Policy Optimization with Noisy Preferences**|Soichiro Nishimori et.al.|[2505.24709](http://arxiv.org/abs/2505.24709)|null|
+|**2025-05-30**|**MSDA: Combining Pseudo-labeling and Self-Supervision for Unsupervised Domain Adaptation in ASR**|Dimitrios Damianos et.al.|[2505.24656](http://arxiv.org/abs/2505.24656)|null|
+|**2025-05-30**|**Neuro-Symbolic Operator for Interpretable and Generalizable Characterization of Complex Piezoelectric Systems**|Abhishek Chandra et.al.|[2505.24578](http://arxiv.org/abs/2505.24578)|null|
+|**2025-05-30**|**Fine-tuning for Data-enabled Predictive Control of Noisy Systems by Reinforcement Learning**|Jinbao Wang et.al.|[2505.24572](http://arxiv.org/abs/2505.24572)|null|
+|**2025-05-30**|**ARECHO: Autoregressive Evaluation via Chain-Based Hypothesis Optimization for Speech Multi-Metric Estimation**|Jiatong Shi et.al.|[2505.24518](http://arxiv.org/abs/2505.24518)|null|
 |**2025-05-29**|**DarkDiff: Advancing Low-Light Raw Enhancement by Retasking Diffusion Models for Camera ISP**|Amber Yijia Zheng et.al.|[2505.23743](http://arxiv.org/abs/2505.23743)|null|
 |**2025-05-29**|**FMG-Det: Foundation Model Guided Robust Object Detection**|Darryl Hannan et.al.|[2505.23726](http://arxiv.org/abs/2505.23726)|null|
 |**2025-05-29**|**LLM Performance for Code Generation on Noisy Tasks**|Radzim Sendyka et.al.|[2505.23598](http://arxiv.org/abs/2505.23598)|null|
