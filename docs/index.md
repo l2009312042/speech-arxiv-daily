@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-03**|**Targeted Forgetting of Image Subgroups in CLIP Models**|Zeliang Zhang et.al.|[2506.03117](http://arxiv.org/abs/2506.03117)|null|
+|**2025-06-03**|**Retrieval-Augmented Generation as Noisy In-Context Learning: A Unified Theory and Risk Bounds**|Yang Guo et.al.|[2506.03100](http://arxiv.org/abs/2506.03100)|null|
+|**2025-06-03**|**On the Benefits of Accelerated Optimization in Robust and Private Estimation**|Laurentiu Andrei Marchis et.al.|[2506.03044](http://arxiv.org/abs/2506.03044)|null|
+|**2025-06-03**|**TestAgent: An Adaptive and Intelligent Expert for Human Assessment**|Junhao Yu et.al.|[2506.03032](http://arxiv.org/abs/2506.03032)|null|
+|**2025-06-03**|**Quantum Data Centers: Why Entanglement Changes Everything**|Angela Sara Cacciapuoti et.al.|[2506.02920](http://arxiv.org/abs/2506.02920)|null|
+|**2025-06-03**|**Combining social relations and interaction data in Recommender System with Graph Convolution Collaborative Filtering**|Tin T. Tran et.al.|[2506.02834](http://arxiv.org/abs/2506.02834)|null|
+|**2025-06-03**|**Stacking the Odds: Full-Stack Quantum System Design Space Exploration**|Hila Safi et.al.|[2506.02782](http://arxiv.org/abs/2506.02782)|null|
+|**2025-06-03**|**AuralNet: Hierarchical Attention-based 3D Binaural Localization of Overlapping Speakers**|Linya Fu et.al.|[2506.02773](http://arxiv.org/abs/2506.02773)|null|
+|**2025-06-03**|**Computational Thresholds in Multi-Modal Learning via the Spiked Matrix-Tensor Model**|Hugo Tabanelli et.al.|[2506.02664](http://arxiv.org/abs/2506.02664)|null|
+|**2025-06-03**|**Enhancing Monocular Height Estimation via Weak Supervision from Imperfect Labels**|Sining Chen et.al.|[2506.02534](http://arxiv.org/abs/2506.02534)|null|
 |**2025-05-30**|**Chameleon: A MatMul-Free Temporal Convolutional Network Accelerator for End-to-End Few-Shot and Continual Learning from Sequential Data**|Douwe den Blanken et.al.|[2505.24852](http://arxiv.org/abs/2505.24852)|null|
 |**2025-05-30**|**From Invariant Representations to Invariant Data: Provable Robustness to Spurious Correlations via Noisy Counterfactual Matching**|Ruqi Bai et.al.|[2505.24843](http://arxiv.org/abs/2505.24843)|null|
 |**2025-05-30**|**Masked Self-distilled Transducer-based Keyword Spotting with Semi-autoregressive Decoding**|Yu Xi et.al.|[2505.24820](http://arxiv.org/abs/2505.24820)|null|
