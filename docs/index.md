@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-04**|**Object-centric 3D Motion Field for Robot Learning from Human Videos**|Zhao-Heng Yin et.al.|[2506.04227](http://arxiv.org/abs/2506.04227)|null|
+|**2025-06-04**|**UNIC: Unified In-Context Video Editing**|Zixuan Ye et.al.|[2506.04216](http://arxiv.org/abs/2506.04216)|null|
+|**2025-06-04**|**FullDiT2: Efficient In-Context Conditioning for Video Diffusion Transformers**|Xuanhua He et.al.|[2506.04213](http://arxiv.org/abs/2506.04213)|null|
+|**2025-06-04**|**A Kernel-Based Approach for Accurate Steady-State Detection in Performance Time Series**|Martin Beseda et.al.|[2506.04204](http://arxiv.org/abs/2506.04204)|null|
+|**2025-06-04**|**Deep-learned error mitigation via partially knitted circuits for the variational quantum eigensolver**|Simone Cantori et.al.|[2506.04146](http://arxiv.org/abs/2506.04146)|null|
+|**2025-06-04**|**Splatting Physical Scenes: End-to-End Real-to-Sim from Imperfect Robot Data**|Ben Moran et.al.|[2506.04120](http://arxiv.org/abs/2506.04120)|null|
+|**2025-06-04**|**TransClean: Finding False Positives in Multi-Source Entity Matching under Real-World Conditions via Transitive Consistency**|Fernando de Meer Pardo et.al.|[2506.04006](http://arxiv.org/abs/2506.04006)|null|
+|**2025-06-04**|**Limitations of Quantum Hardware for Molecular Energy Estimation Using VQE**|Abel Carreras et.al.|[2506.03995](http://arxiv.org/abs/2506.03995)|null|
+|**2025-06-04**|**DiffCAP: Diffusion-based Cumulative Adversarial Purification for Vision Language Models**|Jia Fu et.al.|[2506.03933](http://arxiv.org/abs/2506.03933)|null|
+|**2025-06-04**|**Identification of Differential Equations by Dynamics-Guided Weighted Weak Form with Voting**|Jiahui Cheng et.al.|[2506.03899](http://arxiv.org/abs/2506.03899)|null|
 |**2025-06-03**|**Targeted Forgetting of Image Subgroups in CLIP Models**|Zeliang Zhang et.al.|[2506.03117](http://arxiv.org/abs/2506.03117)|null|
 |**2025-06-03**|**Retrieval-Augmented Generation as Noisy In-Context Learning: A Unified Theory and Risk Bounds**|Yang Guo et.al.|[2506.03100](http://arxiv.org/abs/2506.03100)|null|
 |**2025-06-03**|**On the Benefits of Accelerated Optimization in Robust and Private Estimation**|Laurentiu Andrei Marchis et.al.|[2506.03044](http://arxiv.org/abs/2506.03044)|null|
