@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-05**|**VideoMathQA: Benchmarking Mathematical Reasoning via Multimodal Understanding in Videos**|Hanoona Rasheed et.al.|[2506.05349](http://arxiv.org/abs/2506.05349)|null|
+|**2025-06-05**|**Rectified Point Flow: Generic Point Cloud Pose Estimation**|Tao Sun et.al.|[2506.05282](http://arxiv.org/abs/2506.05282)|null|
+|**2025-06-05**|**Mitigating Degree Bias Adaptively with Hard-to-Learn Nodes in Graph Contrastive Learning**|Jingyu Hu et.al.|[2506.05214](http://arxiv.org/abs/2506.05214)|null|
+|**2025-06-05**|**Learning Intrinsic Alignments from Local Galaxy Environments**|Matthew Craigie et.al.|[2506.05155](http://arxiv.org/abs/2506.05155)|null|
+|**2025-06-05**|**Efficient Characterization of N-Beam Gaussian Fields Through Photon-Number Measurements: Quantum Universal Invariants**|Nazarii Sudak et.al.|[2506.05084](http://arxiv.org/abs/2506.05084)|null|
+|**2025-06-05**|**UnHiPPO: Uncertainty-aware Initialization for State Space Models**|Marten Lienen et.al.|[2506.05065](http://arxiv.org/abs/2506.05065)|null|
+|**2025-06-05**|**Quantum simulation of the Hubbard model on a graphene hexagon: Strengths of IQPE and noise constraints**|Mohammad Mirzakhani et.al.|[2506.05031](http://arxiv.org/abs/2506.05031)|null|
+|**2025-06-05**|**Generating Synthetic Stereo Datasets using 3D Gaussian Splatting and Expert Knowledge Transfer**|Filip Slezak et.al.|[2506.04908](http://arxiv.org/abs/2506.04908)|null|
+|**2025-06-05**|**Multivariate Probabilistic Assessment of Speech Quality**|Fredrik Cumlin et.al.|[2506.04890](http://arxiv.org/abs/2506.04890)|null|
+|**2025-06-05**|**LLM-based phoneme-to-grapheme for phoneme-based speech recognition**|Te Ma et.al.|[2506.04711](http://arxiv.org/abs/2506.04711)|null|
 |**2025-06-04**|**Object-centric 3D Motion Field for Robot Learning from Human Videos**|Zhao-Heng Yin et.al.|[2506.04227](http://arxiv.org/abs/2506.04227)|null|
 |**2025-06-04**|**UNIC: Unified In-Context Video Editing**|Zixuan Ye et.al.|[2506.04216](http://arxiv.org/abs/2506.04216)|null|
 |**2025-06-05**|**FullDiT2: Efficient In-Context Conditioning for Video Diffusion Transformers**|Xuanhua He et.al.|[2506.04213](http://arxiv.org/abs/2506.04213)|null|
