@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.05
+## Updated on 2025.06.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -19,7 +19,7 @@
 |---|---|---|---|---|
 |**2025-06-04**|**Object-centric 3D Motion Field for Robot Learning from Human Videos**|Zhao-Heng Yin et.al.|[2506.04227](http://arxiv.org/abs/2506.04227)|null|
 |**2025-06-04**|**UNIC: Unified In-Context Video Editing**|Zixuan Ye et.al.|[2506.04216](http://arxiv.org/abs/2506.04216)|null|
-|**2025-06-04**|**FullDiT2: Efficient In-Context Conditioning for Video Diffusion Transformers**|Xuanhua He et.al.|[2506.04213](http://arxiv.org/abs/2506.04213)|null|
+|**2025-06-05**|**FullDiT2: Efficient In-Context Conditioning for Video Diffusion Transformers**|Xuanhua He et.al.|[2506.04213](http://arxiv.org/abs/2506.04213)|null|
 |**2025-06-04**|**A Kernel-Based Approach for Accurate Steady-State Detection in Performance Time Series**|Martin Beseda et.al.|[2506.04204](http://arxiv.org/abs/2506.04204)|null|
 |**2025-06-04**|**Deep-learned error mitigation via partially knitted circuits for the variational quantum eigensolver**|Simone Cantori et.al.|[2506.04146](http://arxiv.org/abs/2506.04146)|null|
 |**2025-06-04**|**Splatting Physical Scenes: End-to-End Real-to-Sim from Imperfect Robot Data**|Ben Moran et.al.|[2506.04120](http://arxiv.org/abs/2506.04120)|null|
@@ -2277,7 +2277,7 @@
 |**2024-05-03**|**A Class of Numerical Semigroups Defined by Kunz and Waldi**|Srishti Singh et.al.|[2405.00331](http://arxiv.org/abs/2405.00331)|null|
 |**2024-04-26**|**Machine Learning based prediction of Vanadium Redox Flow Battery temperature rise under different charge-discharge conditions**|Anirudh Narayan D et.al.|[2404.17284](http://arxiv.org/abs/2404.17284)|null|
 
-<p align=right>(<a href=#updated-on-20250605>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250606>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
