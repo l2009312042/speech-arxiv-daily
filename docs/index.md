@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.09
+## Updated on 2025.06.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## KWS
@@ -17,7 +17,7 @@ layout: default
 |**2025-06-06**|**Robustness of complexity estimation in event-driven signals against accuracy of event detection method**|Marco Cafiso et.al.|[2506.06168](http://arxiv.org/abs/2506.06168)|null|
 |**2025-06-06**|**CLaMR: Contextualized Late-Interaction for Multimodal Content Retrieval**|David Wan et.al.|[2506.06144](http://arxiv.org/abs/2506.06144)|null|
 |**2025-06-06**|**VideoChat-A1: Thinking with Long Videos by Chain-of-Shot Reasoning**|Zikang Wang et.al.|[2506.06097](http://arxiv.org/abs/2506.06097)|null|
-|**2025-06-06**|**MIRIAD: Augmenting LLMs with millions of medical query-response pairs**|Qinyue Zheng et.al.|[2506.06091](http://arxiv.org/abs/2506.06091)|null|
+|**2025-06-09**|**MIRIAD: Augmenting LLMs with millions of medical query-response pairs**|Qinyue Zheng et.al.|[2506.06091](http://arxiv.org/abs/2506.06091)|null|
 |**2025-06-06**|**Optimizing entanglement distribution via noisy quantum channels**|Piotr Masajada et.al.|[2506.06089](http://arxiv.org/abs/2506.06089)|null|
 |**2025-06-06**|**TRUST: Test-time Resource Utilization for Superior Trustworthiness**|Haripriya Harikumar et.al.|[2506.06048](http://arxiv.org/abs/2506.06048)|null|
 |**2025-06-06**|**Equivariant Filter for Relative Attitude and Target Angular Velocity Estimation**|Gil Serrano et.al.|[2506.06016](http://arxiv.org/abs/2506.06016)|null|
