@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-09**|**Vision Transformers Don't Need Trained Registers**|Nick Jiang et.al.|[2506.08010](http://arxiv.org/abs/2506.08010)|null|
+|**2025-06-09**|**Rethinking Crowd-Sourced Evaluation of Neuron Explanations**|Tuomas Oikarinen et.al.|[2506.07985](http://arxiv.org/abs/2506.07985)|null|
+|**2025-06-09**|**CXR-LT 2024: A MICCAI challenge on long-tailed, multi-label, and zero-shot disease classification from chest X-ray**|Mingquan Lin et.al.|[2506.07984](http://arxiv.org/abs/2506.07984)|null|
+|**2025-06-09**|**FunDiff: Diffusion Models over Function Spaces for Physics-Informed Generative Modeling**|Sifan Wang et.al.|[2506.07902](http://arxiv.org/abs/2506.07902)|null|
+|**2025-06-09**|**Dense Associative Memory in a Nonlinear Optical Hopfield Neural Network**|Khalid Musa et.al.|[2506.07849](http://arxiv.org/abs/2506.07849)|null|
+|**2025-06-09**|**Heavy Lasso: sparse penalized regression under heavy-tailed noise via data-augmented soft-thresholding**|The Tien Mai et.al.|[2506.07790](http://arxiv.org/abs/2506.07790)|null|
+|**2025-06-09**|**Graph-Assisted Stitching for Offline Hierarchical Reinforcement Learning**|Seungho Baek et.al.|[2506.07744](http://arxiv.org/abs/2506.07744)|null|
+|**2025-06-09**|**Set-valued regression and cautious suboptimization: From noisy data to optimality**|Jaap Eising et.al.|[2506.07622](http://arxiv.org/abs/2506.07622)|null|
+|**2025-06-09**|**Error-Mitigated Quantum Metrology via Probabilistic Virtual Purification**|Xiaodie Lin et.al.|[2506.07618](http://arxiv.org/abs/2506.07618)|null|
+|**2025-06-09**|**IDENT Review: Recent Advances in Identification of Differential Equations from Noisy Data**|Roy Y. He et.al.|[2506.07604](http://arxiv.org/abs/2506.07604)|null|
 |**2025-06-06**|**Robustness of complexity estimation in event-driven signals against accuracy of event detection method**|Marco Cafiso et.al.|[2506.06168](http://arxiv.org/abs/2506.06168)|null|
 |**2025-06-06**|**CLaMR: Contextualized Late-Interaction for Multimodal Content Retrieval**|David Wan et.al.|[2506.06144](http://arxiv.org/abs/2506.06144)|null|
 |**2025-06-06**|**VideoChat-A1: Thinking with Long Videos by Chain-of-Shot Reasoning**|Zikang Wang et.al.|[2506.06097](http://arxiv.org/abs/2506.06097)|null|
