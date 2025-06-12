@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.11
+## Updated on 2025.06.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## KWS
@@ -17,7 +17,7 @@ layout: default
 |**2025-06-10**|**Implementing Keyword Spotting on the MCUX947 Microcontroller with Integrated NPU**|Petar Jakuš et.al.|[2506.08911](http://arxiv.org/abs/2506.08911)|null|
 |**2025-06-10**|**Flow Diverse and Efficient: Learning Momentum Flow Matching via Stochastic Velocity Field Sampling**|Zhiyuan Ma et.al.|[2506.08796](http://arxiv.org/abs/2506.08796)|null|
 |**2025-06-10**|**Aging of amorphous materials under cyclic strain**|Dor Shohat et.al.|[2506.08779](http://arxiv.org/abs/2506.08779)|null|
-|**2025-06-10**|**Minimal Order Recovery through Rank-adaptive Identification**|Frédéric Zheng et.al.|[2506.08720](http://arxiv.org/abs/2506.08720)|null|
+|**2025-06-11**|**Minimal Order Recovery through Rank-adaptive Identification**|Frédéric Zheng et.al.|[2506.08720](http://arxiv.org/abs/2506.08720)|null|
 |**2025-06-10**|**Convergence of Spectral Principal Paths: How Deep Networks Distill Linear Representations from Noisy Inputs**|Bowei Tian et.al.|[2506.08543](http://arxiv.org/abs/2506.08543)|null|
 |**2025-06-10**|**TrajFlow: Multi-modal Motion Prediction via Flow Matching**|Qi Yan et.al.|[2506.08541](http://arxiv.org/abs/2506.08541)|null|
 |**2025-06-10**|**Multiversion of the Hausdorff--Young inequality**|Paata Ivanisvili et.al.|[2506.08494](http://arxiv.org/abs/2506.08494)|null|

@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.11
+## Updated on 2025.06.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -20,7 +20,7 @@
 |**2025-06-10**|**Implementing Keyword Spotting on the MCUX947 Microcontroller with Integrated NPU**|Petar Jakuš et.al.|[2506.08911](http://arxiv.org/abs/2506.08911)|null|
 |**2025-06-10**|**Flow Diverse and Efficient: Learning Momentum Flow Matching via Stochastic Velocity Field Sampling**|Zhiyuan Ma et.al.|[2506.08796](http://arxiv.org/abs/2506.08796)|null|
 |**2025-06-10**|**Aging of amorphous materials under cyclic strain**|Dor Shohat et.al.|[2506.08779](http://arxiv.org/abs/2506.08779)|null|
-|**2025-06-10**|**Minimal Order Recovery through Rank-adaptive Identification**|Frédéric Zheng et.al.|[2506.08720](http://arxiv.org/abs/2506.08720)|null|
+|**2025-06-11**|**Minimal Order Recovery through Rank-adaptive Identification**|Frédéric Zheng et.al.|[2506.08720](http://arxiv.org/abs/2506.08720)|null|
 |**2025-06-10**|**Convergence of Spectral Principal Paths: How Deep Networks Distill Linear Representations from Noisy Inputs**|Bowei Tian et.al.|[2506.08543](http://arxiv.org/abs/2506.08543)|null|
 |**2025-06-10**|**TrajFlow: Multi-modal Motion Prediction via Flow Matching**|Qi Yan et.al.|[2506.08541](http://arxiv.org/abs/2506.08541)|null|
 |**2025-06-10**|**Multiversion of the Hausdorff--Young inequality**|Paata Ivanisvili et.al.|[2506.08494](http://arxiv.org/abs/2506.08494)|null|
@@ -2317,7 +2317,7 @@
 |**2024-05-03**|**A Class of Numerical Semigroups Defined by Kunz and Waldi**|Srishti Singh et.al.|[2405.00331](http://arxiv.org/abs/2405.00331)|null|
 |**2024-04-26**|**Machine Learning based prediction of Vanadium Redox Flow Battery temperature rise under different charge-discharge conditions**|Anirudh Narayan D et.al.|[2404.17284](http://arxiv.org/abs/2404.17284)|null|
 
-<p align=right>(<a href=#updated-on-20250611>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250612>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
