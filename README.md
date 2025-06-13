@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-12**|**OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics**|Rui Zhang et.al.|[2506.10862](http://arxiv.org/abs/2506.10862)|null|
+|**2025-06-12**|**SNR and Resource Adaptive Deep JSCC for Distributed IoT Image Classification**|Ali Waqas et.al.|[2506.10699](http://arxiv.org/abs/2506.10699)|null|
+|**2025-06-12**|**Contrastive Matrix Completion with Denoising and Augmented Graph Views for Robust Recommendation**|Narges Nemati et.al.|[2506.10658](http://arxiv.org/abs/2506.10658)|null|
+|**2025-06-12**|**Measuring Semantic Information Production in Generative Diffusion Models**|Florian Handke et.al.|[2506.10433](http://arxiv.org/abs/2506.10433)|null|
+|**2025-06-12**|**History-Aware Neural Operator: Robust Data-Driven Constitutive Modeling of Path-Dependent Materials**|Binyao Guo et.al.|[2506.10352](http://arxiv.org/abs/2506.10352)|null|
+|**2025-06-12**|**Flick: Few Labels Text Classification using K-Aware Intermediate Learning in Multi-Task Low-Resource Languages**|Ali Almutairi et.al.|[2506.10292](http://arxiv.org/abs/2506.10292)|null|
+|**2025-06-12**|**VQC-MLPNet: An Unconventional Hybrid Quantum-Classical Architecture for Scalable and Robust Quantum Machine Learning**|Jun Qi et.al.|[2506.10275](http://arxiv.org/abs/2506.10275)|null|
+|**2025-06-12**|**Meta-learning Representations for Learning from Multiple Annotators**|Atsutoshi Kumagai et.al.|[2506.10259](http://arxiv.org/abs/2506.10259)|null|
+|**2025-06-11**|**FedMLAC: Mutual Learning Driven Heterogeneous Federated Audio Classification**|Jun Bai et.al.|[2506.10207](http://arxiv.org/abs/2506.10207)|null|
+|**2025-06-11**|**Diffusion prior as a direct regularization term for FWI**|Yuke Xie et.al.|[2506.10141](http://arxiv.org/abs/2506.10141)|null|
 |**2025-06-11**|**Dynamic Hypergraph Partitioning of Quantum Circuits with Hybrid Execution**|Shane Sweeney et.al.|[2506.09963](http://arxiv.org/abs/2506.09963)|null|
 |**2025-06-11**|**Devil's Hand: Data Poisoning Attacks to Locally Private Graph Learning Protocols**|Longzhu He et.al.|[2506.09803](http://arxiv.org/abs/2506.09803)|null|
 |**2025-06-11**|**Assessing the Quality of Denoising Diffusion Models in Wasserstein Distance: Noisy Score and Optimal Bounds**|Vahan Arsenyan et.al.|[2506.09681](http://arxiv.org/abs/2506.09681)|null|
