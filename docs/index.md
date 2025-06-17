@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-16**|**Adversarial Disentanglement by Backpropagation with Physics-Informed Variational Autoencoder**|Ioannis Christoforos Koune et.al.|[2506.13658](http://arxiv.org/abs/2506.13658)|null|
+|**2025-06-16**|**A Hybrid Artificial Intelligence Method for Estimating Flicker in Power Systems**|Javad Enayati et.al.|[2506.13611](http://arxiv.org/abs/2506.13611)|null|
+|**2025-06-16**|**Multiview Geometric Regularization of Gaussian Splatting for Accurate Radiance Fields**|Jungeon Kim et.al.|[2506.13508](http://arxiv.org/abs/2506.13508)|null|
+|**2025-06-16**|**Balancing Intensity and Focality in Directional DBS Under Uncertainty: A Simulation Study of Electrode Optimization via a Metaheuristic L1L1 Approach**|Fernando Galaz Prieto et.al.|[2506.13452](http://arxiv.org/abs/2506.13452)|null|
+|**2025-06-16**|**Estimating Intractable Posterior Distributions through Gaussian Process regression and Metropolis-adjusted Langevin procedure**|Guillaume Perrin et.al.|[2506.13336](http://arxiv.org/abs/2506.13336)|null|
+|**2025-06-16**|**Isolating Noisy Labelled Test Cases in Human-in-the-Loop Oracle Learning**|Charaka Geethal Kapugama et.al.|[2506.13273](http://arxiv.org/abs/2506.13273)|null|
+|**2025-06-16**|**SONIC: Sound Optimization for Noise In Crowds**|Pranav M N et.al.|[2506.13272](http://arxiv.org/abs/2506.13272)|null|
+|**2025-06-16**|**SPOT: Bridging Natural Language and Geospatial Search for Investigative Journalists**|Lynn Khellaf et.al.|[2506.13188](http://arxiv.org/abs/2506.13188)|null|
+|**2025-06-16**|**Efficient Approximate Temporal Triangle Counting in Streaming with Predictions**|Giorgio Venturin et.al.|[2506.13173](http://arxiv.org/abs/2506.13173)|null|
+|**2025-06-16**|**GS-2DGS: Geometrically Supervised 2DGS for Reflective Object Reconstruction**|Jinguang Tong et.al.|[2506.13110](http://arxiv.org/abs/2506.13110)|null|
 |**2025-06-13**|**How do Probabilistic Graphical Models and Graph Neural Networks Look at Network Data?**|Michela Lapenna et.al.|[2506.11869](http://arxiv.org/abs/2506.11869)|null|
 |**2025-06-13**|**Diffusion-Based Electrocardiography Noise Quantification via Anomaly Detection**|Tae-Seong Han et.al.|[2506.11815](http://arxiv.org/abs/2506.11815)|null|
 |**2025-06-13**|**Enabling automatic transcription of child-centered audio recordings from real-world environments**|Daniil Kocharov et.al.|[2506.11747](http://arxiv.org/abs/2506.11747)|null|
