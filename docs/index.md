@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-17**|**Refining music sample identification with a self-supervised graph neural network**|Aditya Bhattacharjee et.al.|[2506.14684](http://arxiv.org/abs/2506.14684)|null|
+|**2025-06-17**|**ASAP-FE: Energy-Efficient Feature Extraction Enabling Multi-Channel Keyword Spotting on Edge Processors**|Jongin Choi et.al.|[2506.14657](http://arxiv.org/abs/2506.14657)|null|
+|**2025-06-17**|**Accurate Depth-Resolved Temperature Profiling via Thermal-Radiation Spectroscopy: Numerical Methods vs Machine Learning**|Dmitrii Shymkiv et.al.|[2506.14554](http://arxiv.org/abs/2506.14554)|null|
+|**2025-06-17**|**I Speak and You Find: Robust 3D Visual Grounding with Noisy and Ambiguous Speech Inputs**|Yu Qi et.al.|[2506.14495](http://arxiv.org/abs/2506.14495)|null|
+|**2025-06-17**|**Foundation Model Insights and a Multi-Model Approach for Superior Fine-Grained One-shot Subset Selection**|Zhijing Wan et.al.|[2506.14473](http://arxiv.org/abs/2506.14473)|null|
+|**2025-06-17**|**One Size Fits None: Rethinking Fairness in Medical AI**|Roland Roller et.al.|[2506.14400](http://arxiv.org/abs/2506.14400)|null|
+|**2025-06-17**|**Dynamical Phase diagram of the Quantum Ising model with Cluster Interaction Under Noisy and Noiseless Driven field**|Sasan Kheiri et.al.|[2506.14372](http://arxiv.org/abs/2506.14372)|null|
+|**2025-06-17**|**Scaling and Universality at Noisy Quench Dynamical Quantum Phase Transitions**|Saeid Ansari et.al.|[2506.14355](http://arxiv.org/abs/2506.14355)|null|
+|**2025-06-17**|**Exploring EEG Indicators to Evaluate Listening Difficulties in Noisy Environments**|Azuki Onaya et.al.|[2506.14339](http://arxiv.org/abs/2506.14339)|null|
+|**2025-06-17**|**Bayesian Inference for Initial Heat States with Gaussian Series Priors**|Matteo Giordano et.al.|[2506.14241](http://arxiv.org/abs/2506.14241)|null|
 |**2025-06-16**|**Adversarial Disentanglement by Backpropagation with Physics-Informed Variational Autoencoder**|Ioannis Christoforos Koune et.al.|[2506.13658](http://arxiv.org/abs/2506.13658)|null|
 |**2025-06-16**|**A Hybrid Artificial Intelligence Method for Estimating Flicker in Power Systems**|Javad Enayati et.al.|[2506.13611](http://arxiv.org/abs/2506.13611)|null|
 |**2025-06-16**|**Multiview Geometric Regularization of Gaussian Splatting for Accurate Radiance Fields**|Jungeon Kim et.al.|[2506.13508](http://arxiv.org/abs/2506.13508)|null|
