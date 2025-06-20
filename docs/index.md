@@ -7,13 +7,23 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.19
+## Updated on 2025.06.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## KWS
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-18**|**GFLC: Graph-based Fairness-aware Label Correction for Fair Classification**|Modar Sulaiman et.al.|[2506.15620](http://arxiv.org/abs/2506.15620)|null|
+|**2025-06-18**|**TTSOps: A Closed-Loop Corpus Optimization Framework for Training Multi-Speaker TTS Models from Dark Data**|Kentaro Seki et.al.|[2506.15614](http://arxiv.org/abs/2506.15614)|null|
+|**2025-06-18**|**Attractor Stability of Boolean networks under noise**|Byungjoon Min et.al.|[2506.15581](http://arxiv.org/abs/2506.15581)|null|
+|**2025-06-18**|**High-Efficiency Quantum Memory of Full-Bandwidth Squeezed Light**|Jinxian Guo et.al.|[2506.15399](http://arxiv.org/abs/2506.15399)|null|
+|**2025-06-18**|**Entangling remote superconducting qubits via transducer-generated multi-time-bin states**|Jing Wu et.al.|[2506.15277](http://arxiv.org/abs/2506.15277)|null|
+|**2025-06-18**|**DM-FNet: Unified multimodal medical image fusion via diffusion process-trained encoder-decoder**|Dan He et.al.|[2506.15218](http://arxiv.org/abs/2506.15218)|null|
+|**2025-06-18**|**HeurAgenix: Leveraging LLMs for Solving Complex Combinatorial Optimization Challenges**|Xianliang Yang et.al.|[2506.15196](http://arxiv.org/abs/2506.15196)|null|
+|**2025-06-18**|**Echo-DND: A dual noise diffusion model for robust and precise left ventricle segmentation in echocardiography**|Abdur Rahman et.al.|[2506.15166](http://arxiv.org/abs/2506.15166)|null|
+|**2025-06-18**|**I Know You're Listening: Adaptive Voice for HRI**|Paige Tuttösí et.al.|[2506.15107](http://arxiv.org/abs/2506.15107)|null|
+|**2025-06-17**|**A Comparative Evaluation of Deep Learning Models for Speech Enhancement in Real-World Noisy Environments**|Md Jahangir Alam Khondkar et.al.|[2506.15000](http://arxiv.org/abs/2506.15000)|null|
 |**2025-06-17**|**Refining music sample identification with a self-supervised graph neural network**|Aditya Bhattacharjee et.al.|[2506.14684](http://arxiv.org/abs/2506.14684)|null|
 |**2025-06-17**|**ASAP-FE: Energy-Efficient Feature Extraction Enabling Multi-Channel Keyword Spotting on Edge Processors**|Jongin Choi et.al.|[2506.14657](http://arxiv.org/abs/2506.14657)|null|
 |**2025-06-17**|**Accurate Depth-Resolved Temperature Profiling via Thermal-Radiation Spectroscopy: Numerical Methods vs Machine Learning**|Dmitrii Shymkiv et.al.|[2506.14554](http://arxiv.org/abs/2506.14554)|null|
