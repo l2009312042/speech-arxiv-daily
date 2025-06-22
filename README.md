@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.21
+## Updated on 2025.06.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -22,11 +22,11 @@
 |**2025-06-18**|**Attractor Stability of Boolean networks under noise**|Byungjoon Min et.al.|[2506.15581](http://arxiv.org/abs/2506.15581)|null|
 |**2025-06-18**|**High-Efficiency Quantum Memory of Full-Bandwidth Squeezed Light**|Jinxian Guo et.al.|[2506.15399](http://arxiv.org/abs/2506.15399)|null|
 |**2025-06-18**|**Entangling remote superconducting qubits via transducer-generated multi-time-bin states**|Jing Wu et.al.|[2506.15277](http://arxiv.org/abs/2506.15277)|null|
-|**2025-06-18**|**DM-FNet: Unified multimodal medical image fusion via diffusion process-trained encoder-decoder**|Dan He et.al.|[2506.15218](http://arxiv.org/abs/2506.15218)|null|
-|**2025-06-18**|**HeurAgenix: Leveraging LLMs for Solving Complex Combinatorial Optimization Challenges**|Xianliang Yang et.al.|[2506.15196](http://arxiv.org/abs/2506.15196)|null|
+|**2025-06-18**|**DM-FNet: Unified multimodal medical image fusion via diffusion process-trained encoder-decoder**|Dan He et.al.|[2506.15218](http://arxiv.org/abs/2506.15218)|**[link](https://github.com/hedan-11/dm-fnet)**|
+|**2025-06-18**|**HeurAgenix: Leveraging LLMs for Solving Complex Combinatorial Optimization Challenges**|Xianliang Yang et.al.|[2506.15196](http://arxiv.org/abs/2506.15196)|**[link](https://github.com/microsoft/heuragenix)**|
 |**2025-06-18**|**Echo-DND: A dual noise diffusion model for robust and precise left ventricle segmentation in echocardiography**|Abdur Rahman et.al.|[2506.15166](http://arxiv.org/abs/2506.15166)|null|
 |**2025-06-18**|**I Know You're Listening: Adaptive Voice for HRI**|Paige Tuttösí et.al.|[2506.15107](http://arxiv.org/abs/2506.15107)|null|
-|**2025-06-17**|**A Comparative Evaluation of Deep Learning Models for Speech Enhancement in Real-World Noisy Environments**|Md Jahangir Alam Khondkar et.al.|[2506.15000](http://arxiv.org/abs/2506.15000)|null|
+|**2025-06-17**|**A Comparative Evaluation of Deep Learning Models for Speech Enhancement in Real-World Noisy Environments**|Md Jahangir Alam Khondkar et.al.|[2506.15000](http://arxiv.org/abs/2506.15000)|**[link](https://github.com/jahangirkhondkar/dl_speechenhancementtoolkit)**|
 |**2025-06-17**|**Refining music sample identification with a self-supervised graph neural network**|Aditya Bhattacharjee et.al.|[2506.14684](http://arxiv.org/abs/2506.14684)|null|
 |**2025-06-17**|**ASAP-FE: Energy-Efficient Feature Extraction Enabling Multi-Channel Keyword Spotting on Edge Processors**|Jongin Choi et.al.|[2506.14657](http://arxiv.org/abs/2506.14657)|null|
 |**2025-06-17**|**Accurate Depth-Resolved Temperature Profiling via Thermal-Radiation Spectroscopy: Numerical Methods vs Machine Learning**|Dmitrii Shymkiv et.al.|[2506.14554](http://arxiv.org/abs/2506.14554)|null|
@@ -2377,7 +2377,7 @@
 |**2024-05-03**|**A Class of Numerical Semigroups Defined by Kunz and Waldi**|Srishti Singh et.al.|[2405.00331](http://arxiv.org/abs/2405.00331)|null|
 |**2024-04-26**|**Machine Learning based prediction of Vanadium Redox Flow Battery temperature rise under different charge-discharge conditions**|Anirudh Narayan D et.al.|[2404.17284](http://arxiv.org/abs/2404.17284)|null|
 
-<p align=right>(<a href=#updated-on-20250621>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250622>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
