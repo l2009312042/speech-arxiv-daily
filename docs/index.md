@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-20**|**Fault Tolerance by Construction**|Benjamin Rodatz et.al.|[2506.17181](http://arxiv.org/abs/2506.17181)|null|
+|**2025-06-20**|**Monocular One-Shot Metric-Depth Alignment for RGB-Based Robot Grasping**|Teng Guo et.al.|[2506.17110](http://arxiv.org/abs/2506.17110)|null|
+|**2025-06-20**|**Efficient and faithful reconstruction of dynamical attractors using homogeneous differentiators**|Uros Sutulovic et.al.|[2506.17079](http://arxiv.org/abs/2506.17079)|null|
+|**2025-06-20**|**Neural Polar Decoders for DNA Data Storage**|Ziv Aharoni et.al.|[2506.17076](http://arxiv.org/abs/2506.17076)|null|
+|**2025-06-20**|**Multistability and Noise-Induced Transitions in Dispersively-Coupled Nonlinear Nanomechanical Modes**|David Allemeier et.al.|[2506.17026](http://arxiv.org/abs/2506.17026)|null|
+|**2025-06-20**|**EHCube4P: Learning Epistatic Patterns Through Hypercube Graph Convolution Neural Network for Protein Fitness Function Estimation**|Muhammad Daud et.al.|[2506.16921](http://arxiv.org/abs/2506.16921)|null|
+|**2025-06-20**|**Exploring the effect of spatial scales in studying urban mobility pattern**|Hoai Nguyen Huynh et.al.|[2506.16762](http://arxiv.org/abs/2506.16762)|null|
+|**2025-06-20**|**How to Train your Text-to-Image Model: Evaluating Design Choices for Synthetic Training Captions**|Manuel Brack et.al.|[2506.16679](http://arxiv.org/abs/2506.16679)|null|
+|**2025-06-19**|**Towards Bitrate-Efficient and Noise-Robust Speech Coding with Variable Bitrate RVQ**|Yunkee Chae et.al.|[2506.16538](http://arxiv.org/abs/2506.16538)|null|
+|**2025-06-19**|**GoalLadder: Incremental Goal Discovery with Vision-Language Models**|Alexey Zakharov et.al.|[2506.16396](http://arxiv.org/abs/2506.16396)|null|
 |**2025-06-18**|**GFLC: Graph-based Fairness-aware Label Correction for Fair Classification**|Modar Sulaiman et.al.|[2506.15620](http://arxiv.org/abs/2506.15620)|null|
 |**2025-06-18**|**TTSOps: A Closed-Loop Corpus Optimization Framework for Training Multi-Speaker TTS Models from Dark Data**|Kentaro Seki et.al.|[2506.15614](http://arxiv.org/abs/2506.15614)|null|
 |**2025-06-18**|**Attractor Stability of Boolean networks under noise**|Byungjoon Min et.al.|[2506.15581](http://arxiv.org/abs/2506.15581)|null|
