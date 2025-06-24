@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-23**|**A Greedy Version of the Frame Algorithm**|Brody Dylan Johnson et.al.|[2506.18865](http://arxiv.org/abs/2506.18865)|null|
+|**2025-06-23**|**ECLEIRS: Exact conservation law embedded identification of reduced states for parameterized partial differential equations from sparse and noisy data**|Aviral Prakash et.al.|[2506.18855](http://arxiv.org/abs/2506.18855)|null|
+|**2025-06-23**|**Trans-dimensional Hamiltonian model selection and parameter estimation from sparse, noisy data**|Abigail N. Poteshman et.al.|[2506.18802](http://arxiv.org/abs/2506.18802)|null|
+|**2025-06-23**|**Neural Total Variation Distance Estimators for Changepoint Detection in News Data**|Csaba Zsolnai et.al.|[2506.18764](http://arxiv.org/abs/2506.18764)|null|
+|**2025-06-23**|**Local Averaging Accurately Distills Manifold Structure From Noisy Data**|Yihan Shen et.al.|[2506.18761](http://arxiv.org/abs/2506.18761)|null|
+|**2025-06-23**|**TDACloud: Point Cloud Recognition Using Topological Data Analysis**|Anirban Ghosh et.al.|[2506.18725](http://arxiv.org/abs/2506.18725)|null|
+|**2025-06-23**|**Evaluating Multichannel Speech Enhancement Algorithms at the Phoneme Scale Across Genders**|Nasser-Eddine Monir et.al.|[2506.18691](http://arxiv.org/abs/2506.18691)|null|
+|**2025-06-23**|**TCDiff++: An End-to-end Trajectory-Controllable Diffusion Model for Harmonious Music-Driven Group Choreography**|Yuqin Dai et.al.|[2506.18671](http://arxiv.org/abs/2506.18671)|null|
+|**2025-06-23**|**Optimization-Induced Dynamics of Lipschitz Continuity in Neural Networks**|Róisín Luo et.al.|[2506.18588](http://arxiv.org/abs/2506.18588)|null|
+|**2025-06-23**|**Learning Point Correspondences In Radar 3D Point Clouds For Radar-Inertial Odometry**|Jan Michalczyk et.al.|[2506.18580](http://arxiv.org/abs/2506.18580)|null|
 |**2025-06-23**|**Fault Tolerance by Construction**|Benjamin Rodatz et.al.|[2506.17181](http://arxiv.org/abs/2506.17181)|null|
 |**2025-06-20**|**Monocular One-Shot Metric-Depth Alignment for RGB-Based Robot Grasping**|Teng Guo et.al.|[2506.17110](http://arxiv.org/abs/2506.17110)|null|
 |**2025-06-20**|**Efficient and faithful reconstruction of dynamical attractors using homogeneous differentiators**|Uros Sutulovic et.al.|[2506.17079](http://arxiv.org/abs/2506.17079)|null|
