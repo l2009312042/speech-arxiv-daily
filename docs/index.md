@@ -7,14 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.23
+## Updated on 2025.06.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## KWS
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-06-20**|**Fault Tolerance by Construction**|Benjamin Rodatz et.al.|[2506.17181](http://arxiv.org/abs/2506.17181)|null|
+|**2025-06-23**|**Fault Tolerance by Construction**|Benjamin Rodatz et.al.|[2506.17181](http://arxiv.org/abs/2506.17181)|null|
 |**2025-06-20**|**Monocular One-Shot Metric-Depth Alignment for RGB-Based Robot Grasping**|Teng Guo et.al.|[2506.17110](http://arxiv.org/abs/2506.17110)|null|
 |**2025-06-20**|**Efficient and faithful reconstruction of dynamical attractors using homogeneous differentiators**|Uros Sutulovic et.al.|[2506.17079](http://arxiv.org/abs/2506.17079)|null|
 |**2025-06-20**|**Neural Polar Decoders for DNA Data Storage**|Ziv Aharoni et.al.|[2506.17076](http://arxiv.org/abs/2506.17076)|null|
