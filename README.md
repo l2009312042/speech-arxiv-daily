@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-24**|**ReCoGNet: Recurrent Context-Guided Network for 3D MRI Prostate Segmentation**|Ahmad Mustafa et.al.|[2506.19687](http://arxiv.org/abs/2506.19687)|null|
+|**2025-06-24**|**COLUR: Confidence-Oriented Learning, Unlearning and Relearning with Noisy-Label Data for Model Restoration and Refinement**|Zhihao Sui et.al.|[2506.19496](http://arxiv.org/abs/2506.19496)|null|
+|**2025-06-24**|**Recalling The Forgotten Class Memberships: Unlearned Models Can Be Noisy Labelers to Leak Privacy**|Zhihao Sui et.al.|[2506.19486](http://arxiv.org/abs/2506.19486)|null|
+|**2025-06-24**|**Iterative Quantum Feature Maps**|Nasa Matsumoto et.al.|[2506.19461](http://arxiv.org/abs/2506.19461)|null|
+|**2025-06-24**|**AMF-MedIT: An Efficient Align-Modulation-Fusion Framework for Medical Image-Tabular Data**|Congjing Yu et.al.|[2506.19439](http://arxiv.org/abs/2506.19439)|null|
+|**2025-06-24**|**Enhancing Galaxy Classification with U-Net Variational Autoencoders for Image Denoising**|Sergey Mirzoyan et.al.|[2506.19434](http://arxiv.org/abs/2506.19434)|null|
+|**2025-06-24**|**NAADA: A Noise-Aware Attention Denoising Autoencoder for Dental Panoramic Radiographs**|Khuram Naveed et.al.|[2506.19387](http://arxiv.org/abs/2506.19387)|null|
+|**2025-06-24**|**Quantum-Classical Computing for Time-Dependent Ion-Atom Collision Dynamics: Applications to Charge Transfer Cross Section Simulations**|Minchen Qiao et.al.|[2506.19374](http://arxiv.org/abs/2506.19374)|null|
+|**2025-06-24**|**Image Segmentation using Chan-Vese Active Contours**|Pranav Shenoy K. P et.al.|[2506.19344](http://arxiv.org/abs/2506.19344)|null|
+|**2025-06-24**|**Poset-Markov Channels: Capacity via Group Symmetry**|Eray Unsal Atay et.al.|[2506.19305](http://arxiv.org/abs/2506.19305)|null|
 |**2025-06-23**|**A Greedy Version of the Frame Algorithm**|Brody Dylan Johnson et.al.|[2506.18865](http://arxiv.org/abs/2506.18865)|null|
 |**2025-06-23**|**ECLEIRS: Exact conservation law embedded identification of reduced states for parameterized partial differential equations from sparse and noisy data**|Aviral Prakash et.al.|[2506.18855](http://arxiv.org/abs/2506.18855)|null|
 |**2025-06-23**|**Trans-dimensional Hamiltonian model selection and parameter estimation from sparse, noisy data**|Abigail N. Poteshman et.al.|[2506.18802](http://arxiv.org/abs/2506.18802)|null|
