@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-25**|**Deciphering GunType Hierarchy through Acoustic Analysis of Gunshot Recordings**|Ankit Shah et.al.|[2506.20609](http://arxiv.org/abs/2506.20609)|null|
+|**2025-06-25**|**Symmetry-Checking in Band Structure Calculations on a Noisy Quantum Computer**|Shaobo Zhang et.al.|[2506.20483](http://arxiv.org/abs/2506.20483)|null|
+|**2025-06-25**|**Smart Cuts: Enhance Active Learning for Vulnerability Detection by Pruning Bad Seeds**|Xiang Lan et.al.|[2506.20444](http://arxiv.org/abs/2506.20444)|null|
+|**2025-06-25**|**Enterprise Large Language Model Evaluation Benchmark**|Liya Wang et.al.|[2506.20274](http://arxiv.org/abs/2506.20274)|null|
+|**2025-06-25**|**CBF-AFA: Chunk-Based Multi-SSL Fusion for Automatic Fluency Assessment**|Papa Séga Wade et.al.|[2506.20243](http://arxiv.org/abs/2506.20243)|null|
+|**2025-06-25**|**Time and covariance smoothing for restoration of bivariate signals**|Yusuf Yigit Pilavci et.al.|[2506.20237](http://arxiv.org/abs/2506.20237)|null|
+|**2025-06-25**|**Tomography for Plasma Imaging: a Unifying Framework for Bayesian Inference**|D. Hamm et.al.|[2506.20232](http://arxiv.org/abs/2506.20232)|null|
+|**2025-06-25**|**Fast entropy-regularized SDP relaxations for permutation synchronization**|Michael Lindsey et.al.|[2506.20191](http://arxiv.org/abs/2506.20191)|null|
+|**2025-06-25**|**Quantum Utility-Scale Error Mitigation for Quantum Quench Dynamics in Heisenberg Spin Chains**|Seokwon Choi et.al.|[2506.20125](http://arxiv.org/abs/2506.20125)|null|
+|**2025-06-25**|**Randomized hypergraph states and their entanglement properties**|Vinícius Salem et.al.|[2506.20075](http://arxiv.org/abs/2506.20075)|null|
 |**2025-06-24**|**ReCoGNet: Recurrent Context-Guided Network for 3D MRI Prostate Segmentation**|Ahmad Mustafa et.al.|[2506.19687](http://arxiv.org/abs/2506.19687)|null|
 |**2025-06-24**|**COLUR: Confidence-Oriented Learning, Unlearning and Relearning with Noisy-Label Data for Model Restoration and Refinement**|Zhihao Sui et.al.|[2506.19496](http://arxiv.org/abs/2506.19496)|null|
 |**2025-06-24**|**Recalling The Forgotten Class Memberships: Unlearned Models Can Be Noisy Labelers to Leak Privacy**|Zhihao Sui et.al.|[2506.19486](http://arxiv.org/abs/2506.19486)|null|
