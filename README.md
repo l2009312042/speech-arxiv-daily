@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.29
+## Updated on 2025.06.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -23,7 +23,7 @@
 |**2025-06-26**|**Robust Deep Learning for Myocardial Scar Segmentation in Cardiac MRI with Noisy Labels**|Aida Moafi et.al.|[2506.21151](http://arxiv.org/abs/2506.21151)|null|
 |**2025-06-26**|**Inverse source problem with a posteriori interior measurements for space-time fractional diffusion equations**|Kai Yu et.al.|[2506.21070](http://arxiv.org/abs/2506.21070)|null|
 |**2025-06-26**|**SAMURAI: Shape-Aware Multimodal Retrieval for 3D Object Identification**|Dinh-Khoi Vo et.al.|[2506.21056](http://arxiv.org/abs/2506.21056)|null|
-|**2025-06-26**|**DidSee: Diffusion-Based Depth Completion for Material-Agnostic Robotic Perception and Manipulation**|Wenzhou Lyu et.al.|[2506.21034](http://arxiv.org/abs/2506.21034)|null|
+|**2025-06-27**|**DidSee: Diffusion-Based Depth Completion for Material-Agnostic Robotic Perception and Manipulation**|Wenzhou Lyu et.al.|[2506.21034](http://arxiv.org/abs/2506.21034)|null|
 |**2025-06-26**|**Quantum Reinforcement Learning Trading Agent for Sector Rotation in the Taiwan Stock Market**|Chi-Sheng Chen et.al.|[2506.20930](http://arxiv.org/abs/2506.20930)|null|
 |**2025-06-25**|**How do Foundation Models Compare to Skeleton-Based Approaches for Gesture Recognition in Human-Robot Interaction?**|Stephanie Käs et.al.|[2506.20795](http://arxiv.org/abs/2506.20795)|null|
 |**2025-06-25**|**Deciphering GunType Hierarchy through Acoustic Analysis of Gunshot Recordings**|Ankit Shah et.al.|[2506.20609](http://arxiv.org/abs/2506.20609)|null|
@@ -2426,7 +2426,7 @@
 |**2024-05-03**|**A Class of Numerical Semigroups Defined by Kunz and Waldi**|Srishti Singh et.al.|[2405.00331](http://arxiv.org/abs/2405.00331)|null|
 |**2024-04-26**|**Machine Learning based prediction of Vanadium Redox Flow Battery temperature rise under different charge-discharge conditions**|Anirudh Narayan D et.al.|[2404.17284](http://arxiv.org/abs/2404.17284)|null|
 
-<p align=right>(<a href=#updated-on-20250629>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250630>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
