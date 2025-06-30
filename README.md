@@ -17,6 +17,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-27**|**Reinforcement Learning with Physics-Informed Symbolic Program Priors for Zero-Shot Wireless Indoor Navigation**|Tao Li et.al.|[2506.22365](http://arxiv.org/abs/2506.22365)|null|
+|**2025-06-27**|**A Practical Approach to Power Saving in Hearables Using Sub-Nyquist Sampling with Bandwidth Extension**|Tarikul Islam Tamiti et.al.|[2506.22321](http://arxiv.org/abs/2506.22321)|null|
+|**2025-06-27**|**Reconstructing Intelligible Speech from the Pressure Sensor Data in HVACs**|Tarikul Islam Tamiti et.al.|[2506.22311](http://arxiv.org/abs/2506.22311)|null|
+|**2025-06-27**|**Weakly-Supervised Domain Adaptation with Proportion-Constrained Pseudo-Labeling**|Takumi Okuo et.al.|[2506.22301](http://arxiv.org/abs/2506.22301)|null|
+|**2025-06-27**|**Maximal intrinsic randomness of noisy quantum measurements**|Fionnuala Curran et.al.|[2506.22294](http://arxiv.org/abs/2506.22294)|null|
+|**2025-06-27**|**Uncovering smooth structures in single-cell data with PCS-guided neighbor embeddings**|Rong Ma et.al.|[2506.22228](http://arxiv.org/abs/2506.22228)|null|
+|**2025-06-27**|**Noise-Inspired Diffusion Model for Generalizable Low-Dose CT Reconstruction**|Qi Gao et.al.|[2506.22012](http://arxiv.org/abs/2506.22012)|null|
+|**2025-06-27**|**StableCodec: Taming One-Step Diffusion for Extreme Image Compression**|Tianyu Zhang et.al.|[2506.21977](http://arxiv.org/abs/2506.21977)|null|
+|**2025-06-27**|**Adversarial Threats in Quantum Machine Learning: A Survey of Attacks and Defenses**|Archisman Ghosh et.al.|[2506.21842](http://arxiv.org/abs/2506.21842)|null|
 |**2025-06-26**|**Leveraging LLM-Assisted Query Understanding for Live Retrieval-Augmented Generation**|Guanting Dong et.al.|[2506.21384](http://arxiv.org/abs/2506.21384)|null|
 |**2025-06-26**|**SMMILE: An Expert-Driven Benchmark for Multimodal Medical In-Context Learning**|Melanie Rieff et.al.|[2506.21355](http://arxiv.org/abs/2506.21355)|null|
 |**2025-06-26**|**Topology-Aware Modeling for Unsupervised Simulation-to-Reality Point Cloud Recognition**|Longkun Zou et.al.|[2506.21165](http://arxiv.org/abs/2506.21165)|null|
