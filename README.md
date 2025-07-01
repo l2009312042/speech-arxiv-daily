@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-30**|**Navigating with Annealing Guidance Scale in Diffusion Space**|Shai Yehezkel et.al.|[2506.24108](http://arxiv.org/abs/2506.24108)|null|
+|**2025-06-30**|**Sensitivity analysis of epidemic forecasting and spreading on networks with probability generating functions**|Mariah C. Boudreau et.al.|[2506.24103](http://arxiv.org/abs/2506.24103)|null|
+|**2025-06-30**|**Learning Structured Population Models from Data with WSINDy**|Rainey Lyons et.al.|[2506.24101](http://arxiv.org/abs/2506.24101)|null|
+|**2025-06-30**|**Imagine for Me: Creative Conceptual Blending of Real Images and Text via Blended Attention**|Wonwoong Cho et.al.|[2506.24085](http://arxiv.org/abs/2506.24085)|null|
+|**2025-06-30**|**Quantum state-transfer and periodicity in discrete-time quantum walk under non-Markovian noise**|Monika Rani et.al.|[2506.24066](http://arxiv.org/abs/2506.24066)|null|
+|**2025-06-30**|**Unsupervised Sparse Coding-based Spiking Neural Network for Real-time Spike Sorting**|Alexis Melot et.al.|[2506.24041](http://arxiv.org/abs/2506.24041)|null|
+|**2025-06-30**|**Comment on "LaMET's Asymptotic Extrapolation vs. Inverse Problem"**|Hervé Dutrieux et.al.|[2506.24037](http://arxiv.org/abs/2506.24037)|null|
+|**2025-06-30**|**Supervised Diffusion-Model-Based PET Image Reconstruction**|George Webber et.al.|[2506.24034](http://arxiv.org/abs/2506.24034)|null|
+|**2025-06-30**|**Decoding Noise in Nanofluidic Systems: Adsorption versus Diffusion Signatures in Power Spectra**|Anna Drummond Young et.al.|[2506.23867](http://arxiv.org/abs/2506.23867)|null|
+|**2025-06-30**|**System-Embedded Diffusion Bridge Models**|Bartlomiej Sobieski et.al.|[2506.23726](http://arxiv.org/abs/2506.23726)|null|
 |**2025-06-27**|**Reinforcement Learning with Physics-Informed Symbolic Program Priors for Zero-Shot Wireless Indoor Navigation**|Tao Li et.al.|[2506.22365](http://arxiv.org/abs/2506.22365)|null|
 |**2025-06-27**|**A Practical Approach to Power Saving in Hearables Using Sub-Nyquist Sampling with Bandwidth Extension**|Tarikul Islam Tamiti et.al.|[2506.22321](http://arxiv.org/abs/2506.22321)|null|
 |**2025-06-27**|**Reconstructing Intelligible Speech from the Pressure Sensor Data in HVACs**|Tarikul Islam Tamiti et.al.|[2506.22311](http://arxiv.org/abs/2506.22311)|null|
