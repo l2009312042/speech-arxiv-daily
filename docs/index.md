@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-02**|**Improving GANs by leveraging the quantum noise from real hardware**|Hongni Jin et.al.|[2507.01886](http://arxiv.org/abs/2507.01886)|null|
+|**2025-07-02**|**Self-Reinforcing Prototype Evolution with Dual-Knowledge Cooperation for Semi-Supervised Lifelong Person Re-Identification**|Kunlun Xu et.al.|[2507.01884](http://arxiv.org/abs/2507.01884)|null|
+|**2025-07-02**|**Simulating Quantum State Transfer between Distributed Devices using Noisy Interconnects**|Marvin Bechtold et.al.|[2507.01683](http://arxiv.org/abs/2507.01683)|null|
+|**2025-07-02**|**Emotionally Intelligent Task-oriented Dialogue Systems: Architecture, Representation, and Optimisation**|Shutong Feng et.al.|[2507.01594](http://arxiv.org/abs/2507.01594)|null|
+|**2025-07-02**|**Distinct Lifetime Scaling Laws of Turbulent Puff in Duct Flow**|Jiashun Guan et.al.|[2507.01583](http://arxiv.org/abs/2507.01583)|null|
+|**2025-07-02**|**Representation Entanglement for Generation:Training Diffusion Transformers Is Much Easier Than You Think**|Ge Wu et.al.|[2507.01467](http://arxiv.org/abs/2507.01467)|null|
+|**2025-07-02**|**Rethinking All Evidence: Enhancing Trustworthy Retrieval-Augmented Generation via Conflict-Driven Summarization**|Juan Chen et.al.|[2507.01281](http://arxiv.org/abs/2507.01281)|null|
+|**2025-07-01**|**Quantum state reconstruction with variational quantum circuit**|Shabnam Jabeen et.al.|[2507.01246](http://arxiv.org/abs/2507.01246)|null|
+|**2025-07-01**|**Shrinkage-Based Regressions with Many Related Treatments**|Enes Dilber et.al.|[2507.01202](http://arxiv.org/abs/2507.01202)|null|
+|**2025-07-01**|**Coupled Cluster Downfolding Theoryin Simulations of Chemical Systems on Quantum Hardware**|Nicholas P. Bauman et.al.|[2507.01199](http://arxiv.org/abs/2507.01199)|null|
 |**2025-06-30**|**Navigating with Annealing Guidance Scale in Diffusion Space**|Shai Yehezkel et.al.|[2506.24108](http://arxiv.org/abs/2506.24108)|null|
 |**2025-06-30**|**Sensitivity analysis of epidemic forecasting and spreading on networks with probability generating functions**|Mariah C. Boudreau et.al.|[2506.24103](http://arxiv.org/abs/2506.24103)|null|
 |**2025-06-30**|**Learning Structured Population Models from Data with WSINDy**|Rainey Lyons et.al.|[2506.24101](http://arxiv.org/abs/2506.24101)|null|
