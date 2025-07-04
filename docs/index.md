@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-03**|**Enhancing Noisy Quantum Sensing by GHZ State Partitioning**|Allen Zang et.al.|[2507.02829](http://arxiv.org/abs/2507.02829)|null|
+|**2025-07-03**|**ASDA: Audio Spectrogram Differential Attention Mechanism for Self-Supervised Representation Learning**|Junyu Wang et.al.|[2507.02666](http://arxiv.org/abs/2507.02666)|null|
+|**2025-07-03**|**Context-aware gate set tomography: Improving the self-consistent characterization of trapped-ion universal gate sets by leveraging non-Markovianity**|Pablo Viñas et.al.|[2507.02542](http://arxiv.org/abs/2507.02542)|null|
+|**2025-07-03**|**Data-Driven Transient Growth Analysis**|Zhicheng Kai et.al.|[2507.02525](http://arxiv.org/abs/2507.02525)|null|
+|**2025-07-03**|**Posterior Transition Modeling for Unsupervised Diffusion-Based Speech Enhancement**|Mostafa Sadeghi et.al.|[2507.02391](http://arxiv.org/abs/2507.02391)|null|
+|**2025-07-03**|**Offline Reinforcement Learning with Penalized Action Noise Injection**|JunHyeok Oh et.al.|[2507.02356](http://arxiv.org/abs/2507.02356)|null|
+|**2025-07-03**|**Indoor thermal comfort management: A Bayesian machine-learning approach to data denoising and dynamics prediction of HVAC systems**|Javier Penuela et.al.|[2507.02351](http://arxiv.org/abs/2507.02351)|null|
+|**2025-07-03**|**Heeding the Inner Voice: Aligning ControlNet Training via Intermediate Features Feedback**|Nina Konovalova et.al.|[2507.02321](http://arxiv.org/abs/2507.02321)|null|
+|**2025-07-03**|**Resolution Limits of Non-Adaptive 20 Questions Estimation for Tracking Multiple Moving Targets**|Chunsong Sun et.al.|[2507.02274](http://arxiv.org/abs/2507.02274)|null|
+|**2025-07-03**|**Bias-tailored single-shot quantum LDPC codes**|Shixin Wu et.al.|[2507.02239](http://arxiv.org/abs/2507.02239)|null|
 |**2025-07-02**|**Improving GANs by leveraging the quantum noise from real hardware**|Hongni Jin et.al.|[2507.01886](http://arxiv.org/abs/2507.01886)|null|
 |**2025-07-02**|**Self-Reinforcing Prototype Evolution with Dual-Knowledge Cooperation for Semi-Supervised Lifelong Person Re-Identification**|Kunlun Xu et.al.|[2507.01884](http://arxiv.org/abs/2507.01884)|null|
 |**2025-07-02**|**Simulating Quantum State Transfer between Distributed Devices using Noisy Interconnects**|Marvin Bechtold et.al.|[2507.01683](http://arxiv.org/abs/2507.01683)|null|
