@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.03
+## Updated on 2025.07.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## KWS
@@ -23,7 +23,7 @@ layout: default
 |**2025-07-02**|**Rethinking All Evidence: Enhancing Trustworthy Retrieval-Augmented Generation via Conflict-Driven Summarization**|Juan Chen et.al.|[2507.01281](http://arxiv.org/abs/2507.01281)|null|
 |**2025-07-01**|**Quantum state reconstruction with variational quantum circuit**|Shabnam Jabeen et.al.|[2507.01246](http://arxiv.org/abs/2507.01246)|null|
 |**2025-07-01**|**Shrinkage-Based Regressions with Many Related Treatments**|Enes Dilber et.al.|[2507.01202](http://arxiv.org/abs/2507.01202)|null|
-|**2025-07-01**|**Coupled Cluster Downfolding Theoryin Simulations of Chemical Systems on Quantum Hardware**|Nicholas P. Bauman et.al.|[2507.01199](http://arxiv.org/abs/2507.01199)|null|
+|**2025-07-03**|**Coupled Cluster Downfolding Theory in Simulations of Chemical Systems on Quantum Hardware**|Nicholas P. Bauman et.al.|[2507.01199](http://arxiv.org/abs/2507.01199)|null|
 |**2025-06-30**|**Navigating with Annealing Guidance Scale in Diffusion Space**|Shai Yehezkel et.al.|[2506.24108](http://arxiv.org/abs/2506.24108)|null|
 |**2025-06-30**|**Sensitivity analysis of epidemic forecasting and spreading on networks with probability generating functions**|Mariah C. Boudreau et.al.|[2506.24103](http://arxiv.org/abs/2506.24103)|null|
 |**2025-06-30**|**Learning Structured Population Models from Data with WSINDy**|Rainey Lyons et.al.|[2506.24101](http://arxiv.org/abs/2506.24101)|null|
