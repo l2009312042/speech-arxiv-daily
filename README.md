@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-07**|**QMoE: A Quantum Mixture of Experts Framework for Scalable Quantum Neural Networks**|Hoang-Quan Nguyen et.al.|[2507.05190](http://arxiv.org/abs/2507.05190)|null|
+|**2025-07-07**|**Differential Attention for Multimodal Crisis Event Analysis**|Nusrat Munia et.al.|[2507.05165](http://arxiv.org/abs/2507.05165)|null|
+|**2025-07-07**|**A generalized Wasserstein-2 distance approach for efficient reconstruction of random field models using stochastic neural networks**|Mingtao Xia et.al.|[2507.05143](http://arxiv.org/abs/2507.05143)|null|
+|**2025-07-07**|**Adaptation of Multi-modal Representation Models for Multi-task Surgical Computer Vision**|Soham Walimbe et.al.|[2507.05020](http://arxiv.org/abs/2507.05020)|null|
+|**2025-07-07**|**Adaptive Vector-Valued Splines for the Resolution of Inverse Problems**|Vincent Guillemet et.al.|[2507.05014](http://arxiv.org/abs/2507.05014)|null|
+|**2025-07-07**|**Variance-based variable selection in sensor calibration with strong interferents -- application to air pollution monitoring with a carbon nanotube sensor array**|Marine Dumon et.al.|[2507.05001](http://arxiv.org/abs/2507.05001)|null|
+|**2025-07-07**|**Leadership Detection via Time-Lagged Correlation-Based Network Inference**|Thayanne França da Silva et.al.|[2507.04917](http://arxiv.org/abs/2507.04917)|null|
+|**2025-07-07**|**MARBLE: A Multi-Agent Rule-Based LLM Reasoning Engine for Accident Severity Prediction**|Kaleem Ullah Qasim et.al.|[2507.04893](http://arxiv.org/abs/2507.04893)|null|
+|**2025-07-07**|**UDF-GMA: Uncertainty Disentanglement and Fusion for General Movement Assessment**|Zeqi Luo et.al.|[2507.04814](http://arxiv.org/abs/2507.04814)|null|
+|**2025-07-07**|**Reason to Rote: Rethinking Memorization in Reasoning**|Yupei Du et.al.|[2507.04782](http://arxiv.org/abs/2507.04782)|null|
 |**2025-07-03**|**Enhancing Noisy Quantum Sensing by GHZ State Partitioning**|Allen Zang et.al.|[2507.02829](http://arxiv.org/abs/2507.02829)|null|
 |**2025-07-03**|**ASDA: Audio Spectrogram Differential Attention Mechanism for Self-Supervised Representation Learning**|Junyu Wang et.al.|[2507.02666](http://arxiv.org/abs/2507.02666)|null|
 |**2025-07-03**|**Context-aware gate set tomography: Improving the self-consistent characterization of trapped-ion universal gate sets by leveraging non-Markovianity**|Pablo Viñas et.al.|[2507.02542](http://arxiv.org/abs/2507.02542)|null|
