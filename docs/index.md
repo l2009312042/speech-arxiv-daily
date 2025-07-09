@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-08**|**Differential Mamba**|Nadav Schneider et.al.|[2507.06204](http://arxiv.org/abs/2507.06204)|null|
+|**2025-07-08**|**Quantum simulation of a noisy classical nonlinear dynamics**|Sergey Bravyi et.al.|[2507.06198](http://arxiv.org/abs/2507.06198)|null|
+|**2025-07-08**|**Dynamic Slimmable Networks for Efficient Speech Separation**|Mohamed Elminshawi et.al.|[2507.06179](http://arxiv.org/abs/2507.06179)|null|
+|**2025-07-08**|**Topic Modeling and Link-Prediction for Material Property Discovery**|Ryan C. Barron et.al.|[2507.06139](http://arxiv.org/abs/2507.06139)|null|
+|**2025-07-08**|**Learning-Augmented Model-Based Multi-Robot Planning for Time-Critical Search and Inspection Under Uncertainty**|Abhish Khanal et.al.|[2507.06129](http://arxiv.org/abs/2507.06129)|null|
+|**2025-07-08**|**Taming Data Challenges in ML-based Security Tasks: Lessons from Integrating Generative AI**|Shravya Kanchi et.al.|[2507.06092](http://arxiv.org/abs/2507.06092)|null|
+|**2025-07-08**|**Contrastive and Transfer Learning for Effective Audio Fingerprinting through a Real-World Evaluation Protocol**|Christos Nikou et.al.|[2507.06070](http://arxiv.org/abs/2507.06070)|null|
+|**2025-07-08**|**Improving AI-Based Canine Heart Disease Diagnosis with Expert-Consensus Auscultation Labeling**|Pinar Bisgin et.al.|[2507.05950](http://arxiv.org/abs/2507.05950)|null|
+|**2025-07-08**|**KERAG_R: Knowledge-Enhanced Retrieval-Augmented Generation for Recommendation**|Zeyuan Meng et.al.|[2507.05863](http://arxiv.org/abs/2507.05863)|null|
+|**2025-07-08**|**Hybrid Diffusion Policies with Projective Geometric Algebra for Efficient Robot Manipulation Learning**|Xiatao Sun et.al.|[2507.05695](http://arxiv.org/abs/2507.05695)|null|
 |**2025-07-07**|**QMoE: A Quantum Mixture of Experts Framework for Scalable Quantum Neural Networks**|Hoang-Quan Nguyen et.al.|[2507.05190](http://arxiv.org/abs/2507.05190)|null|
 |**2025-07-07**|**Differential Attention for Multimodal Crisis Event Analysis**|Nusrat Munia et.al.|[2507.05165](http://arxiv.org/abs/2507.05165)|null|
 |**2025-07-07**|**A generalized Wasserstein-2 distance approach for efficient reconstruction of random field models using stochastic neural networks**|Mingtao Xia et.al.|[2507.05143](http://arxiv.org/abs/2507.05143)|null|
