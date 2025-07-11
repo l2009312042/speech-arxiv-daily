@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-10**|**Homeostatic Adaptation of Optimal Population Codes under Metabolic Stress**|Yi-Chun Hung et.al.|[2507.07874](http://arxiv.org/abs/2507.07874)|null|
+|**2025-07-10**|**Adaptive Attention Residual U-Net for curvilinear structure segmentation in fluorescence microscopy and biomedical images**|Achraf Ait Laydi et.al.|[2507.07800](http://arxiv.org/abs/2507.07800)|null|
+|**2025-07-10**|**Gate Freezing Method for Gradient-Free Variational Quantum Algorithms in Circuit Optimization**|Joona Pankkonen et.al.|[2507.07742](http://arxiv.org/abs/2507.07742)|null|
+|**2025-07-10**|**Efficient Stochastic BFGS methods Inspired by Bayesian Principles**|André Carlon et.al.|[2507.07729](http://arxiv.org/abs/2507.07729)|null|
+|**2025-07-10**|**Phase-Space Framework for Noisy Intermediate-Scale Quantum Optical Neural Networks**|Stanisław Świerczewski et.al.|[2507.07684](http://arxiv.org/abs/2507.07684)|null|
+|**2025-07-10**|**Tangent Space Excitation Ansatz for Quantum Circuits**|Ji-Yao Chen et.al.|[2507.07646](http://arxiv.org/abs/2507.07646)|null|
+|**2025-07-10**|**LOSC: LiDAR Open-voc Segmentation Consolidator**|Nermin Samet et.al.|[2507.07605](http://arxiv.org/abs/2507.07605)|null|
+|**2025-07-10**|**Reconstruction of cosmic-ray properties with GNN in GRAND**|Arsène Ferrière et.al.|[2507.07541](http://arxiv.org/abs/2507.07541)|null|
+|**2025-07-10**|**CEA-LIST at CheckThat! 2025: Evaluating LLMs as Detectors of Bias and Opinion in Text**|Akram Elbouanani et.al.|[2507.07539](http://arxiv.org/abs/2507.07539)|null|
+|**2025-07-10**|**Simulating sparse SYK model with a randomized algorithm on a trapped-ion quantum computer**|Etienne Granet et.al.|[2507.07530](http://arxiv.org/abs/2507.07530)|null|
 |**2025-07-09**|**Incremental Averaging Method to Improve Graph-Based Time-Difference-of-Arrival Estimation**|Klaus Brümann et.al.|[2507.07087](http://arxiv.org/abs/2507.07087)|null|
 |**2025-07-09**|**Reading a Ruler in the Wild**|Yimu Pan et.al.|[2507.07077](http://arxiv.org/abs/2507.07077)|null|
 |**2025-07-09**|**Design and Implementation of an OCR-Powered Pipeline for Table Extraction from Invoices**|Parshva Dhilankumar Patel et.al.|[2507.07029](http://arxiv.org/abs/2507.07029)|null|
