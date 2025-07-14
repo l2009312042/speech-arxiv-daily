@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-11**|**Robust Contextual State Estimation with Limited Measurement Data**|J. G. De la Varga et.al.|[2507.08767](http://arxiv.org/abs/2507.08767)|null|
+|**2025-07-11**|**Adaptive Nonlinear Vector Autoregression: Robust Forecasting for Noisy Chaotic Time Series**|Azimov Sherkhon et.al.|[2507.08738](http://arxiv.org/abs/2507.08738)|null|
+|**2025-07-11**|**Simulated non-Markovian Noise Resilience of Silicon-Based Spin Qubits with Surface Code Error Correction**|Oscar Gravier et.al.|[2507.08713](http://arxiv.org/abs/2507.08713)|null|
+|**2025-07-11**|**Image Translation with Kernel Prediction Networks for Semantic Segmentation**|Cristina Mata et.al.|[2507.08554](http://arxiv.org/abs/2507.08554)|null|
+|**2025-07-11**|**Occlusion-Guided Feature Purification Learning via Reinforced Knowledge Distillation for Occluded Person Re-Identification**|Yufei Zheng et.al.|[2507.08520](http://arxiv.org/abs/2507.08520)|null|
+|**2025-07-11**|**Effective regions and kernels in continuous sparse regularisation, with application to sketched mixtures**|Yohann De Castro et.al.|[2507.08444](http://arxiv.org/abs/2507.08444)|null|
+|**2025-07-11**|**RTNinja: a generalized machine learning framework for analyzing random telegraph noise signals in nanoelectronic devices**|Anirudh Varanasi et.al.|[2507.08424](http://arxiv.org/abs/2507.08424)|null|
+|**2025-07-11**|**Advances in Machine Learning: Where Can Quantum Techniques Help?**|Samarth Kashyap et.al.|[2507.08379](http://arxiv.org/abs/2507.08379)|null|
+|**2025-07-11**|**Enantioselective radical reactions can be induced by electron spin polarization: A quantum mechanism for Nature's emergent homochirality?**|Thomas P Fay et.al.|[2507.08287](http://arxiv.org/abs/2507.08287)|null|
+|**2025-07-10**|**Parametrized Quantum Circuit Learning for Quantum Chemical Applications**|Grier M. Jones et.al.|[2507.08183](http://arxiv.org/abs/2507.08183)|null|
 |**2025-07-10**|**Homeostatic Adaptation of Optimal Population Codes under Metabolic Stress**|Yi-Chun Hung et.al.|[2507.07874](http://arxiv.org/abs/2507.07874)|null|
 |**2025-07-10**|**Adaptive Attention Residual U-Net for curvilinear structure segmentation in fluorescence microscopy and biomedical images**|Achraf Ait Laydi et.al.|[2507.07800](http://arxiv.org/abs/2507.07800)|null|
 |**2025-07-10**|**Gate Freezing Method for Gradient-Free Variational Quantum Algorithms in Circuit Optimization**|Joona Pankkonen et.al.|[2507.07742](http://arxiv.org/abs/2507.07742)|null|
