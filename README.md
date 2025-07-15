@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-14**|**Reasoning or Memorization? Unreliable Results of Reinforcement Learning Due to Data Contamination**|Mingqi Wu et.al.|[2507.10532](http://arxiv.org/abs/2507.10532)|null|
+|**2025-07-14**|**DQLoRA: A Lightweight Domain-Aware Denoising ASR via Adapter-guided Distillation**|Yiru Yang et.al.|[2507.10313](http://arxiv.org/abs/2507.10313)|null|
+|**2025-07-14**|**Optimization of a cosmic muon tomography scanner for cargo border control inspection**|Z. Zaher et.al.|[2507.10253](http://arxiv.org/abs/2507.10253)|null|
+|**2025-07-14**|**Deep Recurrence for Dynamical Segmentation Models**|David Calhas et.al.|[2507.10143](http://arxiv.org/abs/2507.10143)|null|
+|**2025-07-14**|**Frequency Regulation for Exposure Bias Mitigation in Diffusion Models**|Meng Yu et.al.|[2507.10072](http://arxiv.org/abs/2507.10072)|null|
+|**2025-07-14**|**Uncertainty Quantification for Incomplete Multi-View Data Using Divergence Measures**|Zhipeng Xue et.al.|[2507.09980](http://arxiv.org/abs/2507.09980)|null|
+|**2025-07-14**|**Generalized Quantal Response Equilibrium: Existence and Efficient Learning**|Apurv Shukla et.al.|[2507.09928](http://arxiv.org/abs/2507.09928)|null|
+|**2025-07-14**|**NeuTSFlow: Modeling Continuous Functions Behind Time Series Forecasting**|Huibo Xu et.al.|[2507.09888](http://arxiv.org/abs/2507.09888)|null|
+|**2025-07-14**|**Intersection of Reinforcement Learning and Bayesian Optimization for Intelligent Control of Industrial Processes: A Safe MPC-based DPG using Multi-Objective BO**|Hossein Nejatbakhsh Esfahani et.al.|[2507.09864](http://arxiv.org/abs/2507.09864)|null|
+|**2025-07-13**|**EventHunter: Dynamic Clustering and Ranking of Security Events from Hacker Forum Discussions**|Yasir Ech-Chammakhy et.al.|[2507.09762](http://arxiv.org/abs/2507.09762)|null|
 |**2025-07-11**|**Robust Contextual State Estimation with Limited Measurement Data**|J. G. De la Varga et.al.|[2507.08767](http://arxiv.org/abs/2507.08767)|null|
 |**2025-07-11**|**Adaptive Nonlinear Vector Autoregression: Robust Forecasting for Noisy Chaotic Time Series**|Azimov Sherkhon et.al.|[2507.08738](http://arxiv.org/abs/2507.08738)|null|
 |**2025-07-11**|**Simulated non-Markovian Noise Resilience of Silicon-Based Spin Qubits with Surface Code Error Correction**|Oscar Gravier et.al.|[2507.08713](http://arxiv.org/abs/2507.08713)|null|
