@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-15**|**CATVis: Context-Aware Thought Visualization**|Tariq Mehmood et.al.|[2507.11522](http://arxiv.org/abs/2507.11522)|null|
+|**2025-07-15**|**Recursive Bound-Constrained AdaGrad with Applications to Multilevel and Domain Decomposition Minimization**|Serge Gratton et.al.|[2507.11513](http://arxiv.org/abs/2507.11513)|null|
+|**2025-07-15**|**Multipass Linear Sketches for Geometric LP-Type Problems**|N. Efe Çekirge et.al.|[2507.11484](http://arxiv.org/abs/2507.11484)|null|
+|**2025-07-15**|**A Stochastic RAGE Theorem and Enhanced Dissipation for Transport Noise**|Michele Coti Zelati et.al.|[2507.11422](http://arxiv.org/abs/2507.11422)|null|
+|**2025-07-15**|**Robust-Multi-Task Gradient Boosting**|Seyedsaman Emami et.al.|[2507.11411](http://arxiv.org/abs/2507.11411)|null|
+|**2025-07-15**|**The model is the message: Lightweight convolutional autoencoders applied to noisy imaging data for planetary science and astrobiology**|Caleb Scharf et.al.|[2507.11400](http://arxiv.org/abs/2507.11400)|null|
+|**2025-07-15**|**Inverse Optimal Control with Constraint Relaxation**|Rahel Rickenbach et.al.|[2507.11392](http://arxiv.org/abs/2507.11392)|null|
+|**2025-07-15**|**LRCTI: A Large Language Model-Based Framework for Multi-Step Evidence Retrieval and Reasoning in Cyber Threat Intelligence Credibility Verification**|Fengxiao Tang et.al.|[2507.11310](http://arxiv.org/abs/2507.11310)|null|
+|**2025-07-15**|**LyAm: Robust Non-Convex Optimization for Stable Learning in Noisy Environments**|Elmira Mirzabeigi et.al.|[2507.11262](http://arxiv.org/abs/2507.11262)|null|
+|**2025-07-15**|**Quantum Adaptive Excitation Network with Variational Quantum Circuits for Channel Attention**|Yu-Chao Hsu et.al.|[2507.11217](http://arxiv.org/abs/2507.11217)|null|
 |**2025-07-14**|**Reasoning or Memorization? Unreliable Results of Reinforcement Learning Due to Data Contamination**|Mingqi Wu et.al.|[2507.10532](http://arxiv.org/abs/2507.10532)|null|
 |**2025-07-14**|**DQLoRA: A Lightweight Domain-Aware Denoising ASR via Adapter-guided Distillation**|Yiru Yang et.al.|[2507.10313](http://arxiv.org/abs/2507.10313)|null|
 |**2025-07-14**|**Optimization of a cosmic muon tomography scanner for cargo border control inspection**|Z. Zaher et.al.|[2507.10253](http://arxiv.org/abs/2507.10253)|null|
