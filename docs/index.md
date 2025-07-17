@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-16**|**Linearization-Based Feedback Stabilization of McKean-Vlasov PDEs**|Dante Kalise et.al.|[2507.12411](http://arxiv.org/abs/2507.12411)|null|
+|**2025-07-16**|**Modeling Feasible Locomotion of Nanobots for Cancer Detection and Treatment**|Noble Harasha et.al.|[2507.12400](http://arxiv.org/abs/2507.12400)|null|
+|**2025-07-16**|**Efficient Remote Monitoring through Noisy Random Access with Retransmissions**|Sergey Foss et.al.|[2507.12368](http://arxiv.org/abs/2507.12368)|null|
+|**2025-07-16**|**BenchRL-QAS: Benchmarking reinforcement learning algorithms for quantum architecture search**|Azhar Ikhtiarudin et.al.|[2507.12189](http://arxiv.org/abs/2507.12189)|null|
+|**2025-07-16**|**DeepShade: Enable Shade Simulation by Text-conditioned Image Generation**|Longchao Da et.al.|[2507.12103](http://arxiv.org/abs/2507.12103)|null|
+|**2025-07-16**|**Tree-SLAM: semantic object SLAM for efficient mapping of individual trees in orchards**|David Rapado-Rincon et.al.|[2507.12093](http://arxiv.org/abs/2507.12093)|null|
+|**2025-07-16**|**MoViAD: Modular Visual Anomaly Detection**|Manuel Barusco et.al.|[2507.12049](http://arxiv.org/abs/2507.12049)|null|
+|**2025-07-16**|**Detecting In-Person Conversations in Noisy Real-World Environments with Smartwatch Audio and Motion Sensing**|Alice Zhang et.al.|[2507.12002](http://arxiv.org/abs/2507.12002)|null|
+|**2025-07-16**|**A Multi-Level Similarity Approach for Single-View Object Grasping: Matching, Planning, and Fine-Tuning**|Hao Chen et.al.|[2507.11938](http://arxiv.org/abs/2507.11938)|null|
+|**2025-07-16**|**Dark-EvGS: Event Camera as an Eye for Radiance Field in the Dark**|Jingqian Wu et.al.|[2507.11931](http://arxiv.org/abs/2507.11931)|null|
 |**2025-07-15**|**CATVis: Context-Aware Thought Visualization**|Tariq Mehmood et.al.|[2507.11522](http://arxiv.org/abs/2507.11522)|null|
 |**2025-07-15**|**Recursive Bound-Constrained AdaGrad with Applications to Multilevel and Domain Decomposition Minimization**|Serge Gratton et.al.|[2507.11513](http://arxiv.org/abs/2507.11513)|null|
 |**2025-07-16**|**Multipass Linear Sketches for Geometric LP-Type Problems**|N. Efe Çekirge et.al.|[2507.11484](http://arxiv.org/abs/2507.11484)|null|
