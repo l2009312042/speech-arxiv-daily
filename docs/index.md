@@ -7,13 +7,23 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.17
+## Updated on 2025.07.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## KWS
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-17**|**Robust and efficient estimation of global quantum properties under realistic noise**|Qingyue Zhang et.al.|[2507.13237](http://arxiv.org/abs/2507.13237)|null|
+|**2025-07-17**|**GraspGen: A Diffusion-based Framework for 6-DOF Grasping with On-Generator Training**|Adithyavairavan Murali et.al.|[2507.13097](http://arxiv.org/abs/2507.13097)|null|
+|**2025-07-17**|**Probabilistic algorithm for computing all local minimizers of Morse functions on a compact domain**|Mohab Safey El Din et.al.|[2507.13071](http://arxiv.org/abs/2507.13071)|null|
+|**2025-07-17**|**Differential-informed Sample Selection Accelerates Multimodal Contrastive Learning**|Zihua Zhao et.al.|[2507.12998](http://arxiv.org/abs/2507.12998)|null|
+|**2025-07-17**|**Trace Reconstruction with Language Models**|Franziska Weindel et.al.|[2507.12927](http://arxiv.org/abs/2507.12927)|null|
+|**2025-07-17**|**Bayesian Modeling and Estimation of Linear Time-Variant Systems using Neural Networks and Gaussian Processes**|Yaniv Shulman et.al.|[2507.12878](http://arxiv.org/abs/2507.12878)|null|
+|**2025-07-17**|**Quantum-Enhanced Reinforcement Learning with LSTM Forecasting Signals for Optimizing Fintech Trading Decisions**|Yen-Ku Liu et.al.|[2507.12835](http://arxiv.org/abs/2507.12835)|null|
+|**2025-07-16**|**Mono-InternVL-1.5: Towards Cheaper and Faster Monolithic Multimodal Large Language Models**|Gen Luo et.al.|[2507.12566](http://arxiv.org/abs/2507.12566)|null|
+|**2025-07-16**|**Inverse Physics-informed neural networks procedure for detecting noise in open quantum systems**|Gubio G. de Lima et.al.|[2507.12552](http://arxiv.org/abs/2507.12552)|null|
+|**2025-07-16**|**Learning mixed quantum states in large-scale experiments**|Matteo Votto et.al.|[2507.12550](http://arxiv.org/abs/2507.12550)|null|
 |**2025-07-16**|**Linearization-Based Feedback Stabilization of McKean-Vlasov PDEs**|Dante Kalise et.al.|[2507.12411](http://arxiv.org/abs/2507.12411)|null|
 |**2025-07-16**|**Modeling Feasible Locomotion of Nanobots for Cancer Detection and Treatment**|Noble Harasha et.al.|[2507.12400](http://arxiv.org/abs/2507.12400)|null|
 |**2025-07-16**|**Efficient Remote Monitoring through Noisy Random Access with Retransmissions**|Sergey Foss et.al.|[2507.12368](http://arxiv.org/abs/2507.12368)|null|
