@@ -17,6 +17,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-18**|**Machine Learning-aided Optimal Control of a noisy qubit**|Riccardo Cantone et.al.|[2507.14085](http://arxiv.org/abs/2507.14085)|null|
+|**2025-07-18**|**Quantifying mixed-state entanglement via partial transpose and realignment moments**|Poetri Sonya Tarabunga et.al.|[2507.13840](http://arxiv.org/abs/2507.13840)|null|
+|**2025-07-18**|**On two fundamental properties of the zeros of spectrograms of noisy signals**|Arnaud Poinas et.al.|[2507.13829](http://arxiv.org/abs/2507.13829)|null|
+|**2025-07-18**|**NoiseSDF2NoiseSDF: Learning Clean Neural Fields from Noisy Supervision**|Tengkai Wang et.al.|[2507.13595](http://arxiv.org/abs/2507.13595)|null|
 |**2025-07-17**|**Robust and efficient estimation of global quantum properties under realistic noise**|Qingyue Zhang et.al.|[2507.13237](http://arxiv.org/abs/2507.13237)|null|
 |**2025-07-17**|**GraspGen: A Diffusion-based Framework for 6-DOF Grasping with On-Generator Training**|Adithyavairavan Murali et.al.|[2507.13097](http://arxiv.org/abs/2507.13097)|null|
 |**2025-07-17**|**Probabilistic algorithm for computing all local minimizers of Morse functions on a compact domain**|Mohab Safey El Din et.al.|[2507.13071](http://arxiv.org/abs/2507.13071)|null|
