@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-21**|**Power-Constrained Policy Gradient Methods for LQR**|Ashwin Verma et.al.|[2507.15806](http://arxiv.org/abs/2507.15806)|null|
+|**2025-07-21**|**Remote Channel Synthesis**|Yassine Hamdi et.al.|[2507.15757](http://arxiv.org/abs/2507.15757)|null|
+|**2025-07-21**|**Optimizing Force Signals from Human Demonstrations of In-Contact Motions**|Johannes Hartwig et.al.|[2507.15608](http://arxiv.org/abs/2507.15608)|null|
+|**2025-07-21**|**Multichannel Keyword Spotting for Noisy Conditions**|Dzmitry Saladukha et.al.|[2507.15558](http://arxiv.org/abs/2507.15558)|null|
+|**2025-07-21**|**Data Aware Differentiable Neural Architecture Search for Tiny Keyword Spotting Applications**|Yujia Shi et.al.|[2507.15545](http://arxiv.org/abs/2507.15545)|null|
+|**2025-07-21**|**Symmetry and Liouville Space Formulation of Decoherence-Free Subsystems**|Mi-Jung So et.al.|[2507.15506](http://arxiv.org/abs/2507.15506)|null|
+|**2025-07-21**|**The Constitutional Controller: Doubt-Calibrated Steering of Compliant Agents**|Simon Kohaut et.al.|[2507.15478](http://arxiv.org/abs/2507.15478)|null|
+|**2025-07-21**|**Multiple Hypothesis Testing To Estimate The Number Of Communities in Stochastic Block Models**|Chetkar Jha et.al.|[2507.15471](http://arxiv.org/abs/2507.15471)|null|
+|**2025-07-21**|**Language Generation in the Limit: Noise, Loss, and Feedback**|Yannan Bai et.al.|[2507.15319](http://arxiv.org/abs/2507.15319)|null|
+|**2025-07-20**|**Noise Quantification and Control in Circuits via Strong Data-Processing Inequalities**|Chenyang Sun et.al.|[2507.15108](http://arxiv.org/abs/2507.15108)|null|
 |**2025-07-18**|**Machine Learning-aided Optimal Control of a noisy qubit**|Riccardo Cantone et.al.|[2507.14085](http://arxiv.org/abs/2507.14085)|null|
 |**2025-07-18**|**Quantifying mixed-state entanglement via partial transpose and realignment moments**|Poetri Sonya Tarabunga et.al.|[2507.13840](http://arxiv.org/abs/2507.13840)|null|
 |**2025-07-18**|**On two fundamental properties of the zeros of spectrograms of noisy signals**|Arnaud Poinas et.al.|[2507.13829](http://arxiv.org/abs/2507.13829)|null|
