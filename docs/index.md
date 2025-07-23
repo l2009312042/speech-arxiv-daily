@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-22**|**The inverse initial data problem for anisotropic Navier-Stokes equations via Legendre time reduction method**|Cong B. Van et.al.|[2507.16810](http://arxiv.org/abs/2507.16810)|null|
+|**2025-07-22**|**SASH: Decoding Community Structure in Graphs**|Allison Beemer et.al.|[2507.16583](http://arxiv.org/abs/2507.16583)|null|
+|**2025-07-22**|**Robust Noisy Pseudo-label Learning for Semi-supervised Medical Image Segmentation Using Diffusion Model**|Lin Xi et.al.|[2507.16429](http://arxiv.org/abs/2507.16429)|null|
+|**2025-07-22**|**Meta-learning of Gibbs states for many-body Hamiltonians with applications to Quantum Boltzmann Machines**|Ruchira V Bhat et.al.|[2507.16373](http://arxiv.org/abs/2507.16373)|null|
+|**2025-07-22**|**One Polyp Identifies All: One-Shot Polyp Segmentation with SAM via Cascaded Priors and Iterative Prompt Evolution**|Xinyu Mao et.al.|[2507.16337](http://arxiv.org/abs/2507.16337)|null|
+|**2025-07-22**|**LENS-DF: Deepfake Detection and Temporal Localization for Long-Form Noisy Speech**|Xuechen Liu et.al.|[2507.16220](http://arxiv.org/abs/2507.16220)|null|
+|**2025-07-22**|**LABNet: A Lightweight Attentive Beamforming Network for Ad-hoc Multichannel Microphone Invariant Real-Time Speech Enhancement**|Haoyin Yan et.al.|[2507.16190](http://arxiv.org/abs/2507.16190)|null|
+|**2025-07-22**|**The noisy voter model with general initial conditions**|Patrizio Caddeo et.al.|[2507.16188](http://arxiv.org/abs/2507.16188)|null|
+|**2025-07-21**|**Distributed Asynchronous Device Speech Enhancement via Windowed Cross-Attention**|Gene-Ping Yang et.al.|[2507.16104](http://arxiv.org/abs/2507.16104)|null|
+|**2025-07-21**|**Noise-Induced Collective Memory in Schooling Fish**|Alyssa Chan et.al.|[2507.16102](http://arxiv.org/abs/2507.16102)|null|
 |**2025-07-21**|**Power-Constrained Policy Gradient Methods for LQR**|Ashwin Verma et.al.|[2507.15806](http://arxiv.org/abs/2507.15806)|null|
 |**2025-07-21**|**Remote Channel Synthesis**|Yassine Hamdi et.al.|[2507.15757](http://arxiv.org/abs/2507.15757)|null|
 |**2025-07-21**|**Optimizing Force Signals from Human Demonstrations of In-Contact Motions**|Johannes Hartwig et.al.|[2507.15608](http://arxiv.org/abs/2507.15608)|null|
