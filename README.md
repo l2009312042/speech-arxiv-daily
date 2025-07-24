@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-23**|**Quantum Software Security Challenges within Shared Quantum Computing Environments**|Samuel Ovaskainen et.al.|[2507.17712](http://arxiv.org/abs/2507.17712)|null|
+|**2025-07-23**|**Joint Asymmetric Loss for Learning with Noisy Labels**|Jialiang Wang et.al.|[2507.17692](http://arxiv.org/abs/2507.17692)|null|
+|**2025-07-23**|**Attention (as Discrete-Time Markov) Chains**|Yotam Erel et.al.|[2507.17657](http://arxiv.org/abs/2507.17657)|null|
+|**2025-07-23**|**Reconstructing the unitary part of a noisy quantum channel**|Adrian Romer et.al.|[2507.17648](http://arxiv.org/abs/2507.17648)|null|
+|**2025-07-23**|**Comparing performance of variational quantum algorithm simulations on HPC systems**|Marco De Pascale et.al.|[2507.17614](http://arxiv.org/abs/2507.17614)|null|
+|**2025-07-23**|**Extended Kalman Smoothing of Free Spin Precession Signals for Precise Magnetic Field Determination**|Jasper Riebesehl et.al.|[2507.17602](http://arxiv.org/abs/2507.17602)|null|
+|**2025-07-23**|**Optimal differentially private kernel learning with random projection**|Bonwoo Lee et.al.|[2507.17544](http://arxiv.org/abs/2507.17544)|null|
+|**2025-07-23**|**How to share Multipartite Entanglement in a Real-World Linear Network Connecting Two Metropoles**|Janka Memmen et.al.|[2507.17480](http://arxiv.org/abs/2507.17480)|null|
+|**2025-07-23**|**Parametric Integration with Neural Integral Operators**|Christoph Schied et.al.|[2507.17440](http://arxiv.org/abs/2507.17440)|null|
+|**2025-07-23**|**Efficient and Robust Semantic Image Communication via Stable Cascade**|Bilal Khalid et.al.|[2507.17416](http://arxiv.org/abs/2507.17416)|null|
 |**2025-07-22**|**The inverse initial data problem for anisotropic Navier-Stokes equations via Legendre time reduction method**|Cong B. Van et.al.|[2507.16810](http://arxiv.org/abs/2507.16810)|null|
 |**2025-07-22**|**SASH: Decoding Community Structure in Graphs**|Allison Beemer et.al.|[2507.16583](http://arxiv.org/abs/2507.16583)|null|
 |**2025-07-22**|**Robust Noisy Pseudo-label Learning for Semi-supervised Medical Image Segmentation Using Diffusion Model**|Lin Xi et.al.|[2507.16429](http://arxiv.org/abs/2507.16429)|null|
